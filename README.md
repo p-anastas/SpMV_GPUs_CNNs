@@ -1,4 +1,4 @@
-# SpMV_optimization_in_GPUs_using_CNNs
+# SpMV optimization in GPUs using CNNs
 
 The accompanying code for my Diploma thesis at cslab (http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/17088).
 
