@@ -1,0 +1,920 @@
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (amazon-2008.mtx) with shape (735323,735323) and 5158388 entries
+
+	coo                 :   2.5855 ms (  3.99 GFLOP/s  51.9 GB/s) [L2 error 0.000000]
+	csr_vector          :   1.2797 ms (  8.06 GFLOP/s  94.4 GB/s) [L2 error 0.000000]
+	csr_scalar          :   2.1163 ms (  4.88 GFLOP/s  57.1 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	ell                 :   1.1257 ms (  9.16 GFLOP/s 117.7 GB/s) [L2 error 0.000000]
+	hyb                 :   1.1256 ms (  9.17 GFLOP/s 117.7 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (ASIC_680k.mtx) with shape (682862,682862) and 3871773 entries
+
+	coo                 :   2.0096 ms (  3.85 GFLOP/s  51.7 GB/s) [L2 error 0.000000]
+	csr_vector          :  29.8148 ms (  0.26 GFLOP/s   3.1 GB/s) [L2 error 0.000000]
+	csr_scalar          : 128.9639 ms (  0.06 GFLOP/s   0.7 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   1.5546 ms (  4.98 GFLOP/s  62.6 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (atmosmodj.mtx) with shape (1270432,1270432) and 8814880 entries
+
+	coo                 :   3.2785 ms (  5.38 GFLOP/s  70.7 GB/s) [L2 error 0.000000]
+	csr_vector          :   1.2485 ms ( 14.12 GFLOP/s 165.6 GB/s) [L2 error 0.000000]
+	csr_scalar          :   1.6826 ms ( 10.48 GFLOP/s 122.9 GB/s) [L2 error 0.000000]
+	dia                 :   0.5191 ms ( 33.96 GFLOP/s 310.9 GB/s) [L2 error 0.000000]
+	ell                 :   0.6978 ms ( 25.26 GFLOP/s 282.7 GB/s) [L2 error 0.000000]
+	hyb                 :   0.6978 ms ( 25.27 GFLOP/s 282.7 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (barrier2-12.mtx) with shape (115625,115625) and 3897557 entries
+
+	coo                 :   2.0172 ms (  3.86 GFLOP/s  47.3 GB/s) [L2 error 0.000000]
+	csr_vector          :   0.9748 ms (  8.00 GFLOP/s  82.8 GB/s) [L2 error 0.000000]
+	csr_scalar          :   6.2637 ms (  1.24 GFLOP/s  12.9 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   1.3695 ms (  5.69 GFLOP/s  65.7 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (bmwcra_1.mtx) with shape (148770,148770) and 10644002 entries
+
+	coo                 :   2.6533 ms (  8.02 GFLOP/s  97.2 GB/s) [L2 error 0.000000]
+	csr_vector          :   1.0948 ms ( 19.44 GFLOP/s 197.7 GB/s) [L2 error 0.000000]
+	csr_scalar          :  10.8746 ms (  1.96 GFLOP/s  19.9 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   1.2623 ms ( 16.86 GFLOP/s 180.7 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (boneS10.mtx) with shape (914898,914898) and 55468422 entries
+
+	coo                 :  11.6861 ms (  9.49 GFLOP/s 115.2 GB/s) [L2 error 0.000000]
+	csr_vector          :   6.2632 ms ( 17.71 GFLOP/s 180.6 GB/s) [L2 error 0.000000]
+	csr_scalar          :  55.9762 ms (  1.98 GFLOP/s  20.2 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	ell                 :   5.8222 ms ( 19.05 GFLOP/s 188.6 GB/s) [L2 error 0.000000]
+	hyb                 :   6.1033 ms ( 18.18 GFLOP/s 207.5 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (cage13.mtx) with shape (445315,445315) and 7479343 entries
+
+	coo                 :   3.2632 ms (  4.58 GFLOP/s  57.2 GB/s) [L2 error 0.000000]
+	csr_vector          :   1.5019 ms (  9.96 GFLOP/s 106.7 GB/s) [L2 error 0.000000]
+	csr_scalar          :   5.1156 ms (  2.92 GFLOP/s  31.3 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	ell                 :   1.0121 ms ( 14.78 GFLOP/s 233.0 GB/s) [L2 error 0.000000]
+	hyb                 :   1.3592 ms ( 11.01 GFLOP/s 127.1 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (Chebyshev4.mtx) with shape (68121,68121) and 5377761 entries
+
+	coo                 :   1.9963 ms (  5.39 GFLOP/s  65.2 GB/s) [L2 error 0.000000]
+	csr_vector          :   1.3557 ms (  7.93 GFLOP/s  80.5 GB/s) [L2 error 0.000000]
+	csr_scalar          :  30.3918 ms (  0.35 GFLOP/s   3.6 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   1.6987 ms (  6.33 GFLOP/s  72.8 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (circuit5M.mtx) with shape (5558326,5558326) and 59524291 entries
+
+	coo                 :  14.4531 ms (  8.24 GFLOP/s 105.0 GB/s) [L2 error 0.000000]
+	csr_vector          :  65.1520 ms (  1.83 GFLOP/s  20.3 GB/s) [L2 error 0.000000]
+	csr_scalar          : 508.1830 ms (  0.23 GFLOP/s   2.6 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   9.8774 ms ( 12.05 GFLOP/s 143.0 GB/s) [L2 error 0.000003]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (citationCiteseer.mtx) with shape (268495,268495) and 2313294 entries
+
+	coo                 :   2.1540 ms (  2.15 GFLOP/s  27.8 GB/s) [L2 error 0.000000]
+	csr_vector          :   1.1587 ms (  3.99 GFLOP/s  45.5 GB/s) [L2 error 0.000000]
+	csr_scalar          :   1.8401 ms (  2.51 GFLOP/s  28.6 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   1.6357 ms (  2.83 GFLOP/s  38.1 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (consph.mtx) with shape (83334,83334) and 6010480 entries
+
+	coo                 :   2.0550 ms (  5.85 GFLOP/s  70.8 GB/s) [L2 error 0.000000]
+	csr_vector          :   0.6246 ms ( 19.24 GFLOP/s 195.6 GB/s) [L2 error 0.000000]
+	csr_scalar          :   6.0040 ms (  2.00 GFLOP/s  20.4 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	ell                 :   0.5157 ms ( 23.31 GFLOP/s 247.2 GB/s) [L2 error 0.000000]
+	hyb                 :   0.5159 ms ( 23.30 GFLOP/s 247.1 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (crankseg_2.mtx) with shape (63838,63838) and 14148858 entries
+
+	coo                 :   3.0220 ms (  9.36 GFLOP/s 112.7 GB/s) [L2 error 0.000000]
+	csr_vector          :   1.0760 ms ( 26.30 GFLOP/s 264.4 GB/s) [L2 error 0.000000]
+	csr_scalar          :  14.1534 ms (  2.00 GFLOP/s  20.1 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   1.9013 ms ( 14.88 GFLOP/s 169.0 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (delaunay_n19.mtx) with shape (524288,524288) and 3145646 entries
+
+	coo                 :   1.9721 ms (  3.19 GFLOP/s  42.5 GB/s) [L2 error 0.000000]
+	csr_vector          :   0.5674 ms ( 11.09 GFLOP/s 133.1 GB/s) [L2 error 0.000000]
+	csr_scalar          :   0.7974 ms (  7.89 GFLOP/s  94.7 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   1.3631 ms (  4.62 GFLOP/s  56.7 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (eu-2005.mtx) with shape (862664,862664) and 19235140 entries
+
+	coo                 :   4.4334 ms (  8.68 GFLOP/s 107.0 GB/s) [L2 error 0.000000]
+	csr_vector          :   4.0036 ms (  9.61 GFLOP/s 101.3 GB/s) [L2 error 0.000000]
+	csr_scalar          :  16.4377 ms (  2.34 GFLOP/s  24.7 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   3.0053 ms ( 12.80 GFLOP/s 165.5 GB/s) [L2 error 0.000002]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (F1.mtx) with shape (343791,343791) and 26837113 entries
+
+	coo                 :   5.5899 ms (  9.60 GFLOP/s 116.2 GB/s) [L2 error 0.000000]
+	csr_vector          :   3.3503 ms ( 16.02 GFLOP/s 162.7 GB/s) [L2 error 0.000000]
+	csr_scalar          :  29.0128 ms (  1.85 GFLOP/s  18.8 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   3.7082 ms ( 14.47 GFLOP/s 156.8 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (FEM_3D_thermal2.mtx) with shape (147900,147900) and 3489300 entries
+
+	coo                 :   1.7735 ms (  3.94 GFLOP/s  48.6 GB/s) [L2 error 0.000000]
+	csr_vector          :   0.6432 ms ( 10.85 GFLOP/s 114.0 GB/s) [L2 error 0.000000]
+	csr_scalar          :   2.7516 ms (  2.54 GFLOP/s  26.7 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	ell                 :   0.3171 ms ( 22.01 GFLOP/s 240.3 GB/s) [L2 error 0.000000]
+	hyb                 :   0.3170 ms ( 22.01 GFLOP/s 240.3 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (flickr.mtx) with shape (820878,820878) and 9837214 entries
+
+	coo                 :   3.6326 ms (  5.42 GFLOP/s  67.4 GB/s) [L2 error 0.000000]
+	csr_vector          :   3.6919 ms (  5.33 GFLOP/s  58.6 GB/s) [L2 error 0.000000]
+	csr_scalar          :   8.5378 ms (  2.30 GFLOP/s  25.4 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   3.4448 ms (  5.71 GFLOP/s  74.3 GB/s) [L2 error 0.000006]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (Freescale1.mtx) with shape (3428755,3428755) and 18920347 entries
+
+	coo                 :   6.1065 ms (  6.20 GFLOP/s  83.3 GB/s) [L2 error 0.000000]
+	csr_vector          :   3.9500 ms (  9.58 GFLOP/s 116.6 GB/s) [L2 error 0.000000]
+	csr_scalar          :   5.2896 ms (  7.15 GFLOP/s  87.1 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   3.3715 ms ( 11.22 GFLOP/s 144.2 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (FullChip.mtx) with shape (2987012,2987012) and 26621990 entries
+
+	coo                 :   7.1854 ms (  7.41 GFLOP/s  95.6 GB/s) [L2 error 0.000000]
+	csr_vector          : 169.2057 ms (  0.31 GFLOP/s   3.6 GB/s) [L2 error 0.000000]
+	csr_scalar          : 861.7602 ms (  0.06 GFLOP/s   0.7 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   4.8145 ms ( 11.06 GFLOP/s 136.9 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (G3_circuit.mtx) with shape (1585478,1585478) and 7660826 entries
+
+	coo                 :   3.1441 ms (  4.87 GFLOP/s  66.5 GB/s) [L2 error 0.000000]
+	csr_vector          :   1.4185 ms ( 10.80 GFLOP/s 134.8 GB/s) [L2 error 0.000000]
+	csr_scalar          :   1.5372 ms (  9.97 GFLOP/s 124.4 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	ell                 :   0.9838 ms ( 15.57 GFLOP/s 196.6 GB/s) [L2 error 0.000000]
+	hyb                 :   1.3141 ms ( 11.66 GFLOP/s 140.8 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (Ga41As41H72.mtx) with shape (268096,268096) and 18488476 entries
+
+	coo                 :   4.6216 ms (  8.00 GFLOP/s  96.9 GB/s) [L2 error 0.000000]
+	csr_vector          :   2.5258 ms ( 14.64 GFLOP/s 148.9 GB/s) [L2 error 0.000000]
+	csr_scalar          :  11.3297 ms (  3.26 GFLOP/s  33.2 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   2.4855 ms ( 14.88 GFLOP/s 167.5 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (Hamrle3.mtx) with shape (1447360,1447360) and 5514242 entries
+
+	coo                 :   2.4507 ms (  4.50 GFLOP/s  63.5 GB/s) [L2 error 0.000000]
+	csr_vector          :   1.0180 ms ( 10.83 GFLOP/s 142.5 GB/s) [L2 error 0.000000]
+	csr_scalar          :   1.0166 ms ( 10.85 GFLOP/s 142.6 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	ell                 :   0.7335 ms ( 15.04 GFLOP/s 216.5 GB/s) [L2 error 0.000000]
+	hyb                 :   1.2100 ms (  9.11 GFLOP/s 123.8 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (human_gene1.mtx) with shape (22283,22283) and 24669643 entries
+
+	coo                 :   5.1444 ms (  9.59 GFLOP/s 115.2 GB/s) [L2 error 0.000000]
+	csr_vector          :   2.6749 ms ( 18.45 GFLOP/s 184.7 GB/s) [L2 error 0.000000]
+	csr_scalar          :  16.2847 ms (  3.03 GFLOP/s  30.3 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   5.1263 ms (  9.62 GFLOP/s 122.8 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (inline_1.mtx) with shape (503712,503712) and 36816342 entries
+
+	coo                 :   8.1796 ms (  9.00 GFLOP/s 109.0 GB/s) [L2 error 0.000000]
+	csr_vector          :   4.1592 ms ( 17.70 GFLOP/s 179.9 GB/s) [L2 error 0.000000]
+	csr_scalar          :  39.1928 ms (  1.88 GFLOP/s  19.1 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   3.7736 ms ( 19.51 GFLOP/s 214.6 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (ins2.mtx) with shape (309412,309412) and 2751484 entries
+
+	coo                 :   1.7101 ms (  3.22 GFLOP/s  41.5 GB/s) [L2 error 0.000000]
+	csr_vector          :  23.3125 ms (  0.24 GFLOP/s   2.7 GB/s) [L2 error 0.000000]
+	csr_scalar          : 107.6716 ms (  0.05 GFLOP/s   0.6 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   1.4443 ms (  3.81 GFLOP/s  45.1 GB/s) [L2 error 0.000733]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (kkt_power.mtx) with shape (2063494,2063494) and 14612663 entries
+
+	coo                 :   8.1009 ms (  3.61 GFLOP/s  47.4 GB/s) [L2 error 0.000000]
+	csr_vector          :   4.7455 ms (  6.16 GFLOP/s  72.0 GB/s) [L2 error 0.000000]
+	csr_scalar          :   9.7907 ms (  2.98 GFLOP/s  34.9 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   4.6964 ms (  6.22 GFLOP/s  84.0 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (ldoor.mtx) with shape (952203,952203) and 46522475 entries
+
+	coo                 :   9.3200 ms (  9.98 GFLOP/s 121.4 GB/s) [L2 error 0.000000]
+	csr_vector          :   5.8653 ms ( 15.86 GFLOP/s 162.5 GB/s) [L2 error 0.000000]
+	csr_scalar          :  47.1169 ms (  1.97 GFLOP/s  20.2 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	ell                 :   5.8378 ms ( 15.94 GFLOP/s 190.4 GB/s) [L2 error 0.000000]
+	hyb                 :   5.3796 ms ( 17.30 GFLOP/s 191.8 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (m_t1.mtx) with shape (97578,97578) and 9753570 entries
+
+	coo                 :   2.4316 ms (  8.02 GFLOP/s  96.9 GB/s) [L2 error 0.000000]
+	csr_vector          :   0.8278 ms ( 23.56 GFLOP/s 238.5 GB/s) [L2 error 0.000000]
+	csr_scalar          :   9.4701 ms (  2.06 GFLOP/s  20.8 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	ell                 :   1.4457 ms ( 13.49 GFLOP/s 210.0 GB/s) [L2 error 0.000000]
+	hyb                 :   1.3287 ms ( 14.68 GFLOP/s 166.2 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (nd24k.mtx) with shape (72000,72000) and 28715634 entries
+
+	coo                 :   4.5259 ms ( 12.69 GFLOP/s 152.5 GB/s) [L2 error 0.000000]
+	csr_vector          :   1.9380 ms ( 29.63 GFLOP/s 297.2 GB/s) [L2 error 0.000000]
+	csr_scalar          :  30.5807 ms (  1.88 GFLOP/s  18.8 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	ell                 :   2.6945 ms ( 21.31 GFLOP/s 239.5 GB/s) [L2 error 0.000000]
+	hyb                 :   2.8446 ms ( 20.19 GFLOP/s 213.7 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (nlpkkt120.mtx) with shape (3542400,3542400) and 96845792 entries
+
+	coo                 :  21.8954 ms (  8.85 GFLOP/s 108.7 GB/s) [L2 error 0.000000]
+	csr_vector          :  21.4416 ms (  9.03 GFLOP/s  94.3 GB/s) [L2 error 0.000000]
+	csr_scalar          :  85.7542 ms (  2.26 GFLOP/s  23.6 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	ell                 :   7.0519 ms ( 27.47 GFLOP/s 282.4 GB/s) [L2 error 0.000000]
+	hyb                 :   7.0534 ms ( 27.46 GFLOP/s 285.3 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (offshore.mtx) with shape (259789,259789) and 4242673 entries
+
+	coo                 :   2.4021 ms (  3.53 GFLOP/s  44.1 GB/s) [L2 error 0.000000]
+	csr_vector          :   0.9824 ms (  8.64 GFLOP/s  92.7 GB/s) [L2 error 0.000000]
+	csr_scalar          :   2.5775 ms (  3.29 GFLOP/s  35.3 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	ell                 :   0.7876 ms ( 10.77 GFLOP/s 151.7 GB/s) [L2 error 0.000000]
+	hyb                 :   1.3797 ms (  6.15 GFLOP/s  67.7 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (ohne2.mtx) with shape (181343,181343) and 11063545 entries
+
+	coo                 :   3.2025 ms (  6.91 GFLOP/s  83.8 GB/s) [L2 error 0.000000]
+	csr_vector          :   1.4972 ms ( 14.78 GFLOP/s 150.7 GB/s) [L2 error 0.000000]
+	csr_scalar          :  12.9227 ms (  1.71 GFLOP/s  17.5 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   1.6929 ms ( 13.07 GFLOP/s 147.7 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (parabolic_fem.mtx) with shape (525825,525825) and 3674625 entries
+
+	coo                 :   2.0620 ms (  3.56 GFLOP/s  46.9 GB/s) [L2 error 0.000000]
+	csr_vector          :   0.6901 ms ( 10.65 GFLOP/s 124.8 GB/s) [L2 error 0.000000]
+	csr_scalar          :   1.0283 ms (  7.15 GFLOP/s  83.7 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	ell                 :   0.4722 ms ( 15.56 GFLOP/s 173.5 GB/s) [L2 error 0.000000]
+	hyb                 :   0.4722 ms ( 15.56 GFLOP/s 173.5 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (pattern1.mtx) with shape (19242,19242) and 9323432 entries
+
+	coo                 :   2.9563 ms (  6.31 GFLOP/s  75.8 GB/s) [L2 error 0.000000]
+	csr_vector          :   1.2217 ms ( 15.26 GFLOP/s 153.0 GB/s) [L2 error 0.000000]
+	csr_scalar          :   9.1002 ms (  2.05 GFLOP/s  20.5 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   1.3310 ms ( 14.01 GFLOP/s 172.6 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (pkustk08.mtx) with shape (22209,22209) and 3226671 entries
+
+	coo                 :   1.7007 ms (  3.79 GFLOP/s  45.7 GB/s) [L2 error 0.000000]
+	csr_vector          :   0.2966 ms ( 21.76 GFLOP/s 219.3 GB/s) [L2 error 0.000000]
+	csr_scalar          :   2.6492 ms (  2.44 GFLOP/s  24.6 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	ell                 :   0.4244 ms ( 15.21 GFLOP/s 203.9 GB/s) [L2 error 0.000000]
+	hyb                 :   1.2929 ms (  4.99 GFLOP/s  55.6 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (poisson3Db.mtx) with shape (85623,85623) and 2374949 entries
+
+	coo                 :   1.8606 ms (  2.55 GFLOP/s  31.4 GB/s) [L2 error 0.000000]
+	csr_vector          :   0.6346 ms (  7.48 GFLOP/s  78.1 GB/s) [L2 error 0.000000]
+	csr_scalar          :   2.2158 ms (  2.14 GFLOP/s  22.4 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   1.3684 ms (  3.47 GFLOP/s  39.0 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (pre2.mtx) with shape (659033,659033) and 5959282 entries
+
+	coo                 :   2.6693 ms (  4.47 GFLOP/s  57.5 GB/s) [L2 error 0.000000]
+	csr_vector          :   1.6083 ms (  7.41 GFLOP/s  83.9 GB/s) [L2 error 0.000000]
+	csr_scalar          :   1.9415 ms (  6.14 GFLOP/s  69.5 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   1.6670 ms (  7.15 GFLOP/s  88.5 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (rajat30.mtx) with shape (643994,643994) and 6175377 entries
+
+	coo                 :   2.3924 ms (  5.16 GFLOP/s  66.3 GB/s) [L2 error 0.000000]
+	csr_vector          :  16.2543 ms (  0.76 GFLOP/s   8.5 GB/s) [L2 error 0.000000]
+	csr_scalar          : 164.5644 ms (  0.08 GFLOP/s   0.8 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   1.6660 ms (  7.41 GFLOP/s  91.4 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (SiO2.mtx) with shape (155331,155331) and 11283503 entries
+
+	coo                 :   3.2312 ms (  6.98 GFLOP/s  84.6 GB/s) [L2 error 0.000000]
+	csr_vector          :   1.5190 ms ( 14.86 GFLOP/s 151.0 GB/s) [L2 error 0.000000]
+	csr_scalar          :   8.8473 ms (  2.55 GFLOP/s  25.9 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   1.9759 ms ( 11.42 GFLOP/s 129.4 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (thermal2.mtx) with shape (1228045,1228045) and 8580313 entries
+
+	coo                 :   3.9035 ms (  4.40 GFLOP/s  57.8 GB/s) [L2 error 0.000000]
+	csr_vector          :   1.7927 ms (  9.57 GFLOP/s 112.2 GB/s) [L2 error 0.000000]
+	csr_scalar          :   2.5043 ms (  6.85 GFLOP/s  80.3 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	ell                 :   1.4839 ms ( 11.56 GFLOP/s 155.5 GB/s) [L2 error 0.000000]
+	hyb                 :   1.9040 ms (  9.01 GFLOP/s 105.0 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (torso3.mtx) with shape (259156,259156) and 4429042 entries
+
+	coo                 :   1.9839 ms (  4.47 GFLOP/s  55.7 GB/s) [L2 error 0.000000]
+	csr_vector          :   1.1871 ms (  7.46 GFLOP/s  79.9 GB/s) [L2 error 0.000000]
+	csr_scalar          :   3.0615 ms (  2.89 GFLOP/s  31.0 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	ell                 :   0.4245 ms ( 20.87 GFLOP/s 242.4 GB/s) [L2 error 0.000000]
+	hyb                 :   0.6538 ms ( 13.55 GFLOP/s 147.9 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (TSOPF_RS_b2383.mtx) with shape (38120,38120) and 16171169 entries
+
+	coo                 :   3.2928 ms (  9.82 GFLOP/s 118.1 GB/s) [L2 error 0.000000]
+	csr_vector          :   1.0793 ms ( 29.97 GFLOP/s 300.5 GB/s) [L2 error 0.000000]
+	csr_scalar          :  13.6556 ms (  2.37 GFLOP/s  23.8 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	ell                 :   1.9819 ms ( 16.32 GFLOP/s 249.5 GB/s) [L2 error 0.000000]
+	hyb                 :   1.9821 ms ( 16.32 GFLOP/s 249.5 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (webbase-1M.mtx) with shape (1000005,1000005) and 3105536 entries
+
+	coo                 :   1.9391 ms (  3.20 GFLOP/s  46.7 GB/s) [L2 error 0.000000]
+	csr_vector          :   1.3197 ms (  4.71 GFLOP/s  65.2 GB/s) [L2 error 0.000000]
+	csr_scalar          :   2.6015 ms (  2.39 GFLOP/s  33.1 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   1.5052 ms (  4.13 GFLOP/s  56.7 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (web-Google.mtx) with shape (916428,916428) and 5105039 entries
+
+	coo                 :   3.8651 ms (  2.64 GFLOP/s  34.8 GB/s) [L2 error 0.000000]
+	csr_vector          :   3.0631 ms (  3.33 GFLOP/s  40.5 GB/s) [L2 error 0.000000]
+	csr_scalar          :   4.3386 ms (  2.35 GFLOP/s  28.6 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   2.9252 ms (  3.49 GFLOP/s  52.1 GB/s) [L2 error 0.000000]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (wikipedia-20051105.mtx) with shape (1634989,1634989) and 19753078 entries
+
+	coo                 :   8.7523 ms (  4.51 GFLOP/s  57.0 GB/s) [L2 error 0.000000]
+	csr_vector          :  10.0251 ms (  3.94 GFLOP/s  43.3 GB/s) [L2 error 0.000000]
+	csr_scalar          :  14.5226 ms (  2.72 GFLOP/s  29.9 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	Refusing to convert to ELL format
+	hyb                 :   8.0354 ms (  4.92 GFLOP/s  67.3 GB/s) [L2 error 0.000003]
+
+Computing SpMV with 'double' values.
+
+There is 1 device supporting CUDA
+
+Device 0: "Tesla K40m"
+  Major revision number:                         3
+  Minor revision number:                         5
+  Total amount of global memory:                 11995578368 bytes
+
+Running on Device 0
+
+Read matrix (xenon2.mtx) with shape (157464,157464) and 3866688 entries
+
+	coo                 :   1.8411 ms (  4.20 GFLOP/s  51.8 GB/s) [L2 error 0.000000]
+	csr_vector          :   0.7320 ms ( 10.56 GFLOP/s 110.8 GB/s) [L2 error 0.000000]
+	csr_scalar          :   3.2026 ms (  2.41 GFLOP/s  25.3 GB/s) [L2 error 0.000000]
+	Refusing to convert to DIA format
+	ell                 :   0.3478 ms ( 22.24 GFLOP/s 238.5 GB/s) [L2 error 0.000000]
+	hyb                 :   0.3477 ms ( 22.24 GFLOP/s 238.5 GB/s) [L2 error 0.000000]

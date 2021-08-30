@@ -1,0 +1,21 @@
+rm -f cuSPARSE alloc.o dmv.o timer.o input.o gpu_util.o
+g++ -O3 -lm -Wall  -D_DEBUG_ -c -o alloc.o /home/users/panastas/Mine/Ext_lib/alloc.c
+g++ -O3 -lm -Wall  -D_DEBUG_ -c -o dmv.o /home/users/panastas/Mine/Ext_lib/dmv.c
+g++ -O3 -lm -Wall  -D_DEBUG_ -c -o timer.o /home/users/panastas/Mine/Ext_lib/timer.c
+nvcc -I/include -I./cusplibrary-0.5.1  -arch sm_35 -D_DEBUG_ -c -o input.o /home/users/panastas/Mine/Ext_lib/input.cu
+nvcc -I/include -I./cusplibrary-0.5.1  -arch sm_35 -D_DEBUG_ -c -o gpu_util.o /home/users/panastas/Mine/Ext_lib/gpu_util.cu
+nvcc -I/include -I./cusplibrary-0.5.1  -arch sm_35 -D_DEBUG_ -o cuSPARSE alloc.o dmv.o timer.o input.o gpu_util.o -L /lib64 -lcudart -lcublas -lcusparse -lm -lrt main-cuSPARSE.cu 
+CuSPARCE-CSR version:File=ASIC_680k.mtx, n=682862, m=682862, n_z=3871773, t= 88.147781 ms, Gflops/s = 0.087847, Gbytes/s= 1.064396
+CuSPARCE-Hybrid version:File=ASIC_680k.mtx, n=682862, m=682862, n_z=3871773, CSR to HYB= 6.265163 ms, t= 0.645759 ms, Gflops/s = 11.991385, Gbytes/s= 145.292799
+CuSPARCE-CSR version:File=ASIC_680ks.mtx, n=682712, m=682712, n_z=2329176, t= 0.697122 ms, Gflops/s = 6.682266, Gbytes/s= 90.326575
+CuSPARCE-Hybrid version:File=ASIC_680ks.mtx, n=682712, m=682712, n_z=2329176, CSR to HYB= 6.669044 ms, t= 0.445740 ms, Gflops/s = 10.450823, Gbytes/s= 141.267502
+CuSPARCE-CSR version:File=BenElechi1.mtx, n=245874, m=245874, n_z=13150496, t= 1.583481 ms, Gflops/s = 16.609606, Gbytes/s= 169.822640
+CuSPARCE-Hybrid version:File=BenElechi1.mtx, n=245874, m=245874, n_z=13150496, CSR to HYB= 2.447128 ms, t= 0.921011 ms, Gflops/s = 28.556654, Gbytes/s= 291.973608
+CuSPARCE-CSR version:File=Chebyshev4.mtx, n=68121, m=68121, n_z=5377761, t= 4.389131 ms, Gflops/s = 2.450490, Gbytes/s= 24.877390
+CuSPARCE-Hybrid version:File=Chebyshev4.mtx, n=68121, m=68121, n_z=5377761, CSR to HYB= 1.419067 ms, t= 0.783720 ms, Gflops/s = 13.723679, Gbytes/s= 139.322873
+CuSPARCE-CSR version:File=CurlCurl_1.mtx, n=226451, m=226451, n_z=2472071, t= 0.317609 ms, Gflops/s = 15.566741, Gbytes/s= 172.779079
+CuSPARCE-Hybrid version:File=CurlCurl_1.mtx, n=226451, m=226451, n_z=2472071, CSR to HYB= 2.473116 ms, t= 0.246089 ms, Gflops/s = 20.090910, Gbytes/s= 222.993935
+CuSPARCE-CSR version:File=CurlCurl_2.mtx, n=806529, m=806529, n_z=8921789, t= 1.121120 ms, Gflops/s = 15.915844, Gbytes/s= 176.423930
+CuSPARCE-Hybrid version:File=CurlCurl_2.mtx, n=806529, m=806529, n_z=8921789, CSR to HYB= 7.773876 ms, t= 0.798168 ms, Gflops/s = 22.355662, Gbytes/s= 247.808019
+CuSPARCE-CSR version:File=CurlCurl_3.mtx, n=1219574, m=1219574, n_z=13544618, t= 1.708980 ms, Gflops/s = 15.851117, Gbytes/s= 175.638220
+CuSPARCE-Hybrid version:File=CurlCurl_3.mtx, n=1219574, m=1219574, n_z=13544618, CSR to HYB= 11.323929 ms, t= 1.191881 ms, Gflops/s = 22.728144, Gbytes/s= 251.839077

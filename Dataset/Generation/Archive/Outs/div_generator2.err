@@ -1,0 +1,44 @@
+mkdir: cannot create directory 'Removed': File exists
+mkdir: cannot create directory 'Div_ed': File exists
+Traceback (most recent call last):
+  File "/home/users/panastas/Mine/python_pic/Div_generator.py", line 53, in <module>
+    A =  io.mmread(src+in_file)
+  File "/usr/local/lib/python3.4/dist-packages/scipy/io/mmio.py", line 76, in mmread
+    return MMFile().read(source)
+  File "/usr/local/lib/python3.4/dist-packages/scipy/io/mmio.py", line 415, in read
+    return self._parse_body(stream)
+  File "/usr/local/lib/python3.4/dist-packages/scipy/io/mmio.py", line 589, in _parse_body
+    raise ValueError("'entries' in header is smaller than "
+ValueError: 'entries' in header is smaller than number of entries
+Traceback (most recent call last):
+  File "/home/users/panastas/Mine/python_pic/Div_generator.py", line 53, in <module>
+    A =  io.mmread(src+in_file)
+  File "/usr/local/lib/python3.4/dist-packages/scipy/io/mmio.py", line 76, in mmread
+    return MMFile().read(source)
+  File "/usr/local/lib/python3.4/dist-packages/scipy/io/mmio.py", line 415, in read
+    return self._parse_body(stream)
+  File "/usr/local/lib/python3.4/dist-packages/scipy/io/mmio.py", line 589, in _parse_body
+    raise ValueError("'entries' in header is smaller than "
+ValueError: 'entries' in header is smaller than number of entries
+Traceback (most recent call last):
+  File "/home/users/panastas/Mine/python_pic/Div_generator.py", line 53, in <module>
+    A =  io.mmread(src+in_file)
+  File "/usr/local/lib/python3.4/dist-packages/scipy/io/mmio.py", line 76, in mmread
+    return MMFile().read(source)
+  File "/usr/local/lib/python3.4/dist-packages/scipy/io/mmio.py", line 415, in read
+    return self._parse_body(stream)
+  File "/usr/local/lib/python3.4/dist-packages/scipy/io/mmio.py", line 589, in _parse_body
+    raise ValueError("'entries' in header is smaller than "
+ValueError: 'entries' in header is smaller than number of entries
+Traceback (most recent call last):
+  File "/home/users/panastas/Mine/python_pic/Div_generator.py", line 53, in <module>
+    A =  io.mmread(src+in_file)
+  File "/usr/local/lib/python3.4/dist-packages/scipy/io/mmio.py", line 76, in mmread
+    return MMFile().read(source)
+  File "/usr/local/lib/python3.4/dist-packages/scipy/io/mmio.py", line 414, in read
+    self._parse_header(stream)
+  File "/usr/local/lib/python3.4/dist-packages/scipy/io/mmio.py", line 478, in _parse_header
+    self.__class__.info(stream)
+  File "/usr/local/lib/python3.4/dist-packages/scipy/io/mmio.py", line 232, in info
+    [asstr(part.strip()) for part in line.split()]
+ValueError: need more than 3 values to unpack

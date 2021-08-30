@@ -1,0 +1,6 @@
+-----Augumented_9_wy2010.mtx Benchmark Started at 13:24:10-----
+merge_SpMV
+/local/panastas/Augumented_small_suite/Augumented_9_wy2010.mtx, 172408, 172408, 1710344, 9.92033, 7.05888, 0.71156, 5.10150, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.26042 ( throughput= 13.135282 gflops, bandwidth= 139.297 GB/s ) 
+------End of Augumented_9_wy2010.mtx Benchmark at 13:24:13------

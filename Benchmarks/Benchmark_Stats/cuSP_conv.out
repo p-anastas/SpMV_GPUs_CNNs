@@ -1,0 +1,828 @@
+Input matrix has shape (735323,735323) and 5158388 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     19.64 |     73.20 |     -1.00 |    111.72 |    122.35 |
+    CSR    |     36.15 |      8.64 |     -1.00 |     66.38 |     84.41 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |    136.15 |    188.72 |     -1.00 |     21.45 |     27.43 |
+    HYB    |    187.88 |    268.45 |     -1.00 |    305.11 |     11.39 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      2.06 |      2.72 |     -1.00 |     12.67 |     16.37 |
+    CSR    |      3.39 |      2.02 |     -1.00 |     13.77 |     17.69 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |      5.55 |      6.65 |     -1.00 |      1.51 |      2.32 |
+    HYB    |     11.02 |     13.82 |     -1.00 |     23.57 |      1.50 |
+Input matrix has shape (682862,682862) and 3871773 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     14.68 |     60.33 |     -1.00 |     -1.00 |    121.33 |
+    CSR    |     22.45 |     10.65 |     -1.00 |     -1.00 |     82.58 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     85.74 |    140.19 |     -1.00 |     -1.00 |      6.89 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      1.97 |      2.51 |     -1.00 |     -1.00 |     17.51 |
+    CSR    |      3.18 |      1.99 |     -1.00 |     -1.00 |     17.54 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |      8.68 |     11.25 |     -1.00 |     -1.00 |      3.01 |
+Input matrix has shape (1270432,1270432) and 8814880 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     36.95 |    125.92 |     99.44 |    175.97 |    195.46 |
+    CSR    |     59.67 |     25.57 |    125.52 |    109.38 |    130.25 |
+    DIA    |    178.60 |    272.50 |     12.07 |     91.19 |    375.25 |
+    ELL    |    167.64 |    261.31 |    267.92 |     25.13 |     32.18 |
+    HYB    |    305.85 |    431.30 |    404.59 |    481.89 |     25.10 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      2.30 |      3.53 |      9.93 |     15.88 |     19.89 |
+    CSR    |      4.37 |      2.25 |     12.28 |     16.95 |     21.33 |
+    DIA    |      5.57 |      6.98 |      1.02 |      2.31 |     24.71 |
+    ELL    |      5.86 |      7.27 |     15.75 |      1.60 |      2.16 |
+    HYB    |     12.31 |     15.84 |     22.22 |     28.00 |      1.61 |
+Input matrix has shape (115625,115625) and 3897557 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     14.27 |     25.32 |     -1.00 |     -1.00 |     70.20 |
+    CSR    |     25.79 |      5.66 |     -1.00 |     -1.00 |     67.76 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |    149.01 |    168.62 |     -1.00 |     -1.00 |      7.33 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      2.17 |      2.47 |     -1.00 |     -1.00 |     17.32 |
+    CSR    |      3.19 |      1.40 |     -1.00 |     -1.00 |     18.20 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     11.77 |     14.23 |     -1.00 |     -1.00 |      2.92 |
+Input matrix has shape (148770,148770) and 10644002 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     44.47 |     57.92 |     -1.00 |     -1.00 |    153.83 |
+    CSR    |     68.91 |     30.13 |     -1.00 |     -1.00 |    165.64 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |    428.60 |    485.88 |     -1.00 |     -1.00 |     33.96 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      2.33 |      3.46 |     -1.00 |     -1.00 |     31.73 |
+    CSR    |      4.44 |      2.28 |     -1.00 |     -1.00 |     34.60 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     23.47 |     26.92 |     -1.00 |     -1.00 |      1.94 |
+Input matrix has shape (914898,914898) and 55468422 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |    227.59 |    319.99 |     -1.00 |    784.25 |    900.19 |
+    CSR    |    360.14 |    152.80 |     -1.00 |    822.28 |    914.95 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |   1261.47 |   1364.84 |     -1.00 |    203.33 |    274.15 |
+    HYB    |   2472.43 |   2790.72 |     -1.00 |   3258.32 |    197.44 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      7.35 |     10.77 |     -1.00 |    159.70 |    164.83 |
+    CSR    |     15.75 |      5.68 |     -1.00 |    165.02 |    170.72 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |    157.08 |    160.24 |     -1.00 |      6.62 |     15.73 |
+    HYB    |    196.56 |    207.26 |     -1.00 |    355.80 |      6.84 |
+Input matrix has shape (445315,445315) and 7479343 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     26.63 |     65.89 |     -1.00 |    130.43 |    121.00 |
+    CSR    |     43.00 |     21.30 |     -1.00 |    121.83 |    114.56 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |    248.86 |    285.92 |     -1.00 |     49.97 |     65.25 |
+    HYB    |    275.33 |    329.20 |     -1.00 |    407.98 |     19.98 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      2.22 |      3.07 |     -1.00 |     16.40 |     21.31 |
+    CSR    |      3.91 |      2.17 |     -1.00 |     17.78 |     22.94 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     14.88 |     16.00 |     -1.00 |      2.12 |      4.07 |
+    HYB    |     15.07 |     18.17 |     -1.00 |     31.28 |      3.10 |
+Input matrix has shape (68121,68121) and 5377761 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     19.80 |     26.68 |     -1.00 |     -1.00 |     69.38 |
+    CSR    |     29.39 |     14.94 |     -1.00 |     -1.00 |     83.44 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     97.68 |    115.20 |     -1.00 |     -1.00 |     10.30 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      2.02 |      2.51 |     -1.00 |     -1.00 |     16.32 |
+    CSR    |      3.45 |      1.48 |     -1.00 |     -1.00 |     17.46 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     10.16 |     12.70 |     -1.00 |     -1.00 |      3.17 |
+Input matrix has shape (5558326,5558326) and 59524291 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |    243.87 |    652.24 |     -1.00 |     -1.00 |   1322.04 |
+    CSR    |    391.88 |    167.54 |     -1.00 |     -1.00 |   1065.17 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |   1356.02 |   2008.99 |     -1.00 |     -1.00 |    208.09 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      7.79 |     11.93 |     -1.00 |     -1.00 |     88.19 |
+    CSR    |     17.23 |      6.05 |     -1.00 |     -1.00 |     94.60 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     61.92 |     73.87 |     -1.00 |     -1.00 |      6.83 |
+Input matrix has shape (268495,268495) and 2313294 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      9.03 |     28.35 |     -1.00 |     -1.00 |     53.14 |
+    CSR    |     13.34 |      5.52 |     -1.00 |     -1.00 |     41.57 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     79.37 |    107.23 |     -1.00 |     -1.00 |      5.26 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      1.91 |      2.23 |     -1.00 |     -1.00 |     15.27 |
+    CSR    |      2.92 |      1.95 |     -1.00 |     -1.00 |     15.71 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |      8.57 |     10.76 |     -1.00 |     -1.00 |      3.03 |
+Input matrix has shape (83334,83334) and 6010480 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     21.56 |     32.24 |     -1.00 |     80.75 |     88.01 |
+    CSR    |     39.00 |      8.67 |     -1.00 |     79.16 |     93.40 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |    139.66 |    148.69 |     -1.00 |     18.16 |     24.17 |
+    HYB    |    199.42 |    238.37 |     -1.00 |    284.26 |      9.73 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      2.07 |      2.72 |     -1.00 |     17.45 |     19.52 |
+    CSR    |      3.56 |      1.50 |     -1.00 |     18.65 |     20.61 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |      8.82 |      9.77 |     -1.00 |      1.46 |      2.16 |
+    HYB    |     14.68 |     17.48 |     -1.00 |     32.21 |      1.49 |
+Input matrix has shape (63838,63838) and 14148858 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     59.00 |     64.36 |     -1.00 |     -1.00 |    208.15 |
+    CSR    |     95.20 |     43.49 |     -1.00 |     -1.00 |    244.57 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |    582.25 |    646.32 |     -1.00 |     -1.00 |     49.48 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      2.58 |      3.59 |     -1.00 |     -1.00 |     42.19 |
+    CSR    |      5.13 |      1.89 |     -1.00 |     -1.00 |     44.06 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     41.83 |     45.14 |     -1.00 |     -1.00 |      3.25 |
+Input matrix has shape (524288,524288) and 3145646 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     11.72 |     48.60 |     -1.00 |     -1.00 |     84.76 |
+    CSR    |     17.86 |      9.11 |     -1.00 |     -1.00 |     54.51 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |    117.79 |    162.52 |     -1.00 |     -1.00 |     10.62 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      1.92 |      2.32 |     -1.00 |     -1.00 |     14.58 |
+    CSR    |      3.04 |      1.94 |     -1.00 |     -1.00 |     15.57 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |      8.70 |     10.99 |     -1.00 |     -1.00 |      2.99 |
+Input matrix has shape (862664,862664) and 19235140 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     79.34 |    146.13 |     -1.00 |     -1.00 |    339.50 |
+    CSR    |    128.12 |     53.65 |     -1.00 |     -1.00 |    318.94 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |    720.95 |    865.61 |     -1.00 |     -1.00 |     82.22 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      3.11 |      4.79 |     -1.00 |     -1.00 |     44.42 |
+    CSR    |      6.66 |      2.88 |     -1.00 |     -1.00 |     47.06 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     42.08 |     46.63 |     -1.00 |     -1.00 |      3.58 |
+Input matrix has shape (343791,343791) and 26837113 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |    110.48 |    144.75 |     -1.00 |     -1.00 |    487.30 |
+    CSR    |    173.00 |     73.87 |     -1.00 |     -1.00 |    516.82 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |    920.29 |   1066.82 |     -1.00 |     -1.00 |     84.39 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      4.02 |      5.81 |     -1.00 |     -1.00 |     74.33 |
+    CSR    |      8.26 |      3.51 |     -1.00 |     -1.00 |     75.91 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     59.43 |     65.39 |     -1.00 |     -1.00 |      3.56 |
+Input matrix has shape (147900,147900) and 3489300 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     13.01 |     26.23 |     -1.00 |     48.85 |     53.68 |
+    CSR    |     23.34 |      5.15 |     -1.00 |     40.84 |     49.86 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     83.24 |     93.44 |     -1.00 |      9.91 |     13.23 |
+    HYB    |    108.68 |    139.34 |     -1.00 |    159.87 |      5.68 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      1.91 |      2.42 |     -1.00 |     10.73 |     13.88 |
+    CSR    |      3.09 |      1.93 |     -1.00 |     11.83 |     14.95 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |      5.48 |      6.40 |     -1.00 |      1.32 |      1.73 |
+    HYB    |      9.90 |     12.27 |     -1.00 |     20.41 |      1.34 |
+Input matrix has shape (820878,820878) and 9837214 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     42.72 |     87.92 |     -1.00 |     -1.00 |    200.58 |
+    CSR    |     64.35 |     27.88 |     -1.00 |     -1.00 |    176.27 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |    182.38 |    272.07 |     -1.00 |     -1.00 |     43.26 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      2.37 |      3.37 |     -1.00 |     -1.00 |     23.01 |
+    CSR    |      4.36 |      2.34 |     -1.00 |     -1.00 |     24.14 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     14.23 |     17.63 |     -1.00 |     -1.00 |      3.54 |
+Input matrix has shape (3428755,3428755) and 18920347 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     78.43 |    318.29 |     -1.00 |     -1.00 |    484.21 |
+    CSR    |    128.37 |     55.03 |     -1.00 |     -1.00 |    295.99 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |    697.55 |   1015.40 |     -1.00 |     -1.00 |     62.44 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      3.07 |      5.59 |     -1.00 |     -1.00 |     37.33 |
+    CSR    |      6.93 |      2.87 |     -1.00 |     -1.00 |     40.66 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     25.74 |     31.28 |     -1.00 |     -1.00 |      3.30 |
+Input matrix has shape (2987012,2987012) and 26621990 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |    109.61 |    329.44 |     -1.00 |     -1.00 |    692.55 |
+    CSR    |    177.11 |     75.56 |     -1.00 |     -1.00 |    544.08 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |    895.19 |   1219.89 |     -1.00 |     -1.00 |     92.83 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      3.98 |      6.36 |     -1.00 |     -1.00 |     50.80 |
+    CSR    |      8.65 |      3.48 |     -1.00 |     -1.00 |     55.78 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     37.09 |     43.31 |     -1.00 |     -1.00 |      3.84 |
+Input matrix has shape (1585478,1585478) and 7660826 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     26.86 |    140.39 |     -1.00 |    180.95 |    205.56 |
+    CSR    |     51.90 |     11.75 |     -1.00 |     93.17 |    116.94 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |    154.29 |    266.38 |     -1.00 |     19.85 |     25.08 |
+    HYB    |    248.45 |    376.28 |     -1.00 |    423.31 |     11.62 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      2.17 |      3.34 |     -1.00 |     14.05 |     20.21 |
+    CSR    |      3.99 |      2.13 |     -1.00 |     15.07 |     21.24 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |      5.83 |      7.25 |     -1.00 |      1.62 |      2.66 |
+    HYB    |     11.45 |     14.85 |     -1.00 |     25.39 |      3.00 |
+Input matrix has shape (268096,268096) and 18488476 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     76.29 |     99.86 |     -1.00 |     -1.00 |    275.82 |
+    CSR    |    119.29 |     50.90 |     -1.00 |     -1.00 |    295.83 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |    492.89 |    592.05 |     -1.00 |     -1.00 |     66.23 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      2.98 |      4.46 |     -1.00 |     -1.00 |     39.92 |
+    CSR    |      6.25 |      2.77 |     -1.00 |     -1.00 |     43.67 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     30.57 |     34.95 |     -1.00 |     -1.00 |      3.47 |
+Input matrix has shape (1447360,1447360) and 5514242 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     19.93 |    117.86 |     -1.00 |    155.85 |    175.03 |
+    CSR    |     37.69 |      9.49 |     -1.00 |     75.25 |     93.58 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |    106.71 |    205.29 |     -1.00 |     24.06 |     31.40 |
+    HYB    |    199.87 |    309.71 |     -1.00 |    347.24 |     10.78 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      2.10 |      3.10 |     -1.00 |     11.80 |     17.16 |
+    CSR    |      3.56 |      2.08 |     -1.00 |     12.77 |     18.28 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |      5.39 |      6.79 |     -1.00 |      1.57 |      2.07 |
+    HYB    |     10.64 |     13.76 |     -1.00 |     22.30 |      1.94 |
+Input matrix has shape (22283,22283) and 24669643 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |    101.61 |     96.87 |     -1.00 |     -1.00 |    400.20 |
+    CSR    |    155.34 |     68.15 |     -1.00 |     -1.00 |    457.20 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |    864.06 |    960.75 |     -1.00 |     -1.00 |    116.16 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      3.76 |      4.51 |     -1.00 |     -1.00 |     60.57 |
+    CSR    |      7.42 |      2.72 |     -1.00 |     -1.00 |     63.85 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     75.53 |     80.18 |     -1.00 |     -1.00 |      5.69 |
+Input matrix has shape (503712,503712) and 36816342 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |    157.82 |    201.94 |     -1.00 |     -1.00 |    552.06 |
+    CSR    |    237.06 |    100.71 |     -1.00 |     -1.00 |    598.11 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |   1342.96 |   1543.81 |     -1.00 |     -1.00 |    119.71 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      5.19 |      7.39 |     -1.00 |     -1.00 |    101.46 |
+    CSR    |     10.76 |      4.28 |     -1.00 |     -1.00 |    107.33 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     91.77 |     99.02 |     -1.00 |     -1.00 |      4.57 |
+Input matrix has shape (309412,309412) and 2751484 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     10.04 |     31.85 |     -1.00 |     -1.00 |     68.79 |
+    CSR    |     14.54 |      7.19 |     -1.00 |     -1.00 |     52.62 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     69.60 |     97.19 |     -1.00 |     -1.00 |      4.78 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      1.91 |      2.26 |     -1.00 |     -1.00 |     14.85 |
+    CSR    |      2.96 |      1.87 |     -1.00 |     -1.00 |     15.79 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |      7.92 |     10.21 |     -1.00 |     -1.00 |      3.00 |
+Input matrix has shape (2063494,2063494) and 14612663 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     60.83 |    217.64 |     -1.00 |     -1.00 |    362.47 |
+    CSR    |     98.63 |     41.93 |     -1.00 |     -1.00 |    255.27 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |    539.95 |    722.07 |     -1.00 |     -1.00 |     56.38 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      2.57 |      4.50 |     -1.00 |     -1.00 |     30.29 |
+    CSR    |      5.78 |      2.50 |     -1.00 |     -1.00 |     33.17 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     22.11 |     26.65 |     -1.00 |     -1.00 |      3.33 |
+Input matrix has shape (952203,952203) and 46522475 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |    198.42 |    282.91 |     -1.00 |    719.92 |    730.23 |
+    CSR    |    302.94 |    128.11 |     -1.00 |    715.88 |    750.39 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |   1242.01 |   1349.86 |     -1.00 |    200.22 |    269.50 |
+    HYB    |   1910.65 |   2193.66 |     -1.00 |   2607.03 |    154.20 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      6.33 |      9.69 |     -1.00 |    127.33 |    127.34 |
+    CSR    |     13.54 |      5.00 |     -1.00 |    134.09 |    133.55 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |    157.22 |    161.00 |     -1.00 |      6.56 |     16.82 |
+    HYB    |    130.25 |    140.24 |     -1.00 |    258.05 |      5.56 |
+Input matrix has shape (97578,97578) and 9753570 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     40.92 |     49.21 |     -1.00 |    171.75 |    148.60 |
+    CSR    |     61.64 |     27.18 |     -1.00 |    181.30 |    161.43 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |    281.95 |    294.77 |     -1.00 |     63.93 |     85.07 |
+    HYB    |    417.30 |    466.42 |     -1.00 |    586.18 |     35.48 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      2.33 |      3.26 |     -1.00 |     27.05 |     29.88 |
+    CSR    |      4.33 |      1.70 |     -1.00 |     29.22 |     31.34 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     29.03 |     29.97 |     -1.00 |      2.58 |      4.76 |
+    HYB    |     25.26 |     28.28 |     -1.00 |     52.63 |      3.14 |
+Input matrix has shape (72000,72000) and 28715634 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |    123.33 |    124.31 |     -1.00 |    446.45 |    460.82 |
+    CSR    |    180.22 |     79.00 |     -1.00 |    494.82 |    519.16 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |    652.95 |    670.19 |     -1.00 |    102.80 |    136.89 |
+    HYB    |   1149.69 |   1272.95 |     -1.00 |   1588.19 |     90.25 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      4.25 |      5.18 |     -1.00 |     80.87 |     84.21 |
+    CSR    |      8.41 |      3.05 |     -1.00 |     84.99 |     88.44 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     72.38 |     73.11 |     -1.00 |      3.71 |      5.10 |
+    HYB    |     88.05 |     93.37 |     -1.00 |    168.92 |      3.67 |
+Input matrix has shape (3542400,3542400) and 96845792 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |    403.80 |    711.42 |     -1.00 |   1252.94 |   1394.70 |
+    CSR    |    643.59 |    267.25 |     -1.00 |   1196.61 |   1331.81 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |   2034.37 |   2395.18 |     -1.00 |    270.64 |    364.36 |
+    HYB    |   3422.11 |   4135.38 |     -1.00 |   4674.16 |    271.29 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     12.21 |     20.25 |     -1.00 |    244.74 |    256.25 |
+    CSR    |     28.15 |      9.02 |     -1.00 |    255.72 |    266.05 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |    178.24 |    188.45 |     -1.00 |      8.58 |     12.22 |
+    HYB    |    233.55 |    253.56 |     -1.00 |    477.93 |      8.58 |
+Input matrix has shape (259789,259789) and 4242673 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     14.83 |     37.67 |     -1.00 |     74.61 |     61.50 |
+    CSR    |     17.72 |      6.32 |     -1.00 |     57.73 |     63.95 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |    115.51 |    136.20 |     -1.00 |     22.32 |     29.75 |
+    HYB    |    132.43 |    178.50 |     -1.00 |    210.76 |      6.56 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      1.98 |      2.51 |     -1.00 |     11.67 |     16.28 |
+    CSR    |      3.25 |      1.96 |     -1.00 |     12.66 |     18.31 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |      8.28 |      9.17 |     -1.00 |      1.52 |      2.36 |
+    HYB    |     10.23 |     12.72 |     -1.00 |     21.79 |      3.02 |
+Input matrix has shape (181343,181343) and 11063545 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     46.81 |     62.26 |     -1.00 |     -1.00 |    175.02 |
+    CSR    |     71.41 |     31.28 |     -1.00 |     -1.00 |    188.60 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |    469.15 |    531.36 |     -1.00 |     -1.00 |     39.86 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      2.41 |      3.61 |     -1.00 |     -1.00 |     35.41 |
+    CSR    |      4.65 |      2.36 |     -1.00 |     -1.00 |     37.00 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     28.62 |     31.90 |     -1.00 |     -1.00 |      3.14 |
+Input matrix has shape (525825,525825) and 3674625 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     13.63 |     50.31 |     -1.00 |     68.22 |     81.29 |
+    CSR    |     21.59 |     10.66 |     -1.00 |     45.61 |     53.76 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     66.79 |    102.98 |     -1.00 |     10.09 |     13.00 |
+    HYB    |    112.91 |    162.26 |     -1.00 |    182.39 |      5.75 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      1.93 |      2.54 |     -1.00 |     10.01 |     13.66 |
+    CSR    |      3.26 |      2.02 |     -1.00 |     12.54 |     14.60 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |      3.87 |      4.86 |     -1.00 |      1.40 |      1.81 |
+    HYB    |      8.60 |     11.04 |     -1.00 |     18.51 |      1.41 |
+Input matrix has shape (19242,19242) and 9323432 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     39.00 |     38.58 |     -1.00 |     -1.00 |    166.80 |
+    CSR    |     58.63 |     26.03 |     -1.00 |     -1.00 |    188.50 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |    461.15 |    499.70 |     -1.00 |     -1.00 |     42.09 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      2.41 |      3.08 |     -1.00 |     -1.00 |     31.02 |
+    CSR    |      4.45 |      1.65 |     -1.00 |     -1.00 |     31.08 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     36.34 |     38.56 |     -1.00 |     -1.00 |      2.02 |
+Input matrix has shape (22209,22209) and 3226671 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     12.28 |     14.90 |     -1.00 |     50.32 |     35.43 |
+    CSR    |     12.25 |      4.59 |     -1.00 |     48.58 |     50.92 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     81.07 |     84.84 |     -1.00 |     15.96 |     21.08 |
+    HYB    |    109.81 |    119.70 |     -1.00 |    163.14 |      5.84 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      1.90 |      2.19 |     -1.00 |     11.80 |     15.88 |
+    CSR    |      3.59 |      1.37 |     -1.00 |     12.88 |     16.76 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     10.35 |     11.08 |     -1.00 |      1.42 |      2.05 |
+    HYB    |     11.05 |     13.27 |     -1.00 |     22.93 |      2.99 |
+Input matrix has shape (85623,85623) and 2374949 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      8.92 |     16.24 |     -1.00 |     -1.00 |     38.47 |
+    CSR    |     12.84 |      6.24 |     -1.00 |     -1.00 |     34.63 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     76.14 |     92.80 |     -1.00 |     -1.00 |      4.05 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      1.89 |      2.19 |     -1.00 |     -1.00 |     13.37 |
+    CSR    |      2.85 |      1.34 |     -1.00 |     -1.00 |     14.21 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |      8.68 |     10.97 |     -1.00 |     -1.00 |      4.47 |
+Input matrix has shape (659033,659033) and 5959282 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     21.25 |     73.42 |     -1.00 |     -1.00 |    137.77 |
+    CSR    |     34.44 |     18.54 |     -1.00 |     -1.00 |     98.35 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |    175.56 |    237.91 |     -1.00 |     -1.00 |     12.10 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      2.12 |      2.86 |     -1.00 |     -1.00 |     19.75 |
+    CSR    |      3.60 |      2.09 |     -1.00 |     -1.00 |     20.79 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     11.62 |     14.52 |     -1.00 |     -1.00 |      3.07 |
+Input matrix has shape (643994,643994) and 6175377 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     21.90 |     71.18 |     -1.00 |     -1.00 |    151.45 |
+    CSR    |     35.49 |     17.45 |     -1.00 |     -1.00 |    114.90 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |    182.00 |    245.96 |     -1.00 |     -1.00 |     13.50 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      2.13 |      2.88 |     -1.00 |     -1.00 |     19.70 |
+    CSR    |      3.68 |      2.12 |     -1.00 |     -1.00 |     20.97 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     11.58 |     14.45 |     -1.00 |     -1.00 |      3.11 |
+Input matrix has shape (155331,155331) and 11283503 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     46.97 |     58.18 |     -1.00 |     -1.00 |    164.62 |
+    CSR    |     73.00 |     31.65 |     -1.00 |     -1.00 |    181.56 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |    273.74 |    332.06 |     -1.00 |     -1.00 |     42.25 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      2.40 |      3.43 |     -1.00 |     -1.00 |     27.04 |
+    CSR    |      4.61 |      2.35 |     -1.00 |     -1.00 |     28.29 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     18.18 |     21.57 |     -1.00 |     -1.00 |      3.29 |
+Input matrix has shape (1228045,1228045) and 8580313 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     35.91 |    127.40 |     -1.00 |    188.94 |    201.11 |
+    CSR    |     58.50 |     25.25 |     -1.00 |    124.07 |    136.75 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |    227.01 |    318.76 |     -1.00 |     37.60 |     49.19 |
+    HYB    |    336.92 |    459.74 |     -1.00 |    526.10 |     25.58 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      2.27 |      3.45 |     -1.00 |     16.02 |     22.41 |
+    CSR    |      4.29 |      2.23 |     -1.00 |     17.75 |     23.46 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |      8.19 |      9.59 |     -1.00 |      1.86 |      3.51 |
+    HYB    |     13.41 |     16.90 |     -1.00 |     29.54 |      3.10 |
+Input matrix has shape (259156,259156) and 4429042 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     16.51 |     38.79 |     -1.00 |     69.26 |     73.35 |
+    CSR    |     29.41 |      6.43 |     -1.00 |     53.37 |     62.94 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |    115.37 |    136.89 |     -1.00 |     15.27 |     20.28 |
+    HYB    |    136.69 |    181.21 |     -1.00 |    208.64 |      7.14 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      2.00 |      2.54 |     -1.00 |     11.39 |     15.00 |
+    CSR    |      3.25 |      1.95 |     -1.00 |     12.48 |     16.05 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |      6.16 |      7.07 |     -1.00 |      1.45 |      2.08 |
+    HYB    |     10.05 |     12.61 |     -1.00 |     20.46 |      1.50 |
+Input matrix has shape (38120,38120) and 16171169 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     67.69 |     66.00 |     -1.00 |    358.78 |    375.81 |
+    CSR    |    102.00 |     44.99 |     -1.00 |    391.30 |    412.31 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |    460.32 |    466.08 |     -1.00 |    103.18 |    138.76 |
+    HYB    |    998.09 |   1064.33 |     -1.00 |   1354.67 |    103.12 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      2.74 |      3.62 |     -1.00 |     45.94 |     49.57 |
+    CSR    |      5.55 |      2.04 |     -1.00 |     48.25 |     51.87 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     56.96 |     57.87 |     -1.00 |      3.74 |      6.93 |
+    HYB    |     86.34 |     90.07 |     -1.00 |    131.77 |      3.74 |
+Input matrix has shape (1000005,1000005) and 3105536 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     11.63 |     74.36 |     -1.00 |     -1.00 |    116.22 |
+    CSR    |     17.22 |      9.29 |     -1.00 |     -1.00 |     60.27 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     82.57 |    152.05 |     -1.00 |     -1.00 |      5.27 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      1.92 |      2.52 |     -1.00 |     -1.00 |     15.85 |
+    CSR    |      3.05 |      1.92 |     -1.00 |     -1.00 |     16.78 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |      8.44 |     11.02 |     -1.00 |     -1.00 |      3.06 |
+Input matrix has shape (916428,916428) and 5105039 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     18.92 |     81.32 |     -1.00 |     -1.00 |    154.58 |
+    CSR    |     34.95 |      8.02 |     -1.00 |     -1.00 |    102.49 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |    207.20 |    280.80 |     -1.00 |     -1.00 |     12.82 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      2.00 |      2.76 |     -1.00 |     -1.00 |     18.69 |
+    CSR    |      3.41 |      2.00 |     -1.00 |     -1.00 |     19.87 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     12.19 |     15.24 |     -1.00 |     -1.00 |      3.12 |
+Input matrix has shape (1634989,1634989) and 19753078 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     87.35 |    199.66 |     -1.00 |     -1.00 |    442.62 |
+    CSR    |    131.05 |     56.47 |     -1.00 |     -1.00 |    370.29 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |    631.02 |    828.79 |     -1.00 |     -1.00 |     94.31 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      3.19 |      4.97 |     -1.00 |     -1.00 |     40.35 |
+    CSR    |      6.77 |      2.86 |     -1.00 |     -1.00 |     41.75 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    HYB    |     31.57 |     36.37 |     -1.00 |     -1.00 |      3.77 |
+Input matrix has shape (157464,157464) and 3866688 entries
+
+Host Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |     15.26 |     29.88 |     -1.00 |     55.09 |     60.22 |
+    CSR    |     26.17 |      5.95 |     -1.00 |     45.74 |     55.78 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |     97.81 |    111.56 |     -1.00 |     13.15 |     16.01 |
+    HYB    |    119.77 |    155.10 |     -1.00 |    178.30 |      6.57 |
+
+
+Device Conversions (milliseconds per conversion)
+ From \ To |    COO    |    CSR    |    DIA    |    ELL    |    HYB    |
+    COO    |      1.95 |      2.52 |     -1.00 |     11.39 |     14.39 |
+    CSR    |      3.15 |      1.97 |     -1.00 |     12.33 |     15.50 |
+    DIA    |     -1.00 |     -1.00 |     -1.00 |     -1.00 |     -1.00 |
+    ELL    |      5.83 |      6.72 |     -1.00 |      1.35 |      1.86 |
+    HYB    |     10.41 |     12.89 |     -1.00 |     22.05 |      1.38 |

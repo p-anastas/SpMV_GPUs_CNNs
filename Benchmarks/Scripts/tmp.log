@@ -1,0 +1,14 @@
+-----333SP_coord.mtx Benchmark Started at 17:55:17-----
+cuSPARSE
+File=/local/panastas/Full_suite/333SP_coord.mtx, n=3712815, m=2, n_z=7425625
+CuSPARCE-CSR : 3.761220 ms ( 3.948519 Gflops/s 63.176326 Gbytes/s)
+CuSPARCE-CSR to HYB : 29.595137 ms
+CuSPARCE-Hybrid : 0.789201 ms ( 18.818077 Gflops/s 301.089307 Gbytes/s)
+cuSP
+cuSP-coo: 2.414012 ms ( 6.152103 GFLOP/s 98.433662 GB/s) 
+cuSP-csr_vector: 1.097388 ms ( 13.533269 GFLOP/s 216.532364 GB/s) 
+cuSP-csr_scalar: 1.110830 ms ( 13.369504 GFLOP/s 213.912109 GB/s) 
+Refusing to convert to DIA format
+cuSP-ell: 0.875671 ms ( 16.959852 GFLOP/s 237.438049 GB/s) 
+cuSP-hyb: 0.874770 ms ( 16.977325 GFLOP/s 237.682648 GB/s) 
+bhSPARSE

@@ -1,0 +1,1250 @@
+rm -f _gpu_spmv_driver _cpu_spmv_driver
+/usr/local/cuda/bin/nvcc   -gencode=arch=compute_35,code=\"sm_35,compute_35\"  -o _gpu_spmv_driver gpu_spmv.cu  -Xptxas -v -Xcudafe -#  -Xcompiler -ffloat-store  -I./ -I./test   -lcusparse -O3
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>
+/home/users/panastas/Mine/merge-spmv-master/_gpu_spmv_driver [--csrmv | --hybmv | --bsrmv ] [--device=<device-id>] [--quiet] [--v] [--i=<timing iterations>] [--fp32] [--alpha=<alpha scalar (default: 1.0)>] [--beta=<beta scalar (default: 0.0)>] 
+	--mtx=<matrix market file> 
+	--dense=<cols>
+	--grid2d=<width>
+	--grid3d=<width>
+	--wheel=<spokes>

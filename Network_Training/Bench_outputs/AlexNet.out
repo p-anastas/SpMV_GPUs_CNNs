@@ -1,0 +1,636 @@
+libprotobuf WARNING google/protobuf/io/coded_stream.cc:487] Reading dangerously large protocol message.  If the message turns out to be larger than 2147483647 bytes, parsing will be halted for security reasons.  To increase the limit (or to disable these warnings), see CodedInputStream::SetTotalBytesLimit() in google/protobuf/io/coded_stream.h.
+mean-subtracted values: [('B', array([0, 0, 0])), ('G', array([34.4794 , 10.3774 ,  1.44179])), ('R', array([40.1584, 12.0457,  4.6718]))]
+successfully loaded ../Solverstates/DDVT_dataset_binary/Binary_NM_Caffenet_iter_5468.caffemodel
+Files=1632
+cuSPARSE-csr Average =  18.673 GB/s
+cuSPARSE-hyb Average =  16.773 GB/s
+bhSPARSE(CSR5) Average =  18.020 GB/s
+lightSpMV-warp Average =  17.755 GB/s
+merge-SpMV Average =  16.156 GB/s
+cuSPARSE-BSR(4) Average =  14.096 GB/s
+Ideal Average =  21.255 GB/s
+
+Predicted Average =  18.020 GFLOPs/s
+0 implementations were closer than 0.0%
+Average stats for 1632 arrays:	
+Predicted: cuSPARSE-csr= 0/1632
+Actual: cuSPARSE-csr= 500/1632
+Predicted: cuSPARSE-hyb= 0/1632
+Actual: cuSPARSE-hyb= 330/1632
+Predicted: bhSPARSE(CSR5)= 1632/1632
+Actual: bhSPARSE(CSR5)= 277/1632
+Predicted: lightSpMV-warp= 0/1632
+Actual: lightSpMV-warp= 363/1632
+Predicted: merge-SpMV= 0/1632
+Actual: merge-SpMV= 1/1632
+Predicted: cuSPARSE-BSR(4)= 0/1632
+Actual: cuSPARSE-BSR(4)= 161/1632
+Acc = 0.17 Acc_top2 = 0.17
+Augumented_block_arrays/ & 1632 & 0.17 & 0.17
+Augumented_block_arrays/ & 1632 & 0.97 & 1.14
+Files=7830
+cuSPARSE-csr Average =  8.947 GB/s
+cuSPARSE-hyb Average =  13.560 GB/s
+bhSPARSE(CSR5) Average =  17.826 GB/s
+lightSpMV-warp Average =  11.616 GB/s
+merge-SpMV Average =  16.657 GB/s
+cuSPARSE-BSR(4) Average =  10.665 GB/s
+Ideal Average =  19.835 GB/s
+
+Predicted Average =  17.826 GFLOPs/s
+0 implementations were closer than 0.0%
+Average stats for 7830 arrays:	
+Predicted: cuSPARSE-csr= 0/7830
+Actual: cuSPARSE-csr= 320/7830
+Predicted: cuSPARSE-hyb= 0/7830
+Actual: cuSPARSE-hyb= 146/7830
+Predicted: bhSPARSE(CSR5)= 7830/7830
+Actual: bhSPARSE(CSR5)= 4215/7830
+Predicted: lightSpMV-warp= 0/7830
+Actual: lightSpMV-warp= 474/7830
+Predicted: merge-SpMV= 0/7830
+Actual: merge-SpMV= 1489/7830
+Predicted: cuSPARSE-BSR(4)= 0/7830
+Actual: cuSPARSE-BSR(4)= 1186/7830
+Acc = 0.54 Acc_top2 = 0.73
+Div_small/ & 7830 & 0.54 & 0.73
+Div_small/ & 7830 & 1.99 & 2.22
+Files=550
+cuSPARSE-csr Average =  3.539 GB/s
+cuSPARSE-hyb Average =  6.207 GB/s
+bhSPARSE(CSR5) Average =  5.891 GB/s
+lightSpMV-warp Average =  4.925 GB/s
+merge-SpMV Average =  5.690 GB/s
+cuSPARSE-BSR(4) Average =  1.174 GB/s
+Ideal Average =  6.278 GB/s
+
+Predicted Average =  5.891 GFLOPs/s
+0 implementations were closer than 0.0%
+Average stats for 495 arrays:	
+Predicted: cuSPARSE-csr= 0/495
+Actual: cuSPARSE-csr= 0/495
+Predicted: cuSPARSE-hyb= 0/495
+Actual: cuSPARSE-hyb= 326/495
+Predicted: bhSPARSE(CSR5)= 495/495
+Actual: bhSPARSE(CSR5)= 114/495
+Predicted: lightSpMV-warp= 0/495
+Actual: lightSpMV-warp= 0/495
+Predicted: merge-SpMV= 0/495
+Actual: merge-SpMV= 55/495
+Predicted: cuSPARSE-BSR(4)= 0/495
+Actual: cuSPARSE-BSR(4)= 0/495
+Acc = 0.23 Acc_top2 = 0.34
+Powerlaw_cluster/ & 495 & 0.23 & 0.34
+Powerlaw_cluster/ & 495 & 1.66 & 1.77
+Files=1500
+cuSPARSE-csr Average =  0.332 GB/s
+cuSPARSE-hyb Average =  8.016 GB/s
+bhSPARSE(CSR5) Average =  9.692 GB/s
+lightSpMV-warp Average =  1.572 GB/s
+merge-SpMV Average =  9.870 GB/s
+cuSPARSE-BSR(4) Average =  0.861 GB/s
+Ideal Average =  9.944 GB/s
+
+Predicted Average =  9.692 GFLOPs/s
+0 implementations were closer than 0.0%
+Average stats for 1350 arrays:	
+Predicted: cuSPARSE-csr= 0/1350
+Actual: cuSPARSE-csr= 0/1350
+Predicted: cuSPARSE-hyb= 0/1350
+Actual: cuSPARSE-hyb= 0/1350
+Predicted: bhSPARSE(CSR5)= 1350/1350
+Actual: bhSPARSE(CSR5)= 345/1350
+Predicted: lightSpMV-warp= 0/1350
+Actual: lightSpMV-warp= 0/1350
+Predicted: merge-SpMV= 0/1350
+Actual: merge-SpMV= 1005/1350
+Predicted: cuSPARSE-BSR(4)= 0/1350
+Actual: cuSPARSE-BSR(4)= 0/1350
+Acc = 0.26 Acc_top2 = 1.0
+Powerlaw_seq/ & 1350 & 0.26 & 1.0
+Powerlaw_seq/ & 1350 & 29.15 & 29.91
+Files=6655
+cuSPARSE-csr Average =  11.945 GB/s
+cuSPARSE-hyb Average =  13.420 GB/s
+bhSPARSE(CSR5) Average =  16.287 GB/s
+lightSpMV-warp Average =  13.586 GB/s
+merge-SpMV Average =  14.357 GB/s
+cuSPARSE-BSR(4) Average =  7.628 GB/s
+Ideal Average =  17.938 GB/s
+
+Predicted Average =  16.287 GFLOPs/s
+0 implementations were closer than 0.0%
+Average stats for 6655 arrays:	
+Predicted: cuSPARSE-csr= 0/6655
+Actual: cuSPARSE-csr= 698/6655
+Predicted: cuSPARSE-hyb= 0/6655
+Actual: cuSPARSE-hyb= 838/6655
+Predicted: bhSPARSE(CSR5)= 6655/6655
+Actual: bhSPARSE(CSR5)= 3260/6655
+Predicted: lightSpMV-warp= 0/6655
+Actual: lightSpMV-warp= 1223/6655
+Predicted: merge-SpMV= 0/6655
+Actual: merge-SpMV= 280/6655
+Predicted: cuSPARSE-BSR(4)= 0/6655
+Actual: cuSPARSE-BSR(4)= 356/6655
+Acc = 0.49 Acc_top2 = 0.53
+Augumented_small/ & 6655 & 0.49 & 0.53
+Augumented_small/ & 6655 & 1.36 & 1.5
+Files=416
+cuSPARSE-csr Average =  8.672 GB/s
+cuSPARSE-hyb Average =  8.510 GB/s
+bhSPARSE(CSR5) Average =  11.365 GB/s
+lightSpMV-warp Average =  10.105 GB/s
+merge-SpMV Average =  8.251 GB/s
+cuSPARSE-BSR(4) Average =  6.052 GB/s
+Ideal Average =  13.584 GB/s
+
+Predicted Average =  11.365 GFLOPs/s
+0 implementations were closer than 0.0%
+Average stats for 416 arrays:	
+Predicted: cuSPARSE-csr= 0/416
+Actual: cuSPARSE-csr= 35/416
+Predicted: cuSPARSE-hyb= 0/416
+Actual: cuSPARSE-hyb= 32/416
+Predicted: bhSPARSE(CSR5)= 416/416
+Actual: bhSPARSE(CSR5)= 200/416
+Predicted: lightSpMV-warp= 0/416
+Actual: lightSpMV-warp= 109/416
+Predicted: merge-SpMV= 0/416
+Actual: merge-SpMV= 0/416
+Predicted: cuSPARSE-BSR(4)= 0/416
+Actual: cuSPARSE-BSR(4)= 40/416
+Acc = 0.48 Acc_top2 = 0.48
+Validate_set/ & 416 & 0.48 & 0.48
+Validate_set/ & 416 & 1.31 & 1.57
+Files=208
+cuSPARSE-csr Average =  13.207 GB/s
+cuSPARSE-hyb Average =  15.628 GB/s
+bhSPARSE(CSR5) Average =  16.818 GB/s
+lightSpMV-warp Average =  14.540 GB/s
+merge-SpMV Average =  14.869 GB/s
+cuSPARSE-BSR(4) Average =  9.541 GB/s
+Ideal Average =  18.809 GB/s
+
+Predicted Average =  16.818 GFLOPs/s
+0 implementations were closer than 0.0%
+Average stats for 208 arrays:	
+Predicted: cuSPARSE-csr= 0/208
+Actual: cuSPARSE-csr= 18/208
+Predicted: cuSPARSE-hyb= 0/208
+Actual: cuSPARSE-hyb= 70/208
+Predicted: bhSPARSE(CSR5)= 208/208
+Actual: bhSPARSE(CSR5)= 74/208
+Predicted: lightSpMV-warp= 0/208
+Actual: lightSpMV-warp= 15/208
+Predicted: merge-SpMV= 0/208
+Actual: merge-SpMV= 24/208
+Predicted: cuSPARSE-BSR(4)= 0/208
+Actual: cuSPARSE-BSR(4)= 7/208
+Acc = 0.36 Acc_top2 = 0.47
+Training_suite/ & 208 & 0.36 & 0.47
+Training_suite/ & 208 & 1.27 & 1.42
+Model Recall: 
+0.0
+0.0
+0.46
+0.0
+0.0
+0.0
+successfully loaded ../Solverstates/Small_dataset_Density/Density_Caffenet_iter_20000.caffemodel
+Files=1632
+cuSPARSE-csr Average =  18.673 GB/s
+cuSPARSE-hyb Average =  16.773 GB/s
+bhSPARSE(CSR5) Average =  18.020 GB/s
+lightSpMV-warp Average =  17.755 GB/s
+merge-SpMV Average =  16.156 GB/s
+cuSPARSE-BSR(4) Average =  14.096 GB/s
+Ideal Average =  21.255 GB/s
+
+Predicted Average =  18.020 GFLOPs/s
+0 implementations were closer than 0.0%
+Average stats for 1632 arrays:	
+Predicted: cuSPARSE-csr= 0/1632
+Actual: cuSPARSE-csr= 500/1632
+Predicted: cuSPARSE-hyb= 0/1632
+Actual: cuSPARSE-hyb= 330/1632
+Predicted: bhSPARSE(CSR5)= 1632/1632
+Actual: bhSPARSE(CSR5)= 277/1632
+Predicted: lightSpMV-warp= 0/1632
+Actual: lightSpMV-warp= 363/1632
+Predicted: merge-SpMV= 0/1632
+Actual: merge-SpMV= 1/1632
+Predicted: cuSPARSE-BSR(4)= 0/1632
+Actual: cuSPARSE-BSR(4)= 161/1632
+Acc = 0.17 Acc_top2 = 0.39
+Augumented_block_arrays/ & 1632 & 0.17 & 0.17 & 0.17 & 0.39
+Augumented_block_arrays/ & 1632 & 0.97 & 1.14 & 0.97 & 1.14
+Files=7830
+cuSPARSE-csr Average =  8.964 GB/s
+cuSPARSE-hyb Average =  13.567 GB/s
+bhSPARSE(CSR5) Average =  17.814 GB/s
+lightSpMV-warp Average =  11.628 GB/s
+merge-SpMV Average =  16.649 GB/s
+cuSPARSE-BSR(4) Average =  10.690 GB/s
+Ideal Average =  19.829 GB/s
+
+Predicted Average =  17.814 GFLOPs/s
+0 implementations were closer than 0.0%
+Average stats for 7810 arrays:	
+Predicted: cuSPARSE-csr= 0/7810
+Actual: cuSPARSE-csr= 320/7810
+Predicted: cuSPARSE-hyb= 0/7810
+Actual: cuSPARSE-hyb= 146/7810
+Predicted: bhSPARSE(CSR5)= 7810/7810
+Actual: bhSPARSE(CSR5)= 4195/7810
+Predicted: lightSpMV-warp= 0/7810
+Actual: lightSpMV-warp= 474/7810
+Predicted: merge-SpMV= 0/7810
+Actual: merge-SpMV= 1489/7810
+Predicted: cuSPARSE-BSR(4)= 0/7810
+Actual: cuSPARSE-BSR(4)= 1186/7810
+Acc = 0.54 Acc_top2 = 0.6
+Div_small/ & 7830 & 0.54 & 0.73 & 0.54 & 0.6
+Div_small/ & 7830 & 1.99 & 2.22 & 1.99 & 2.21
+Files=550
+cuSPARSE-csr Average =  3.539 GB/s
+cuSPARSE-hyb Average =  6.207 GB/s
+bhSPARSE(CSR5) Average =  5.891 GB/s
+lightSpMV-warp Average =  4.925 GB/s
+merge-SpMV Average =  5.690 GB/s
+cuSPARSE-BSR(4) Average =  1.174 GB/s
+Ideal Average =  6.278 GB/s
+
+Predicted Average =  5.891 GFLOPs/s
+0 implementations were closer than 0.0%
+Average stats for 495 arrays:	
+Predicted: cuSPARSE-csr= 0/495
+Actual: cuSPARSE-csr= 0/495
+Predicted: cuSPARSE-hyb= 0/495
+Actual: cuSPARSE-hyb= 326/495
+Predicted: bhSPARSE(CSR5)= 495/495
+Actual: bhSPARSE(CSR5)= 114/495
+Predicted: lightSpMV-warp= 0/495
+Actual: lightSpMV-warp= 0/495
+Predicted: merge-SpMV= 0/495
+Actual: merge-SpMV= 55/495
+Predicted: cuSPARSE-BSR(4)= 0/495
+Actual: cuSPARSE-BSR(4)= 0/495
+Acc = 0.23 Acc_top2 = 0.23
+Powerlaw_cluster/ & 495 & 0.23 & 0.34 & 0.23 & 0.23
+Powerlaw_cluster/ & 495 & 1.66 & 1.77 & 1.66 & 1.77
+Files=1500
+cuSPARSE-csr Average =  0.332 GB/s
+cuSPARSE-hyb Average =  8.016 GB/s
+bhSPARSE(CSR5) Average =  9.692 GB/s
+lightSpMV-warp Average =  1.572 GB/s
+merge-SpMV Average =  9.870 GB/s
+cuSPARSE-BSR(4) Average =  0.861 GB/s
+Ideal Average =  9.944 GB/s
+
+Predicted Average =  9.692 GFLOPs/s
+0 implementations were closer than 0.0%
+Average stats for 1350 arrays:	
+Predicted: cuSPARSE-csr= 0/1350
+Actual: cuSPARSE-csr= 0/1350
+Predicted: cuSPARSE-hyb= 0/1350
+Actual: cuSPARSE-hyb= 0/1350
+Predicted: bhSPARSE(CSR5)= 1350/1350
+Actual: bhSPARSE(CSR5)= 345/1350
+Predicted: lightSpMV-warp= 0/1350
+Actual: lightSpMV-warp= 0/1350
+Predicted: merge-SpMV= 0/1350
+Actual: merge-SpMV= 1005/1350
+Predicted: cuSPARSE-BSR(4)= 0/1350
+Actual: cuSPARSE-BSR(4)= 0/1350
+Acc = 0.26 Acc_top2 = 0.26
+Powerlaw_seq/ & 1350 & 0.26 & 1.0 & 0.26 & 0.26
+Powerlaw_seq/ & 1350 & 29.15 & 29.91 & 29.15 & 29.91
+Files=6655
+cuSPARSE-csr Average =  11.945 GB/s
+cuSPARSE-hyb Average =  13.420 GB/s
+bhSPARSE(CSR5) Average =  16.287 GB/s
+lightSpMV-warp Average =  13.586 GB/s
+merge-SpMV Average =  14.357 GB/s
+cuSPARSE-BSR(4) Average =  7.628 GB/s
+Ideal Average =  17.938 GB/s
+
+Predicted Average =  16.287 GFLOPs/s
+0 implementations were closer than 0.0%
+Average stats for 6655 arrays:	
+Predicted: cuSPARSE-csr= 0/6655
+Actual: cuSPARSE-csr= 698/6655
+Predicted: cuSPARSE-hyb= 0/6655
+Actual: cuSPARSE-hyb= 838/6655
+Predicted: bhSPARSE(CSR5)= 6655/6655
+Actual: bhSPARSE(CSR5)= 3260/6655
+Predicted: lightSpMV-warp= 0/6655
+Actual: lightSpMV-warp= 1223/6655
+Predicted: merge-SpMV= 0/6655
+Actual: merge-SpMV= 280/6655
+Predicted: cuSPARSE-BSR(4)= 0/6655
+Actual: cuSPARSE-BSR(4)= 356/6655
+Acc = 0.49 Acc_top2 = 0.67
+Augumented_small/ & 6655 & 0.49 & 0.53 & 0.49 & 0.67
+Augumented_small/ & 6655 & 1.36 & 1.5 & 1.36 & 1.5
+Files=416
+cuSPARSE-csr Average =  8.672 GB/s
+cuSPARSE-hyb Average =  8.510 GB/s
+bhSPARSE(CSR5) Average =  11.365 GB/s
+lightSpMV-warp Average =  10.105 GB/s
+merge-SpMV Average =  8.251 GB/s
+cuSPARSE-BSR(4) Average =  6.052 GB/s
+Ideal Average =  13.584 GB/s
+
+Predicted Average =  11.365 GFLOPs/s
+0 implementations were closer than 0.0%
+Average stats for 416 arrays:	
+Predicted: cuSPARSE-csr= 0/416
+Actual: cuSPARSE-csr= 35/416
+Predicted: cuSPARSE-hyb= 0/416
+Actual: cuSPARSE-hyb= 32/416
+Predicted: bhSPARSE(CSR5)= 416/416
+Actual: bhSPARSE(CSR5)= 200/416
+Predicted: lightSpMV-warp= 0/416
+Actual: lightSpMV-warp= 109/416
+Predicted: merge-SpMV= 0/416
+Actual: merge-SpMV= 0/416
+Predicted: cuSPARSE-BSR(4)= 0/416
+Actual: cuSPARSE-BSR(4)= 40/416
+Acc = 0.48 Acc_top2 = 0.74
+Validate_set/ & 416 & 0.48 & 0.48 & 0.48 & 0.74
+Validate_set/ & 416 & 1.31 & 1.57 & 1.31 & 1.57
+Files=208
+cuSPARSE-csr Average =  13.207 GB/s
+cuSPARSE-hyb Average =  15.628 GB/s
+bhSPARSE(CSR5) Average =  16.818 GB/s
+lightSpMV-warp Average =  14.540 GB/s
+merge-SpMV Average =  14.869 GB/s
+cuSPARSE-BSR(4) Average =  9.541 GB/s
+Ideal Average =  18.809 GB/s
+
+Predicted Average =  16.818 GFLOPs/s
+0 implementations were closer than 0.0%
+Average stats for 208 arrays:	
+Predicted: cuSPARSE-csr= 0/208
+Actual: cuSPARSE-csr= 18/208
+Predicted: cuSPARSE-hyb= 0/208
+Actual: cuSPARSE-hyb= 70/208
+Predicted: bhSPARSE(CSR5)= 208/208
+Actual: bhSPARSE(CSR5)= 74/208
+Predicted: lightSpMV-warp= 0/208
+Actual: lightSpMV-warp= 15/208
+Predicted: merge-SpMV= 0/208
+Actual: merge-SpMV= 24/208
+Predicted: cuSPARSE-BSR(4)= 0/208
+Actual: cuSPARSE-BSR(4)= 7/208
+Acc = 0.36 Acc_top2 = 0.43
+Training_suite/ & 208 & 0.36 & 0.47 & 0.36 & 0.43
+Training_suite/ & 208 & 1.27 & 1.42 & 1.27 & 1.42
+Model Recall: 
+0.0
+0.0
+0.46
+0.0
+0.0
+0.0
+successfully loaded ../Solverstates/Total_dataset_binary/Density_Caffenet_iter_25570.caffemodel
+Files=1632
+cuSPARSE-csr Average =  18.673 GB/s
+cuSPARSE-hyb Average =  16.773 GB/s
+bhSPARSE(CSR5) Average =  18.020 GB/s
+lightSpMV-warp Average =  17.755 GB/s
+merge-SpMV Average =  16.156 GB/s
+cuSPARSE-BSR(4) Average =  14.096 GB/s
+Ideal Average =  21.255 GB/s
+
+Predicted Average =  18.020 GFLOPs/s
+0 implementations were closer than 0.0%
+Average stats for 1632 arrays:	
+Predicted: cuSPARSE-csr= 0/1632
+Actual: cuSPARSE-csr= 500/1632
+Predicted: cuSPARSE-hyb= 0/1632
+Actual: cuSPARSE-hyb= 330/1632
+Predicted: bhSPARSE(CSR5)= 1632/1632
+Actual: bhSPARSE(CSR5)= 277/1632
+Predicted: lightSpMV-warp= 0/1632
+Actual: lightSpMV-warp= 363/1632
+Predicted: merge-SpMV= 0/1632
+Actual: merge-SpMV= 1/1632
+Predicted: cuSPARSE-BSR(4)= 0/1632
+Actual: cuSPARSE-BSR(4)= 161/1632
+Acc = 0.17 Acc_top2 = 0.17
+Augumented_block_arrays/ & 1632 & 0.17 & 0.17 & 0.17 & 0.39 & 0.17 & 0.17
+Augumented_block_arrays/ & 1632 & 0.97 & 1.14 & 0.97 & 1.14 & 0.97 & 1.14
+Files=7830
+cuSPARSE-csr Average =  8.964 GB/s
+cuSPARSE-hyb Average =  13.567 GB/s
+bhSPARSE(CSR5) Average =  17.814 GB/s
+lightSpMV-warp Average =  11.628 GB/s
+merge-SpMV Average =  16.649 GB/s
+cuSPARSE-BSR(4) Average =  10.690 GB/s
+Ideal Average =  19.829 GB/s
+
+Predicted Average =  17.814 GFLOPs/s
+0 implementations were closer than 0.0%
+Average stats for 7810 arrays:	
+Predicted: cuSPARSE-csr= 0/7810
+Actual: cuSPARSE-csr= 320/7810
+Predicted: cuSPARSE-hyb= 0/7810
+Actual: cuSPARSE-hyb= 146/7810
+Predicted: bhSPARSE(CSR5)= 7810/7810
+Actual: bhSPARSE(CSR5)= 4195/7810
+Predicted: lightSpMV-warp= 0/7810
+Actual: lightSpMV-warp= 474/7810
+Predicted: merge-SpMV= 0/7810
+Actual: merge-SpMV= 1489/7810
+Predicted: cuSPARSE-BSR(4)= 0/7810
+Actual: cuSPARSE-BSR(4)= 1186/7810
+Acc = 0.54 Acc_top2 = 0.73
+Div_small/ & 7830 & 0.54 & 0.73 & 0.54 & 0.6 & 0.54 & 0.73
+Div_small/ & 7830 & 1.99 & 2.22 & 1.99 & 2.21 & 1.99 & 2.21
+Files=550
+cuSPARSE-csr Average =  3.539 GB/s
+cuSPARSE-hyb Average =  6.207 GB/s
+bhSPARSE(CSR5) Average =  5.891 GB/s
+lightSpMV-warp Average =  4.925 GB/s
+merge-SpMV Average =  5.690 GB/s
+cuSPARSE-BSR(4) Average =  1.174 GB/s
+Ideal Average =  6.278 GB/s
+
+Predicted Average =  5.891 GFLOPs/s
+0 implementations were closer than 0.0%
+Average stats for 495 arrays:	
+Predicted: cuSPARSE-csr= 0/495
+Actual: cuSPARSE-csr= 0/495
+Predicted: cuSPARSE-hyb= 0/495
+Actual: cuSPARSE-hyb= 326/495
+Predicted: bhSPARSE(CSR5)= 495/495
+Actual: bhSPARSE(CSR5)= 114/495
+Predicted: lightSpMV-warp= 0/495
+Actual: lightSpMV-warp= 0/495
+Predicted: merge-SpMV= 0/495
+Actual: merge-SpMV= 55/495
+Predicted: cuSPARSE-BSR(4)= 0/495
+Actual: cuSPARSE-BSR(4)= 0/495
+Acc = 0.23 Acc_top2 = 0.34
+Powerlaw_cluster/ & 495 & 0.23 & 0.34 & 0.23 & 0.23 & 0.23 & 0.34
+Powerlaw_cluster/ & 495 & 1.66 & 1.77 & 1.66 & 1.77 & 1.66 & 1.77
+Files=1500
+cuSPARSE-csr Average =  0.332 GB/s
+cuSPARSE-hyb Average =  8.016 GB/s
+bhSPARSE(CSR5) Average =  9.692 GB/s
+lightSpMV-warp Average =  1.572 GB/s
+merge-SpMV Average =  9.870 GB/s
+cuSPARSE-BSR(4) Average =  0.861 GB/s
+Ideal Average =  9.944 GB/s
+
+Predicted Average =  9.692 GFLOPs/s
+0 implementations were closer than 0.0%
+Average stats for 1350 arrays:	
+Predicted: cuSPARSE-csr= 0/1350
+Actual: cuSPARSE-csr= 0/1350
+Predicted: cuSPARSE-hyb= 0/1350
+Actual: cuSPARSE-hyb= 0/1350
+Predicted: bhSPARSE(CSR5)= 1350/1350
+Actual: bhSPARSE(CSR5)= 345/1350
+Predicted: lightSpMV-warp= 0/1350
+Actual: lightSpMV-warp= 0/1350
+Predicted: merge-SpMV= 0/1350
+Actual: merge-SpMV= 1005/1350
+Predicted: cuSPARSE-BSR(4)= 0/1350
+Actual: cuSPARSE-BSR(4)= 0/1350
+Acc = 0.26 Acc_top2 = 1.0
+Powerlaw_seq/ & 1350 & 0.26 & 1.0 & 0.26 & 0.26 & 0.26 & 1.0
+Powerlaw_seq/ & 1350 & 29.15 & 29.91 & 29.15 & 29.91 & 29.15 & 29.91
+Files=6655
+cuSPARSE-csr Average =  11.945 GB/s
+cuSPARSE-hyb Average =  13.420 GB/s
+bhSPARSE(CSR5) Average =  16.287 GB/s
+lightSpMV-warp Average =  13.586 GB/s
+merge-SpMV Average =  14.357 GB/s
+cuSPARSE-BSR(4) Average =  7.628 GB/s
+Ideal Average =  17.938 GB/s
+
+Predicted Average =  16.287 GFLOPs/s
+0 implementations were closer than 0.0%
+Average stats for 6655 arrays:	
+Predicted: cuSPARSE-csr= 0/6655
+Actual: cuSPARSE-csr= 698/6655
+Predicted: cuSPARSE-hyb= 0/6655
+Actual: cuSPARSE-hyb= 838/6655
+Predicted: bhSPARSE(CSR5)= 6655/6655
+Actual: bhSPARSE(CSR5)= 3260/6655
+Predicted: lightSpMV-warp= 0/6655
+Actual: lightSpMV-warp= 1223/6655
+Predicted: merge-SpMV= 0/6655
+Actual: merge-SpMV= 280/6655
+Predicted: cuSPARSE-BSR(4)= 0/6655
+Actual: cuSPARSE-BSR(4)= 356/6655
+Acc = 0.49 Acc_top2 = 0.53
+Augumented_small/ & 6655 & 0.49 & 0.53 & 0.49 & 0.67 & 0.49 & 0.53
+Augumented_small/ & 6655 & 1.36 & 1.5 & 1.36 & 1.5 & 1.36 & 1.5
+Files=416
+cuSPARSE-csr Average =  8.672 GB/s
+cuSPARSE-hyb Average =  8.510 GB/s
+bhSPARSE(CSR5) Average =  11.365 GB/s
+lightSpMV-warp Average =  10.105 GB/s
+merge-SpMV Average =  8.251 GB/s
+cuSPARSE-BSR(4) Average =  6.052 GB/s
+Ideal Average =  13.584 GB/s
+
+Predicted Average =  11.365 GFLOPs/s
+0 implementations were closer than 0.0%
+Average stats for 416 arrays:	
+Predicted: cuSPARSE-csr= 0/416
+Actual: cuSPARSE-csr= 35/416
+Predicted: cuSPARSE-hyb= 0/416
+Actual: cuSPARSE-hyb= 32/416
+Predicted: bhSPARSE(CSR5)= 416/416
+Actual: bhSPARSE(CSR5)= 200/416
+Predicted: lightSpMV-warp= 0/416
+Actual: lightSpMV-warp= 109/416
+Predicted: merge-SpMV= 0/416
+Actual: merge-SpMV= 0/416
+Predicted: cuSPARSE-BSR(4)= 0/416
+Actual: cuSPARSE-BSR(4)= 40/416
+Acc = 0.48 Acc_top2 = 0.48
+Validate_set/ & 416 & 0.48 & 0.48 & 0.48 & 0.74 & 0.48 & 0.48
+Validate_set/ & 416 & 1.31 & 1.57 & 1.31 & 1.57 & 1.31 & 1.57
+Files=208
+cuSPARSE-csr Average =  13.207 GB/s
+cuSPARSE-hyb Average =  15.628 GB/s
+bhSPARSE(CSR5) Average =  16.818 GB/s
+lightSpMV-warp Average =  14.540 GB/s
+merge-SpMV Average =  14.869 GB/s
+cuSPARSE-BSR(4) Average =  9.541 GB/s
+Ideal Average =  18.809 GB/s
+
+Predicted Average =  16.818 GFLOPs/s
+0 implementations were closer than 0.0%
+Average stats for 208 arrays:	
+Predicted: cuSPARSE-csr= 0/208
+Actual: cuSPARSE-csr= 18/208
+Predicted: cuSPARSE-hyb= 0/208
+Actual: cuSPARSE-hyb= 70/208
+Predicted: bhSPARSE(CSR5)= 208/208
+Actual: bhSPARSE(CSR5)= 74/208
+Predicted: lightSpMV-warp= 0/208
+Actual: lightSpMV-warp= 15/208
+Predicted: merge-SpMV= 0/208
+Actual: merge-SpMV= 24/208
+Predicted: cuSPARSE-BSR(4)= 0/208
+Actual: cuSPARSE-BSR(4)= 7/208
+Acc = 0.36 Acc_top2 = 0.47
+Training_suite/ & 208 & 0.36 & 0.47 & 0.36 & 0.43 & 0.36 & 0.47
+Training_suite/ & 208 & 1.27 & 1.42 & 1.27 & 1.42 & 1.27 & 1.42
+Model Recall: 
+0.0
+0.0
+0.46
+0.0
+0.0
+0.0
+\hline
+  & Binary_NM_Caffenet_iter_5468.caffemodel & Density_Caffenet_iter_20000.caffemodel & Density_Caffenet_iter_25570.caffemodel \\
+\hline
+Sub-set & Size & Acc. & Top 2 Acc. & Acc. & Top 2 Acc. & Acc. & Top 2 Acc.  \\
+\hline
+Augumented_block_arrays/ & 1632 & 0.17 & 0.17 & 0.17 & 0.39 & 0.17 & 0.17 \\
+Div_small/ & 7830 & 0.54 & 0.73 & 0.54 & 0.6 & 0.54 & 0.73 \\
+Powerlaw_cluster/ & 495 & 0.23 & 0.34 & 0.23 & 0.23 & 0.23 & 0.34 \\
+Powerlaw_seq/ & 1350 & 0.26 & 1.0 & 0.26 & 0.26 & 0.26 & 1.0 \\
+Augumented_small/ & 6655 & 0.49 & 0.53 & 0.49 & 0.67 & 0.49 & 0.53 \\
+Validate_set/ & 416 & 0.48 & 0.48 & 0.48 & 0.74 & 0.48 & 0.48 \\
+\hline
+Training_suite/ & 208 & 0.36 & 0.47 & 0.36 & 0.43 & 0.36 & 0.47 \\
+\hline
+
+Performance
+\hline
+  & Binary_NM_Caffenet_iter_5468.caffemodel & Density_Caffenet_iter_20000.caffemodel & Density_Caffenet_iter_25570.caffemodel \\
+\hline
+Sub-set & Size & Predicted & Maximum & Predicted & Maximum & Predicted & Maximum  \\
+\hline
+Augumented_block_arrays/ & 1632 & 0.97 & 1.14 & 0.97 & 1.14 & 0.97 & 1.14 \\
+Div_small/ & 7830 & 1.99 & 2.22 & 1.99 & 2.21 & 1.99 & 2.21 \\
+Powerlaw_cluster/ & 495 & 1.66 & 1.77 & 1.66 & 1.77 & 1.66 & 1.77 \\
+Powerlaw_seq/ & 1350 & 29.15 & 29.91 & 29.15 & 29.91 & 29.15 & 29.91 \\
+Augumented_small/ & 6655 & 1.36 & 1.5 & 1.36 & 1.5 & 1.36 & 1.5 \\
+Validate_set/ & 416 & 1.31 & 1.57 & 1.31 & 1.57 & 1.31 & 1.57 \\
+\hline
+Training_suite/ & 208 & 1.27 & 1.42 & 1.27 & 1.42 & 1.27 & 1.42 \\
+\hline
+\hline
+  & Binary_NM_Caffenet_iter_5468.caffemodel & Density_Caffenet_iter_20000.caffemodel & Density_Caffenet_iter_25570.caffemodel \\
+\hline
+Format & Size  & Acc.  & Acc.  & Acc.  \\
+\hline
+cuSPARSE-csr & 500 & 820 & 820 & 820 & 1518 & 1553 & 1571 & 0.00 & 0.0 & 0.00 & 0.0 & 0.00 & 0.0 \\
+cuSPARSE-hyb & 330 & 476 & 802 & 802 & 1640 & 1672 & 1742 & 0.00 & 0.0 & 0.00 & 0.0 & 0.00 & 0.0 \\
+bhSPARSE(CSR5) & 277 & 4492 & 4606 & 4951 & 8211 & 8411 & 8485 & 0.46 & 1.0 & 0.46 & 1.0 & 0.46 & 1.0 \\
+lightSpMV-warp & 363 & 837 & 837 & 837 & 2060 & 2169 & 2184 & 0.00 & 0.0 & 0.00 & 0.0 & 0.00 & 0.0 \\
+merge-SpMV & 1 & 1490 & 1545 & 2550 & 2830 & 2830 & 2854 & 0.00 & 0.0 & 0.00 & 0.0 & 0.00 & 0.0 \\
+\hline
+cuSPARSE-BSR(4) & 161 & 1347 & 1347 & 1347 & 1703 & 1743 & 1750 & 0.00 & 0.0 & 0.00 & 0.0 & 0.00 & 0.0 \\
+\hline

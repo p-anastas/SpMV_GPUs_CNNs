@@ -1,0 +1,1456 @@
+-----ASIC_680ks.mtx Benchmark Started at 13:46:13-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 50.470114 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 3.431029 ms ( 1.357713 Gflops/s 18.352687 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 14.030933 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.371889 ms ( 3.395575 Gflops/s 45.899196 Gbytes/s)
+------End of ASIC_680ks.mtx Benchmark at 13:46:32------
+-----BenElechi1.mtx Benchmark Started at 13:46:32-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 159.326077 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 2.224131 ms ( 11.825291 Gflops/s 120.906071 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 18.487930 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.867751 ms ( 30.309389 Gflops/s 309.894205 Gbytes/s)
+------End of BenElechi1.mtx Benchmark at 13:48:28------
+-----Chebyshev4.mtx Benchmark Started at 13:48:28-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 134.059906 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 9.063869 ms ( 1.186637 Gflops/s 12.046746 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 60.631037 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 4.072230 ms ( 2.641187 Gflops/s 26.813350 Gbytes/s)
+------End of Chebyshev4.mtx Benchmark at 13:49:19------
+-----CurlCurl_1.mtx Benchmark Started at 13:49:19-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 43.510914 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 1.951220 ms ( 2.533872 Gflops/s 28.124068 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 12.470007 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.725820 ms ( 6.811801 Gflops/s 75.605851 Gbytes/s)
+------End of CurlCurl_1.mtx Benchmark at 13:49:38------
+-----CurlCurl_2.mtx Benchmark Started at 13:49:38-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 157.582998 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 7.053080 ms ( 2.529899 Gflops/s 28.043420 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 43.198109 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 2.638478 ms ( 6.762829 Gflops/s 74.964603 Gbytes/s)
+------End of CurlCurl_2.mtx Benchmark at 13:51:07------
+-----CurlCurl_3.mtx Benchmark Started at 13:51:07-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 240.003824 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 10.645590 ms ( 2.544644 Gflops/s 28.195914 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 65.449953 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 3.904409 ms ( 6.938114 Gflops/s 76.877731 Gbytes/s)
+------End of CurlCurl_3.mtx Benchmark at 13:53:21------
+-----CurlCurl_4.mtx Benchmark Started at 13:53:21-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 584.182024 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 20.817361 ms ( 2.547476 Gflops/s 28.219221 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 129.671097 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 7.788482 ms ( 6.808995 Gflops/s 75.425445 Gbytes/s)
+------End of CurlCurl_4.mtx Benchmark at 13:58:00------
+-----Emilia_923.mtx Benchmark Started at 13:58:00-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 504.689932 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 7.587328 ms ( 10.808866 Gflops/s 111.008696 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 106.483936 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 5.501001 ms ( 14.908271 Gflops/s 153.110207 Gbytes/s)
+------End of Emilia_923.mtx Benchmark at 14:04:21------
+-----F1.mtx Benchmark Started at 14:04:21-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 327.264786 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 4.514821 ms ( 11.888452 Gflops/s 120.712049 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 71.015120 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 4.047389 ms ( 13.261445 Gflops/s 134.653042 Gbytes/s)
+------End of F1.mtx Benchmark at 14:08:33------
+-----F2.mtx Benchmark Started at 14:08:33-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 62.493086 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.916731 ms ( 11.550352 Gflops/s 117.375520 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 14.513969 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.782290 ms ( 13.535360 Gflops/s 137.547314 Gbytes/s)
+------End of F2.mtx Benchmark at 14:09:21------
+-----FEM_3D_thermal1.mtx Benchmark Started at 14:09:21-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 6.697893 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.174689 ms ( 4.931499 Gflops/s 51.771461 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 1.738071 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.082958 ms ( 10.384564 Gflops/s 109.018393 Gbytes/s)
+------End of FEM_3D_thermal1.mtx Benchmark at 14:09:26------
+-----FEM_3D_thermal2.mtx Benchmark Started at 14:09:26-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 50.122976 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 1.360250 ms ( 5.130382 Gflops/s 53.913344 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 10.384083 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.516391 ms ( 13.514183 Gflops/s 142.015698 Gbytes/s)
+------End of FEM_3D_thermal2.mtx Benchmark at 14:09:50------
+-----Freescale1.mtx Benchmark Started at 14:09:50-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 435.760021 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 18.938558 ms ( 1.998077 Gflops/s 24.325878 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 99.695921 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 7.063270 ms ( 5.357391 Gflops/s 65.224334 Gbytes/s)
+------End of Freescale1.mtx Benchmark at 14:13:16------
+-----FullChip.mtx Benchmark Started at 14:13:16-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 3415.307999 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 397.487710 ms ( 0.133951 Gflops/s 1.519866 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 2360.430002 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 75.372920 ms ( 0.706407 Gflops/s 8.015188 Gbytes/s)
+------End of FullChip.mtx Benchmark at 14:18:48------
+-----G2_circuit.mtx Benchmark Started at 14:18:48-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 14.226913 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.718880 ms ( 2.021685 Gflops/s 25.228043 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 4.534960 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.273511 ms ( 5.313665 Gflops/s 66.307757 Gbytes/s)
+------End of G2_circuit.mtx Benchmark at 14:18:56------
+-----G3_circuit.mtx Benchmark Started at 14:18:56-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 147.947073 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 7.565889 ms ( 2.025096 Gflops/s 25.280305 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 43.910980 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 2.841022 ms ( 5.393007 Gflops/s 67.323657 Gbytes/s)
+------End of G3_circuit.mtx Benchmark at 14:20:13------
+-----GL7d17.mtx Benchmark Started at 14:20:13-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 633.219957 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 35.446332 ms ( 1.465771 Gflops/s 15.706267 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 349.551916 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 29.276681 ms ( 1.774661 Gflops/s 19.016143 Gbytes/s)
+------End of GL7d17.mtx Benchmark at 14:24:32------
+-----GL7d18.mtx Benchmark Started at 14:24:32-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 867.661953 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 48.163769 ms ( 1.477897 Gflops/s 15.753298 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 480.745077 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 40.870540 ms ( 1.741623 Gflops/s 18.564428 Gbytes/s)
+------End of GL7d18.mtx Benchmark at 14:30:25------
+-----GL7d19.mtx Benchmark Started at 14:30:25-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 907.406807 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 51.172080 ms ( 1.458714 Gflops/s 15.483475 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 505.944014 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 43.144841 ms ( 1.730113 Gflops/s 18.364226 Gbytes/s)
+------End of GL7d19.mtx Benchmark at 14:36:35------
+-----GL7d20.mtx Benchmark Started at 14:36:35-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 731.552124 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 40.818281 ms ( 1.464691 Gflops/s 15.492147 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 407.600164 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 34.591660 ms ( 1.728341 Gflops/s 18.280788 Gbytes/s)
+------End of GL7d20.mtx Benchmark at 14:41:32------
+-----Ga41As41H72.mtx Benchmark Started at 14:41:32-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 333.450079 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 7.989340 ms ( 4.628286 Gflops/s 47.088224 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 63.272953 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 3.707230 ms ( 9.974280 Gflops/s 101.478412 Gbytes/s)
+------End of Ga41As41H72.mtx Benchmark at 14:44:30------
+-----Ge87H76.mtx Benchmark Started at 14:44:30-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 114.369869 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 3.411372 ms ( 4.626992 Gflops/s 47.064804 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 28.107166 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.599061 ms ( 9.871034 Gflops/s 100.406108 Gbytes/s)
+------End of Ge87H76.mtx Benchmark at 14:45:41------
+-----Ge99H100.mtx Benchmark Started at 14:45:41-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 121.860027 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 3.593159 ms ( 4.704159 Gflops/s 47.796258 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 29.352903 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.670940 ms ( 10.115738 Gflops/s 102.780200 Gbytes/s)
+------End of Ge99H100.mtx Benchmark at 14:46:58------
+-----Geo_1438.mtx Benchmark Started at 14:46:58-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 773.743153 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 11.763570 ms ( 10.737674 Gflops/s 110.310459 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 159.572124 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 8.276949 ms ( 15.260863 Gflops/s 156.778162 Gbytes/s)
+------End of Geo_1438.mtx Benchmark at 14:56:53------
+-----Hamrle3.mtx Benchmark Started at 14:56:53-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 112.827063 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 6.872671 ms ( 1.604687 Gflops/s 21.101183 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 21.697044 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.686630 ms ( 6.538768 Gflops/s 85.982971 Gbytes/s)
+------End of Hamrle3.mtx Benchmark at 14:57:52------
+-----Hook_1498.mtx Benchmark Started at 14:57:52-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 876.674891 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 12.969539 ms ( 9.393926 Gflops/s 96.711335 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 161.895990 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 8.590510 ms ( 14.182498 Gflops/s 146.010128 Gbytes/s)
+------End of Hook_1498.mtx Benchmark at 15:07:28------
+-----RM07R.mtx Benchmark Started at 15:07:28-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 640.495062 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 10.305459 ms ( 7.270896 Gflops/s 73.597861 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 88.923931 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 4.730990 ms ( 15.838107 Gflops/s 160.317351 Gbytes/s)
+------End of RM07R.mtx Benchmark at 15:13:30------
+-----Serena.mtx Benchmark Started at 15:13:30-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 795.638084 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 12.025950 ms ( 10.732075 Gflops/s 110.097448 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 170.838833 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 8.975770 ms ( 14.379089 Gflops/s 147.511169 Gbytes/s)
+------End of Serena.mtx Benchmark at 15:23:37------
+-----Si41Ge41H72.mtx Benchmark Started at 15:23:37-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 258.085966 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 5.855498 ms ( 5.127237 Gflops/s 52.033255 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 49.264193 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 2.762039 ms ( 10.869699 Gflops/s 110.310053 Gbytes/s)
+------End of Si41Ge41H72.mtx Benchmark at 15:25:49------
+-----SiO2.mtx Benchmark Started at 15:25:49-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 161.502838 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 4.283381 ms ( 5.268504 Gflops/s 53.555364 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 36.548138 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.917911 ms ( 11.766454 Gflops/s 119.608290 Gbytes/s)
+------End of SiO2.mtx Benchmark at 15:27:30------
+-----Stanford_Berkeley.mtx Benchmark Started at 15:27:30-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 209.695101 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 17.140832 ms ( 0.884832 Gflops/s 9.805255 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 96.753120 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 4.159269 ms ( 3.646494 Gflops/s 40.408594 Gbytes/s)
+------End of Stanford_Berkeley.mtx Benchmark at 15:28:47------
+-----StocF-1465.mtx Benchmark Started at 15:28:47-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 367.295980 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 14.947031 ms ( 2.810644 Gflops/s 30.458964 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 108.003855 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 6.520011 ms ( 6.443360 Gflops/s 69.826729 Gbytes/s)
+------End of StocF-1465.mtx Benchmark at 15:32:11------
+-----TSOPF_FS_b300_c2.mtx Benchmark Started at 15:32:11-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 120.527983 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 3.743482 ms ( 4.684124 Gflops/s 47.205482 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 26.659966 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 5.813880 ms ( 3.016046 Gflops/s 30.394996 Gbytes/s)
+------End of TSOPF_FS_b300_c2.mtx Benchmark at 15:33:30------
+-----TSOPF_FS_b300_c3.mtx Benchmark Started at 15:33:30-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 219.231129 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 5.604129 ms ( 4.687947 Gflops/s 47.240980 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 39.431810 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 8.556252 ms ( 3.070487 Gflops/s 30.941650 Gbytes/s)
+------End of TSOPF_FS_b300_c3.mtx Benchmark at 15:35:28------
+-----TSOPF_RS_b2383.mtx Benchmark Started at 15:35:28-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 235.275984 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 2.074130 ms ( 15.593210 Gflops/s 156.373190 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 19.865990 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.894198 ms ( 36.169084 Gflops/s 362.713972 Gbytes/s)
+------End of TSOPF_RS_b2383.mtx Benchmark at 15:37:52------
+-----TSOPF_RS_b678_c2.mtx Benchmark Started at 15:37:52-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 127.846956 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 1.181400 ms ( 14.867023 Gflops/s 149.395387 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 11.018991 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.506630 ms ( 34.668101 Gflops/s 348.371994 Gbytes/s)
+------End of TSOPF_RS_b678_c2.mtx Benchmark at 15:39:12------
+-----adaptive.mtx Benchmark Started at 15:39:12-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 603.001833 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 32.421319 ms ( 1.680909 Gflops/s 21.854467 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 135.505915 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 9.586251 ms ( 5.684942 Gflops/s 73.913219 Gbytes/s)
+------End of adaptive.mtx Benchmark at 15:44:06------
+-----af_0_k101.mtx Benchmark Started at 15:44:06-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 224.739075 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 4.464211 ms ( 7.862833 Gflops/s 81.335865 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 29.747963 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.412859 ms ( 24.844200 Gflops/s 256.996989 Gbytes/s)
+------End of af_0_k101.mtx Benchmark at 15:46:56------
+-----af_1_k101.mtx Benchmark Started at 15:46:56-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 223.915100 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 4.462621 ms ( 7.865635 Gflops/s 81.364849 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 29.738903 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.412859 ms ( 24.844200 Gflops/s 256.996989 Gbytes/s)
+------End of af_1_k101.mtx Benchmark at 15:49:45------
+-----af_2_k101.mtx Benchmark Started at 15:49:45-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 229.398966 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 4.463282 ms ( 7.864471 Gflops/s 81.352809 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 29.738188 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.412718 ms ( 24.846673 Gflops/s 257.022579 Gbytes/s)
+------End of af_2_k101.mtx Benchmark at 15:52:34------
+-----af_3_k101.mtx Benchmark Started at 15:52:34-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 224.383116 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 4.465551 ms ( 7.860474 Gflops/s 81.311460 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 29.738903 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.413009 ms ( 24.841559 Gflops/s 256.969671 Gbytes/s)
+------End of af_3_k101.mtx Benchmark at 15:55:23------
+-----af_shell10.mtx Benchmark Started at 15:55:23-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 674.188137 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 13.267100 ms ( 7.940292 Gflops/s 82.130991 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 88.104963 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 4.171150 ms ( 25.255543 Gflops/s 261.232545 Gbytes/s)
+------End of af_shell10.mtx Benchmark at 16:03:41------
+-----af_shell5.mtx Benchmark Started at 16:03:41-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 227.035999 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 4.444740 ms ( 7.914468 Gflops/s 81.870713 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 29.801846 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.410210 ms ( 24.945041 Gflops/s 258.042409 Gbytes/s)
+------End of af_shell5.mtx Benchmark at 16:06:29------
+-----af_shell6.mtx Benchmark Started at 16:06:29-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 224.954128 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 4.447231 ms ( 7.910034 Gflops/s 81.824847 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 29.821873 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.410301 ms ( 24.943439 Gflops/s 258.025832 Gbytes/s)
+------End of af_shell6.mtx Benchmark at 16:09:19------
+-----amazon-2008.mtx Benchmark Started at 16:09:19-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 103.401899 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 5.498981 ms ( 1.876125 Gflops/s 21.970525 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 32.885075 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 2.396340 ms ( 4.305221 Gflops/s 50.416674 Gbytes/s)
+------End of amazon-2008.mtx Benchmark at 16:10:11------
+-----apache2.mtx Benchmark Started at 16:10:11-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 92.015028 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 4.385159 ms ( 2.197352 Gflops/s 25.887687 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 22.058964 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.359410 ms ( 7.088176 Gflops/s 83.507993 Gbytes/s)
+------End of apache2.mtx Benchmark at 16:11:02------
+-----atmosmodd.mtx Benchmark Started at 16:11:02-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 175.314903 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 8.171191 ms ( 2.157551 Gflops/s 25.306955 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 33.010960 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 2.133119 ms ( 8.264780 Gflops/s 96.941595 Gbytes/s)
+------End of atmosmodd.mtx Benchmark at 16:12:32------
+-----atmosmodj.mtx Benchmark Started at 16:12:32-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 169.898987 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 8.174989 ms ( 2.156548 Gflops/s 25.295198 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 33.033848 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 2.132730 ms ( 8.266286 Gflops/s 96.959259 Gbytes/s)
+------End of atmosmodj.mtx Benchmark at 16:14:02------
+-----atmosmodl.mtx Benchmark Started at 16:14:02-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 175.437927 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 7.099240 ms ( 2.907286 Gflops/s 34.109180 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 47.115088 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 3.049810 ms ( 6.767477 Gflops/s 79.398144 Gbytes/s)
+------End of atmosmodl.mtx Benchmark at 16:15:45------
+-----atmosmodm.mtx Benchmark Started at 16:15:45-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 182.894945 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 7.096460 ms ( 2.908425 Gflops/s 34.122542 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 47.116041 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 3.048310 ms ( 6.770807 Gflops/s 79.437205 Gbytes/s)
+------End of atmosmodm.mtx Benchmark at 16:17:28------
+-----barrier2-10.mtx Benchmark Started at 16:17:28-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 67.847013 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 3.201201 ms ( 2.435059 Gflops/s 25.217455 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 28.182983 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.509390 ms ( 5.164414 Gflops/s 53.482630 Gbytes/s)
+------End of barrier2-10.mtx Benchmark at 16:17:55------
+-----barrier2-11.mtx Benchmark Started at 16:17:55-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 67.628860 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 3.199358 ms ( 2.436462 Gflops/s 25.231981 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 28.359890 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.509759 ms ( 5.163150 Gflops/s 53.469539 Gbytes/s)
+------End of barrier2-11.mtx Benchmark at 16:18:22------
+-----barrier2-12.mtx Benchmark Started at 16:18:22-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 67.722082 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 3.201170 ms ( 2.435083 Gflops/s 25.217699 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 28.264999 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.508982 ms ( 5.165809 Gflops/s 53.497080 Gbytes/s)
+------End of barrier2-12.mtx Benchmark at 16:18:48------
+-----bcsstk32.mtx Benchmark Started at 16:18:48-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 25.896072 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.528190 ms ( 7.628696 Gflops/s 78.313912 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 4.246950 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.220881 ms ( 18.242452 Gflops/s 187.271554 Gbytes/s)
+------End of bcsstk32.mtx Benchmark at 16:19:02------
+-----bmw3_2.mtx Benchmark Started at 16:19:02-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 145.577908 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 2.916770 ms ( 7.740501 Gflops/s 79.275805 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 21.358013 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.123688 ms ( 20.092103 Gflops/s 205.777086 Gbytes/s)
+------End of bmw3_2.mtx Benchmark at 16:20:41------
+-----bmwcra_1.mtx Benchmark Started at 16:20:41-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 127.103806 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 1.656101 ms ( 12.854293 Gflops/s 130.698884 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 23.155212 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.228352 ms ( 17.330546 Gflops/s 176.212187 Gbytes/s)
+------End of bmwcra_1.mtx Benchmark at 16:22:15------
+-----bone010.mtx Benchmark Started at 16:22:15-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 870.661974 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 10.746930 ms ( 13.337079 Gflops/s 135.574291 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 128.793955 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 6.175020 ms ( 23.211691 Gflops/s 235.951857 Gbytes/s)
+------End of bone010.mtx Benchmark at 16:33:25------
+-----boneS10.mtx Benchmark Started at 16:33:25-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 676.481962 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 9.426060 ms ( 11.769164 Gflops/s 120.021093 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 104.379892 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 5.146320 ms ( 21.556539 Gflops/s 219.832039 Gbytes/s)
+------End of boneS10.mtx Benchmark at 16:42:05------
+-----cage12.mtx Benchmark Started at 16:42:05-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 38.297176 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 1.592269 ms ( 2.553006 Gflops/s 27.492964 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 11.633158 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.672321 ms ( 6.046323 Gflops/s 65.112009 Gbytes/s)
+------End of cage12.mtx Benchmark at 16:42:21------
+-----cage13.mtx Benchmark Started at 16:42:21-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 139.901876 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 5.728350 ms ( 2.611343 Gflops/s 27.979161 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 42.463064 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 2.485590 ms ( 6.018163 Gflops/s 64.481440 Gbytes/s)
+------End of cage13.mtx Benchmark at 16:43:36------
+-----cage14.mtx Benchmark Started at 16:43:36-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 510.558844 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 20.347769 ms ( 2.666666 Gflops/s 28.442716 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 138.092995 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 8.099692 ms ( 6.699106 Gflops/s 71.452819 Gbytes/s)
+------End of cage14.mtx Benchmark at 16:48:02------
+-----cage15.mtx Benchmark Started at 16:48:02-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 1873.305082 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 73.730569 ms ( 2.690866 Gflops/s 28.586618 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 526.430845 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 31.023850 ms ( 6.395051 Gflops/s 67.938299 Gbytes/s)
+------End of cage15.mtx Benchmark at 17:05:24------
+-----caidaRouterLevel.mtx Benchmark Started at 17:05:24-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 30.933857 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 2.471480 ms ( 0.985751 Gflops/s 11.724348 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 15.554905 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.282520 ms ( 1.899591 Gflops/s 22.593402 Gbytes/s)
+------End of caidaRouterLevel.mtx Benchmark at 17:05:35------
+-----channel-500x100x100-b050.mtx Benchmark Started at 17:05:35-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 1361.757994 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 40.932622 ms ( 4.170891 Gflops/s 44.524460 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 314.181089 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 17.102962 ms ( 9.982218 Gflops/s 106.560661 Gbytes/s)
+------End of channel-500x100x100-b050.mtx Benchmark at 17:20:08------
+-----circuit5M.mtx Benchmark Started at 17:20:08-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 2165.439844 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 179.340940 ms ( 0.663812 Gflops/s 7.381949 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 1122.120857 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 37.719450 ms ( 3.156159 Gflops/s 35.098222 Gbytes/s)
+------End of circuit5M.mtx Benchmark at 17:31:06------
+-----circuit5M_dc.mtx Benchmark Started at 17:31:06-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 392.844915 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 18.805280 ms ( 2.041362 Gflops/s 24.910210 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 93.879938 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 6.654019 ms ( 5.769203 Gflops/s 70.400076 Gbytes/s)
+------End of circuit5M_dc.mtx Benchmark at 17:34:37------
+-----circuit_4.mtx Benchmark Started at 17:34:37-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 25.725842 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 2.979751 ms ( 0.206463 Gflops/s 2.710662 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 21.362066 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.864470 ms ( 0.711659 Gflops/s 9.343408 Gbytes/s)
+------End of circuit_4.mtx Benchmark at 17:34:42------
+-----citationCiteseer.mtx Benchmark Started at 17:34:42-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 60.765028 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 5.332639 ms ( 0.867598 Gflops/s 9.884366 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 33.809900 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 3.099859 ms ( 1.492516 Gflops/s 17.003923 Gbytes/s)
+------End of citationCiteseer.mtx Benchmark at 17:35:00------
+-----cnr-2000.mtx Benchmark Started at 17:35:00-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 52.240133 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 2.245181 ms ( 2.864938 Gflops/s 32.129446 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 12.104988 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.957830 ms ( 6.715497 Gflops/s 75.312333 Gbytes/s)
+------End of cnr-2000.mtx Benchmark at 17:35:22------
+-----coAuthorsCiteseer.mtx Benchmark Started at 17:35:22-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 31.518936 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 1.871040 ms ( 1.740495 Gflops/s 20.320807 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 10.573864 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.832369 ms ( 3.912369 Gflops/s 45.678089 Gbytes/s)
+------End of coAuthorsCiteseer.mtx Benchmark at 17:35:36------
+-----coAuthorsDBLP.mtx Benchmark Started at 17:35:36-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 41.357040 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 2.769909 ms ( 1.411853 Gflops/s 16.709809 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 15.799999 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.305239 ms ( 2.996159 Gflops/s 35.460663 Gbytes/s)
+------End of coAuthorsDBLP.mtx Benchmark at 17:35:52------
+-----coPapersCiteseer.mtx Benchmark Started at 17:35:52-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 489.246130 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 12.126920 ms ( 5.289627 Gflops/s 53.755384 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 91.875076 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 5.384560 ms ( 11.913115 Gflops/s 121.066028 Gbytes/s)
+------End of coPapersCiteseer.mtx Benchmark at 17:40:50------
+-----coPapersDBLP.mtx Benchmark Started at 17:40:50-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 553.578854 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 14.877901 ms ( 4.098892 Gflops/s 41.860799 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 109.603882 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 6.941550 ms ( 8.785202 Gflops/s 89.720717 Gbytes/s)
+------End of coPapersDBLP.mtx Benchmark at 17:45:36------
+-----consph.mtx Benchmark Started at 17:45:36-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 72.869062 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.917461 ms ( 13.102422 Gflops/s 133.204165 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 11.960983 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.573940 ms ( 20.944618 Gflops/s 212.930893 Gbytes/s)
+------End of consph.mtx Benchmark at 17:46:31------
+-----crankseg_1.mtx Benchmark Started at 17:46:31-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 138.798952 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 2.663319 ms ( 7.970663 Gflops/s 80.182467 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 21.740913 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.107941 ms ( 19.160250 Gflops/s 192.746328 Gbytes/s)
+------End of crankseg_1.mtx Benchmark at 17:48:05------
+-----crankseg_2.mtx Benchmark Started at 17:48:05-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 184.756994 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 3.553360 ms ( 7.963651 Gflops/s 80.067686 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 28.746128 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.461530 ms ( 19.361711 Gflops/s 194.665401 Gbytes/s)
+------End of crankseg_2.mtx Benchmark at 17:50:09------
+-----crplat2.mtx Benchmark Started at 17:50:09-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 12.359858 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.208201 ms ( 9.230927 Gflops/s 94.385337 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 1.827002 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.078869 ms ( 24.368196 Gflops/s 249.162452 Gbytes/s)
+------End of crplat2.mtx Benchmark at 17:50:17------
+-----dblp-2010.mtx Benchmark Started at 17:50:17-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 32.273054 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 2.052989 ms ( 1.573705 Gflops/s 19.550258 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 9.600878 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.801129 ms ( 4.032807 Gflops/s 50.099855 Gbytes/s)
+------End of dblp-2010.mtx Benchmark at 17:50:30------
+-----debr.mtx Benchmark Started at 17:50:30-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 86.286068 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 4.883330 ms ( 1.717802 Gflops/s 22.331439 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 18.055916 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.167090 ms ( 7.187617 Gflops/s 93.439058 Gbytes/s)
+------End of debr.mtx Benchmark at 17:50:59------
+-----debr_G_17.mtx Benchmark Started at 17:50:59-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 42.742968 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 2.447050 ms ( 1.714020 Gflops/s 22.282275 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 9.282112 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.588291 ms ( 7.129625 Gflops/s 92.685186 Gbytes/s)
+------End of debr_G_17.mtx Benchmark at 17:51:15------
+-----debr_G_18.mtx Benchmark Started at 17:51:15-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 86.293936 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 4.884040 ms ( 1.717553 Gflops/s 22.328191 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 18.063784 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.167629 ms ( 7.184301 Gflops/s 93.395938 Gbytes/s)
+------End of debr_G_18.mtx Benchmark at 17:51:45------
+-----delaunay_n19.mtx Benchmark Started at 17:51:45-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 63.212156 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 3.206890 ms ( 1.961805 Gflops/s 23.541762 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 18.985987 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.275449 ms ( 4.932610 Gflops/s 59.191582 Gbytes/s)
+------End of delaunay_n19.mtx Benchmark at 17:52:07------
+-----delaunay_n20.mtx Benchmark Started at 17:52:07-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 128.683090 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 6.592829 ms ( 1.908550 Gflops/s 22.902651 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 37.105083 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 2.504809 ms ( 5.023435 Gflops/s 60.281351 Gbytes/s)
+------End of delaunay_n20.mtx Benchmark at 17:53:11------
+-----delaunay_n21.mtx Benchmark Started at 17:53:11-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 252.180099 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 12.810099 ms ( 1.964515 Gflops/s 23.574210 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 74.491024 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 5.046639 ms ( 4.986612 Gflops/s 59.839418 Gbytes/s)
+------End of delaunay_n21.mtx Benchmark at 17:55:16------
+-----delaunay_n22.mtx Benchmark Started at 17:55:16-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 545.250177 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 26.325340 ms ( 1.911902 Gflops/s 22.942839 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 146.955967 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 9.969990 ms ( 5.048297 Gflops/s 60.579603 Gbytes/s)
+------End of delaunay_n22.mtx Benchmark at 17:59:44------
+-----dictionary28.mtx Benchmark Started at 17:59:44-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 5.147934 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.352120 ms ( 1.011449 Gflops/s 13.703177 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 2.315998 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.152612 ms ( 2.333713 Gflops/s 31.617281 Gbytes/s)
+------End of dictionary28.mtx Benchmark at 17:59:48------
+-----dielFilterV3real.mtx Benchmark Started at 17:59:48-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 1775.427818 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 47.281001 ms ( 3.777670 Gflops/s 38.336502 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 371.123075 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 21.612861 ms ( 8.264155 Gflops/s 83.866183 Gbytes/s)
+------End of dielFilterV3real.mtx Benchmark at 18:13:59------
+-----ecology2.mtx Benchmark Started at 18:13:59-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 99.653006 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 4.711990 ms ( 2.120544 Gflops/s 26.298822 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 20.330906 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.350060 ms ( 7.401142 Gflops/s 91.788395 Gbytes/s)
+------End of ecology2.mtx Benchmark at 18:14:52------
+-----enron.mtx Benchmark Started at 18:14:52-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 8.762836 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.750451 ms ( 0.735939 Gflops/s 9.573863 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 4.765987 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.502079 ms ( 1.099999 Gflops/s 14.309945 Gbytes/s)
+------End of enron.mtx Benchmark at 18:14:57------
+-----epb3.mtx Benchmark Started at 18:14:57-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 8.659124 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.397570 ms ( 2.332293 Gflops/s 28.430979 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 2.953053 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.137501 ms ( 6.743599 Gflops/s 82.205420 Gbytes/s)
+------End of epb3.mtx Benchmark at 18:15:03------
+-----eu-2005.mtx Benchmark Started at 18:15:03-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 292.709112 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 9.975662 ms ( 3.856414 Gflops/s 40.639581 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 68.783045 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 4.503410 ms ( 8.542478 Gflops/s 90.022172 Gbytes/s)
+------End of eu-2005.mtx Benchmark at 18:18:04------
+-----ex3sta1.mtx Benchmark Started at 18:18:04-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 10.887861 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.315440 ms ( 4.305089 Gflops/s 44.327737 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 2.634048 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.239570 ms ( 5.668469 Gflops/s 58.365905 Gbytes/s)
+------End of ex3sta1.mtx Benchmark at 18:18:10------
+-----fcondp2.mtx Benchmark Started at 18:18:10-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 137.351036 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 1.893160 ms ( 11.931706 Gflops/s 121.875598 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 18.177032 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.889618 ms ( 25.391372 Gflops/s 259.358449 Gbytes/s)
+------End of fcondp2.mtx Benchmark at 18:19:47------
+-----finance256.mtx Benchmark Started at 18:19:47-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 6.108999 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.312209 ms ( 1.912154 Gflops/s 21.994693 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 2.334833 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.150440 ms ( 3.968313 Gflops/s 45.645812 Gbytes/s)
+------End of finance256.mtx Benchmark at 18:19:51------
+-----flickr.mtx Benchmark Started at 18:19:51-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 244.873047 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 21.390450 ms ( 0.919776 Gflops/s 10.118784 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 124.530792 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 9.282072 ms ( 2.119616 Gflops/s 23.318647 Gbytes/s)
+------End of flickr.mtx Benchmark at 18:21:29------
+-----ford2.mtx Benchmark Started at 18:21:29-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 11.048794 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.543911 ms ( 2.002855 Gflops/s 24.449685 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 3.457069 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.218561 ms ( 4.984318 Gflops/s 60.845634 Gbytes/s)
+------End of ford2.mtx Benchmark at 18:21:35------
+-----fullb.mtx Benchmark Started at 18:21:35-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 146.589994 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 2.359052 ms ( 9.926088 Gflops/s 101.287321 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 21.623135 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.151981 ms ( 20.326852 Gflops/s 207.418312 Gbytes/s)
+------End of fullb.mtx Benchmark at 18:23:15------
+-----fxm4_6.mtx Benchmark Started at 18:23:15-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 8.768082 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.441689 ms ( 2.254271 Gflops/s 23.569245 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 3.039122 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.314970 ms ( 3.161215 Gflops/s 33.051679 Gbytes/s)
+------End of fxm4_6.mtx Benchmark at 18:23:21------
+-----gearbox.mtx Benchmark Started at 18:23:21-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 110.590935 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 1.539459 ms ( 11.796875 Gflops/s 120.365633 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 20.136833 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.003411 ms ( 18.099075 Gflops/s 184.668115 Gbytes/s)
+------End of gearbox.mtx Benchmark at 18:24:39------
+-----gsm_106857.mtx Benchmark Started at 18:24:39-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 425.268888 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 18.209820 ms ( 2.389801 Gflops/s 24.674884 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 176.724911 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 11.609039 ms ( 3.748618 Gflops/s 38.704769 Gbytes/s)
+------End of gsm_106857.mtx Benchmark at 18:28:14------
+-----gupta1.mtx Benchmark Started at 18:28:14-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 40.709019 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 1.942260 ms ( 2.228548 Gflops/s 22.678448 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 15.022993 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.987031 ms ( 2.178336 Gflops/s 22.167474 Gbytes/s)
+------End of gupta1.mtx Benchmark at 18:28:29------
+-----gupta2.mtx Benchmark Started at 18:28:29-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 73.514938 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 3.058429 ms ( 2.778084 Gflops/s 28.267866 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 24.226904 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 2.215371 ms ( 3.835282 Gflops/s 39.025179 Gbytes/s)
+------End of gupta2.mtx Benchmark at 18:29:08------
+-----gupta3.mtx Benchmark Started at 18:29:08-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 123.092175 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 2.808189 ms ( 6.640170 Gflops/s 66.545131 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 21.528006 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 2.497051 ms ( 7.467551 Gflops/s 74.836817 Gbytes/s)
+------End of gupta3.mtx Benchmark at 18:30:22------
+-----halfb.mtx Benchmark Started at 18:30:22-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 202.756882 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 2.837498 ms ( 8.731509 Gflops/s 89.214939 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 20.089149 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.045592 ms ( 23.695329 Gflops/s 242.109034 Gbytes/s)
+------End of halfb.mtx Benchmark at 18:32:09------
+-----hollywood-2009.mtx Benchmark Started at 18:32:09-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 1978.803873 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 85.121090 ms ( 2.675984 Gflops/s -23.375911 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 697.052956 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 47.153451 ms ( 4.830668 Gflops/s -42.198036 Gbytes/s)
+------End of hollywood-2009.mtx Benchmark at 18:49:54------
+-----hood.mtx Benchmark Started at 18:49:54-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 140.731096 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 2.885602 ms ( 7.463564 Gflops/s 76.469924 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 19.325972 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.034160 ms ( 20.825481 Gflops/s 213.372979 Gbytes/s)
+------End of hood.mtx Benchmark at 18:51:29------
+-----hugebubbles-00000.mtx Benchmark Started at 18:51:29-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 1383.500099 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 87.463958 ms ( 1.256293 Gflops/s 17.589401 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 449.589968 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 33.252060 ms ( 3.304467 Gflops/s 46.265965 Gbytes/s)
+------End of hugebubbles-00000.mtx Benchmark at 19:02:22------
+-----hugebubbles-00010.mtx Benchmark Started at 19:02:22-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 1546.856880 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 96.627250 ms ( 1.207931 Gflops/s 16.912255 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 565.676928 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 43.891728 ms ( 2.659250 Gflops/s 37.232178 Gbytes/s)
+------End of hugebubbles-00010.mtx Benchmark at 19:14:01------
+-----hugebubbles-00020.mtx Benchmark Started at 19:14:01-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 1675.672054 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 105.361769 ms ( 1.206896 Gflops/s 16.897609 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 610.523939 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 47.320769 ms ( 2.687207 Gflops/s 37.623269 Gbytes/s)
+------End of hugebubbles-00020.mtx Benchmark at 19:26:42------
+-----hugetrace-00000.mtx Benchmark Started at 19:26:42-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 345.399857 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 21.883450 ms ( 1.257413 Gflops/s 17.606408 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 113.070011 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 8.297169 ms ( 3.316376 Gflops/s 46.436191 Gbytes/s)
+------End of hugetrace-00000.mtx Benchmark at 19:29:17------
+-----hugetrace-00010.mtx Benchmark Started at 19:29:17-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 917.779922 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 57.848599 ms ( 1.250311 Gflops/s 17.505450 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 308.705807 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 23.245881 ms ( 3.111464 Gflops/s 43.563234 Gbytes/s)
+------End of hugetrace-00010.mtx Benchmark at 19:35:57------
+-----hugetrace-00020.mtx Benchmark Started at 19:35:57-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 1274.524927 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 77.798431 ms ( 1.233897 Gflops/s 17.275547 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 433.753014 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 33.182862 ms ( 2.892917 Gflops/s 40.503150 Gbytes/s)
+------End of hugetrace-00020.mtx Benchmark at 19:44:47------
+-----hugetric-00000.mtx Benchmark Started at 19:44:47-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 461.287022 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 27.750149 ms ( 1.258879 Gflops/s 17.626220 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 142.609119 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 10.428760 ms ( 3.349784 Gflops/s 46.902049 Gbytes/s)
+------End of hugetric-00000.mtx Benchmark at 19:48:02------
+-----hugetric-00010.mtx Benchmark Started at 19:48:02-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 517.275810 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 32.626541 ms ( 1.212001 Gflops/s 16.969636 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 189.019918 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 14.552701 ms ( 2.717256 Gflops/s 38.045208 Gbytes/s)
+------End of hugetric-00010.mtx Benchmark at 19:51:43------
+-----hugetric-00020.mtx Benchmark Started at 19:51:43-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 676.887989 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 35.219371 ms ( 1.213057 Gflops/s 16.984349 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 203.908920 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 15.702801 ms ( 2.720732 Gflops/s 38.093720 Gbytes/s)
+------End of hugetric-00020.mtx Benchmark at 19:55:42------
+-----human_gene1.mtx Benchmark Started at 19:55:42-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 469.928026 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 22.789690 ms ( 2.164983 Gflops/s 21.673294 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 183.314085 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 10.871871 ms ( 4.538252 Gflops/s 45.431708 Gbytes/s)
+------End of human_gene1.mtx Benchmark at 19:58:57------
+-----human_gene2.mtx Benchmark Started at 19:58:57-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 371.631145 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 13.905320 ms ( 2.598773 Gflops/s 26.012484 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 115.125179 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 6.743569 ms ( 5.358702 Gflops/s 53.638051 Gbytes/s)
+------End of human_gene2.mtx Benchmark at 20:01:20------
+-----in-2004.mtx Benchmark Started at 20:01:20-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 297.655821 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 9.134810 ms ( 3.703865 Gflops/s 40.671985 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 47.207117 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 3.538141 ms ( 9.562678 Gflops/s 105.007354 Gbytes/s)
+------End of in-2004.mtx Benchmark at 20:04:01------
+-----indochina-2004.mtx Benchmark Started at 20:04:01-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 2675.523996 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 67.346489 ms ( 5.764497 Gflops/s -3.486808 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 423.439980 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 26.429470 ms ( 14.688854 Gflops/s -8.884942 Gbytes/s)
+------End of indochina-2004.mtx Benchmark at 20:36:26------
+-----inline_1.mtx Benchmark Started at 20:36:26-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 452.800035 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 6.188309 ms ( 11.898676 Gflops/s 120.940293 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 95.603943 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 5.295370 ms ( 13.905108 Gflops/s 141.334030 Gbytes/s)
+------End of inline_1.mtx Benchmark at 20:42:16------
+-----ins2.mtx Benchmark Started at 20:42:16-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 355.058908 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 42.888238 ms ( 0.128309 Gflops/s 1.456240 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 249.228001 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 23.435140 ms ( 0.234817 Gflops/s 2.665039 Gbytes/s)
+------End of ins2.mtx Benchmark at 20:42:44------
+-----kim2.mtx Benchmark Started at 20:42:44-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 153.415918 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 3.699560 ms ( 6.125063 Gflops/s 64.215154 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 27.626038 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.379511 ms ( 16.426135 Gflops/s 172.211575 Gbytes/s)
+------End of kim2.mtx Benchmark at 20:44:39------
+-----kkt_power.mtx Benchmark Started at 20:44:39-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 373.164892 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 19.814351 ms ( 1.474958 Gflops/s 17.248969 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 145.146132 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 9.538090 ms ( 3.064065 Gflops/s 35.832867 Gbytes/s)
+------End of kkt_power.mtx Benchmark at 20:47:07------
+-----language.mtx Benchmark Started at 20:47:07-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 50.435781 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 4.482648 ms ( 0.542685 Gflops/s 7.563788 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 30.794144 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.213610 ms ( 2.004489 Gflops/s 27.937966 Gbytes/s)
+------End of language.mtx Benchmark at 20:47:19------
+-----largebasis.mtx Benchmark Started at 20:47:19-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 79.711914 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 2.394180 ms ( 4.644679 Gflops/s 50.857690 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 13.734102 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.811682 ms ( 13.700197 Gflops/s 150.012589 Gbytes/s)
+------End of largebasis.mtx Benchmark at 20:48:17------
+-----ldoor.mtx Benchmark Started at 20:48:17-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 592.103958 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 12.179010 ms ( 7.639779 Gflops/s 78.274209 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 83.472967 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 4.546361 ms ( 20.465808 Gflops/s 209.684708 Gbytes/s)
+------End of ldoor.mtx Benchmark at 20:55:37------
+-----lp1.mtx Benchmark Started at 20:55:37-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 527.308941 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 69.826210 ms ( 0.047072 Gflops/s 0.654392 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 387.160063 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 14.821610 ms ( 0.221760 Gflops/s 3.082911 Gbytes/s)
+------End of lp1.mtx Benchmark at 20:56:01------
+-----m_t1.mtx Benchmark Started at 20:56:01-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 113.558054 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 1.527059 ms ( 12.774319 Gflops/s 129.276774 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 16.641855 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.829902 ms ( 23.505362 Gflops/s 237.875490 Gbytes/s)
+------End of m_t1.mtx Benchmark at 20:57:27------
+-----memchip.mtx Benchmark Started at 20:57:27-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 273.880959 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 12.753971 ms ( 2.322446 Gflops/s 28.319386 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 72.422028 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 5.090349 ms ( 5.818934 Gflops/s 70.954788 Gbytes/s)
+------End of memchip.mtx Benchmark at 21:00:11------
+-----mip1.mtx Benchmark Started at 21:00:11-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 171.179056 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 9.013870 ms ( 2.297086 Gflops/s 23.147826 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 54.887056 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 3.372579 ms ( 6.139409 Gflops/s 61.867051 Gbytes/s)
+------End of mip1.mtx Benchmark at 21:01:41------
+-----mono_500Hz.mtx Benchmark Started at 21:01:41-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 90.723038 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 3.732591 ms ( 2.698548 Gflops/s 28.074763 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 32.745123 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.987760 ms ( 5.067300 Gflops/s 52.718435 Gbytes/s)
+------End of mono_500Hz.mtx Benchmark at 21:02:32------
+-----mouse_gene.mtx Benchmark Started at 21:02:32-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 665.344954 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 40.039001 ms ( 1.446954 Gflops/s 14.496572 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 309.388876 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 18.138449 ms ( 3.194021 Gflops/s 31.999883 Gbytes/s)
+------End of mouse_gene.mtx Benchmark at 21:06:48------
+-----msdoor.mtx Benchmark Started at 21:06:48-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 317.148924 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 5.577681 ms ( 7.257832 Gflops/s 74.367718 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 35.936117 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.926429 ms ( 21.013940 Gflops/s 215.320343 Gbytes/s)
+------End of msdoor.mtx Benchmark at 21:10:02------
+-----nd12k.mtx Benchmark Started at 21:10:02-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 166.105986 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 1.959052 ms ( 14.518191 Gflops/s 145.622938 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 21.370888 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.984402 ms ( 28.892567 Gflops/s 289.803359 Gbytes/s)
+------End of nd12k.mtx Benchmark at 21:12:07------
+-----nd24k.mtx Benchmark Started at 21:12:07-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 334.715843 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 3.931890 ms ( 14.606531 Gflops/s 146.504798 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 42.623997 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.984701 ms ( 28.936985 Gflops/s 290.240512 Gbytes/s)
+------End of nd24k.mtx Benchmark at 21:16:14------
+-----net125.mtx Benchmark Started at 21:16:14-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 39.222002 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 1.061511 ms ( 4.855720 Gflops/s 49.387409 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 11.316061 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.594699 ms ( 8.667236 Gflops/s 88.154253 Gbytes/s)
+------End of net125.mtx Benchmark at 21:16:29------
+-----net50.mtx Benchmark Started at 21:16:29-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 15.064955 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.454938 ms ( 4.155288 Gflops/s 42.413829 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 4.086018 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.230000 ms ( 8.219130 Gflops/s 83.894254 Gbytes/s)
+------End of net50.mtx Benchmark at 21:16:37------
+-----net75.mtx Benchmark Started at 21:16:37-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 23.169994 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.661459 ms ( 4.502774 Gflops/s 45.866609 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 7.025957 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.387039 ms ( 7.695345 Gflops/s 78.387102 Gbytes/s)
+------End of net75.mtx Benchmark at 21:16:47------
+-----nlpkkt120.mtx Benchmark Started at 21:16:47-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 1425.057888 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 34.430540 ms ( 5.625575 Gflops/s 58.725000 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 264.271975 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 13.716881 ms ( 14.120672 Gflops/s 147.404749 Gbytes/s)
+------End of nlpkkt120.mtx Benchmark at 21:33:14------
+-----nlpkkt160.mtx Benchmark Started at 21:33:14-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 3427.304983 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 80.006640 ms ( 5.737477 Gflops/s 6.195603 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 624.688148 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 32.447760 ms ( 14.146931 Gflops/s 15.276535 Gbytes/s)
+------End of nlpkkt160.mtx Benchmark at 22:12:29------
+-----nlpkkt80.mtx Benchmark Started at 22:12:29-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 414.067984 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 10.139861 ms ( 5.661749 Gflops/s 59.132076 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 78.859091 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 4.092739 ms ( 14.027122 Gflops/s 146.501180 Gbytes/s)
+------End of nlpkkt80.mtx Benchmark at 22:17:01------
+-----offshore.mtx Benchmark Started at 22:17:01-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 94.972849 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 4.816060 ms ( 1.761885 Gflops/s 18.913468 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 46.251059 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 2.804520 ms ( 3.025596 Gflops/s 32.479138 Gbytes/s)
+------End of offshore.mtx Benchmark at 22:17:42------
+-----ohne2.mtx Benchmark Started at 22:17:42-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 172.744989 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 5.575051 ms ( 3.968948 Gflops/s 40.470144 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 49.834013 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 2.769449 ms ( 7.989709 Gflops/s 81.468607 Gbytes/s)
+------End of ohne2.mtx Benchmark at 22:19:20------
+-----onetone1.mtx Benchmark Started at 22:19:20-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 7.696867 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.463939 ms ( 1.470401 Gflops/s 16.569275 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 3.504992 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.245082 ms ( 2.783456 Gflops/s 31.365486 Gbytes/s)
+------End of onetone1.mtx Benchmark at 22:19:26------
+-----onetone2.mtx Benchmark Started at 22:19:26-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 5.080938 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.269670 ms ( 1.688194 Gflops/s 20.090919 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 2.059937 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.128310 ms ( 3.548102 Gflops/s 42.225388 Gbytes/s)
+------End of onetone2.mtx Benchmark at 22:19:30------
+-----opt1.mtx Benchmark Started at 22:19:30-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 24.216890 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.433259 ms ( 8.912244 Gflops/s 89.978223 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 3.865957 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.195239 ms ( 19.777391 Gflops/s 199.673005 Gbytes/s)
+------End of opt1.mtx Benchmark at 22:19:42------
+-----packing-500x100x100-b050.mtx Benchmark Started at 22:19:42-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 570.030928 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 19.578271 ms ( 3.572990 Gflops/s 38.360393 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 146.584034 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 8.134880 ms ( 8.599140 Gflops/s 92.322218 Gbytes/s)
+------End of packing-500x100x100-b050.mtx Benchmark at 22:25:42------
+-----parabolic_fem.mtx Benchmark Started at 22:25:42-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 66.176891 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 2.972491 ms ( 2.472421 Gflops/s 28.969745 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 23.919821 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.635568 ms ( 4.493393 Gflops/s 52.649778 Gbytes/s)
+------End of parabolic_fem.mtx Benchmark at 22:26:09------
+-----patents.mtx Benchmark Started at 22:26:09-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 431.198120 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 31.104038 ms ( 0.962625 Gflops/s 12.538879 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 204.426050 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 18.447051 ms ( 1.623107 Gflops/s 21.142120 Gbytes/s)
+------End of patents.mtx Benchmark at 22:28:57------
+-----pattern1.mtx Benchmark Started at 22:28:57-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 179.425001 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 7.354350 ms ( 2.535488 Gflops/s 25.417671 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 75.556040 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 4.272430 ms ( 4.364463 Gflops/s 43.752724 Gbytes/s)
+------End of pattern1.mtx Benchmark at 22:30:11------
+-----pct20stif.mtx Benchmark Started at 22:30:11-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 34.935951 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.731289 ms ( 7.380014 Gflops/s 75.517513 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 5.566120 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.309470 ms ( 17.439271 Gflops/s 178.450931 Gbytes/s)
+------End of pct20stif.mtx Benchmark at 22:30:27------
+-----pfinan512.mtx Benchmark Started at 22:30:27-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 11.613131 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.613000 ms ( 1.947770 Gflops/s 22.404371 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 4.168034 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.284438 ms ( 4.197693 Gflops/s 48.284271 Gbytes/s)
+------End of pfinan512.mtx Benchmark at 22:30:34------
+-----pkustk03.mtx Benchmark Started at 22:30:34-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 37.300110 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.555890 ms ( 11.262725 Gflops/s 115.361725 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 5.825996 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.299690 ms ( 20.891043 Gflops/s 213.982560 Gbytes/s)
+------End of pkustk03.mtx Benchmark at 22:30:52------
+-----pkustk04.mtx Benchmark Started at 22:30:52-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 51.944017 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 1.040862 ms ( 8.106092 Gflops/s 82.342705 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 11.695862 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.717781 ms ( 11.754734 Gflops/s 119.406071 Gbytes/s)
+------End of pkustk04.mtx Benchmark at 22:31:30------
+-----pkustk07.mtx Benchmark Started at 22:31:31-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 28.659105 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.402961 ms ( 12.005158 Gflops/s 121.055752 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 6.830931 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.385530 ms ( 12.547942 Gflops/s 126.528988 Gbytes/s)
+------End of pkustk07.mtx Benchmark at 22:31:45------
+-----pkustk08.mtx Benchmark Started at 22:31:45-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 37.943125 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.527470 ms ( 12.234517 Gflops/s 123.355683 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 9.126902 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.505929 ms ( 12.755430 Gflops/s 128.607842 Gbytes/s)
+------End of pkustk08.mtx Benchmark at 22:32:04------
+-----pkustk09.mtx Benchmark Started at 22:32:04-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 19.189119 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.291121 ms ( 10.879600 Gflops/s 111.595657 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 3.231049 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.167921 ms ( 18.861773 Gflops/s 193.471450 Gbytes/s)
+------End of pkustk09.mtx Benchmark at 22:32:15------
+-----pkustk10.mtx Benchmark Started at 22:32:15-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 51.000118 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.739849 ms ( 11.648286 Gflops/s 119.099911 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 7.647038 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.395041 ms ( 21.815403 Gflops/s 223.055361 Gbytes/s)
+------End of pkustk10.mtx Benchmark at 22:32:54------
+-----pkustk11.mtx Benchmark Started at 22:32:54-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 61.583996 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.832880 ms ( 12.529812 Gflops/s 127.828252 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 9.587049 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.505240 ms ( 20.655183 Gflops/s 210.722713 Gbytes/s)
+------End of pkustk11.mtx Benchmark at 22:33:41------
+-----pkustk12.mtx Benchmark Started at 22:33:41-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 95.841885 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 2.294939 ms ( 6.546857 Gflops/s 66.458429 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 19.257069 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.253700 ms ( 11.984231 Gflops/s 121.654288 Gbytes/s)
+------End of pkustk12.mtx Benchmark at 22:34:47------
+-----pkustk13.mtx Benchmark Started at 22:34:47-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 80.300093 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 1.479969 ms ( 8.941845 Gflops/s 90.957290 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 19.407988 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.045182 ms ( 12.661582 Gflops/s 128.794797 Gbytes/s)
+------End of pkustk13.mtx Benchmark at 22:35:45------
+-----pkustk14.mtx Benchmark Started at 22:35:45-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 207.852125 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 4.580750 ms ( 6.477761 Gflops/s 65.573601 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 34.245968 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.794410 ms ( 16.536361 Gflops/s 167.395604 Gbytes/s)
+------End of pkustk14.mtx Benchmark at 22:37:52------
+-----pli.mtx Benchmark Started at 22:37:53-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 19.161940 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.468261 ms ( 5.767332 Gflops/s 58.836516 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 4.170179 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.202119 ms ( 13.361501 Gflops/s 136.309858 Gbytes/s)
+------End of pli.mtx Benchmark at 22:38:02------
+-----poisson3Db.mtx Benchmark Started at 22:38:02-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 53.299904 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 2.661459 ms ( 1.784697 Gflops/s 18.619082 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 28.342009 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.772799 ms ( 2.679320 Gflops/s 27.952361 Gbytes/s)
+------End of poisson3Db.mtx Benchmark at 22:38:20------
+-----pre2.mtx Benchmark Started at 22:38:20-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 119.122982 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 6.452260 ms ( 1.847192 Gflops/s 20.923278 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 38.790941 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 2.955749 ms ( 4.032333 Gflops/s 45.674525 Gbytes/s)
+------End of pre2.mtx Benchmark at 22:39:22------
+-----pwt.mtx Benchmark Started at 22:39:22-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 6.012917 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.238540 ms ( 2.734189 Gflops/s 31.016143 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 1.888990 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.105340 ms ( 6.191485 Gflops/s 70.235070 Gbytes/s)
+------End of pwt.mtx Benchmark at 22:39:27------
+-----pwtk.mtx Benchmark Started at 22:39:27-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 142.655849 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 2.251430 ms ( 10.335144 Gflops/s 105.674420 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 18.814087 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.886400 ms ( 26.250964 Gflops/s 268.409951 Gbytes/s)
+------End of pwtk.mtx Benchmark at 22:41:09------
+-----rail4284.mtx Benchmark Started at 22:41:09-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 244.260073 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 16.248481 ms ( 1.388934 Gflops/s 13.895665 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 123.427868 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 14.928300 ms ( 1.511764 Gflops/s 15.124525 Gbytes/s)
+------End of rail4284.mtx Benchmark at 22:43:01------
+-----rajat29.mtx Benchmark Started at 22:43:01-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 605.127811 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 70.747190 ms ( 0.137568 Gflops/s 1.594145 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 417.197943 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 29.759932 ms ( 0.327035 Gflops/s 3.789701 Gbytes/s)
+------End of rajat29.mtx Benchmark at 22:44:03------
+-----rajat30.mtx Benchmark Started at 22:44:03-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 618.206978 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 70.613160 ms ( 0.174907 Gflops/s 1.967953 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 417.971849 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 28.528850 ms ( 0.432922 Gflops/s 4.870978 Gbytes/s)
+------End of rajat30.mtx Benchmark at 22:45:18------
+-----rajat31.mtx Benchmark Started at 22:45:18-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 453.177929 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 24.633460 ms ( 1.649484 Gflops/s 21.064240 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 146.776915 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 9.742479 ms ( 4.170654 Gflops/s 53.260068 Gbytes/s)
+------End of rajat31.mtx Benchmark at 22:49:04------
+-----rgg_n_2_18_s0.mtx Benchmark Started at 22:49:04-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 73.358059 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 4.057670 ms ( 1.525292 Gflops/s 16.803432 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 37.851095 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 2.300761 ms ( 2.690037 Gflops/s 29.634883 Gbytes/s)
+------End of rgg_n_2_18_s0.mtx Benchmark at 22:49:26------
+-----rgg_n_2_19_s0.mtx Benchmark Started at 22:49:26-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 155.668974 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 8.633931 ms ( 1.514845 Gflops/s 16.605826 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 81.421137 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 4.959350 ms ( 2.637254 Gflops/s 28.909749 Gbytes/s)
+------End of rgg_n_2_19_s0.mtx Benchmark at 22:50:32------
+-----rgg_n_2_22_s0.mtx Benchmark Started at 22:50:32-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 1486.625195 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 80.169868 ms ( 1.514744 Gflops/s 16.403061 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 791.004896 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 47.689080 ms ( 2.546428 Gflops/s 27.575101 Gbytes/s)
+------End of rgg_n_2_22_s0.mtx Benchmark at 23:01:07------
+-----rma10.mtx Benchmark Started at 23:01:07-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 30.835867 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.606239 ms ( 7.831900 Gflops/s 80.173121 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 5.142927 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.252731 ms ( 18.786793 Gflops/s 192.315504 Gbytes/s)
+------End of rma10.mtx Benchmark at 23:01:23------
+-----s3dkq4m2.mtx Benchmark Started at 23:01:23-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 59.583902 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.973220 ms ( 9.907095 Gflops/s 101.301462 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 7.566929 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.344090 ms ( 28.021067 Gflops/s 286.519410 Gbytes/s)
+------End of s3dkq4m2.mtx Benchmark at 23:02:07------
+-----soc-LiveJournal1.mtx Benchmark Started at 23:02:07-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 1578.655005 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 109.427269 ms ( 1.260998 Gflops/s 13.673166 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 757.027864 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 61.580391 ms ( 2.240771 Gflops/s 24.296974 Gbytes/s)
+------End of soc-LiveJournal1.mtx Benchmark at 23:14:15------
+-----spal_004.mtx Benchmark Started at 23:14:15-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 694.828987 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 18.663280 ms ( 4.947482 Gflops/s 49.487944 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 179.365158 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 12.216380 ms ( 7.558397 Gflops/s 75.604015 Gbytes/s)
+------End of spal_004.mtx Benchmark at 23:21:43------
+-----stomach.mtx Benchmark Started at 23:21:43-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 49.183846 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 1.859958 ms ( 3.249157 Gflops/s 35.244664 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 12.867928 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.750582 ms ( 8.051478 Gflops/s 87.337001 Gbytes/s)
+------End of stomach.mtx Benchmark at 23:22:06------
+-----struct3.mtx Benchmark Started at 23:22:06-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 17.086983 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.482979 ms ( 4.860230 Gflops/s 51.264277 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 3.468037 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.175719 ms ( 13.358740 Gflops/s 140.904075 Gbytes/s)
+------End of struct3.mtx Benchmark at 23:22:15------
+-----struct4.mtx Benchmark Started at 23:22:15-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 3.766775 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.080380 ms ( 5.916813 Gflops/s 60.466950 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 1.364946 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.046470 ms ( 10.234437 Gflops/s 104.590977 Gbytes/s)
+------End of struct4.mtx Benchmark at 23:22:19------
+-----tandem_dual.mtx Benchmark Started at 23:22:19-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 10.146856 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.536191 ms ( 1.717644 Gflops/s 21.386980 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 3.575802 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.225670 ms ( 4.081112 Gflops/s 50.815345 Gbytes/s)
+------End of tandem_dual.mtx Benchmark at 23:22:24------
+-----tandem_vtx.mtx Benchmark Started at 23:22:24-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 5.141020 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.204511 ms ( 2.477621 Gflops/s 26.941849 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 1.949072 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.108569 ms ( 4.667092 Gflops/s 50.750332 Gbytes/s)
+------End of tandem_vtx.mtx Benchmark at 23:22:29------
+-----ted_A.mtx Benchmark Started at 23:22:29-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 6.013155 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.128312 ms ( 6.618035 Gflops/s 68.163948 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 1.289129 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.063620 ms ( 13.347676 Gflops/s 137.477415 Gbytes/s)
+------End of ted_A.mtx Benchmark at 23:22:34------
+-----thermal2.mtx Benchmark Started at 23:22:34-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 175.644875 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 9.014111 ms ( 1.903751 Gflops/s 22.307175 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 57.906866 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 3.925591 ms ( 4.371476 Gflops/s 51.222699 Gbytes/s)
+------End of thermal2.mtx Benchmark at 23:24:01------
+-----thermomech_TC.mtx Benchmark Started at 23:24:01-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 17.121077 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.971591 ms ( 1.464727 Gflops/s 17.170748 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 8.440971 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.559540 ms ( 2.543369 Gflops/s 29.815488 Gbytes/s)
+------End of thermomech_TC.mtx Benchmark at 23:24:10------
+-----thermomech_TK.mtx Benchmark Started at 23:24:10-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 17.145872 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.970750 ms ( 1.465997 Gflops/s 17.185634 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 8.434057 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.559671 ms ( 2.542773 Gflops/s 29.808502 Gbytes/s)
+------End of thermomech_TK.mtx Benchmark at 23:24:17------
+-----thermomech_dK.mtx Benchmark Started at 23:24:17-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 48.074007 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 1.906490 ms ( 2.985830 Gflops/s 32.430348 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 10.249138 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.635512 ms ( 8.957277 Gflops/s 97.288731 Gbytes/s)
+------End of thermomech_dK.mtx Benchmark at 23:24:38------
+-----thermomech_dM.mtx Benchmark Started at 23:24:38-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 30.644894 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 1.718330 ms ( 1.656394 Gflops/s 19.417630 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 9.321928 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.636129 ms ( 4.474297 Gflops/s 52.451443 Gbytes/s)
+------End of thermomech_dM.mtx Benchmark at 23:24:49------
+-----torso3.mtx Benchmark Started at 23:24:49-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 70.739985 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 2.533519 ms ( 3.496355 Gflops/s 37.418537 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 18.450975 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.076779 ms ( 8.226462 Gflops/s 88.040862 Gbytes/s)
+------End of torso3.mtx Benchmark at 23:25:32------
+-----trdheim.mtx Benchmark Started at 23:25:32-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 23.151159 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.326741 ms ( 11.846236 Gflops/s 120.085520 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 3.077984 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.136209 ms ( 28.417074 Gflops/s 288.064417 Gbytes/s)
+------End of trdheim.mtx Benchmark at 23:25:45------
+-----troll.mtx Benchmark Started at 23:25:45-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 144.491911 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 2.052991 ms ( 11.675754 Gflops/s 119.252859 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 22.047043 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.104720 ms ( 21.698014 Gflops/s 221.617398 Gbytes/s)
+------End of troll.mtx Benchmark at 23:27:29------
+-----tsyl201.mtx Benchmark Started at 23:27:29-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 28.908968 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.402040 ms ( 12.212487 Gflops/s 123.359667 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 5.623102 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.283680 ms ( 17.307934 Gflops/s 174.829338 Gbytes/s)
+------End of tsyl201.mtx Benchmark at 23:27:44------
+-----twotone.mtx Benchmark Started at 23:27:44-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 25.438070 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 1.346149 ms ( 1.818853 Gflops/s 20.341337 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 9.424925 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.634050 ms ( 3.861599 Gflops/s 43.186601 Gbytes/s)
+------End of twotone.mtx Benchmark at 23:27:56------
+-----usroads.mtx Benchmark Started at 23:27:56-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 10.234118 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.660100 ms ( 1.002484 Gflops/s 14.721006 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 4.598141 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.285311 ms ( 2.319366 Gflops/s 34.058780 Gbytes/s)
+------End of usroads.mtx Benchmark at 23:28:01------
+-----venturiLevel3.mtx Benchmark Started at 23:28:02-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 377.200127 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 19.392939 ms ( 1.661272 Gflops/s 21.596167 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 114.635944 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 7.802169 ms ( 4.129230 Gflops/s 53.679063 Gbytes/s)
+------End of venturiLevel3.mtx Benchmark at 23:30:57------
+-----wave.mtx Benchmark Started at 23:30:57-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 37.299871 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 1.525309 ms ( 2.778010 Gflops/s 30.239673 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 11.425018 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.671751 ms ( 6.307874 Gflops/s 68.663558 Gbytes/s)
+------End of wave.mtx Benchmark at 23:31:13------
+-----wb-edu.mtx Benchmark Started at 23:31:13-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 1100.859880 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 60.604980 ms ( 1.886199 Gflops/s 22.760970 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 288.839102 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 23.235688 ms ( 4.919720 Gflops/s 59.366786 Gbytes/s)
+------End of wb-edu.mtx Benchmark at 23:41:13------
+-----web-BerkStan.mtx Benchmark Started at 23:41:13-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 128.776073 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 5.658560 ms ( 2.686406 Gflops/s 29.770370 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 35.293102 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 2.312400 ms ( 6.573771 Gflops/s 72.849591 Gbytes/s)
+------End of web-BerkStan.mtx Benchmark at 23:42:28------
+-----web-Google.mtx Benchmark Started at 23:42:28-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 135.712862 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 11.346560 ms ( 0.899839 Gflops/s 10.936800 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 70.910931 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 6.319339 ms ( 1.615688 Gflops/s 19.637346 Gbytes/s)
+------End of web-Google.mtx Benchmark at 23:43:23------
+-----web-NotreDame.mtx Benchmark Started at 23:43:23-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 30.762911 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 1.819110 ms ( 1.646007 Gflops/s 20.757501 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 8.919001 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.842121 ms ( 3.555628 Gflops/s 44.839390 Gbytes/s)
+------End of web-NotreDame.mtx Benchmark at 23:43:35------
+-----webbase-1M.mtx Benchmark Started at 23:43:35-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 67.374945 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 4.511130 ms ( 1.376833 Gflops/s 19.088531 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 17.137051 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 1.547570 ms ( 4.013435 Gflops/s 55.642606 Gbytes/s)
+------End of webbase-1M.mtx Benchmark at 23:44:00------
+-----wiki-Talk.mtx Benchmark Started at 23:44:00-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 360.718012 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 36.948299 ms ( 0.271807 Gflops/s 4.273361 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 248.590946 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 9.875529 ms ( 1.016940 Gflops/s 15.988353 Gbytes/s)
+------End of wiki-Talk.mtx Benchmark at 23:45:02------
+-----wikipedia-20051105.mtx Benchmark Started at 23:45:02-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 489.378929 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 42.735288 ms ( 0.924439 Gflops/s 10.162592 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 260.671854 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 23.309960 ms ( 1.694819 Gflops/s 18.631576 Gbytes/s)
+------End of wikipedia-20051105.mtx Benchmark at 23:48:18------
+-----wikipedia-20060925.mtx Benchmark Started at 23:48:18-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 974.828959 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 85.363691 ms ( 0.873184 Gflops/s 9.570647 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 519.328117 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 46.171360 ms ( 1.614382 Gflops/s 17.694644 Gbytes/s)
+------End of wikipedia-20060925.mtx Benchmark at 23:55:00------
+-----wikipedia-20061104.mtx Benchmark Started at 23:55:00-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 1034.545898 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 88.686821 ms ( 0.888142 Gflops/s 9.733433 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 537.533045 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 48.440099 ms ( 1.626059 Gflops/s 17.820510 Gbytes/s)
+------End of wikipedia-20061104.mtx Benchmark at 00:02:01------
+-----wikipedia-20070206.mtx Benchmark Started at 00:02:01-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 1319.742918 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 101.359642 ms ( 0.888527 Gflops/s 9.729844 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 616.028070 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 55.783792 ms ( 1.614461 Gflops/s 17.679213 Gbytes/s)
+------End of wikipedia-20070206.mtx Benchmark at 00:10:04------
+-----xenon2.mtx Benchmark Started at 00:10:04-----
+cuSPARSE
+CuSPARCE-CSR to BSR (BlockDim= 3 ): 49.436092 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 3 ): 0.857141 ms ( 9.022291 Gflops/s 94.631915 Gbytes/s)
+CuSPARCE-CSR to BSR (BlockDim= 4 ): 12.001038 ms
+CuSPARCE-BSR version(dir=row, BlockDim= 4 ): 0.631371 ms ( 12.248554 Gflops/s 128.471144 Gbytes/s)
+------End of xenon2.mtx Benchmark at 00:10:32------

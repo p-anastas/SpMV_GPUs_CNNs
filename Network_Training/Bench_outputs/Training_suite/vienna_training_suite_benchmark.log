@@ -1,0 +1,1861 @@
+-----ASIC_680ks.mtx Benchmark Started at 17:44:27-----
+ViennaCl
+Matrix:/local/panastas/training_suite/ASIC_680ks.mtxReading matrix...
+GPU CSR align1: t= 0.36751 ms, GFLOPs= 12.6754
+GPU CSR align4: t=0.51764 ms, GFLOPs= 8.99921
+GPU CSR align8: t=0.817921 ms, GFLOPs= 5.69536
+GPU Hybrid: t= 0.74472 ms, GFLOPs= 6.25518
+GPU Sliced Ell: t= 1.06969 ms, GFLOPs= 4.35487
+------End of ASIC_680ks.mtx Benchmark at 17:44:31------
+-----BenElechi1.mtx Benchmark Started at 17:46:57-----
+ViennaCl
+Matrix:/local/panastas/training_suite/BenElechi1.mtxReading matrix...
+GPU CSR align1: t= 1.65678 ms, GFLOPs= 15.8748
+GPU CSR align4: t=1.71876 ms, GFLOPs= 15.3023
+GPU CSR align8: t=1.58073 ms, GFLOPs= 16.6385
+GPU Hybrid: t= 1.5125 ms, GFLOPs= 17.3891
+GPU Sliced Ell: t= 1.10137 ms, GFLOPs= 23.8803
+------End of BenElechi1.mtx Benchmark at 17:47:06------
+-----Chebyshev4.mtx Benchmark Started at 17:48:25-----
+ViennaCl
+Matrix:/local/panastas/training_suite/Chebyshev4.mtxReading matrix...
+GPU CSR align1: t= 3.34601 ms, GFLOPs= 3.21443
+GPU CSR align4: t=3.32059 ms, GFLOPs= 3.23904
+GPU CSR align8: t=3.27647 ms, GFLOPs= 3.28266
+GPU Hybrid: t= 33.8629 ms, GFLOPs= 0.31762
+GPU Sliced Ell: t= 93.146 ms, GFLOPs= 0.115469
+------End of Chebyshev4.mtx Benchmark at 17:48:46------
+-----CurlCurl_1.mtx Benchmark Started at 17:49:19-----
+ViennaCl
+Matrix:/local/panastas/training_suite/CurlCurl_1.mtxReading matrix...
+GPU CSR align1: t= 0.328369 ms, GFLOPs= 15.0567
+GPU CSR align4: t=0.495811 ms, GFLOPs= 9.97184
+GPU CSR align8: t=0.488029 ms, GFLOPs= 10.1308
+GPU Hybrid: t= 0.357201 ms, GFLOPs= 13.8413
+GPU Sliced Ell: t= 0.30328 ms, GFLOPs= 16.3022
+------End of CurlCurl_1.mtx Benchmark at 17:49:23------
+-----CurlCurl_2.mtx Benchmark Started at 17:51:17-----
+ViennaCl
+Matrix:/local/panastas/training_suite/CurlCurl_2.mtxReading matrix...
+GPU CSR align1: t= 1.16667 ms, GFLOPs= 15.2944
+GPU CSR align4: t=1.70111 ms, GFLOPs= 10.4894
+GPU CSR align8: t=1.67538 ms, GFLOPs= 10.6505
+GPU Hybrid: t= 1.36937 ms, GFLOPs= 13.0305
+GPU Sliced Ell: t= 1.10036 ms, GFLOPs= 16.2161
+------End of CurlCurl_2.mtx Benchmark at 17:51:24------
+-----CurlCurl_3.mtx Benchmark Started at 17:54:10-----
+ViennaCl
+Matrix:/local/panastas/training_suite/CurlCurl_3.mtxReading matrix...
+GPU CSR align1: t= 1.79768 ms, GFLOPs= 15.069
+GPU CSR align4: t=2.79362 ms, GFLOPs= 9.69682
+GPU CSR align8: t=2.715 ms, GFLOPs= 9.97762
+GPU Hybrid: t= 2.09668 ms, GFLOPs= 12.9201
+GPU Sliced Ell: t= 1.68382 ms, GFLOPs= 16.088
+------End of CurlCurl_3.mtx Benchmark at 17:54:20------
+-----CurlCurl_4.mtx Benchmark Started at 17:59:53-----
+ViennaCl
+Matrix:/local/panastas/training_suite/CurlCurl_4.mtxReading matrix...
+GPU CSR align1: t= 3.41144 ms, GFLOPs= 15.5453
+GPU CSR align4: t=5.27902 ms, GFLOPs= 10.0458
+GPU CSR align8: t=5.11215 ms, GFLOPs= 10.3737
+GPU Hybrid: t= 4.10592 ms, GFLOPs= 12.9159
+GPU Sliced Ell: t= 3.34154 ms, GFLOPs= 15.8705
+------End of CurlCurl_4.mtx Benchmark at 18:00:10------
+-----Emilia_923.mtx Benchmark Started at 18:07:36-----
+ViennaCl
+Matrix:/local/panastas/training_suite/Emilia_923.mtxReading matrix...
+GPU CSR align1: t= 5.32504 ms, GFLOPs= 15.4009
+GPU CSR align4: t=5.50251 ms, GFLOPs= 14.9042
+GPU CSR align8: t=5.14428 ms, GFLOPs= 15.9421
+GPU Hybrid: t= 5.01172 ms, GFLOPs= 16.3637
+GPU Sliced Ell: t= 4.2205 ms, GFLOPs= 19.4314
+------End of Emilia_923.mtx Benchmark at 18:07:57------
+-----F1.mtx Benchmark Started at 18:13:02-----
+ViennaCl
+Matrix:/local/panastas/training_suite/F1.mtxReading matrix...
+GPU CSR align1: t= 3.96642 ms, GFLOPs= 13.5322
+GPU CSR align4: t=4.01542 ms, GFLOPs= 13.367
+GPU CSR align8: t=3.77764 ms, GFLOPs= 14.2084
+GPU Hybrid: t= 7.46244 ms, GFLOPs= 7.19258
+GPU Sliced Ell: t= 3.76349 ms, GFLOPs= 14.2618
+------End of F1.mtx Benchmark at 18:13:19------
+-----F2.mtx Benchmark Started at 18:14:27-----
+ViennaCl
+Matrix:/local/panastas/training_suite/F2.mtxReading matrix...
+GPU CSR align1: t= 0.689039 ms, GFLOPs= 15.3672
+GPU CSR align4: t=0.696809 ms, GFLOPs= 15.1958
+GPU CSR align8: t=0.65104 ms, GFLOPs= 16.2641
+GPU Hybrid: t= 1.26973 ms, GFLOPs= 8.33922
+GPU Sliced Ell: t= 0.773809 ms, GFLOPs= 13.6837
+------End of F2.mtx Benchmark at 18:14:32------
+-----FEM_3D_thermal1.mtx Benchmark Started at 18:14:50-----
+ViennaCl
+Matrix:/local/panastas/training_suite/FEM_3D_thermal1.mtxReading matrix...
+GPU CSR align1: t= 0.0819206 ms, GFLOPs= 10.516
+GPU CSR align4: t=0.0817895 ms, GFLOPs= 10.5329
+GPU CSR align8: t=0.0763607 ms, GFLOPs= 11.2817
+GPU Hybrid: t= 0.0559497 ms, GFLOPs= 15.3974
+GPU Sliced Ell: t= 0.0543308 ms, GFLOPs= 15.8562
+------End of FEM_3D_thermal1.mtx Benchmark at 18:14:53------
+-----FEM_3D_thermal2.mtx Benchmark Started at 18:15:38-----
+ViennaCl
+Matrix:/local/panastas/training_suite/FEM_3D_thermal2.mtxReading matrix...
+GPU CSR align1: t= 0.584862 ms, GFLOPs= 11.932
+GPU CSR align4: t=0.595181 ms, GFLOPs= 11.7252
+GPU CSR align8: t=0.540788 ms, GFLOPs= 12.9045
+GPU Hybrid: t= 0.455639 ms, GFLOPs= 15.3161
+GPU Sliced Ell: t= 0.35207 ms, GFLOPs= 19.8216
+------End of FEM_3D_thermal2.mtx Benchmark at 18:15:43------
+-----Freescale1.mtx Benchmark Started at 18:20:08-----
+ViennaCl
+Matrix:/local/panastas/training_suite/Freescale1.mtxReading matrix...
+GPU CSR align1: t= 2.96319 ms, GFLOPs= 12.7703
+GPU CSR align4: t=3.58885 ms, GFLOPs= 10.544
+GPU CSR align8: t=4.46019 ms, GFLOPs= 8.4841
+GPU Hybrid: t= 4.08177 ms, GFLOPs= 9.27065
+GPU Sliced Ell: t= 2.73235 ms, GFLOPs= 13.8491
+------End of Freescale1.mtx Benchmark at 18:20:26------
+-----FullChip.mtx Benchmark Started at 18:29:38-----
+ViennaCl
+Matrix:/local/panastas/training_suite/FullChip.mtxReading matrix...
+GPU CSR align1: t= 11.0356 ms, GFLOPs= 4.82474
+GPU CSR align4: t=11.1432 ms, GFLOPs= 4.77815
+GPU CSR align8: t=11.2357 ms, GFLOPs= 4.7388
+GPU Hybrid: t= 999.66 ms, GFLOPs= 0.0532621
+GPU Sliced Ell: t= 3304.92 ms, GFLOPs= 0.0161105
+------End of FullChip.mtx Benchmark at 18:37:17------
+-----G2_circuit.mtx Benchmark Started at 18:37:38-----
+ViennaCl
+Matrix:/local/panastas/training_suite/G2_circuit.mtxReading matrix...
+GPU CSR align1: t= 0.103579 ms, GFLOPs= 14.0314
+GPU CSR align4: t=0.146129 ms, GFLOPs= 9.94564
+GPU CSR align8: t=0.15413 ms, GFLOPs= 9.42934
+GPU Hybrid: t= 0.11471 ms, GFLOPs= 12.6697
+GPU Sliced Ell: t= 0.0908089 ms, GFLOPs= 16.0045
+------End of G2_circuit.mtx Benchmark at 18:37:41------
+-----G3_circuit.mtx Benchmark Started at 18:39:20-----
+ViennaCl
+Matrix:/local/panastas/training_suite/G3_circuit.mtxReading matrix...
+GPU CSR align1: t= 1.06821 ms, GFLOPs= 14.3433
+GPU CSR align4: t=1.53883 ms, GFLOPs= 9.95669
+GPU CSR align8: t=1.58197 ms, GFLOPs= 9.68518
+GPU Hybrid: t= 1.33802 ms, GFLOPs= 11.451
+GPU Sliced Ell: t= 0.979741 ms, GFLOPs= 15.6385
+------End of G3_circuit.mtx Benchmark at 18:39:27------
+-----GL7d17.mtx Benchmark Started at 18:44:46-----
+ViennaCl
+Matrix:/local/panastas/training_suite/GL7d17.mtxReading matrix...
+GPU CSR align1: t= 15.9669 ms, GFLOPs= 3.25399
+GPU CSR align4: t=16.3146 ms, GFLOPs= 3.18465
+GPU CSR align8: t=16.3036 ms, GFLOPs= 3.1868
+GPU Hybrid: t= 14.5757 ms, GFLOPs= 3.56458
+GPU Sliced Ell: t= 13.0673 ms, GFLOPs= 3.97606
+------End of GL7d17.mtx Benchmark at 18:45:12------
+-----GL7d18.mtx Benchmark Started at 18:52:26-----
+ViennaCl
+Matrix:/local/panastas/training_suite/GL7d18.mtxReading matrix...
+GPU CSR align1: t= 23.963 ms, GFLOPs= 2.97046
+GPU CSR align4: t=24.1546 ms, GFLOPs= 2.94689
+GPU CSR align8: t=24.1385 ms, GFLOPs= 2.94886
+GPU Hybrid: t= 21.5373 ms, GFLOPs= 3.30502
+GPU Sliced Ell: t= 19.7555 ms, GFLOPs= 3.60311
+------End of GL7d18.mtx Benchmark at 18:53:01------
+-----GL7d19.mtx Benchmark Started at 19:00:34-----
+ViennaCl
+Matrix:/local/panastas/training_suite/GL7d19.mtxReading matrix...
+GPU CSR align1: t= 26.0156 ms, GFLOPs= 2.86926
+GPU CSR align4: t=25.8359 ms, GFLOPs= 2.88921
+GPU CSR align8: t=25.8453 ms, GFLOPs= 2.88816
+GPU Hybrid: t= 22.7003 ms, GFLOPs= 3.28831
+GPU Sliced Ell: t= 21.2146 ms, GFLOPs= 3.5186
+------End of GL7d19.mtx Benchmark at 19:01:11------
+-----GL7d20.mtx Benchmark Started at 19:07:17-----
+ViennaCl
+Matrix:/local/panastas/training_suite/GL7d20.mtxReading matrix...
+GPU CSR align1: t= 20.6935 ms, GFLOPs= 2.88913
+GPU CSR align4: t=20.8628 ms, GFLOPs= 2.86568
+GPU CSR align8: t=20.4012 ms, GFLOPs= 2.93053
+GPU Hybrid: t= 18.1414 ms, GFLOPs= 3.29557
+GPU Sliced Ell: t= 16.5193 ms, GFLOPs= 3.61918
+------End of GL7d20.mtx Benchmark at 19:07:47------
+-----Ga41As41H72.mtx Benchmark Started at 19:11:21-----
+ViennaCl
+Matrix:/local/panastas/training_suite/Ga41As41H72.mtxReading matrix...
+GPU CSR align1: t= 2.72247 ms, GFLOPs= 13.5821
+GPU CSR align4: t=2.74031 ms, GFLOPs= 13.4937
+GPU CSR align8: t=2.60258 ms, GFLOPs= 14.2078
+GPU Hybrid: t= 6.78716 ms, GFLOPs= 5.44807
+GPU Sliced Ell: t= 5.58249 ms, GFLOPs= 6.62374
+------End of Ga41As41H72.mtx Benchmark at 19:11:35------
+-----Ge87H76.mtx Benchmark Started at 19:13:08-----
+ViennaCl
+Matrix:/local/panastas/training_suite/Ge87H76.mtxReading matrix...
+GPU CSR align1: t= 1.05806 ms, GFLOPs= 14.9183
+GPU CSR align4: t=1.05236 ms, GFLOPs= 14.999
+GPU CSR align8: t=0.99962 ms, GFLOPs= 15.7904
+GPU Hybrid: t= 3.19015 ms, GFLOPs= 4.94785
+GPU Sliced Ell: t= 2.01488 ms, GFLOPs= 7.83391
+------End of Ge87H76.mtx Benchmark at 19:13:15------
+-----Ge99H100.mtx Benchmark Started at 19:14:54-----
+ViennaCl
+Matrix:/local/panastas/training_suite/Ge99H100.mtxReading matrix...
+GPU CSR align1: t= 1.11863 ms, GFLOPs= 15.1103
+GPU CSR align4: t=1.11139 ms, GFLOPs= 15.2087
+GPU CSR align8: t=1.05384 ms, GFLOPs= 16.0392
+GPU Hybrid: t= 3.43247 ms, GFLOPs= 4.92438
+GPU Sliced Ell: t= 2.12352 ms, GFLOPs= 7.9598
+------End of Ge99H100.mtx Benchmark at 19:15:02------
+-----Geo_1438.mtx Benchmark Started at 19:26:23-----
+ViennaCl
+Matrix:/local/panastas/training_suite/Geo_1438.mtxReading matrix...
+GPU CSR align1: t= 8.11428 ms, GFLOPs= 15.5668
+GPU CSR align4: t=8.35168 ms, GFLOPs= 15.1243
+GPU CSR align8: t=7.86335 ms, GFLOPs= 16.0636
+GPU Hybrid: t= 8.3056 ms, GFLOPs= 15.2082
+GPU Sliced Ell: t= 6.51959 ms, GFLOPs= 19.3744
+------End of Geo_1438.mtx Benchmark at 19:26:55------
+-----Hamrle3.mtx Benchmark Started at 19:28:16-----
+ViennaCl
+Matrix:/local/panastas/training_suite/Hamrle3.mtxReading matrix...
+GPU CSR align1: t= 0.840981 ms, GFLOPs= 13.1138
+GPU CSR align4: t=1.1552 ms, GFLOPs= 9.54682
+GPU CSR align8: t=1.4037 ms, GFLOPs= 7.85672
+GPU Hybrid: t= 1.09368 ms, GFLOPs= 10.0838
+GPU Sliced Ell: t= 0.80821 ms, GFLOPs= 13.6456
+------End of Hamrle3.mtx Benchmark at 19:28:22------
+-----Hook_1498.mtx Benchmark Started at 19:39:36-----
+ViennaCl
+Matrix:/local/panastas/training_suite/Hook_1498.mtxReading matrix...
+GPU CSR align1: t= 8.65187 ms, GFLOPs= 14.0819
+GPU CSR align4: t=8.79974 ms, GFLOPs= 13.8453
+GPU CSR align8: t=8.24548 ms, GFLOPs= 14.776
+GPU Hybrid: t= 11.4362 ms, GFLOPs= 10.6534
+GPU Sliced Ell: t= 8.3884 ms, GFLOPs= 14.5242
+------End of Hook_1498.mtx Benchmark at 19:40:09------
+-----RM07R.mtx Benchmark Started at 19:47:53-----
+ViennaCl
+Matrix:/local/panastas/training_suite/RM07R.mtxReading matrix...
+GPU CSR align1: t= 4.79397 ms, GFLOPs= 15.63
+GPU CSR align4: t=4.75479 ms, GFLOPs= 15.7588
+GPU CSR align8: t=4.47421 ms, GFLOPs= 16.7471
+GPU Hybrid: t= 7.99887 ms, GFLOPs= 9.36756
+GPU Sliced Ell: t= 6.12981 ms, GFLOPs= 12.2239
+------End of RM07R.mtx Benchmark at 19:48:26------
+-----Serena.mtx Benchmark Started at 20:00:05-----
+ViennaCl
+Matrix:/local/panastas/training_suite/Serena.mtxReading matrix...
+GPU CSR align1: t= 8.77787 ms, GFLOPs= 14.7033
+GPU CSR align4: t=8.91211 ms, GFLOPs= 14.4818
+GPU CSR align8: t=8.43394 ms, GFLOPs= 15.3029
+GPU Hybrid: t= 11.3483 ms, GFLOPs= 11.373
+GPU Sliced Ell: t= 8.21043 ms, GFLOPs= 15.7194
+------End of Serena.mtx Benchmark at 20:00:38------
+-----Si41Ge41H72.mtx Benchmark Started at 20:03:22-----
+ViennaCl
+Matrix:/local/panastas/training_suite/Si41Ge41H72.mtxReading matrix...
+GPU CSR align1: t= 2.03343 ms, GFLOPs= 14.7645
+GPU CSR align4: t=2.03573 ms, GFLOPs= 14.7478
+GPU CSR align8: t=1.92419 ms, GFLOPs= 15.6027
+GPU Hybrid: t= 5.65102 ms, GFLOPs= 5.31276
+GPU Sliced Ell: t= 3.84118 ms, GFLOPs= 7.81596
+------End of Si41Ge41H72.mtx Benchmark at 20:03:34------
+-----SiO2.mtx Benchmark Started at 20:05:42-----
+ViennaCl
+Matrix:/local/panastas/training_suite/SiO2.mtxReading matrix...
+GPU CSR align1: t= 1.80969 ms, GFLOPs= 12.4701
+GPU CSR align4: t=1.82896 ms, GFLOPs= 12.3387
+GPU CSR align8: t=1.72279 ms, GFLOPs= 13.0991
+GPU Hybrid: t= 5.33115 ms, GFLOPs= 4.23305
+GPU Sliced Ell: t= 4.44571 ms, GFLOPs= 5.07613
+------End of SiO2.mtx Benchmark at 20:05:51------
+-----Stanford_Berkeley.mtx Benchmark Started at 20:07:30-----
+ViennaCl
+Matrix:/local/panastas/training_suite/Stanford_Berkeley.mtxReading matrix...
+GPU CSR align1: t= 1.52974 ms, GFLOPs= 9.91459
+GPU CSR align4: t=4.05846 ms, GFLOPs= 3.73707
+GPU CSR align8: t=4.01076 ms, GFLOPs= 3.78151
+GPU Hybrid: t= 32.7055 ms, GFLOPs= 0.463737
+GPU Sliced Ell: t= 116.946 ms, GFLOPs= 0.12969
+------End of Stanford_Berkeley.mtx Benchmark at 20:07:51------
+-----StocF-1465.mtx Benchmark Started at 20:11:53-----
+ViennaCl
+Matrix:/local/panastas/training_suite/StocF-1465.mtxReading matrix...
+GPU CSR align1: t= 3.98207 ms, GFLOPs= 10.55
+GPU CSR align4: t=4.12444 ms, GFLOPs= 10.1858
+GPU CSR align8: t=4.09493 ms, GFLOPs= 10.2592
+GPU Hybrid: t= 3.59861 ms, GFLOPs= 11.6742
+GPU Sliced Ell: t= 3.01505 ms, GFLOPs= 13.9337
+------End of StocF-1465.mtx Benchmark at 20:12:07------
+-----TSOPF_FS_b300_c2.mtx Benchmark Started at 20:13:53-----
+ViennaCl
+Matrix:/local/panastas/training_suite/TSOPF_FS_b300_c2.mtxReading matrix...
+GPU CSR align1: t= 3.61681 ms, GFLOPs= 4.84818
+GPU CSR align4: t=3.58219 ms, GFLOPs= 4.89503
+GPU CSR align8: t=3.51248 ms, GFLOPs= 4.99218
+GPU Hybrid: t= 34.1198 ms, GFLOPs= 0.513923
+GPU Sliced Ell: t= 45.8048 ms, GFLOPs= 0.382818
+------End of TSOPF_FS_b300_c2.mtx Benchmark at 20:14:09------
+-----TSOPF_FS_b300_c3.mtx Benchmark Started at 20:16:41-----
+ViennaCl
+Matrix:/local/panastas/training_suite/TSOPF_FS_b300_c3.mtxReading matrix...
+GPU CSR align1: t= 5.47914 ms, GFLOPs= 4.79489
+GPU CSR align4: t=5.39926 ms, GFLOPs= 4.86583
+GPU CSR align8: t=5.33096 ms, GFLOPs= 4.92817
+GPU Hybrid: t= 52.5962 ms, GFLOPs= 0.499501
+GPU Sliced Ell: t= 70.4661 ms, GFLOPs= 0.37283
+------End of TSOPF_FS_b300_c3.mtx Benchmark at 20:17:04------
+-----TSOPF_RS_b2383.mtx Benchmark Started at 20:20:23-----
+ViennaCl
+Matrix:/local/panastas/training_suite/TSOPF_RS_b2383.mtxReading matrix...
+GPU CSR align1: t= 1.75044 ms, GFLOPs= 18.4767
+GPU CSR align4: t=1.86702 ms, GFLOPs= 17.323
+GPU CSR align8: t=1.56482 ms, GFLOPs= 20.6684
+GPU Hybrid: t= 2.79927 ms, GFLOPs= 11.5538
+GPU Sliced Ell: t= 1.54829 ms, GFLOPs= 20.8891
+------End of TSOPF_RS_b2383.mtx Benchmark at 20:20:39------
+-----TSOPF_RS_b678_c2.mtx Benchmark Started at 20:22:33-----
+ViennaCl
+Matrix:/local/panastas/training_suite/TSOPF_RS_b678_c2.mtxReading matrix...
+GPU CSR align1: t= 0.898468 ms, GFLOPs= 19.5487
+GPU CSR align4: t=0.938392 ms, GFLOPs= 18.717
+GPU CSR align8: t=0.720818 ms, GFLOPs= 24.3666
+GPU Hybrid: t= 1.40236 ms, GFLOPs= 12.5245
+GPU Sliced Ell: t= 0.82922 ms, GFLOPs= 21.1812
+------End of TSOPF_RS_b678_c2.mtx Benchmark at 20:22:43------
+-----adaptive.mtx Benchmark Started at 20:28:07-----
+ViennaCl
+Matrix:/local/panastas/training_suite/adaptive.mtxReading matrix...
+GPU CSR align1: t= 4.43218 ms, GFLOPs= 12.2958
+GPU CSR align4: t=4.00733 ms, GFLOPs= 13.5994
+GPU CSR align8: t=6.8714 ms, GFLOPs= 7.93103
+GPU Hybrid: t= 5.29443 ms, GFLOPs= 10.2933
+GPU Sliced Ell: t= 4.31848 ms, GFLOPs= 12.6195
+------End of adaptive.mtx Benchmark at 20:28:20------
+-----af_0_k101.mtx Benchmark Started at 20:31:48-----
+ViennaCl
+Matrix:/local/panastas/training_suite/af_0_k101.mtxReading matrix...
+GPU CSR align1: t= 1.97446 ms, GFLOPs= 17.7777
+GPU CSR align4: t=2.05786 ms, GFLOPs= 17.0572
+GPU CSR align8: t=2.14999 ms, GFLOPs= 16.3263
+GPU Hybrid: t= 2.15803 ms, GFLOPs= 16.2655
+GPU Sliced Ell: t= 1.56312 ms, GFLOPs= 22.456
+------End of af_0_k101.mtx Benchmark at 20:31:59------
+-----af_1_k101.mtx Benchmark Started at 20:35:26-----
+ViennaCl
+Matrix:/local/panastas/training_suite/af_1_k101.mtxReading matrix...
+GPU CSR align1: t= 1.97732 ms, GFLOPs= 17.752
+GPU CSR align4: t=2.05928 ms, GFLOPs= 17.0454
+GPU CSR align8: t=2.14962 ms, GFLOPs= 16.3291
+GPU Hybrid: t= 2.15805 ms, GFLOPs= 16.2653
+GPU Sliced Ell: t= 1.56342 ms, GFLOPs= 22.4516
+------End of af_1_k101.mtx Benchmark at 20:35:38------
+-----af_2_k101.mtx Benchmark Started at 20:39:04-----
+ViennaCl
+Matrix:/local/panastas/training_suite/af_2_k101.mtxReading matrix...
+GPU CSR align1: t= 1.97851 ms, GFLOPs= 17.7413
+GPU CSR align4: t=2.05724 ms, GFLOPs= 17.0624
+GPU CSR align8: t=2.1495 ms, GFLOPs= 16.33
+GPU Hybrid: t= 2.15827 ms, GFLOPs= 16.2637
+GPU Sliced Ell: t= 1.56296 ms, GFLOPs= 22.4583
+------End of af_2_k101.mtx Benchmark at 20:39:16------
+-----af_3_k101.mtx Benchmark Started at 20:42:43-----
+ViennaCl
+Matrix:/local/panastas/training_suite/af_3_k101.mtxReading matrix...
+GPU CSR align1: t= 1.97937 ms, GFLOPs= 17.7336
+GPU CSR align4: t=2.05646 ms, GFLOPs= 17.0688
+GPU CSR align8: t=2.14971 ms, GFLOPs= 16.3284
+GPU Hybrid: t= 2.15923 ms, GFLOPs= 16.2564
+GPU Sliced Ell: t= 1.56355 ms, GFLOPs= 22.4498
+------End of af_3_k101.mtx Benchmark at 20:42:54------
+-----af_shell10.mtx Benchmark Started at 20:52:33-----
+ViennaCl
+Matrix:/local/panastas/training_suite/af_shell10.mtxReading matrix...
+GPU CSR align1: t= 6.12108 ms, GFLOPs= 17.2101
+GPU CSR align4: t=6.31704 ms, GFLOPs= 16.6763
+GPU CSR align8: t=6.64046 ms, GFLOPs= 15.8641
+GPU Hybrid: t= 6.69643 ms, GFLOPs= 15.7315
+GPU Sliced Ell: t= 4.82599 ms, GFLOPs= 21.8286
+------End of af_shell10.mtx Benchmark at 20:53:00------
+-----af_shell5.mtx Benchmark Started at 20:56:22-----
+ViennaCl
+Matrix:/local/panastas/training_suite/af_shell5.mtxReading matrix...
+GPU CSR align1: t= 1.97636 ms, GFLOPs= 17.7993
+GPU CSR align4: t=2.04928 ms, GFLOPs= 17.1659
+GPU CSR align8: t=2.13752 ms, GFLOPs= 16.4573
+GPU Hybrid: t= 2.17283 ms, GFLOPs= 16.1898
+GPU Sliced Ell: t= 1.57879 ms, GFLOPs= 22.2814
+------End of af_shell5.mtx Benchmark at 20:56:33------
+-----af_shell6.mtx Benchmark Started at 20:59:57-----
+ViennaCl
+Matrix:/local/panastas/training_suite/af_shell6.mtxReading matrix...
+GPU CSR align1: t= 1.97744 ms, GFLOPs= 17.7895
+GPU CSR align4: t=2.05155 ms, GFLOPs= 17.1469
+GPU CSR align8: t=2.13829 ms, GFLOPs= 16.4513
+GPU Hybrid: t= 2.17137 ms, GFLOPs= 16.2007
+GPU Sliced Ell: t= 1.57951 ms, GFLOPs= 22.2713
+------End of af_shell6.mtx Benchmark at 21:00:08------
+-----amazon-2008.mtx Benchmark Started at 21:01:16-----
+ViennaCl
+Matrix:/local/panastas/training_suite/amazon-2008.mtxReading matrix...
+GPU CSR align1: t= 0.900419 ms, GFLOPs= 11.4578
+GPU CSR align4: t=1.07639 ms, GFLOPs= 9.5846
+GPU CSR align8: t=1.4383 ms, GFLOPs= 7.17289
+GPU Hybrid: t= 1.4333 ms, GFLOPs= 7.19791
+GPU Sliced Ell: t= 1.0368 ms, GFLOPs= 9.9506
+------End of amazon-2008.mtx Benchmark at 21:01:21------
+-----apache2.mtx Benchmark Started at 21:02:28-----
+ViennaCl
+Matrix:/local/panastas/training_suite/apache2.mtxReading matrix...
+GPU CSR align1: t= 0.607181 ms, GFLOPs= 15.8696
+GPU CSR align4: t=0.743599 ms, GFLOPs= 12.9582
+GPU CSR align8: t=0.712309 ms, GFLOPs= 13.5275
+GPU Hybrid: t= 0.668101 ms, GFLOPs= 14.4226
+GPU Sliced Ell: t= 0.500829 ms, GFLOPs= 19.2396
+------End of apache2.mtx Benchmark at 21:02:33------
+-----atmosmodd.mtx Benchmark Started at 21:04:34-----
+ViennaCl
+Matrix:/local/panastas/training_suite/atmosmodd.mtxReading matrix...
+GPU CSR align1: t= 1.19705 ms, GFLOPs= 14.7277
+GPU CSR align4: t=1.3781 ms, GFLOPs= 12.7928
+GPU CSR align8: t=1.31737 ms, GFLOPs= 13.3825
+GPU Hybrid: t= 1.15603 ms, GFLOPs= 15.2503
+GPU Sliced Ell: t= 0.99386 ms, GFLOPs= 17.7387
+------End of atmosmodd.mtx Benchmark at 21:04:44------
+-----atmosmodj.mtx Benchmark Started at 21:06:44-----
+ViennaCl
+Matrix:/local/panastas/training_suite/atmosmodj.mtxReading matrix...
+GPU CSR align1: t= 1.19752 ms, GFLOPs= 14.7219
+GPU CSR align4: t=1.37775 ms, GFLOPs= 12.7961
+GPU CSR align8: t=1.31759 ms, GFLOPs= 13.3803
+GPU Hybrid: t= 1.15511 ms, GFLOPs= 15.2624
+GPU Sliced Ell: t= 0.994189 ms, GFLOPs= 17.7328
+------End of atmosmodj.mtx Benchmark at 21:06:53------
+-----atmosmodl.mtx Benchmark Started at 21:09:04-----
+ViennaCl
+Matrix:/local/panastas/training_suite/atmosmodl.mtxReading matrix...
+GPU CSR align1: t= 1.38162 ms, GFLOPs= 14.9386
+GPU CSR align4: t=1.63817 ms, GFLOPs= 12.5991
+GPU CSR align8: t=1.56453 ms, GFLOPs= 13.1922
+GPU Hybrid: t= 1.49764 ms, GFLOPs= 13.7814
+GPU Sliced Ell: t= 1.17925 ms, GFLOPs= 17.5023
+------End of atmosmodl.mtx Benchmark at 21:09:13------
+-----atmosmodm.mtx Benchmark Started at 21:11:24-----
+ViennaCl
+Matrix:/local/panastas/training_suite/atmosmodm.mtxReading matrix...
+GPU CSR align1: t= 1.38178 ms, GFLOPs= 14.9369
+GPU CSR align4: t=1.64011 ms, GFLOPs= 12.5842
+GPU CSR align8: t=1.56614 ms, GFLOPs= 13.1786
+GPU Hybrid: t= 1.49846 ms, GFLOPs= 13.7738
+GPU Sliced Ell: t= 1.18105 ms, GFLOPs= 17.4756
+------End of atmosmodm.mtx Benchmark at 21:11:33------
+-----barrier2-10.mtx Benchmark Started at 21:12:18-----
+ViennaCl
+Matrix:/local/panastas/training_suite/barrier2-10.mtxReading matrix...
+GPU CSR align1: t= 0.816538 ms, GFLOPs= 9.54654
+GPU CSR align4: t=0.826108 ms, GFLOPs= 9.43595
+GPU CSR align8: t=0.80462 ms, GFLOPs= 9.68795
+GPU Hybrid: t= 4.08665 ms, GFLOPs= 1.90746
+GPU Sliced Ell: t= 12.5063 ms, GFLOPs= 0.623295
+------End of barrier2-10.mtx Benchmark at 21:12:24------
+-----barrier2-11.mtx Benchmark Started at 21:13:09-----
+ViennaCl
+Matrix:/local/panastas/training_suite/barrier2-11.mtxReading matrix...
+GPU CSR align1: t= 0.81949 ms, GFLOPs= 9.51215
+GPU CSR align4: t=0.8237 ms, GFLOPs= 9.46353
+GPU CSR align8: t=0.804269 ms, GFLOPs= 9.69217
+GPU Hybrid: t= 4.09622 ms, GFLOPs= 1.903
+GPU Sliced Ell: t= 12.5446 ms, GFLOPs= 0.621393
+------End of barrier2-11.mtx Benchmark at 21:13:16------
+-----barrier2-12.mtx Benchmark Started at 21:14:00-----
+ViennaCl
+Matrix:/local/panastas/training_suite/barrier2-12.mtxReading matrix...
+GPU CSR align1: t= 0.816619 ms, GFLOPs= 9.54559
+GPU CSR align4: t=0.822189 ms, GFLOPs= 9.48093
+GPU CSR align8: t=0.80369 ms, GFLOPs= 9.69916
+GPU Hybrid: t= 4.08561 ms, GFLOPs= 1.90794
+GPU Sliced Ell: t= 12.4998 ms, GFLOPs= 0.623621
+------End of barrier2-12.mtx Benchmark at 21:14:07------
+-----bcsstk32.mtx Benchmark Started at 21:14:33-----
+ViennaCl
+Matrix:/local/panastas/training_suite/bcsstk32.mtxReading matrix...
+GPU CSR align1: t= 0.259831 ms, GFLOPs= 15.5078
+GPU CSR align4: t=0.262301 ms, GFLOPs= 15.3618
+GPU CSR align8: t=0.251939 ms, GFLOPs= 15.9935
+GPU Hybrid: t= 0.365119 ms, GFLOPs= 11.0359
+GPU Sliced Ell: t= 0.35686 ms, GFLOPs= 11.2913
+------End of bcsstk32.mtx Benchmark at 21:14:36------
+-----bmw3_2.mtx Benchmark Started at 21:16:41-----
+ViennaCl
+Matrix:/local/panastas/training_suite/bmw3_2.mtxReading matrix...
+GPU CSR align1: t= 1.34985 ms, GFLOPs= 16.7258
+GPU CSR align4: t=1.37115 ms, GFLOPs= 16.4659
+GPU CSR align8: t=1.30377 ms, GFLOPs= 17.3169
+GPU Hybrid: t= 1.62923 ms, GFLOPs= 13.8576
+GPU Sliced Ell: t= 1.49198 ms, GFLOPs= 15.1324
+------End of bmw3_2.mtx Benchmark at 21:16:49------
+-----bmwcra_1.mtx Benchmark Started at 21:18:50-----
+ViennaCl
+Matrix:/local/panastas/training_suite/bmwcra_1.mtxReading matrix...
+GPU CSR align1: t= 1.35251 ms, GFLOPs= 15.7396
+GPU CSR align4: t=1.39626 ms, GFLOPs= 15.2464
+GPU CSR align8: t=1.33035 ms, GFLOPs= 16.0018
+GPU Hybrid: t= 1.4046 ms, GFLOPs= 15.1559
+GPU Sliced Ell: t= 1.55578 ms, GFLOPs= 13.6832
+------End of bmwcra_1.mtx Benchmark at 21:18:58------
+-----bone010.mtx Benchmark Started at 21:31:45-----
+ViennaCl
+Matrix:/local/panastas/training_suite/bone010.mtxReading matrix...
+GPU CSR align1: t= 9.2484 ms, GFLOPs= 15.4981
+GPU CSR align4: t=9.63327 ms, GFLOPs= 14.8789
+GPU CSR align8: t=9.06028 ms, GFLOPs= 15.8199
+GPU Hybrid: t= 10.0076 ms, GFLOPs= 14.3224
+GPU Sliced Ell: t= 6.97372 ms, GFLOPs= 20.5533
+------End of bone010.mtx Benchmark at 21:32:19------
+-----boneS10.mtx Benchmark Started at 21:42:18-----
+ViennaCl
+Matrix:/local/panastas/training_suite/boneS10.mtxReading matrix...
+GPU CSR align1: t= 7.01212 ms, GFLOPs= 15.8207
+GPU CSR align4: t=7.17938 ms, GFLOPs= 15.4521
+GPU CSR align8: t=6.79354 ms, GFLOPs= 16.3298
+GPU Hybrid: t= 9.12323 ms, GFLOPs= 12.1598
+GPU Sliced Ell: t= 6.45555 ms, GFLOPs= 17.1847
+------End of boneS10.mtx Benchmark at 21:42:45------
+-----cage12.mtx Benchmark Started at 21:43:16-----
+ViennaCl
+Matrix:/local/panastas/training_suite/cage12.mtxReading matrix...
+GPU CSR align1: t= 0.4544 ms, GFLOPs= 8.94603
+GPU CSR align4: t=0.459201 ms, GFLOPs= 8.85248
+GPU CSR align8: t=0.449059 ms, GFLOPs= 9.05242
+GPU Hybrid: t= 0.3196 ms, GFLOPs= 12.7192
+GPU Sliced Ell: t= 0.242341 ms, GFLOPs= 16.7742
+------End of cage12.mtx Benchmark at 21:43:20------
+-----cage13.mtx Benchmark Started at 21:45:04-----
+ViennaCl
+Matrix:/local/panastas/training_suite/cage13.mtxReading matrix...
+GPU CSR align1: t= 1.67826 ms, GFLOPs= 8.91321
+GPU CSR align4: t=1.70104 ms, GFLOPs= 8.79386
+GPU CSR align8: t=1.65014 ms, GFLOPs= 9.0651
+GPU Hybrid: t= 1.19709 ms, GFLOPs= 12.4959
+GPU Sliced Ell: t= 0.825469 ms, GFLOPs= 18.1214
+------End of cage13.mtx Benchmark at 21:45:12------
+-----cage14.mtx Benchmark Started at 21:50:53-----
+ViennaCl
+Matrix:/local/panastas/training_suite/cage14.mtxReading matrix...
+GPU CSR align1: t= 6.26044 ms, GFLOPs= 8.66723
+GPU CSR align4: t=6.32326 ms, GFLOPs= 8.58113
+GPU CSR align8: t=6.32104 ms, GFLOPs= 8.58414
+GPU Hybrid: t= 4.74232 ms, GFLOPs= 11.4418
+GPU Sliced Ell: t= 3.24342 ms, GFLOPs= 16.7295
+------End of cage14.mtx Benchmark at 21:51:17------
+-----cage15.mtx Benchmark Started at 22:12:35-----
+ViennaCl
+Matrix:/local/panastas/training_suite/cage15.mtxReading matrix...
+GPU CSR align1: t= 27.6727 ms, GFLOPs= 7.16949
+GPU CSR align4: t=28.5743 ms, GFLOPs= 6.94327
+GPU CSR align8: t=28.7503 ms, GFLOPs= 6.90078
+GPU Hybrid: t= 20.2808 ms, GFLOPs= 9.7826
+GPU Sliced Ell: t= 13.1585 ms, GFLOPs= 15.0776
+------End of cage15.mtx Benchmark at 22:13:51------
+-----caidaRouterLevel.mtx Benchmark Started at 22:14:14-----
+ViennaCl
+Matrix:/local/panastas/training_suite/caidaRouterLevel.mtxReading matrix...
+GPU CSR align1: t= 0.365272 ms, GFLOPs= 6.66973
+GPU CSR align4: t=0.417881 ms, GFLOPs= 5.83004
+GPU CSR align8: t=0.49794 ms, GFLOPs= 4.89269
+GPU Hybrid: t= 0.91202 ms, GFLOPs= 2.67128
+GPU Sliced Ell: t= 1.81218 ms, GFLOPs= 1.34438
+------End of caidaRouterLevel.mtx Benchmark at 22:14:17------
+-----channel-500x100x100-b050.mtx Benchmark Started at 22:29:58-----
+ViennaCl
+Matrix:/local/panastas/training_suite/channel-500x100x100-b050.mtxReading matrix...
+GPU CSR align1: t= 17.6934 ms, GFLOPs= 9.64911
+GPU CSR align4: t=18.0375 ms, GFLOPs= 9.46504
+GPU CSR align8: t=18.1947 ms, GFLOPs= 9.38324
+GPU Hybrid: t= 10.9533 ms, GFLOPs= 15.5867
+GPU Sliced Ell: t= 8.48301 ms, GFLOPs= 20.1256
+------End of channel-500x100x100-b050.mtx Benchmark at 22:30:31------
+-----circuit5M.mtx Benchmark Started at 22:45:29-----
+ViennaCl
+Matrix:/local/panastas/training_suite/circuit5M.mtxReading matrix...
+GPU CSR align1: t= 10.752 ms, GFLOPs= 11.0722
+GPU CSR align4: t=59.1888 ms, GFLOPs= 2.01134
+GPU CSR align8: t=58.5327 ms, GFLOPs= 2.03388
+GPU Hybrid: t= 577.168 ms, GFLOPs= 0.206263
+GPU Sliced Ell: t= 1827.06 ms, GFLOPs= 0.0651586
+------End of circuit5M.mtx Benchmark at 22:50:35------
+-----circuit5M_dc.mtx Benchmark Started at 22:55:00-----
+ViennaCl
+Matrix:/local/panastas/training_suite/circuit5M_dc.mtxReading matrix...
+GPU CSR align1: t= 2.87837 ms, GFLOPs= 13.3368
+GPU CSR align4: t=3.48061 ms, GFLOPs= 11.0292
+GPU CSR align8: t=4.40946 ms, GFLOPs= 8.70592
+GPU Hybrid: t= 4.06651 ms, GFLOPs= 9.44013
+GPU Sliced Ell: t= 2.8827 ms, GFLOPs= 13.3168
+------End of circuit5M_dc.mtx Benchmark at 22:55:18------
+-----circuit_4.mtx Benchmark Started at 22:55:35-----
+ViennaCl
+Matrix:/local/panastas/training_suite/circuit_4.mtxReading matrix...
+GPU CSR align1: t= 0.07864 ms, GFLOPs= 7.82309
+GPU CSR align4: t=0.0932598 ms, GFLOPs= 6.59671
+GPU CSR align8: t=0.102458 ms, GFLOPs= 6.00449
+GPU Hybrid: t= 2.45783 ms, GFLOPs= 0.250305
+GPU Sliced Ell: t= 9.75336 ms, GFLOPs= 0.0630765
+------End of circuit_4.mtx Benchmark at 22:55:39------
+-----citationCiteseer.mtx Benchmark Started at 22:56:10-----
+ViennaCl
+Matrix:/local/panastas/training_suite/citationCiteseer.mtxReading matrix...
+GPU CSR align1: t= 0.903029 ms, GFLOPs= 5.12341
+GPU CSR align4: t=0.985482 ms, GFLOPs= 4.69475
+GPU CSR align8: t=1.22665 ms, GFLOPs= 3.77173
+GPU Hybrid: t= 1.72779 ms, GFLOPs= 2.67775
+GPU Sliced Ell: t= 3.21657 ms, GFLOPs= 1.43836
+------End of citationCiteseer.mtx Benchmark at 22:56:15------
+-----cnr-2000.mtx Benchmark Started at 22:56:50-----
+ViennaCl
+Matrix:/local/panastas/training_suite/cnr-2000.mtxReading matrix...
+GPU CSR align1: t= 0.51635 ms, GFLOPs= 12.4572
+GPU CSR align4: t=0.65906 ms, GFLOPs= 9.75981
+GPU CSR align8: t=0.760989 ms, GFLOPs= 8.45256
+GPU Hybrid: t= 1.82931 ms, GFLOPs= 3.51625
+GPU Sliced Ell: t= 3.90246 ms, GFLOPs= 1.64827
+------End of cnr-2000.mtx Benchmark at 22:56:55------
+-----coAuthorsCiteseer.mtx Benchmark Started at 22:57:19-----
+ViennaCl
+Matrix:/local/panastas/training_suite/coAuthorsCiteseer.mtxReading matrix...
+GPU CSR align1: t= 0.3213 ms, GFLOPs= 10.1355
+GPU CSR align4: t=0.38182 ms, GFLOPs= 8.52898
+GPU CSR align8: t=0.482862 ms, GFLOPs= 6.74424
+GPU Hybrid: t= 1.06464 ms, GFLOPs= 3.05881
+GPU Sliced Ell: t= 2.22497 ms, GFLOPs= 1.46363
+------End of coAuthorsCiteseer.mtx Benchmark at 22:57:23------
+-----coAuthorsDBLP.mtx Benchmark Started at 22:57:51-----
+ViennaCl
+Matrix:/local/panastas/training_suite/coAuthorsDBLP.mtxReading matrix...
+GPU CSR align1: t= 0.442219 ms, GFLOPs= 8.84337
+GPU CSR align4: t=0.518911 ms, GFLOPs= 7.53637
+GPU CSR align8: t=0.642891 ms, GFLOPs= 6.083
+GPU Hybrid: t= 0.93503 ms, GFLOPs= 4.18244
+GPU Sliced Ell: t= 0.93941 ms, GFLOPs= 4.16294
+------End of coAuthorsDBLP.mtx Benchmark at 22:57:55------
+-----coPapersCiteseer.mtx Benchmark Started at 23:03:23-----
+ViennaCl
+Matrix:/local/panastas/training_suite/coPapersCiteseer.mtxReading matrix...
+GPU CSR align1: t= 4.52274 ms, GFLOPs= 14.1832
+GPU CSR align4: t=4.49467 ms, GFLOPs= 14.2718
+GPU CSR align8: t=4.22321 ms, GFLOPs= 15.1891
+GPU Hybrid: t= 12.25 ms, GFLOPs= 5.23648
+GPU Sliced Ell: t= 6.44712 ms, GFLOPs= 9.9497
+------End of coPapersCiteseer.mtx Benchmark at 23:03:38------
+-----coPapersDBLP.mtx Benchmark Started at 23:08:57-----
+ViennaCl
+Matrix:/local/panastas/training_suite/coPapersDBLP.mtxReading matrix...
+GPU CSR align1: t= 4.93028 ms, GFLOPs= 12.3691
+GPU CSR align4: t=4.91954 ms, GFLOPs= 12.3961
+GPU CSR align8: t=4.67006 ms, GFLOPs= 13.0583
+GPU Hybrid: t= 11.8155 ms, GFLOPs= 5.16128
+GPU Sliced Ell: t= 7.64609 ms, GFLOPs= 7.9757
+------End of coPapersDBLP.mtx Benchmark at 23:09:11------
+-----consph.mtx Benchmark Started at 23:10:25-----
+ViennaCl
+Matrix:/local/panastas/training_suite/consph.mtxReading matrix...
+GPU CSR align1: t= 0.718341 ms, GFLOPs= 16.7343
+GPU CSR align4: t=0.751109 ms, GFLOPs= 16.0043
+GPU CSR align8: t=0.716541 ms, GFLOPs= 16.7764
+GPU Hybrid: t= 0.67297 ms, GFLOPs= 17.8626
+GPU Sliced Ell: t= 0.50595 ms, GFLOPs= 23.7592
+------End of consph.mtx Benchmark at 23:10:31------
+-----crankseg_1.mtx Benchmark Started at 23:12:29-----
+ViennaCl
+Matrix:/local/panastas/training_suite/crankseg_1.mtxReading matrix...
+GPU CSR align1: t= 1.2393 ms, GFLOPs= 17.1294
+GPU CSR align4: t=1.22129 ms, GFLOPs= 17.382
+GPU CSR align8: t=1.12773 ms, GFLOPs= 18.824
+GPU Hybrid: t= 2.81271 ms, GFLOPs= 7.54732
+GPU Sliced Ell: t= 4.06637 ms, GFLOPs= 5.22048
+------End of crankseg_1.mtx Benchmark at 23:12:37------
+-----crankseg_2.mtx Benchmark Started at 23:15:08-----
+ViennaCl
+Matrix:/local/panastas/training_suite/crankseg_2.mtxReading matrix...
+GPU CSR align1: t= 1.66262 ms, GFLOPs= 17.02
+GPU CSR align4: t=1.6346 ms, GFLOPs= 17.3117
+GPU CSR align8: t=1.52512 ms, GFLOPs= 18.5544
+GPU Hybrid: t= 3.41305 ms, GFLOPs= 8.29103
+GPU Sliced Ell: t= 5.12429 ms, GFLOPs= 5.52227
+------End of crankseg_2.mtx Benchmark at 23:15:18------
+-----crplat2.mtx Benchmark Started at 23:15:37-----
+ViennaCl
+Matrix:/local/panastas/training_suite/crplat2.mtxReading matrix...
+GPU CSR align1: t= 0.125961 ms, GFLOPs= 15.2578
+GPU CSR align4: t=0.120571 ms, GFLOPs= 15.94
+GPU CSR align8: t=0.120451 ms, GFLOPs= 15.9557
+GPU Hybrid: t= 0.126388 ms, GFLOPs= 15.2063
+GPU Sliced Ell: t= 0.12434 ms, GFLOPs= 15.4567
+------End of crplat2.mtx Benchmark at 23:15:40------
+-----dblp-2010.mtx Benchmark Started at 23:16:06-----
+ViennaCl
+Matrix:/local/panastas/training_suite/dblp-2010.mtxReading matrix...
+GPU CSR align1: t= 0.282691 ms, GFLOPs= 11.4288
+GPU CSR align4: t=0.367031 ms, GFLOPs= 8.80252
+GPU CSR align8: t=0.495811 ms, GFLOPs= 6.5162
+GPU Hybrid: t= 0.643399 ms, GFLOPs= 5.02146
+GPU Sliced Ell: t= 0.834682 ms, GFLOPs= 3.8707
+------End of dblp-2010.mtx Benchmark at 23:16:10------
+-----debr.mtx Benchmark Started at 23:16:53-----
+ViennaCl
+Matrix:/local/panastas/training_suite/debr.mtxReading matrix...
+GPU CSR align1: t= 0.587981 ms, GFLOPs= 14.2668
+GPU CSR align4: t=0.56396 ms, GFLOPs= 14.8745
+GPU CSR align8: t=1.01964 ms, GFLOPs= 8.22702
+GPU Hybrid: t= 0.693631 ms, GFLOPs= 12.0937
+GPU Sliced Ell: t= 0.561922 ms, GFLOPs= 14.9284
+------End of debr.mtx Benchmark at 23:16:57------
+-----debr_G_17.mtx Benchmark Started at 23:17:26-----
+ViennaCl
+Matrix:/local/panastas/training_suite/debr_G_17.mtxReading matrix...
+GPU CSR align1: t= 0.296049 ms, GFLOPs= 14.1676
+GPU CSR align4: t=0.283961 ms, GFLOPs= 14.7706
+GPU CSR align8: t=0.51373 ms, GFLOPs= 8.16439
+GPU Hybrid: t= 0.341098 ms, GFLOPs= 12.2964
+GPU Sliced Ell: t= 0.278108 ms, GFLOPs= 15.0815
+------End of debr_G_17.mtx Benchmark at 23:17:29------
+-----debr_G_18.mtx Benchmark Started at 23:18:12-----
+ViennaCl
+Matrix:/local/panastas/training_suite/debr_G_18.mtxReading matrix...
+GPU CSR align1: t= 0.588412 ms, GFLOPs= 14.2563
+GPU CSR align4: t=0.563681 ms, GFLOPs= 14.8818
+GPU CSR align8: t=1.02026 ms, GFLOPs= 8.22202
+GPU Hybrid: t= 0.69387 ms, GFLOPs= 12.0896
+GPU Sliced Ell: t= 0.562048 ms, GFLOPs= 14.9251
+------End of debr_G_18.mtx Benchmark at 23:18:16------
+-----delaunay_n19.mtx Benchmark Started at 23:18:51-----
+ViennaCl
+Matrix:/local/panastas/training_suite/delaunay_n19.mtxReading matrix...
+GPU CSR align1: t= 0.470889 ms, GFLOPs= 13.3605
+GPU CSR align4: t=0.583119 ms, GFLOPs= 10.789
+GPU CSR align8: t=0.632162 ms, GFLOPs= 9.95202
+GPU Hybrid: t= 0.645459 ms, GFLOPs= 9.74701
+GPU Sliced Ell: t= 0.597682 ms, GFLOPs= 10.5262
+------End of delaunay_n19.mtx Benchmark at 23:18:55------
+-----delaunay_n20.mtx Benchmark Started at 23:20:13-----
+ViennaCl
+Matrix:/local/panastas/training_suite/delaunay_n20.mtxReading matrix...
+GPU CSR align1: t= 0.933471 ms, GFLOPs= 13.4795
+GPU CSR align4: t=1.17084 ms, GFLOPs= 10.7468
+GPU CSR align8: t=1.26439 ms, GFLOPs= 9.95164
+GPU Hybrid: t= 1.3242 ms, GFLOPs= 9.50216
+GPU Sliced Ell: t= 1.20037 ms, GFLOPs= 10.4824
+------End of delaunay_n20.mtx Benchmark at 23:20:18------
+-----delaunay_n21.mtx Benchmark Started at 23:22:42-----
+ViennaCl
+Matrix:/local/panastas/training_suite/delaunay_n21.mtxReading matrix...
+GPU CSR align1: t= 1.88591 ms, GFLOPs= 13.344
+GPU CSR align4: t=2.34344 ms, GFLOPs= 10.7388
+GPU CSR align8: t=2.53427 ms, GFLOPs= 9.93013
+GPU Hybrid: t= 2.72536 ms, GFLOPs= 9.23387
+GPU Sliced Ell: t= 2.46105 ms, GFLOPs= 10.2256
+------End of delaunay_n21.mtx Benchmark at 23:22:49------
+-----delaunay_n22.mtx Benchmark Started at 23:27:45-----
+ViennaCl
+Matrix:/local/panastas/training_suite/delaunay_n22.mtxReading matrix...
+GPU CSR align1: t= 3.78002 ms, GFLOPs= 13.3151
+GPU CSR align4: t=4.70535 ms, GFLOPs= 10.6966
+GPU CSR align8: t=5.07385 ms, GFLOPs= 9.91978
+GPU Hybrid: t= 5.73281 ms, GFLOPs= 8.77955
+GPU Sliced Ell: t= 5.1937 ms, GFLOPs= 9.69087
+------End of delaunay_n22.mtx Benchmark at 23:27:58------
+-----dictionary28.mtx Benchmark Started at 23:28:13-----
+ViennaCl
+Matrix:/local/panastas/training_suite/dictionary28.mtxReading matrix...
+GPU CSR align1: t= 0.048368 ms, GFLOPs= 7.36338
+GPU CSR align4: t=0.0550699 ms, GFLOPs= 6.46727
+GPU CSR align8: t=0.0703692 ms, GFLOPs= 5.06119
+GPU Hybrid: t= 0.0844693 ms, GFLOPs= 4.21635
+GPU Sliced Ell: t= 0.0771499 ms, GFLOPs= 4.61637
+------End of dictionary28.mtx Benchmark at 23:28:16------
+-----dielFilterV3real.mtx Benchmark Started at 23:44:47-----
+ViennaCl
+Matrix:/local/panastas/training_suite/dielFilterV3real.mtxReading matrix...
+GPU CSR align1: t= 16.3545 ms, GFLOPs= 10.9213
+GPU CSR align4: t=16.1582 ms, GFLOPs= 11.054
+GPU CSR align8: t=15.2611 ms, GFLOPs= 11.7038
+GPU Hybrid: t= 27.5548 ms, GFLOPs= 6.48205
+GPU Sliced Ell: t= 20.4956 ms, GFLOPs= 8.71465
+------End of dielFilterV3real.mtx Benchmark at 23:45:43------
+-----ecology2.mtx Benchmark Started at 23:46:52-----
+ViennaCl
+Matrix:/local/panastas/training_suite/ecology2.mtxReading matrix...
+GPU CSR align1: t= 0.612979 ms, GFLOPs= 16.3007
+GPU CSR align4: t=1.02234 ms, GFLOPs= 9.77365
+GPU CSR align8: t=0.93344 ms, GFLOPs= 10.7045
+GPU Hybrid: t= 0.71557 ms, GFLOPs= 13.9637
+GPU Sliced Ell: t= 0.551779 ms, GFLOPs= 18.1087
+------End of ecology2.mtx Benchmark at 23:46:57------
+-----enron.mtx Benchmark Started at 23:47:13-----
+ViennaCl
+Matrix:/local/panastas/training_suite/enron.mtxReading matrix...
+GPU CSR align1: t= 0.10119 ms, GFLOPs= 5.45793
+GPU CSR align4: t=0.109611 ms, GFLOPs= 5.03862
+GPU CSR align8: t=0.12114 ms, GFLOPs= 4.55905
+GPU Hybrid: t= 0.697658 ms, GFLOPs= 0.791628
+GPU Sliced Ell: t= 2.07575 ms, GFLOPs= 0.266066
+------End of enron.mtx Benchmark at 23:47:16------
+-----epb3.mtx Benchmark Started at 23:47:35-----
+ViennaCl
+Matrix:/local/panastas/training_suite/epb3.mtxReading matrix...
+GPU CSR align1: t= 0.0635386 ms, GFLOPs= 14.5935
+GPU CSR align4: t=0.0926495 ms, GFLOPs= 10.0082
+GPU CSR align8: t=0.0881696 ms, GFLOPs= 10.5167
+GPU Hybrid: t= 0.0678396 ms, GFLOPs= 13.6683
+GPU Sliced Ell: t= 0.0580692 ms, GFLOPs= 15.968
+------End of epb3.mtx Benchmark at 23:47:38------
+-----eu-2005.mtx Benchmark Started at 23:51:08-----
+ViennaCl
+Matrix:/local/panastas/training_suite/eu-2005.mtxReading matrix...
+GPU CSR align1: t= 3.22296 ms, GFLOPs= 11.9363
+GPU CSR align4: t=3.27582 ms, GFLOPs= 11.7437
+GPU CSR align8: t=3.16963 ms, GFLOPs= 12.1371
+GPU Hybrid: t= 7.30023 ms, GFLOPs= 5.26973
+GPU Sliced Ell: t= 10.9015 ms, GFLOPs= 3.5289
+------End of eu-2005.mtx Benchmark at 23:51:20------
+-----ex3sta1.mtx Benchmark Started at 23:51:38-----
+ViennaCl
+Matrix:/local/panastas/training_suite/ex3sta1.mtxReading matrix...
+GPU CSR align1: t= 0.17873 ms, GFLOPs= 7.59801
+GPU CSR align4: t=0.17658 ms, GFLOPs= 7.69054
+GPU CSR align8: t=0.172451 ms, GFLOPs= 7.8747
+GPU Hybrid: t= 0.35579 ms, GFLOPs= 3.81685
+GPU Sliced Ell: t= 0.515029 ms, GFLOPs= 2.63673
+------End of ex3sta1.mtx Benchmark at 23:51:41------
+-----fcondp2.mtx Benchmark Started at 23:53:37-----
+ViennaCl
+Matrix:/local/panastas/training_suite/fcondp2.mtxReading matrix...
+GPU CSR align1: t= 1.41315 ms, GFLOPs= 15.9846
+GPU CSR align4: t=1.42243 ms, GFLOPs= 15.8803
+GPU CSR align8: t=1.3297 ms, GFLOPs= 16.9878
+GPU Hybrid: t= 1.5006 ms, GFLOPs= 15.053
+GPU Sliced Ell: t= 1.02811 ms, GFLOPs= 21.9711
+------End of fcondp2.mtx Benchmark at 23:53:43------
+-----finance256.mtx Benchmark Started at 23:53:58-----
+ViennaCl
+Matrix:/local/panastas/training_suite/finance256.mtxReading matrix...
+GPU CSR align1: t= 0.0535703 ms, GFLOPs= 11.1441
+GPU CSR align4: t=0.0655603 ms, GFLOPs= 9.10599
+GPU CSR align8: t=0.0752091 ms, GFLOPs= 7.93776
+GPU Hybrid: t= 0.0817609 ms, GFLOPs= 7.30168
+GPU Sliced Ell: t= 0.0980401 ms, GFLOPs= 6.08926
+------End of finance256.mtx Benchmark at 23:54:01------
+-----flickr.mtx Benchmark Started at 23:56:00-----
+ViennaCl
+Matrix:/local/panastas/training_suite/flickr.mtxReading matrix...
+GPU CSR align1: t= 3.41891 ms, GFLOPs= 5.75459
+GPU CSR align4: t=3.70215 ms, GFLOPs= 5.31433
+GPU CSR align8: t=3.6632 ms, GFLOPs= 5.37083
+GPU Hybrid: t= 9.05134 ms, GFLOPs= 2.17365
+GPU Sliced Ell: t= 18.02 ms, GFLOPs= 1.09181
+------End of flickr.mtx Benchmark at 23:56:11------
+-----ford2.mtx Benchmark Started at 23:56:28-----
+ViennaCl
+Matrix:/local/panastas/training_suite/ford2.mtxReading matrix...
+GPU CSR align1: t= 0.0807714 ms, GFLOPs= 13.4871
+GPU CSR align4: t=0.108829 ms, GFLOPs= 10.01
+GPU CSR align8: t=0.118952 ms, GFLOPs= 9.15813
+GPU Hybrid: t= 0.102541 ms, GFLOPs= 10.6238
+GPU Sliced Ell: t= 0.0945711 ms, GFLOPs= 11.5191
+------End of ford2.mtx Benchmark at 23:56:31------
+-----fullb.mtx Benchmark Started at 23:58:32-----
+ViennaCl
+Matrix:/local/panastas/training_suite/fullb.mtxReading matrix...
+GPU CSR align1: t= 1.45899 ms, GFLOPs= 16.0496
+GPU CSR align4: t=1.48574 ms, GFLOPs= 15.7606
+GPU CSR align8: t=1.38433 ms, GFLOPs= 16.9152
+GPU Hybrid: t= 1.86981 ms, GFLOPs= 12.5233
+GPU Sliced Ell: t= 1.38028 ms, GFLOPs= 16.9648
+------End of fullb.mtx Benchmark at 23:58:39------
+-----fxm4_6.mtx Benchmark Started at 23:58:56-----
+ViennaCl
+Matrix:/local/panastas/training_suite/fxm4_6.mtxReading matrix...
+GPU CSR align1: t= 0.115449 ms, GFLOPs= 8.62445
+GPU CSR align4: t=0.116019 ms, GFLOPs= 8.58209
+GPU CSR align8: t=0.113361 ms, GFLOPs= 8.78335
+GPU Hybrid: t= 0.242329 ms, GFLOPs= 4.10883
+GPU Sliced Ell: t= 0.480499 ms, GFLOPs= 2.07219
+------End of fxm4_6.mtx Benchmark at 23:58:59------
+-----gearbox.mtx Benchmark Started at 00:00:35-----
+ViennaCl
+Matrix:/local/panastas/training_suite/gearbox.mtxReading matrix...
+GPU CSR align1: t= 1.1534 ms, GFLOPs= 15.7455
+GPU CSR align4: t=1.17338 ms, GFLOPs= 15.4774
+GPU CSR align8: t=1.11125 ms, GFLOPs= 16.3427
+GPU Hybrid: t= 1.33613 ms, GFLOPs= 13.5921
+GPU Sliced Ell: t= 0.97857 ms, GFLOPs= 18.5585
+------End of gearbox.mtx Benchmark at 00:00:41------
+-----gsm_106857.mtx Benchmark Started at 00:05:00-----
+ViennaCl
+Matrix:/local/panastas/training_suite/gsm_106857.mtxReading matrix...
+GPU CSR align1: t= 6.64731 ms, GFLOPs= 6.54669
+GPU CSR align4: t=6.49939 ms, GFLOPs= 6.69568
+GPU CSR align8: t=6.20708 ms, GFLOPs= 7.011
+GPU Hybrid: t= 7.44109 ms, GFLOPs= 5.84832
+GPU Sliced Ell: t= 4.63971 ms, GFLOPs= 9.37943
+------End of gsm_106857.mtx Benchmark at 00:05:17------
+-----gupta1.mtx Benchmark Started at 00:05:44-----
+ViennaCl
+Matrix:/local/panastas/training_suite/gupta1.mtxReading matrix...
+GPU CSR align1: t= 1.26362 ms, GFLOPs= 3.42542
+GPU CSR align4: t=1.25215 ms, GFLOPs= 3.45679
+GPU CSR align8: t=1.2237 ms, GFLOPs= 3.53716
+GPU Hybrid: t= 6.54525 ms, GFLOPs= 0.661307
+GPU Sliced Ell: t= 12.3329 ms, GFLOPs= 0.350966
+------End of gupta1.mtx Benchmark at 00:05:49------
+-----gupta2.mtx Benchmark Started at 00:06:43-----
+ViennaCl
+Matrix:/local/panastas/training_suite/gupta2.mtxReading matrix...
+GPU CSR align1: t= 1.43539 ms, GFLOPs= 5.91934
+GPU CSR align4: t=1.41328 ms, GFLOPs= 6.01195
+GPU CSR align8: t=1.37083 ms, GFLOPs= 6.19813
+GPU Hybrid: t= 8.30006 ms, GFLOPs= 1.02368
+GPU Sliced Ell: t= 12.8852 ms, GFLOPs= 0.659406
+------End of gupta2.mtx Benchmark at 00:06:49------
+-----gupta3.mtx Benchmark Started at 00:08:21-----
+ViennaCl
+Matrix:/local/panastas/training_suite/gupta3.mtxReading matrix...
+GPU CSR align1: t= 3.79359 ms, GFLOPs= 4.91536
+GPU CSR align4: t=3.78385 ms, GFLOPs= 4.92801
+GPU CSR align8: t=3.63104 ms, GFLOPs= 5.1354
+GPU Hybrid: t= 15.3035 ms, GFLOPs= 1.21847
+GPU Sliced Ell: t= 25.2205 ms, GFLOPs= 0.739354
+------End of gupta3.mtx Benchmark at 00:08:32------
+-----halfb.mtx Benchmark Started at 00:10:39-----
+ViennaCl
+Matrix:/local/panastas/training_suite/halfb.mtxReading matrix...
+GPU CSR align1: t= 1.46102 ms, GFLOPs= 16.9578
+GPU CSR align4: t=1.47622 ms, GFLOPs= 16.7832
+GPU CSR align8: t=1.39756 ms, GFLOPs= 17.7278
+GPU Hybrid: t= 1.77944 ms, GFLOPs= 13.9233
+GPU Sliced Ell: t= 1.32759 ms, GFLOPs= 18.6621
+------End of halfb.mtx Benchmark at 00:10:46------
+-----hollywood-2009.mtx Benchmark Started at 00:30:04-----
+ViennaCl
+Matrix:/local/panastas/training_suite/hollywood-2009.mtxReading matrix...
+GPU CSR align1: t= 34.6723 ms, GFLOPs= 6.5696
+GPU CSR align4: t=34.3523 ms, GFLOPs= 6.63078
+GPU CSR align8: t=33.4394 ms, GFLOPs= 6.81181
+GPU Hybrid: t= 77.4452 ms, GFLOPs= 2.94121
+GPU Sliced Ell: t= 40.906 ms, GFLOPs= 5.56844
+------End of hollywood-2009.mtx Benchmark at 00:31:03------
+-----hood.mtx Benchmark Started at 00:33:04-----
+ViennaCl
+Matrix:/local/panastas/training_suite/hood.mtxReading matrix...
+GPU CSR align1: t= 1.24396 ms, GFLOPs= 17.3131
+GPU CSR align4: t=1.22582 ms, GFLOPs= 17.5694
+GPU CSR align8: t=1.18813 ms, GFLOPs= 18.1267
+GPU Hybrid: t= 1.60163 ms, GFLOPs= 13.4469
+GPU Sliced Ell: t= 1.1881 ms, GFLOPs= 18.1272
+------End of hood.mtx Benchmark at 00:33:12------
+-----hugebubbles-00000.mtx Benchmark Started at 00:45:03-----
+ViennaCl
+Matrix:/local/panastas/training_suite/hugebubbles-00000.mtxReading matrix...
+GPU CSR align1: t= 14.5608 ms, GFLOPs= 7.54631
+GPU CSR align4: t=14.6086 ms, GFLOPs= 7.52163
+GPU CSR align8: t=21.0715 ms, GFLOPs= 5.21464
+GPU Hybrid: t= 17.4992 ms, GFLOPs= 6.27915
+GPU Sliced Ell: t= 14.5937 ms, GFLOPs= 7.52932
+------End of hugebubbles-00000.mtx Benchmark at 00:45:33------
+-----hugebubbles-00010.mtx Benchmark Started at 00:58:24-----
+ViennaCl
+Matrix:/local/panastas/training_suite/hugebubbles-00010.mtxReading matrix...
+GPU CSR align1: t= 22.1154 ms, GFLOPs= 5.27772
+GPU CSR align4: t=21.8002 ms, GFLOPs= 5.35404
+GPU CSR align8: t=27.2167 ms, GFLOPs= 4.2885
+GPU Hybrid: t= 26.8629 ms, GFLOPs= 4.34498
+GPU Sliced Ell: t= 23.6055 ms, GFLOPs= 4.94456
+------End of hugebubbles-00010.mtx Benchmark at 00:59:02------
+-----hugebubbles-00020.mtx Benchmark Started at 01:13:01-----
+ViennaCl
+Matrix:/local/panastas/training_suite/hugebubbles-00020.mtxReading matrix...
+GPU CSR align1: t= 23.5985 ms, GFLOPs= 5.38851
+GPU CSR align4: t=23.386 ms, GFLOPs= 5.43748
+GPU CSR align8: t=29.4209 ms, GFLOPs= 4.32212
+GPU Hybrid: t= 28.618 ms, GFLOPs= 4.44338
+GPU Sliced Ell: t= 25.0803 ms, GFLOPs= 5.07014
+------End of hugebubbles-00020.mtx Benchmark at 01:13:42------
+-----hugetrace-00000.mtx Benchmark Started at 01:16:38-----
+ViennaCl
+Matrix:/local/panastas/training_suite/hugetrace-00000.mtxReading matrix...
+GPU CSR align1: t= 3.47798 ms, GFLOPs= 7.91164
+GPU CSR align4: t=3.51439 ms, GFLOPs= 7.82968
+GPU CSR align8: t=5.13635 ms, GFLOPs= 5.35721
+GPU Hybrid: t= 4.15306 ms, GFLOPs= 6.6256
+GPU Sliced Ell: t= 3.33982 ms, GFLOPs= 8.23893
+------End of hugetrace-00000.mtx Benchmark at 01:16:47------
+-----hugetrace-00010.mtx Benchmark Started at 01:24:10-----
+ViennaCl
+Matrix:/local/panastas/training_suite/hugetrace-00010.mtxReading matrix...
+GPU CSR align1: t= 10.4117 ms, GFLOPs= 6.94686
+GPU CSR align4: t=10.3286 ms, GFLOPs= 7.00273
+GPU CSR align8: t=14.1897 ms, GFLOPs= 5.09727
+GPU Hybrid: t= 12.6299 ms, GFLOPs= 5.72677
+GPU Sliced Ell: t= 10.803 ms, GFLOPs= 6.69522
+------End of hugetrace-00010.mtx Benchmark at 01:24:32------
+-----hugetrace-00020.mtx Benchmark Started at 01:34:17-----
+ViennaCl
+Matrix:/local/panastas/training_suite/hugetrace-00020.mtxReading matrix...
+GPU CSR align1: t= 15.6458 ms, GFLOPs= 6.13554
+GPU CSR align4: t=15.4259 ms, GFLOPs= 6.22298
+GPU CSR align8: t=20.2365 ms, GFLOPs= 4.74368
+GPU Hybrid: t= 18.7742 ms, GFLOPs= 5.11316
+GPU Sliced Ell: t= 16.6544 ms, GFLOPs= 5.76396
+------End of hugetrace-00020.mtx Benchmark at 01:34:46------
+-----hugetric-00000.mtx Benchmark Started at 01:38:26-----
+ViennaCl
+Matrix:/local/panastas/training_suite/hugetric-00000.mtxReading matrix...
+GPU CSR align1: t= 4.18601 ms, GFLOPs= 8.34544
+GPU CSR align4: t=4.24342 ms, GFLOPs= 8.23253
+GPU CSR align8: t=6.46449 ms, GFLOPs= 5.404
+GPU Hybrid: t= 5.17835 ms, GFLOPs= 6.74618
+GPU Sliced Ell: t= 4.07944 ms, GFLOPs= 8.56345
+------End of hugetric-00000.mtx Benchmark at 01:38:37------
+-----hugetric-00010.mtx Benchmark Started at 01:42:48-----
+ViennaCl
+Matrix:/local/panastas/training_suite/hugetric-00010.mtxReading matrix...
+GPU CSR align1: t= 7.00503 ms, GFLOPs= 5.645
+GPU CSR align4: t=6.88909 ms, GFLOPs= 5.74001
+GPU CSR align8: t=8.7677 ms, GFLOPs= 4.51012
+GPU Hybrid: t= 8.40044 ms, GFLOPs= 4.7073
+GPU Sliced Ell: t= 7.25875 ms, GFLOPs= 5.44769
+------End of hugetric-00010.mtx Benchmark at 01:43:02------
+-----hugetric-00020.mtx Benchmark Started at 01:47:32-----
+ViennaCl
+Matrix:/local/panastas/training_suite/hugetric-00020.mtxReading matrix...
+GPU CSR align1: t= 7.58785 ms, GFLOPs= 5.63046
+GPU CSR align4: t=7.46793 ms, GFLOPs= 5.72088
+GPU CSR align8: t=9.47411 ms, GFLOPs= 4.50946
+GPU Hybrid: t= 8.8005 ms, GFLOPs= 4.85462
+GPU Sliced Ell: t= 7.86812 ms, GFLOPs= 5.4299
+------End of hugetric-00020.mtx Benchmark at 01:47:47------
+-----human_gene1.mtx Benchmark Started at 01:51:45-----
+ViennaCl
+Matrix:/local/panastas/training_suite/human_gene1.mtxReading matrix...
+GPU CSR align1: t= 4.4893 ms, GFLOPs= 10.9904
+GPU CSR align4: t=4.39572 ms, GFLOPs= 11.2244
+GPU CSR align8: t=4.29286 ms, GFLOPs= 11.4933
+GPU Hybrid: t= 12.0035 ms, GFLOPs= 4.11042
+GPU Sliced Ell: t= 14.8999 ms, GFLOPs= 3.31138
+------End of human_gene1.mtx Benchmark at 01:52:04------
+-----human_gene2.mtx Benchmark Started at 01:54:58-----
+ViennaCl
+Matrix:/local/panastas/training_suite/human_gene2.mtxReading matrix...
+GPU CSR align1: t= 3.43966 ms, GFLOPs= 10.5059
+GPU CSR align4: t=3.30051 ms, GFLOPs= 10.9488
+GPU CSR align8: t=3.20763 ms, GFLOPs= 11.2659
+GPU Hybrid: t= 9.546 ms, GFLOPs= 3.78554
+GPU Sliced Ell: t= 11.7973 ms, GFLOPs= 3.06314
+------End of human_gene2.mtx Benchmark at 01:55:12------
+-----in-2004.mtx Benchmark Started at 01:58:21-----
+ViennaCl
+Matrix:/local/panastas/training_suite/in-2004.mtxReading matrix...
+GPU CSR align1: t= 4.50217 ms, GFLOPs= 7.51507
+GPU CSR align4: t=4.54813 ms, GFLOPs= 7.43912
+GPU CSR align8: t=4.51757 ms, GFLOPs= 7.48945
+GPU Hybrid: t= 9.16108 ms, GFLOPs= 3.69324
+GPU Sliced Ell: t= 13.2549 ms, GFLOPs= 2.55257
+------End of in-2004.mtx Benchmark at 01:58:33------
+-----indochina-2004.mtx Benchmark Started at 02:35:01-----
+ViennaCl
+Matrix:/local/panastas/training_suite/indochina-2004.mtxReading matrix...
+------End of indochina-2004.mtx Benchmark at 02:36:05------
+-----inline_1.mtx Benchmark Started at 02:42:59-----
+ViennaCl
+Matrix:/local/panastas/training_suite/inline_1.mtxReading matrix...
+GPU CSR align1: t= 5.00056 ms, GFLOPs= 14.7249
+GPU CSR align4: t=5.07605 ms, GFLOPs= 14.5059
+GPU CSR align8: t=4.76068 ms, GFLOPs= 15.4668
+GPU Hybrid: t= 8.33042 ms, GFLOPs= 8.83901
+GPU Sliced Ell: t= 4.84256 ms, GFLOPs= 15.2053
+------End of inline_1.mtx Benchmark at 02:43:22------
+-----ins2.mtx Benchmark Started at 02:44:20-----
+ViennaCl
+Matrix:/local/panastas/training_suite/ins2.mtxReading matrix...
+GPU CSR align1: t= 1.43811 ms, GFLOPs= 3.82653
+GPU CSR align4: t=1.63068 ms, GFLOPs= 3.37464
+GPU CSR align8: t=1.63354 ms, GFLOPs= 3.36874
+GPU Hybrid: t= 131.057 ms, GFLOPs= 0.0419892
+GPU Sliced Ell: t= 425.67 ms, GFLOPs= 0.0129278
+------End of ins2.mtx Benchmark at 02:45:21------
+-----kim2.mtx Benchmark Started at 02:47:54-----
+ViennaCl
+Matrix:/local/panastas/training_suite/kim2.mtxReading matrix...
+GPU CSR align1: t= 1.6408 ms, GFLOPs= 13.8104
+GPU CSR align4: t=1.69134 ms, GFLOPs= 13.3977
+GPU CSR align8: t=1.66656 ms, GFLOPs= 13.5969
+GPU Hybrid: t= 1.31013 ms, GFLOPs= 17.296
+GPU Sliced Ell: t= 1.04298 ms, GFLOPs= 21.7262
+------End of kim2.mtx Benchmark at 02:48:08------
+-----kkt_power.mtx Benchmark Started at 02:51:07-----
+ViennaCl
+Matrix:/local/panastas/training_suite/kkt_power.mtxReading matrix...
+GPU CSR align1: t= 3.37503 ms, GFLOPs= 8.65928
+GPU CSR align4: t=3.9399 ms, GFLOPs= 7.41778
+GPU CSR align8: t=4.86112 ms, GFLOPs= 6.01205
+GPU Hybrid: t= 6.61626 ms, GFLOPs= 4.4172
+GPU Sliced Ell: t= 4.70611 ms, GFLOPs= 6.21008
+------End of kkt_power.mtx Benchmark at 02:51:19------
+-----language.mtx Benchmark Started at 02:51:44-----
+ViennaCl
+Matrix:/local/panastas/training_suite/language.mtxReading matrix...
+GPU CSR align1: t= 0.265441 ms, GFLOPs= 9.16463
+GPU CSR align4: t=0.343528 ms, GFLOPs= 7.08143
+GPU CSR align8: t=0.530481 ms, GFLOPs= 4.58577
+GPU Hybrid: t= 5.00418 ms, GFLOPs= 0.486127
+GPU Sliced Ell: t= 17.1093 ms, GFLOPs= 0.142184
+------End of language.mtx Benchmark at 02:51:50------
+-----largebasis.mtx Benchmark Started at 02:53:12-----
+ViennaCl
+Matrix:/local/panastas/training_suite/largebasis.mtxReading matrix...
+GPU CSR align1: t= 0.891509 ms, GFLOPs= 12.4735
+GPU CSR align4: t=0.903449 ms, GFLOPs= 12.3086
+GPU CSR align8: t=0.87106 ms, GFLOPs= 12.7663
+GPU Hybrid: t= 0.744269 ms, GFLOPs= 14.9411
+GPU Sliced Ell: t= 0.542769 ms, GFLOPs= 20.4879
+------End of largebasis.mtx Benchmark at 02:53:19------
+-----ldoor.mtx Benchmark Started at 03:01:56-----
+ViennaCl
+Matrix:/local/panastas/training_suite/ldoor.mtxReading matrix...
+GPU CSR align1: t= 5.6637 ms, GFLOPs= 16.4283
+GPU CSR align4: t=5.80744 ms, GFLOPs= 16.0217
+GPU CSR align8: t=5.5817 ms, GFLOPs= 16.6696
+GPU Hybrid: t= 7.63706 ms, GFLOPs= 12.1833
+GPU Sliced Ell: t= 5.26442 ms, GFLOPs= 17.6743
+------End of ldoor.mtx Benchmark at 03:02:22------
+-----lp1.mtx Benchmark Started at 03:03:12-----
+ViennaCl
+Matrix:/local/panastas/training_suite/lp1.mtxReading matrix...
+GPU CSR align1: t= 1.11384 ms, GFLOPs= 2.9509
+GPU CSR align4: t=1.1529 ms, GFLOPs= 2.85093
+GPU CSR align8: t=1.2289 ms, GFLOPs= 2.67462
+GPU Hybrid: t= 102.745 ms, GFLOPs= 0.0319901
+GPU Sliced Ell: t= 352.745 ms, GFLOPs= 0.00931789
+------End of lp1.mtx Benchmark at 03:04:02------
+-----m_t1.mtx Benchmark Started at 03:05:53-----
+ViennaCl
+Matrix:/local/panastas/training_suite/m_t1.mtxReading matrix...
+GPU CSR align1: t= 1.08312 ms, GFLOPs= 18.0101
+GPU CSR align4: t=1.04789 ms, GFLOPs= 18.6156
+GPU CSR align8: t=0.836709 ms, GFLOPs= 23.3141
+GPU Hybrid: t= 1.58589 ms, GFLOPs= 12.3004
+GPU Sliced Ell: t= 1.1317 ms, GFLOPs= 17.237
+------End of m_t1.mtx Benchmark at 03:06:01------
+-----memchip.mtx Benchmark Started at 03:09:29-----
+ViennaCl
+Matrix:/local/panastas/training_suite/memchip.mtxReading matrix...
+GPU CSR align1: t= 2.17183 ms, GFLOPs= 13.6384
+GPU CSR align4: t=2.64723 ms, GFLOPs= 11.1892
+GPU CSR align8: t=3.24536 ms, GFLOPs= 9.12701
+GPU Hybrid: t= 3.00955 ms, GFLOPs= 9.84214
+GPU Sliced Ell: t= 2.09682 ms, GFLOPs= 14.1263
+------End of memchip.mtx Benchmark at 03:09:44------
+-----mip1.mtx Benchmark Started at 03:11:35-----
+ViennaCl
+Matrix:/local/panastas/training_suite/mip1.mtxReading matrix...
+GPU CSR align1: t= 2.93602 ms, GFLOPs= 7.05228
+GPU CSR align4: t=2.94899 ms, GFLOPs= 7.02126
+GPU CSR align8: t=2.87041 ms, GFLOPs= 7.21348
+GPU Hybrid: t= 30.6624 ms, GFLOPs= 0.675277
+GPU Sliced Ell: t= 92.8012 ms, GFLOPs= 0.223118
+------End of mip1.mtx Benchmark at 03:11:53------
+-----mono_500Hz.mtx Benchmark Started at 03:13:08-----
+ViennaCl
+Matrix:/local/panastas/training_suite/mono_500Hz.mtxReading matrix...
+GPU CSR align1: t= 1.05467 ms, GFLOPs= 9.55045
+GPU CSR align4: t=1.06618 ms, GFLOPs= 9.44734
+GPU CSR align8: t=1.0077 ms, GFLOPs= 9.99561
+GPU Hybrid: t= 2.02875 ms, GFLOPs= 4.96492
+GPU Sliced Ell: t= 1.71192 ms, GFLOPs= 5.88378
+------End of mono_500Hz.mtx Benchmark at 03:13:17------
+-----mouse_gene.mtx Benchmark Started at 03:18:21-----
+ViennaCl
+Matrix:/local/panastas/training_suite/mouse_gene.mtxReading matrix...
+GPU CSR align1: t= 6.12463 ms, GFLOPs= 9.45928
+GPU CSR align4: t=6.10121 ms, GFLOPs= 9.49559
+GPU CSR align8: t=5.90031 ms, GFLOPs= 9.81891
+GPU Hybrid: t= 14.0574 ms, GFLOPs= 4.12129
+GPU Sliced Ell: t= 18.1009 ms, GFLOPs= 3.20064
+------End of mouse_gene.mtx Benchmark at 03:18:45------
+-----msdoor.mtx Benchmark Started at 03:22:38-----
+ViennaCl
+Matrix:/local/panastas/training_suite/msdoor.mtxReading matrix...
+GPU CSR align1: t= 2.47704 ms, GFLOPs= 16.3428
+GPU CSR align4: t=2.54242 ms, GFLOPs= 15.9226
+GPU CSR align8: t=2.36723 ms, GFLOPs= 17.1009
+GPU Hybrid: t= 3.20618 ms, GFLOPs= 12.6262
+GPU Sliced Ell: t= 2.25541 ms, GFLOPs= 17.9488
+------End of msdoor.mtx Benchmark at 03:22:51------
+-----nd12k.mtx Benchmark Started at 03:25:28-----
+ViennaCl
+Matrix:/local/panastas/training_suite/nd12k.mtxReading matrix...
+GPU CSR align1: t= 1.59635 ms, GFLOPs= 17.8168
+GPU CSR align4: t=1.58273 ms, GFLOPs= 17.9701
+GPU CSR align8: t=1.45953 ms, GFLOPs= 19.487
+GPU Hybrid: t= 2.00953 ms, GFLOPs= 14.1535
+GPU Sliced Ell: t= 1.99283 ms, GFLOPs= 14.2721
+------End of nd12k.mtx Benchmark at 03:25:38------
+-----nd24k.mtx Benchmark Started at 03:30:33-----
+ViennaCl
+Matrix:/local/panastas/training_suite/nd24k.mtxReading matrix...
+GPU CSR align1: t= 3.20008 ms, GFLOPs= 17.9468
+GPU CSR align4: t=3.1585 ms, GFLOPs= 18.1831
+GPU CSR align8: t=2.9309 ms, GFLOPs= 19.5951
+GPU Hybrid: t= 3.81175 ms, GFLOPs= 15.0669
+GPU Sliced Ell: t= 3.31037 ms, GFLOPs= 17.3489
+------End of nd24k.mtx Benchmark at 03:30:50------
+-----net125.mtx Benchmark Started at 03:31:18-----
+ViennaCl
+Matrix:/local/panastas/training_suite/net125.mtxReading matrix...
+GPU CSR align1: t= 0.40484 ms, GFLOPs= 12.732
+GPU CSR align4: t=0.395281 ms, GFLOPs= 13.0398
+GPU CSR align8: t=0.3859 ms, GFLOPs= 13.3568
+GPU Hybrid: t= 0.71924 ms, GFLOPs= 7.16646
+GPU Sliced Ell: t= 0.512528 ms, GFLOPs= 10.0568
+------End of net125.mtx Benchmark at 03:31:21------
+-----net50.mtx Benchmark Started at 03:31:41-----
+ViennaCl
+Matrix:/local/panastas/training_suite/net50.mtxReading matrix...
+GPU CSR align1: t= 0.167291 ms, GFLOPs= 11.3001
+GPU CSR align4: t=0.164869 ms, GFLOPs= 11.4661
+GPU CSR align8: t=0.16006 ms, GFLOPs= 11.8106
+GPU Hybrid: t= 0.224581 ms, GFLOPs= 8.41746
+GPU Sliced Ell: t= 0.215611 ms, GFLOPs= 8.76762
+------End of net50.mtx Benchmark at 03:31:44------
+-----net75.mtx Benchmark Started at 03:32:06-----
+ViennaCl
+Matrix:/local/panastas/training_suite/net75.mtxReading matrix...
+GPU CSR align1: t= 0.245481 ms, GFLOPs= 12.1329
+GPU CSR align4: t=0.239809 ms, GFLOPs= 12.4199
+GPU CSR align8: t=0.23663 ms, GFLOPs= 12.5867
+GPU Hybrid: t= 0.313959 ms, GFLOPs= 9.48659
+GPU Sliced Ell: t= 0.281818 ms, GFLOPs= 10.5685
+------End of net75.mtx Benchmark at 03:32:09------
+-----nlpkkt120.mtx Benchmark Started at 03:50:36-----
+ViennaCl
+Matrix:/local/panastas/training_suite/nlpkkt120.mtxReading matrix...
+GPU CSR align1: t= 15.4439 ms, GFLOPs= 12.5417
+GPU CSR align4: t=15.3935 ms, GFLOPs= 12.5827
+GPU CSR align8: t=14.4001 ms, GFLOPs= 13.4507
+GPU Hybrid: t= 11.6032 ms, GFLOPs= 16.6929
+GPU Sliced Ell: t= 9.27625 ms, GFLOPs= 20.8804
+------End of nlpkkt120.mtx Benchmark at 03:51:18------
+-----nlpkkt160.mtx Benchmark Started at 04:35:09-----
+ViennaCl
+Matrix:/local/panastas/training_suite/nlpkkt160.mtxReading matrix...
+------End of nlpkkt160.mtx Benchmark at 04:36:21------
+-----nlpkkt80.mtx Benchmark Started at 04:41:33-----
+ViennaCl
+Matrix:/local/panastas/training_suite/nlpkkt80.mtxReading matrix...
+GPU CSR align1: t= 4.65255 ms, GFLOPs= 12.3393
+GPU CSR align4: t=4.70742 ms, GFLOPs= 12.1955
+GPU CSR align8: t=4.30755 ms, GFLOPs= 13.3276
+GPU Hybrid: t= 3.36081 ms, GFLOPs= 17.082
+GPU Sliced Ell: t= 2.70667 ms, GFLOPs= 21.2103
+------End of nlpkkt80.mtx Benchmark at 04:41:48------
+-----offshore.mtx Benchmark Started at 04:42:45-----
+ViennaCl
+Matrix:/local/panastas/training_suite/offshore.mtxReading matrix...
+GPU CSR align1: t= 1.06217 ms, GFLOPs= 7.98868
+GPU CSR align4: t=1.08575 ms, GFLOPs= 7.8152
+GPU CSR align8: t=1.07535 ms, GFLOPs= 7.89078
+GPU Hybrid: t= 1.01403 ms, GFLOPs= 8.36794
+GPU Sliced Ell: t= 0.911491 ms, GFLOPs= 9.3093
+------End of offshore.mtx Benchmark at 04:42:51------
+-----ohne2.mtx Benchmark Started at 04:45:02-----
+ViennaCl
+Matrix:/local/panastas/training_suite/ohne2.mtxReading matrix...
+GPU CSR align1: t= 1.73326 ms, GFLOPs= 12.7662
+GPU CSR align4: t=1.75184 ms, GFLOPs= 12.6308
+GPU CSR align8: t=1.66285 ms, GFLOPs= 13.3067
+GPU Hybrid: t= 2.86075 ms, GFLOPs= 7.73471
+GPU Sliced Ell: t= 6.10535 ms, GFLOPs= 3.62421
+------End of ohne2.mtx Benchmark at 04:45:12------
+-----onetone1.mtx Benchmark Started at 04:45:29-----
+ViennaCl
+Matrix:/local/panastas/training_suite/onetone1.mtxReading matrix...
+GPU CSR align1: t= 0.0812507 ms, GFLOPs= 8.39594
+GPU CSR align4: t=0.0970006 ms, GFLOPs= 7.0327
+GPU CSR align8: t=0.127029 ms, GFLOPs= 5.37022
+GPU Hybrid: t= 0.14158 ms, GFLOPs= 4.8183
+GPU Sliced Ell: t= 0.178931 ms, GFLOPs= 3.81251
+------End of onetone1.mtx Benchmark at 04:45:32------
+-----onetone2.mtx Benchmark Started at 04:45:47-----
+ViennaCl
+Matrix:/local/panastas/training_suite/onetone2.mtxReading matrix...
+GPU CSR align1: t= 0.0455284 ms, GFLOPs= 9.99938
+GPU CSR align4: t=0.0542688 ms, GFLOPs= 8.3889
+GPU CSR align8: t=0.0649118 ms, GFLOPs= 7.01345
+GPU Hybrid: t= 0.0636101 ms, GFLOPs= 7.15698
+GPU Sliced Ell: t= 0.0907803 ms, GFLOPs= 5.01492
+------End of onetone2.mtx Benchmark at 04:45:50------
+-----opt1.mtx Benchmark Started at 04:46:14-----
+ViennaCl
+Matrix:/local/panastas/training_suite/opt1.mtxReading matrix...
+GPU CSR align1: t= 0.231731 ms, GFLOPs= 16.6629
+GPU CSR align4: t=0.226772 ms, GFLOPs= 17.0273
+GPU CSR align8: t=0.213809 ms, GFLOPs= 18.0596
+GPU Hybrid: t= 0.35182 ms, GFLOPs= 10.9752
+GPU Sliced Ell: t= 0.387781 ms, GFLOPs= 9.95746
+------End of opt1.mtx Benchmark at 04:46:18------
+-----packing-500x100x100-b050.mtx Benchmark Started at 04:52:55-----
+ViennaCl
+Matrix:/local/panastas/training_suite/packing-500x100x100-b050.mtxReading matrix...
+GPU CSR align1: t= 7.29026 ms, GFLOPs= 9.5954
+GPU CSR align4: t=7.42102 ms, GFLOPs= 9.42633
+GPU CSR align8: t=7.46074 ms, GFLOPs= 9.37614
+GPU Hybrid: t= 5.08081 ms, GFLOPs= 13.7681
+GPU Sliced Ell: t= 3.7399 ms, GFLOPs= 18.7045
+------End of packing-500x100x100-b050.mtx Benchmark at 04:53:10------
+-----parabolic_fem.mtx Benchmark Started at 04:53:54-----
+ViennaCl
+Matrix:/local/panastas/training_suite/parabolic_fem.mtxReading matrix...
+GPU CSR align1: t= 0.60514 ms, GFLOPs= 12.1447
+GPU CSR align4: t=0.65001 ms, GFLOPs= 11.3064
+GPU CSR align8: t=0.64671 ms, GFLOPs= 11.3641
+GPU Hybrid: t= 0.63936 ms, GFLOPs= 11.4947
+GPU Sliced Ell: t= 0.512159 ms, GFLOPs= 14.3496
+------End of parabolic_fem.mtx Benchmark at 04:53:58------
+-----patents.mtx Benchmark Started at 04:57:20-----
+ViennaCl
+Matrix:/local/panastas/training_suite/patents.mtxReading matrix...
+GPU CSR align1: t= 11.4622 ms, GFLOPs= 2.61219
+GPU CSR align4: t=11.4033 ms, GFLOPs= 2.62569
+GPU CSR align8: t=11.2278 ms, GFLOPs= 2.66673
+GPU Hybrid: t= 12.393 ms, GFLOPs= 2.41601
+GPU Sliced Ell: t= 11.0499 ms, GFLOPs= 2.70966
+------End of patents.mtx Benchmark at 04:57:36------
+-----pattern1.mtx Benchmark Started at 04:59:07-----
+ViennaCl
+Matrix:/local/panastas/training_suite/pattern1.mtxReading matrix...
+GPU CSR align1: t= 1.673 ms, GFLOPs= 11.1458
+GPU CSR align4: t=1.64443 ms, GFLOPs= 11.3394
+GPU CSR align8: t=1.57419 ms, GFLOPs= 11.8454
+GPU Hybrid: t= 4.01691 ms, GFLOPs= 4.64209
+GPU Sliced Ell: t= 8.63713 ms, GFLOPs= 2.15892
+------End of pattern1.mtx Benchmark at 04:59:14------
+-----pct20stif.mtx Benchmark Started at 04:59:42-----
+ViennaCl
+Matrix:/local/panastas/training_suite/pct20stif.mtxReading matrix...
+GPU CSR align1: t= 0.346851 ms, GFLOPs= 15.5598
+GPU CSR align4: t=0.35337 ms, GFLOPs= 15.2727
+GPU CSR align8: t=0.336111 ms, GFLOPs= 16.057
+GPU Hybrid: t= 0.417361 ms, GFLOPs= 12.9311
+GPU Sliced Ell: t= 0.521441 ms, GFLOPs= 10.35
+------End of pct20stif.mtx Benchmark at 04:59:46------
+-----pfinan512.mtx Benchmark Started at 05:00:04-----
+ViennaCl
+Matrix:/local/panastas/training_suite/pfinan512.mtxReading matrix...
+GPU CSR align1: t= 0.0946784 ms, GFLOPs= 12.6109
+GPU CSR align4: t=0.11764 ms, GFLOPs= 10.1494
+GPU CSR align8: t=0.13485 ms, GFLOPs= 8.85419
+GPU Hybrid: t= 0.13272 ms, GFLOPs= 8.99623
+GPU Sliced Ell: t= 0.192001 ms, GFLOPs= 6.21864
+------End of pfinan512.mtx Benchmark at 05:00:07------
+-----pkustk03.mtx Benchmark Started at 05:00:38-----
+ViennaCl
+Matrix:/local/panastas/training_suite/pkustk03.mtxReading matrix...
+GPU CSR align1: t= 0.396869 ms, GFLOPs= 15.7756
+GPU CSR align4: t=0.38456 ms, GFLOPs= 16.2805
+GPU CSR align8: t=0.38023 ms, GFLOPs= 16.4659
+GPU Hybrid: t= 0.33339 ms, GFLOPs= 18.7793
+GPU Sliced Ell: t= 0.355511 ms, GFLOPs= 17.6108
+------End of pkustk03.mtx Benchmark at 05:00:42------
+-----pkustk04.mtx Benchmark Started at 05:01:34-----
+ViennaCl
+Matrix:/local/panastas/training_suite/pkustk04.mtxReading matrix...
+GPU CSR align1: t= 0.64327 ms, GFLOPs= 13.1163
+GPU CSR align4: t=0.647051 ms, GFLOPs= 13.0396
+GPU CSR align8: t=0.616021 ms, GFLOPs= 13.6965
+GPU Hybrid: t= 2.51806 ms, GFLOPs= 3.35072
+GPU Sliced Ell: t= 5.80648 ms, GFLOPs= 1.45309
+------End of pkustk04.mtx Benchmark at 05:01:39------
+-----pkustk07.mtx Benchmark Started at 05:02:06-----
+ViennaCl
+Matrix:/local/panastas/training_suite/pkustk07.mtxReading matrix...
+GPU CSR align1: t= 0.331249 ms, GFLOPs= 14.6041
+GPU CSR align4: t=0.326259 ms, GFLOPs= 14.8275
+GPU CSR align8: t=0.30129 ms, GFLOPs= 16.0563
+GPU Hybrid: t= 0.486851 ms, GFLOPs= 9.93653
+GPU Sliced Ell: t= 0.445769 ms, GFLOPs= 10.8523
+------End of pkustk07.mtx Benchmark at 05:02:09------
+-----pkustk08.mtx Benchmark Started at 05:02:42-----
+ViennaCl
+Matrix:/local/panastas/training_suite/pkustk08.mtxReading matrix...
+GPU CSR align1: t= 0.39505 ms, GFLOPs= 16.3355
+GPU CSR align4: t=0.384698 ms, GFLOPs= 16.7751
+GPU CSR align8: t=0.361509 ms, GFLOPs= 17.8511
+GPU Hybrid: t= 0.569561 ms, GFLOPs= 11.3304
+GPU Sliced Ell: t= 0.476189 ms, GFLOPs= 13.5521
+------End of pkustk08.mtx Benchmark at 05:02:45------
+-----pkustk09.mtx Benchmark Started at 05:03:08-----
+ViennaCl
+Matrix:/local/panastas/training_suite/pkustk09.mtxReading matrix...
+GPU CSR align1: t= 0.23658 ms, GFLOPs= 13.3878
+GPU CSR align4: t=0.232458 ms, GFLOPs= 13.6252
+GPU CSR align8: t=0.22917 ms, GFLOPs= 13.8206
+GPU Hybrid: t= 0.22929 ms, GFLOPs= 13.8135
+GPU Sliced Ell: t= 0.220299 ms, GFLOPs= 14.3772
+------End of pkustk09.mtx Benchmark at 05:03:11------
+-----pkustk10.mtx Benchmark Started at 05:04:04-----
+ViennaCl
+Matrix:/local/panastas/training_suite/pkustk10.mtxReading matrix...
+GPU CSR align1: t= 0.551779 ms, GFLOPs= 15.6185
+GPU CSR align4: t=0.52973 ms, GFLOPs= 16.2686
+GPU CSR align8: t=0.519888 ms, GFLOPs= 16.5766
+GPU Hybrid: t= 0.462332 ms, GFLOPs= 18.6402
+GPU Sliced Ell: t= 0.351622 ms, GFLOPs= 24.5092
+------End of pkustk10.mtx Benchmark at 05:04:08------
+-----pkustk11.mtx Benchmark Started at 05:05:10-----
+ViennaCl
+Matrix:/local/panastas/training_suite/pkustk11.mtxReading matrix...
+GPU CSR align1: t= 0.623889 ms, GFLOPs= 16.7271
+GPU CSR align4: t=0.615571 ms, GFLOPs= 16.9531
+GPU CSR align8: t=0.594449 ms, GFLOPs= 17.5555
+GPU Hybrid: t= 0.73468 ms, GFLOPs= 14.2046
+GPU Sliced Ell: t= 0.585821 ms, GFLOPs= 17.814
+------End of pkustk11.mtx Benchmark at 05:05:14------
+-----pkustk12.mtx Benchmark Started at 05:06:36-----
+ViennaCl
+Matrix:/local/panastas/training_suite/pkustk12.mtxReading matrix...
+GPU CSR align1: t= 1.26423 ms, GFLOPs= 11.8844
+GPU CSR align4: t=1.26703 ms, GFLOPs= 11.8581
+GPU CSR align8: t=1.20543 ms, GFLOPs= 12.4641
+GPU Hybrid: t= 3.03784 ms, GFLOPs= 4.94583
+GPU Sliced Ell: t= 6.18153 ms, GFLOPs= 2.43057
+------End of pkustk12.mtx Benchmark at 05:06:42------
+-----pkustk13.mtx Benchmark Started at 05:07:55-----
+ViennaCl
+Matrix:/local/panastas/training_suite/pkustk13.mtxReading matrix...
+GPU CSR align1: t= 0.84079 ms, GFLOPs= 15.7395
+GPU CSR align4: t=0.84657 ms, GFLOPs= 15.6321
+GPU CSR align8: t=0.79257 ms, GFLOPs= 16.6971
+GPU Hybrid: t= 1.27758 ms, GFLOPs= 10.3584
+GPU Sliced Ell: t= 1.07671 ms, GFLOPs= 12.2908
+------End of pkustk13.mtx Benchmark at 05:08:00------
+-----pkustk14.mtx Benchmark Started at 05:10:28-----
+ViennaCl
+Matrix:/local/panastas/training_suite/pkustk14.mtxReading matrix...
+GPU CSR align1: t= 1.83883 ms, GFLOPs= 16.1369
+GPU CSR align4: t=1.84426 ms, GFLOPs= 16.0894
+GPU CSR align8: t=1.71734 ms, GFLOPs= 17.2785
+GPU Hybrid: t= 2.66797 ms, GFLOPs= 11.1219
+GPU Sliced Ell: t= 1.71071 ms, GFLOPs= 17.3454
+------End of pkustk14.mtx Benchmark at 05:10:35------
+-----pli.mtx Benchmark Started at 05:10:57-----
+ViennaCl
+Matrix:/local/panastas/training_suite/pli.mtxReading matrix...
+GPU CSR align1: t= 0.187271 ms, GFLOPs= 14.4209
+GPU CSR align4: t=0.186148 ms, GFLOPs= 14.5079
+GPU CSR align8: t=0.178659 ms, GFLOPs= 15.1161
+GPU Hybrid: t= 0.225248 ms, GFLOPs= 11.9895
+GPU Sliced Ell: t= 0.213311 ms, GFLOPs= 12.6605
+------End of pli.mtx Benchmark at 05:11:00------
+-----poisson3Db.mtx Benchmark Started at 05:11:34-----
+ViennaCl
+Matrix:/local/panastas/training_suite/poisson3Db.mtxReading matrix...
+GPU CSR align1: t= 0.656691 ms, GFLOPs= 7.23308
+GPU CSR align4: t=0.65619 ms, GFLOPs= 7.2386
+GPU CSR align8: t=0.636241 ms, GFLOPs= 7.46556
+GPU Hybrid: t= 0.778501 ms, GFLOPs= 6.10134
+GPU Sliced Ell: t= 0.57317 ms, GFLOPs= 8.28706
+------End of poisson3Db.mtx Benchmark at 05:11:39------
+-----pre2.mtx Benchmark Started at 05:13:03-----
+ViennaCl
+Matrix:/local/panastas/training_suite/pre2.mtxReading matrix...
+GPU CSR align1: t= 1.24553 ms, GFLOPs= 9.56907
+GPU CSR align4: t=1.40494 ms, GFLOPs= 8.48333
+GPU CSR align8: t=1.60433 ms, GFLOPs= 7.429
+GPU Hybrid: t= 2.09607 ms, GFLOPs= 5.68614
+GPU Sliced Ell: t= 3.76067 ms, GFLOPs= 3.16926
+------End of pre2.mtx Benchmark at 05:13:11------
+-----pwt.mtx Benchmark Started at 05:13:27-----
+ViennaCl
+Matrix:/local/panastas/training_suite/pwt.mtxReading matrix...
+GPU CSR align1: t= 0.049901 ms, GFLOPs= 13.0702
+GPU CSR align4: t=0.068121 ms, GFLOPs= 9.57435
+GPU CSR align8: t=0.0931907 ms, GFLOPs= 6.9987
+GPU Hybrid: t= 0.0483489 ms, GFLOPs= 13.4897
+GPU Sliced Ell: t= 0.0535107 ms, GFLOPs= 12.1885
+------End of pwt.mtx Benchmark at 05:13:29------
+-----pwtk.mtx Benchmark Started at 05:15:38-----
+ViennaCl
+Matrix:/local/panastas/training_suite/pwtk.mtxReading matrix...
+GPU CSR align1: t= 1.43 ms, GFLOPs= 16.2719
+GPU CSR align4: t=1.44001 ms, GFLOPs= 16.1588
+GPU CSR align8: t=1.3697 ms, GFLOPs= 16.9883
+GPU Hybrid: t= 1.34512 ms, GFLOPs= 17.2987
+GPU Sliced Ell: t= 1.01437 ms, GFLOPs= 22.9392
+------End of pwtk.mtx Benchmark at 05:15:46------
+-----rail4284.mtx Benchmark Started at 05:18:05-----
+ViennaCl
+Matrix:/local/panastas/training_suite/rail4284.mtxReading matrix...
+GPU CSR align1: t= 6.27534 ms, GFLOPs= 3.59631
+GPU CSR align4: t=6.22417 ms, GFLOPs= 3.62588
+GPU CSR align8: t=6.15542 ms, GFLOPs= 3.66637
+GPU Hybrid: t= 39.8336 ms, GFLOPs= 0.566558
+GPU Sliced Ell: t= 80.8502 ms, GFLOPs= 0.279134
+------End of rail4284.mtx Benchmark at 05:18:28------
+-----rajat29.mtx Benchmark Started at 05:20:17-----
+ViennaCl
+Matrix:/local/panastas/training_suite/rajat29.mtxReading matrix...
+GPU CSR align1: t= 2.05021 ms, GFLOPs= 4.74709
+GPU CSR align4: t=2.12296 ms, GFLOPs= 4.58442
+GPU CSR align8: t=2.21034 ms, GFLOPs= 4.40319
+GPU Hybrid: t= 195.309 ms, GFLOPs= 0.0498315
+GPU Sliced Ell: t= 643.391 ms, GFLOPs= 0.015127
+------End of rajat29.mtx Benchmark at 05:21:48------
+-----rajat30.mtx Benchmark Started at 05:23:52-----
+ViennaCl
+Matrix:/local/panastas/training_suite/rajat30.mtxReading matrix...
+GPU CSR align1: t= 2.13886 ms, GFLOPs= 5.77446
+GPU CSR align4: t=2.24075 ms, GFLOPs= 5.51188
+GPU CSR align8: t=15.7481 ms, GFLOPs= 0.78427
+GPU Hybrid: t= 193.267 ms, GFLOPs= 0.0639051
+GPU Sliced Ell: t= 645.293 ms, GFLOPs= 0.0191398
+------End of rajat30.mtx Benchmark at 05:25:26------
+-----rajat31.mtx Benchmark Started at 05:30:06-----
+ViennaCl
+Matrix:/local/panastas/training_suite/rajat31.mtxReading matrix...
+GPU CSR align1: t= 3.08921 ms, GFLOPs= 13.153
+GPU CSR align4: t=4.62745 ms, GFLOPs= 8.78076
+GPU CSR align8: t=5.2925 ms, GFLOPs= 7.67738
+GPU Hybrid: t= 3.41729 ms, GFLOPs= 11.8903
+GPU Sliced Ell: t= 3.40717 ms, GFLOPs= 11.9256
+------End of rajat31.mtx Benchmark at 05:30:25------
+-----rgg_n_2_18_s0.mtx Benchmark Started at 05:31:00-----
+ViennaCl
+Matrix:/local/panastas/training_suite/rgg_n_2_18_s0.mtxReading matrix...
+GPU CSR align1: t= 0.715299 ms, GFLOPs= 8.65251
+GPU CSR align4: t=0.94651 ms, GFLOPs= 6.5389
+GPU CSR align8: t=0.948291 ms, GFLOPs= 6.52662
+GPU Hybrid: t= 0.70646 ms, GFLOPs= 8.76076
+GPU Sliced Ell: t= 0.664649 ms, GFLOPs= 9.31188
+------End of rgg_n_2_18_s0.mtx Benchmark at 05:31:04------
+-----rgg_n_2_19_s0.mtx Benchmark Started at 05:32:24-----
+ViennaCl
+Matrix:/local/panastas/training_suite/rgg_n_2_19_s0.mtxReading matrix...
+GPU CSR align1: t= 1.95866 ms, GFLOPs= 6.67755
+GPU CSR align4: t=2.00604 ms, GFLOPs= 6.51984
+GPU CSR align8: t=2.00789 ms, GFLOPs= 6.51384
+GPU Hybrid: t= 1.59159 ms, GFLOPs= 8.21761
+GPU Sliced Ell: t= 1.48017 ms, GFLOPs= 8.83619
+------End of rgg_n_2_19_s0.mtx Benchmark at 05:32:29------
+-----rgg_n_2_22_s0.mtx Benchmark Started at 05:43:59-----
+ViennaCl
+Matrix:/local/panastas/training_suite/rgg_n_2_22_s0.mtxReading matrix...
+GPU CSR align1: t= 36.0552 ms, GFLOPs= 3.36808
+GPU CSR align4: t=36.1477 ms, GFLOPs= 3.35946
+GPU CSR align8: t=36.0328 ms, GFLOPs= 3.37017
+GPU Hybrid: t= 21.119 ms, GFLOPs= 5.75013
+GPU Sliced Ell: t= 16.2417 ms, GFLOPs= 7.47686
+------End of rgg_n_2_22_s0.mtx Benchmark at 05:44:34------
+-----rma10.mtx Benchmark Started at 05:45:05-----
+ViennaCl
+Matrix:/local/panastas/training_suite/rma10.mtxReading matrix...
+GPU CSR align1: t= 0.305479 ms, GFLOPs= 15.5428
+GPU CSR align4: t=0.308268 ms, GFLOPs= 15.4022
+GPU CSR align8: t=0.287752 ms, GFLOPs= 16.5003
+GPU Hybrid: t= 0.408571 ms, GFLOPs= 11.621
+GPU Sliced Ell: t= 0.363269 ms, GFLOPs= 13.0702
+------End of rma10.mtx Benchmark at 05:45:09------
+-----s3dkq4m2.mtx Benchmark Started at 05:46:12-----
+ViennaCl
+Matrix:/local/panastas/training_suite/s3dkq4m2.mtxReading matrix...
+GPU CSR align1: t= 0.592101 ms, GFLOPs= 16.284
+GPU CSR align4: t=0.60523 ms, GFLOPs= 15.9308
+GPU CSR align8: t=0.570021 ms, GFLOPs= 16.9148
+GPU Hybrid: t= 0.461009 ms, GFLOPs= 20.9145
+GPU Sliced Ell: t= 0.366971 ms, GFLOPs= 26.2739
+------End of s3dkq4m2.mtx Benchmark at 05:46:17------
+-----soc-LiveJournal1.mtx Benchmark Started at 05:59:59-----
+ViennaCl
+Matrix:/local/panastas/training_suite/soc-LiveJournal1.mtxReading matrix...
+GPU CSR align1: t= 37.6356 ms, GFLOPs= 3.66641
+GPU CSR align4: t=37.6699 ms, GFLOPs= 3.66308
+GPU CSR align8: t=37.2251 ms, GFLOPs= 3.70685
+GPU Hybrid: t= 59.0048 ms, GFLOPs= 2.33858
+GPU Sliced Ell: t= 61.6862 ms, GFLOPs= 2.23693
+------End of soc-LiveJournal1.mtx Benchmark at 06:00:56------
+-----spal_004.mtx Benchmark Started at 06:10:18-----
+ViennaCl
+Matrix:/local/panastas/training_suite/spal_004.mtxReading matrix...
+GPU CSR align1: t= 7.20628 ms, GFLOPs= 12.8133
+GPU CSR align4: t=7.11786 ms, GFLOPs= 12.9725
+GPU CSR align8: t=6.7491 ms, GFLOPs= 13.6813
+GPU Hybrid: t= 15.2117 ms, GFLOPs= 6.07006
+GPU Sliced Ell: t= 14.9291 ms, GFLOPs= 6.18498
+------End of spal_004.mtx Benchmark at 06:10:57------
+-----stomach.mtx Benchmark Started at 06:11:37-----
+ViennaCl
+Matrix:/local/panastas/training_suite/stomach.mtxReading matrix...
+GPU CSR align1: t= 0.665808 ms, GFLOPs= 9.07664
+GPU CSR align4: t=0.671799 ms, GFLOPs= 8.99569
+GPU CSR align8: t=0.65933 ms, GFLOPs= 9.16582
+GPU Hybrid: t= 0.431061 ms, GFLOPs= 14.0196
+GPU Sliced Ell: t= 0.31116 ms, GFLOPs= 19.4218
+------End of stomach.mtx Benchmark at 06:11:42------
+-----struct3.mtx Benchmark Started at 06:12:03-----
+ViennaCl
+Matrix:/local/panastas/training_suite/struct3.mtxReading matrix...
+GPU CSR align1: t= 0.210471 ms, GFLOPs= 11.153
+GPU CSR align4: t=0.21487 ms, GFLOPs= 10.9247
+GPU CSR align8: t=0.204639 ms, GFLOPs= 11.4708
+GPU Hybrid: t= 0.13171 ms, GFLOPs= 17.8225
+GPU Sliced Ell: t= 0.12254 ms, GFLOPs= 19.1561
+------End of struct3.mtx Benchmark at 06:12:06------
+-----struct4.mtx Benchmark Started at 06:12:22-----
+ViennaCl
+Matrix:/local/panastas/training_suite/struct4.mtxReading matrix...
+GPU CSR align1: t= 0.07833 ms, GFLOPs= 6.07169
+GPU CSR align4: t=0.0777006 ms, GFLOPs= 6.12088
+GPU CSR align8: t=0.0763988 ms, GFLOPs= 6.22517
+GPU Hybrid: t= 0.140588 ms, GFLOPs= 3.3829
+GPU Sliced Ell: t= 0.138819 ms, GFLOPs= 3.42601
+------End of struct4.mtx Benchmark at 06:12:25------
+-----tandem_dual.mtx Benchmark Started at 06:12:41-----
+ViennaCl
+Matrix:/local/panastas/training_suite/tandem_dual.mtxReading matrix...
+GPU CSR align1: t= 0.070622 ms, GFLOPs= 13.0411
+GPU CSR align4: t=0.10448 ms, GFLOPs= 8.81497
+GPU CSR align8: t=0.10299 ms, GFLOPs= 8.94251
+GPU Hybrid: t= 0.0692201 ms, GFLOPs= 13.3052
+GPU Sliced Ell: t= 0.0596499 ms, GFLOPs= 15.4398
+------End of tandem_dual.mtx Benchmark at 06:12:44------
+-----tandem_vtx.mtx Benchmark Started at 06:13:00-----
+ViennaCl
+Matrix:/local/panastas/training_suite/tandem_vtx.mtxReading matrix...
+GPU CSR align1: t= 0.0652409 ms, GFLOPs= 7.76661
+GPU CSR align4: t=0.0665092 ms, GFLOPs= 7.61849
+GPU CSR align8: t=0.066669 ms, GFLOPs= 7.60024
+GPU Hybrid: t= 0.0499105 ms, GFLOPs= 10.1522
+GPU Sliced Ell: t= 0.0647211 ms, GFLOPs= 7.82898
+------End of tandem_vtx.mtx Benchmark at 06:13:03------
+-----ted_A.mtx Benchmark Started at 06:13:19-----
+ViennaCl
+Matrix:/local/panastas/training_suite/ted_A.mtxReading matrix...
+GPU CSR align1: t= 0.0899315 ms, GFLOPs= 9.44245
+GPU CSR align4: t=0.0904298 ms, GFLOPs= 9.39042
+GPU CSR align8: t=0.0889993 ms, GFLOPs= 9.54136
+GPU Hybrid: t= 0.1648 ms, GFLOPs= 5.15276
+GPU Sliced Ell: t= 0.215118 ms, GFLOPs= 3.94748
+------End of ted_A.mtx Benchmark at 06:13:22------
+-----thermal2.mtx Benchmark Started at 06:15:15-----
+ViennaCl
+Matrix:/local/panastas/training_suite/thermal2.mtxReading matrix...
+GPU CSR align1: t= 1.42715 ms, GFLOPs= 12.0244
+GPU CSR align4: t=1.64808 ms, GFLOPs= 10.4125
+GPU CSR align8: t=1.68447 ms, GFLOPs= 10.1876
+GPU Hybrid: t= 2.0461 ms, GFLOPs= 8.38699
+GPU Sliced Ell: t= 1.48238 ms, GFLOPs= 11.5764
+------End of thermal2.mtx Benchmark at 06:15:23------
+-----thermomech_TC.mtx Benchmark Started at 06:15:43-----
+ViennaCl
+Matrix:/local/panastas/training_suite/thermomech_TC.mtxReading matrix...
+GPU CSR align1: t= 0.176079 ms, GFLOPs= 8.08225
+GPU CSR align4: t=0.195529 ms, GFLOPs= 7.27827
+GPU CSR align8: t=0.19696 ms, GFLOPs= 7.22541
+GPU Hybrid: t= 0.181551 ms, GFLOPs= 7.83866
+GPU Sliced Ell: t= 0.16001 ms, GFLOPs= 8.89393
+------End of thermomech_TC.mtx Benchmark at 06:15:46------
+-----thermomech_TK.mtx Benchmark Started at 06:16:06-----
+ViennaCl
+Matrix:/local/panastas/training_suite/thermomech_TK.mtxReading matrix...
+GPU CSR align1: t= 0.176032 ms, GFLOPs= 8.08444
+GPU CSR align4: t=0.195539 ms, GFLOPs= 7.27791
+GPU CSR align8: t=0.196931 ms, GFLOPs= 7.22646
+GPU Hybrid: t= 0.18157 ms, GFLOPs= 7.83783
+GPU Sliced Ell: t= 0.159781 ms, GFLOPs= 8.90667
+------End of thermomech_TK.mtx Benchmark at 06:16:09------
+-----thermomech_dK.mtx Benchmark Started at 06:16:48-----
+ViennaCl
+Matrix:/local/panastas/training_suite/thermomech_dK.mtxReading matrix...
+GPU CSR align1: t= 0.496759 ms, GFLOPs= 11.4592
+GPU CSR align4: t=0.500021 ms, GFLOPs= 11.3844
+GPU CSR align8: t=0.4879 ms, GFLOPs= 11.6673
+GPU Hybrid: t= 0.523641 ms, GFLOPs= 10.8709
+GPU Sliced Ell: t= 0.427539 ms, GFLOPs= 13.3145
+------End of thermomech_dK.mtx Benchmark at 06:16:53------
+-----thermomech_dM.mtx Benchmark Started at 06:17:19-----
+ViennaCl
+Matrix:/local/panastas/training_suite/thermomech_dM.mtxReading matrix...
+GPU CSR align1: t= 0.283332 ms, GFLOPs= 10.0456
+GPU CSR align4: t=0.323398 ms, GFLOPs= 8.80102
+GPU CSR align8: t=0.286038 ms, GFLOPs= 9.95054
+GPU Hybrid: t= 0.30148 ms, GFLOPs= 9.44086
+GPU Sliced Ell: t= 0.2407 ms, GFLOPs= 11.8248
+------End of thermomech_dM.mtx Benchmark at 06:17:23------
+-----torso3.mtx Benchmark Started at 06:18:27-----
+ViennaCl
+Matrix:/local/panastas/training_suite/torso3.mtxReading matrix...
+GPU CSR align1: t= 0.911078 ms, GFLOPs= 9.72264
+GPU CSR align4: t=0.909629 ms, GFLOPs= 9.73813
+GPU CSR align8: t=0.89947 ms, GFLOPs= 9.84812
+GPU Hybrid: t= 0.588219 ms, GFLOPs= 15.0592
+GPU Sliced Ell: t= 0.431881 ms, GFLOPs= 20.5105
+------End of torso3.mtx Benchmark at 06:18:33------
+-----trdheim.mtx Benchmark Started at 06:18:58-----
+ViennaCl
+Matrix:/local/panastas/training_suite/trdheim.mtxReading matrix...
+GPU CSR align1: t= 0.24019 ms, GFLOPs= 16.1149
+GPU CSR align4: t=0.231681 ms, GFLOPs= 16.7068
+GPU CSR align8: t=0.207002 ms, GFLOPs= 18.6986
+GPU Hybrid: t= 0.34512 ms, GFLOPs= 11.2154
+GPU Sliced Ell: t= 0.263371 ms, GFLOPs= 14.6965
+------End of trdheim.mtx Benchmark at 06:19:01------
+-----troll.mtx Benchmark Started at 06:21:04-----
+ViennaCl
+Matrix:/local/panastas/training_suite/troll.mtxReading matrix...
+GPU CSR align1: t= 1.4687 ms, GFLOPs= 16.3207
+GPU CSR align4: t=1.49903 ms, GFLOPs= 15.9905
+GPU CSR align8: t=1.41384 ms, GFLOPs= 16.954
+GPU Hybrid: t= 1.74603 ms, GFLOPs= 13.7284
+GPU Sliced Ell: t= 1.49584 ms, GFLOPs= 16.0246
+------End of troll.mtx Benchmark at 06:21:10------
+-----tsyl201.mtx Benchmark Started at 06:21:38-----
+ViennaCl
+Matrix:/local/panastas/training_suite/tsyl201.mtxReading matrix...
+GPU CSR align1: t= 0.299859 ms, GFLOPs= 16.3741
+GPU CSR align4: t=0.297771 ms, GFLOPs= 16.4889
+GPU CSR align8: t=0.2702 ms, GFLOPs= 18.1714
+GPU Hybrid: t= 0.314951 ms, GFLOPs= 15.5895
+GPU Sliced Ell: t= 0.301661 ms, GFLOPs= 16.2762
+------End of tsyl201.mtx Benchmark at 06:21:41------
+-----twotone.mtx Benchmark Started at 06:22:06-----
+ViennaCl
+Matrix:/local/panastas/training_suite/twotone.mtxReading matrix...
+GPU CSR align1: t= 0.27112 ms, GFLOPs= 9.03086
+GPU CSR align4: t=0.310891 ms, GFLOPs= 7.87559
+GPU CSR align8: t=0.372851 ms, GFLOPs= 6.56683
+GPU Hybrid: t= 0.435531 ms, GFLOPs= 5.62175
+GPU Sliced Ell: t= 0.754571 ms, GFLOPs= 3.24482
+------End of twotone.mtx Benchmark at 06:22:09------
+-----usroads.mtx Benchmark Started at 06:22:26-----
+ViennaCl
+Matrix:/local/panastas/training_suite/usroads.mtxReading matrix...
+GPU CSR align1: t= 0.0752687 ms, GFLOPs= 8.7917
+GPU CSR align4: t=0.0886106 ms, GFLOPs= 7.46795
+GPU CSR align8: t=0.14044 ms, GFLOPs= 4.71189
+GPU Hybrid: t= 0.081389 ms, GFLOPs= 8.13059
+GPU Sliced Ell: t= 0.0731897 ms, GFLOPs= 9.04143
+------End of usroads.mtx Benchmark at 06:22:29------
+-----venturiLevel3.mtx Benchmark Started at 06:25:46-----
+ViennaCl
+Matrix:/local/panastas/training_suite/venturiLevel3.mtxReading matrix...
+GPU CSR align1: t= 2.44465 ms, GFLOPs= 13.1785
+GPU CSR align4: t=2.41216 ms, GFLOPs= 13.356
+GPU CSR align8: t=4.03366 ms, GFLOPs= 7.98703
+GPU Hybrid: t= 3.16586 ms, GFLOPs= 10.1764
+GPU Sliced Ell: t= 2.31387 ms, GFLOPs= 13.9234
+------End of venturiLevel3.mtx Benchmark at 06:25:55------
+-----wave.mtx Benchmark Started at 06:26:23-----
+ViennaCl
+Matrix:/local/panastas/training_suite/wave.mtxReading matrix...
+GPU CSR align1: t= 0.467191 ms, GFLOPs= 9.06979
+GPU CSR align4: t=0.478871 ms, GFLOPs= 8.84857
+GPU CSR align8: t=0.48332 ms, GFLOPs= 8.76712
+GPU Hybrid: t= 0.35161 ms, GFLOPs= 12.0512
+GPU Sliced Ell: t= 0.289271 ms, GFLOPs= 14.6483
+------End of wave.mtx Benchmark at 06:26:27------
+-----wb-edu.mtx Benchmark Started at 06:37:33-----
+ViennaCl
+Matrix:/local/panastas/training_suite/wb-edu.mtxReading matrix...
+GPU CSR align1: t= 10.1161 ms, GFLOPs= 11.3001
+GPU CSR align4: t=12.4594 ms, GFLOPs= 9.17484
+GPU CSR align8: t=15.9912 ms, GFLOPs= 7.14852
+GPU Hybrid: t= 24.5618 ms, GFLOPs= 4.65411
+GPU Sliced Ell: t= 31.3648 ms, GFLOPs= 3.64463
+------End of wb-edu.mtx Benchmark at 06:38:08------
+-----web-BerkStan.mtx Benchmark Started at 06:39:41-----
+ViennaCl
+Matrix:/local/panastas/training_suite/web-BerkStan.mtxReading matrix...
+GPU CSR align1: t= 1.337 ms, GFLOPs= 11.3696
+GPU CSR align4: t=2.06329 ms, GFLOPs= 7.36746
+GPU CSR align8: t=2.04325 ms, GFLOPs= 7.43971
+GPU Hybrid: t= 2.65801 ms, GFLOPs= 5.71901
+GPU Sliced Ell: t= 2.02666 ms, GFLOPs= 7.50061
+------End of web-BerkStan.mtx Benchmark at 06:39:48------
+-----web-Google.mtx Benchmark Started at 06:40:59-----
+ViennaCl
+Matrix:/local/panastas/training_suite/web-Google.mtxReading matrix...
+GPU CSR align1: t= 2.56702 ms, GFLOPs= 3.97741
+GPU CSR align4: t=2.67542 ms, GFLOPs= 3.81625
+GPU CSR align8: t=2.82684 ms, GFLOPs= 3.61183
+GPU Hybrid: t= 3.72331 ms, GFLOPs= 2.7422
+GPU Sliced Ell: t= 3.82288 ms, GFLOPs= 2.67078
+------End of web-Google.mtx Benchmark at 06:41:06------
+-----web-NotreDame.mtx Benchmark Started at 06:41:31-----
+ViennaCl
+Matrix:/local/panastas/training_suite/web-NotreDame.mtxReading matrix...
+GPU CSR align1: t= 0.316999 ms, GFLOPs= 9.44567
+GPU CSR align4: t=0.36483 ms, GFLOPs= 8.20729
+GPU CSR align8: t=0.45495 ms, GFLOPs= 6.58153
+GPU Hybrid: t= 1.89527 ms, GFLOPs= 1.57986
+GPU Sliced Ell: t= 4.82447 ms, GFLOPs= 0.620642
+------End of web-NotreDame.mtx Benchmark at 06:41:35------
+-----webbase-1M.mtx Benchmark Started at 06:42:16-----
+ViennaCl
+Matrix:/local/panastas/training_suite/webbase-1M.mtxReading matrix...
+GPU CSR align1: t= 0.527771 ms, GFLOPs= 11.7685
+GPU CSR align4: t=0.764859 ms, GFLOPs= 8.12055
+GPU CSR align8: t=1.22627 ms, GFLOPs= 5.06501
+GPU Hybrid: t= 3.10682 ms, GFLOPs= 1.99917
+GPU Sliced Ell: t= 7.03118 ms, GFLOPs= 0.883361
+------End of webbase-1M.mtx Benchmark at 06:42:22------
+-----wiki-Talk.mtx Benchmark Started at 06:43:49-----
+ViennaCl
+Matrix:/local/panastas/training_suite/wiki-Talk.mtxReading matrix...
+GPU CSR align1: t= 2.54578 ms, GFLOPs= 3.94489
+GPU CSR align4: t=2.41474 ms, GFLOPs= 4.15897
+GPU CSR align8: t=2.43114 ms, GFLOPs= 4.13091
+GPU Hybrid: 
+------End of wiki-Talk.mtx Benchmark at 06:43:55------
+-----wikipedia-20051105.mtx Benchmark Started at 06:47:44-----
+ViennaCl
+Matrix:/local/panastas/training_suite/wikipedia-20051105.mtxReading matrix...
+GPU CSR align1: t= 9.69004 ms, GFLOPs= 4.07699
+GPU CSR align4: t=9.84353 ms, GFLOPs= 4.01341
+GPU CSR align8: t=9.8035 ms, GFLOPs= 4.0298
+GPU Hybrid: t= 14.6474 ms, GFLOPs= 2.69715
+GPU Sliced Ell: t= 18.7631 ms, GFLOPs= 2.10552
+------End of wikipedia-20051105.mtx Benchmark at 06:48:03------
+-----wikipedia-20060925.mtx Benchmark Started at 06:55:42-----
+ViennaCl
+Matrix:/local/panastas/training_suite/wikipedia-20060925.mtxReading matrix...
+GPU CSR align1: t= 20.7775 ms, GFLOPs= 3.58745
+GPU CSR align4: t=20.97 ms, GFLOPs= 3.55451
+GPU CSR align8: t=20.8582 ms, GFLOPs= 3.57357
+GPU Hybrid: t= 28.8339 ms, GFLOPs= 2.58509
+GPU Sliced Ell: t= 36.1102 ms, GFLOPs= 2.06419
+------End of wikipedia-20060925.mtx Benchmark at 06:56:17------
+-----wikipedia-20061104.mtx Benchmark Started at 07:04:22-----
+ViennaCl
+Matrix:/local/panastas/training_suite/wikipedia-20061104.mtxReading matrix...
+GPU CSR align1: t= 22.118 ms, GFLOPs= 3.56119
+GPU CSR align4: t=22.3333 ms, GFLOPs= 3.52687
+GPU CSR align8: t=22.1969 ms, GFLOPs= 3.54854
+GPU Hybrid: t= 31.9921 ms, GFLOPs= 2.46206
+GPU Sliced Ell: t= 41.192 ms, GFLOPs= 1.91218
+------End of wikipedia-20061104.mtx Benchmark at 07:04:59------
+-----wikipedia-20070206.mtx Benchmark Started at 07:14:11-----
+ViennaCl
+Matrix:/local/panastas/training_suite/wikipedia-20070206.mtxReading matrix...
+GPU CSR align1: t= 25.6067 ms, GFLOPs= 3.51708
+GPU CSR align4: t=25.8321 ms, GFLOPs= 3.48639
+GPU CSR align8: t=25.6857 ms, GFLOPs= 3.50625
+GPU Hybrid: t= 36.7959 ms, GFLOPs= 2.44758
+GPU Sliced Ell: t= 47.7591 ms, GFLOPs= 1.88573
+------End of wikipedia-20070206.mtx Benchmark at 07:14:54------
+-----xenon2.mtx Benchmark Started at 07:15:41-----
+ViennaCl
+Matrix:/local/panastas/training_suite/xenon2.mtxReading matrix...
+GPU CSR align1: t= 0.626211 ms, GFLOPs= 12.3495
+GPU CSR align4: t=0.62758 ms, GFLOPs= 12.3225
+GPU CSR align8: t=0.604088 ms, GFLOPs= 12.8017
+GPU Hybrid: t= 0.490291 ms, GFLOPs= 15.773
+GPU Sliced Ell: t= 0.383742 ms, GFLOPs= 20.1525
+------End of xenon2.mtx Benchmark at 07:15:47------

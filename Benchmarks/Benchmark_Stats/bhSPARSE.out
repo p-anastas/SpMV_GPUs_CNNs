@@ -1,0 +1,782 @@
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------amazon-2008.mtx--------------
+ ( 735323, 735323 ) nnz = 5158388
+cpu sequential time = 18.6274 ms. Bandwidth = 6.01219 GB/s. GFlops = 0.553849 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 7. 
+CSR->CSR5 malloc time = 1.52058 ms.
+CSR->CSR5 tile_ptr time = 0.274464 ms.
+CSR->CSR5 tile_desc time = 1.17789 ms.
+CSR->CSR5 transpose time = 0.751808 ms.
+CSR->CSR5 time = 3.9224 ms.
+CSR5-based SpMV time = 0.878 ms. Bandwidth = 127.553 GB/s. GFlops = 11.7503 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------ASIC_680k.mtx--------------
+ ( 682862, 682862 ) nnz = 3871773
+cpu sequential time = 8.25872 ms. Bandwidth = 10.3684 GB/s. GFlops = 0.937621 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 5. 
+CSR->CSR5 malloc time = 1.06093 ms.
+CSR->CSR5 tile_ptr time = 0.24816 ms.
+CSR->CSR5 tile_desc time = 0.177952 ms.
+CSR->CSR5 transpose time = 0.558432 ms.
+CSR->CSR5 time = 2.22093 ms.
+CSR5-based SpMV time = 0.458223 ms. Bandwidth = 186.874 GB/s. GFlops = 16.8991 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------atmosmodj.mtx--------------
+ ( 1270432, 1270432 ) nnz = 8814880
+cpu sequential time = 14.1848 ms. Bandwidth = 13.5034 GB/s. GFlops = 1.24287 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 6. 
+CSR->CSR5 malloc time = 1.55331 ms.
+CSR->CSR5 tile_ptr time = 0.518944 ms.
+CSR->CSR5 tile_desc time = 0.360448 ms.
+CSR->CSR5 transpose time = 1.31482 ms.
+CSR->CSR5 time = 3.93123 ms.
+CSR5-based SpMV time = 0.788086 ms. Bandwidth = 243.048 GB/s. GFlops = 22.3703 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------barrier2-12.mtx--------------
+ ( 115625, 115625 ) nnz = 3897557
+cpu sequential time = 6.59674 ms. Bandwidth = 12.027 GB/s. GFlops = 1.18166 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 32. 
+CSR->CSR5 malloc time = 1.48237 ms.
+CSR->CSR5 tile_ptr time = 0.072608 ms.
+CSR->CSR5 tile_desc time = 0.131136 ms.
+CSR->CSR5 transpose time = 0.590784 ms.
+CSR->CSR5 time = 2.45248 ms.
+CSR5-based SpMV time = 0.385566 ms. Bandwidth = 205.772 GB/s. GFlops = 20.2173 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------bmwcra_1.mtx--------------
+ ( 148770, 148770 ) nnz = 10644002
+cpu sequential time = 14.3611 ms. Bandwidth = 14.9477 GB/s. GFlops = 1.48234 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 32. 
+CSR->CSR5 malloc time = 1.53917 ms.
+CSR->CSR5 tile_ptr time = 0.118272 ms.
+CSR->CSR5 tile_desc time = 0.285408 ms.
+CSR->CSR5 transpose time = 1.56816 ms.
+CSR->CSR5 time = 3.68448 ms.
+CSR5-based SpMV time = 0.779294 ms. Bandwidth = 275.461 GB/s. GFlops = 27.317 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------boneS10.mtx--------------
+ ( 914898, 914898 ) nnz = 55468422
+cpu sequential time = 74.9356 ms. Bandwidth = 14.9508 GB/s. GFlops = 1.48043 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 32. 
+CSR->CSR5 malloc time = 1.54131 ms.
+CSR->CSR5 tile_ptr time = 0.541664 ms.
+CSR->CSR5 tile_desc time = 1.3311 ms.
+CSR->CSR5 transpose time = 8.05466 ms.
+CSR->CSR5 time = 122.156 ms.
+CSR5-based SpMV time = 3.99581 ms. Bandwidth = 280.38 GB/s. GFlops = 27.7633 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------cage13.mtx--------------
+ ( 445315, 445315 ) nnz = 7479343
+cpu sequential time = 11.1976 ms. Bandwidth = 13.836 GB/s. GFlops = 1.33588 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 16. 
+CSR->CSR5 malloc time = 1.54339 ms.
+CSR->CSR5 tile_ptr time = 0.176128 ms.
+CSR->CSR5 tile_desc time = 0.227872 ms.
+CSR->CSR5 transpose time = 0.97216 ms.
+CSR->CSR5 time = 3.09344 ms.
+CSR5-based SpMV time = 0.697182 ms. Bandwidth = 222.224 GB/s. GFlops = 21.4559 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------Chebyshev4.mtx--------------
+ ( 68121, 68121 ) nnz = 5377761
+cpu sequential time = 7.84038 ms. Bandwidth = 13.8224 GB/s. GFlops = 1.37181 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 32. 
+CSR->CSR5 malloc time = 1.05523 ms.
+CSR->CSR5 tile_ptr time = 0.073984 ms.
+CSR->CSR5 tile_desc time = 0.141248 ms.
+CSR->CSR5 transpose time = 0.598656 ms.
+CSR->CSR5 time = 2.0471 ms.
+CSR5-based SpMV time = 0.463511 ms. Bandwidth = 233.808 GB/s. GFlops = 23.2044 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------circuit5M.mtx--------------
+ ( 5558326, 5558326 ) nnz = 59524291
+cpu sequential time = 103.809 ms. Bandwidth = 12.1105 GB/s. GFlops = 1.1468 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 10. 
+CSR->CSR5 malloc time = 2.0455 ms.
+CSR->CSR5 tile_ptr time = 1.71898 ms.
+CSR->CSR5 tile_desc time = 1.61811 ms.
+CSR->CSR5 transpose time = 6.00966 ms.
+CSR->CSR5 time = 11.5684 ms.
+CSR5-based SpMV time = 5.92496 ms. Bandwidth = 212.185 GB/s. GFlops = 20.0927 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------citationCiteseer.mtx--------------
+ ( 268495, 268495 ) nnz = 2313294
+cpu sequential time = 11.6791 ms. Bandwidth = 4.23731 GB/s. GFlops = 0.396143 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 8. 
+CSR->CSR5 malloc time = 1.55933 ms.
+CSR->CSR5 tile_ptr time = 0.117184 ms.
+CSR->CSR5 tile_desc time = 0.126752 ms.
+CSR->CSR5 transpose time = 0.322528 ms.
+CSR->CSR5 time = 2.27283 ms.
+CSR5-based SpMV time = 0.674464 ms. Bandwidth = 73.3736 GB/s. GFlops = 6.85966 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------consph.mtx--------------
+ ( 83334, 83334 ) nnz = 6010480
+cpu sequential time = 8.15165 ms. Bandwidth = 14.8693 GB/s. GFlops = 1.47467 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 32. 
+CSR->CSR5 malloc time = 1.02493 ms.
+CSR->CSR5 tile_ptr time = 0.085088 ms.
+CSR->CSR5 tile_desc time = 0.180128 ms.
+CSR->CSR5 transpose time = 0.90336 ms.
+CSR->CSR5 time = 2.3695 ms.
+CSR5-based SpMV time = 0.452955 ms. Bandwidth = 267.598 GB/s. GFlops = 26.539 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------crankseg_2.mtx--------------
+ ( 63838, 63838 ) nnz = 14148858
+cpu sequential time = 18.0276 ms. Bandwidth = 15.7394 GB/s. GFlops = 1.56969 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 32. 
+CSR->CSR5 malloc time = 1.80534 ms.
+CSR->CSR5 tile_ptr time = 0.14944 ms.
+CSR->CSR5 tile_desc time = 0.384224 ms.
+CSR->CSR5 transpose time = 2.09174 ms.
+CSR->CSR5 time = 4.69107 ms.
+CSR5-based SpMV time = 1.19869 ms. Bandwidth = 236.711 GB/s. GFlops = 23.6072 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------delaunay_n19.mtx--------------
+ ( 524288, 524288 ) nnz = 3145646
+cpu sequential time = 8.68483 ms. Bandwidth = 7.96842 GB/s. GFlops = 0.7244 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 5. 
+CSR->CSR5 malloc time = 1.05862 ms.
+CSR->CSR5 tile_ptr time = 0.232384 ms.
+CSR->CSR5 tile_desc time = 0.165568 ms.
+CSR->CSR5 transpose time = 0.544704 ms.
+CSR->CSR5 time = 2.1665 ms.
+CSR5-based SpMV time = 0.385847 ms. Bandwidth = 179.357 GB/s. GFlops = 16.3052 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------eu-2005.mtx--------------
+ ( 862664, 862664 ) nnz = 19235140
+cpu sequential time = 35.7672 ms. Bandwidth = 11.0452 GB/s. GFlops = 1.07558 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 22. 
+CSR->CSR5 malloc time = 1.59363 ms.
+CSR->CSR5 tile_ptr time = 0.3152 ms.
+CSR->CSR5 tile_desc time = 1.73811 ms.
+CSR->CSR5 transpose time = 2.5599 ms.
+CSR->CSR5 time = 6.41066 ms.
+CSR5-based SpMV time = 1.64558 ms. Bandwidth = 240.07 GB/s. GFlops = 23.3779 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------F1.mtx--------------
+ ( 343791, 343791 ) nnz = 26837113
+cpu sequential time = 41.5487 ms. Bandwidth = 13.0177 GB/s. GFlops = 1.29184 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 32. 
+CSR->CSR5 malloc time = 1.07248 ms.
+CSR->CSR5 tile_ptr time = 0.244128 ms.
+CSR->CSR5 tile_desc time = 0.663584 ms.
+CSR->CSR5 transpose time = 3.91645 ms.
+CSR->CSR5 time = 6.07789 ms.
+CSR5-based SpMV time = 2.71415 ms. Bandwidth = 199.277 GB/s. GFlops = 19.7757 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------FEM_3D_thermal2.mtx--------------
+ ( 147900, 147900 ) nnz = 3489300
+cpu sequential time = 4.63766 ms. Bandwidth = 15.4304 GB/s. GFlops = 1.50477 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 23. 
+CSR->CSR5 malloc time = 1.05472 ms.
+CSR->CSR5 tile_ptr time = 0.080576 ms.
+CSR->CSR5 tile_desc time = 0.123584 ms.
+CSR->CSR5 transpose time = 0.492288 ms.
+CSR->CSR5 time = 1.9175 ms.
+CSR5-based SpMV time = 0.279313 ms. Bandwidth = 256.203 GB/s. GFlops = 24.9848 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------flickr.mtx--------------
+ ( 820878, 820878 ) nnz = 9837214
+cpu sequential time = 37.614 ms. Bandwidth = 5.4925 GB/s. GFlops = 0.523062 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 11. 
+CSR->CSR5 malloc time = 1.55632 ms.
+CSR->CSR5 tile_ptr time = 0.241856 ms.
+CSR->CSR5 tile_desc time = 1.49213 ms.
+CSR->CSR5 transpose time = 1.0535 ms.
+CSR->CSR5 time = 4.54067 ms.
+CSR5-based SpMV time = 1.9807 ms. Bandwidth = 104.304 GB/s. GFlops = 9.93308 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------Freescale1.mtx--------------
+ ( 3428755, 3428755 ) nnz = 18920347
+cpu sequential time = 39.3293 ms. Bandwidth = 10.6677 GB/s. GFlops = 0.962151 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 5. 
+CSR->CSR5 malloc time = 1.49258 ms.
+CSR->CSR5 tile_ptr time = 1.2416 ms.
+CSR->CSR5 tile_desc time = 0.804064 ms.
+CSR->CSR5 transpose time = 3.12989 ms.
+CSR->CSR5 time = 6.84298 ms.
+CSR5-based SpMV time = 2.56391 ms. Bandwidth = 163.638 GB/s. GFlops = 14.759 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------FullChip.mtx--------------
+ ( 2987012, 2987012 ) nnz = 26621990
+cpu sequential time = 59.012 ms. Bandwidth = 9.62997 GB/s. GFlops = 0.902257 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 8. 
+CSR->CSR5 malloc time = 1.54554 ms.
+CSR->CSR5 tile_ptr time = 1.0087 ms.
+CSR->CSR5 tile_desc time = 0.802528 ms.
+CSR->CSR5 transpose time = 2.97683 ms.
+CSR->CSR5 time = 6.51366 ms.
+CSR5-based SpMV time = 3.00653 ms. Bandwidth = 189.017 GB/s. GFlops = 17.7095 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------G3_circuit.mtx--------------
+ ( 1585478, 1585478 ) nnz = 7660826
+cpu sequential time = 17.1853 ms. Bandwidth = 10.0226 GB/s. GFlops = 0.891553 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 4. 
+CSR->CSR5 malloc time = 1.49536 ms.
+CSR->CSR5 tile_ptr time = 0.651008 ms.
+CSR->CSR5 tile_desc time = 0.392064 ms.
+CSR->CSR5 transpose time = 1.2297 ms.
+CSR->CSR5 time = 3.94294 ms.
+CSR5-based SpMV time = 0.80302 ms. Bandwidth = 214.493 GB/s. GFlops = 19.08 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------Ga41As41H72.mtx--------------
+ ( 268096, 268096 ) nnz = 18488476
+cpu sequential time = 25.7322 ms. Bandwidth = 14.495 GB/s. GFlops = 1.43699 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 32. 
+CSR->CSR5 malloc time = 1.05923 ms.
+CSR->CSR5 tile_ptr time = 0.184864 ms.
+CSR->CSR5 tile_desc time = 0.482496 ms.
+CSR->CSR5 transpose time = 2.71389 ms.
+CSR->CSR5 time = 4.61872 ms.
+CSR5-based SpMV time = 1.63356 ms. Bandwidth = 228.328 GB/s. GFlops = 22.6358 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------Hamrle3.mtx--------------
+ ( 1447360, 1447360 ) nnz = 5514242
+cpu sequential time = 13.1284 ms. Bandwidth = 9.72347 GB/s. GFlops = 0.840051 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 4. 
+CSR->CSR5 malloc time = 1.58714 ms.
+CSR->CSR5 tile_ptr time = 0.503168 ms.
+CSR->CSR5 tile_desc time = 0.3104 ms.
+CSR->CSR5 transpose time = 0.892928 ms.
+CSR->CSR5 time = 3.47757 ms.
+CSR5-based SpMV time = 0.859478 ms. Bandwidth = 148.524 GB/s. GFlops = 12.8316 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------human_gene1.mtx--------------
+ ( 22283, 22283 ) nnz = 24669643
+cpu sequential time = 48.4225 ms. Bandwidth = 10.1949 GB/s. GFlops = 1.01893 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 6. 
+CSR->CSR5 malloc time = 1.58189 ms.
+CSR->CSR5 tile_ptr time = 0.567872 ms.
+CSR->CSR5 tile_desc time = 0.482528 ms.
+CSR->CSR5 transpose time = 1.18365 ms.
+CSR->CSR5 time = 3.98947 ms.
+CSR5-based SpMV time = 1.95643 ms. Bandwidth = 252.327 GB/s. GFlops = 25.2191 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------inline_1.mtx--------------
+ ( 503712, 503712 ) nnz = 36816342
+cpu sequential time = 53.4252 ms. Bandwidth = 13.8955 GB/s. GFlops = 1.37824 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 32. 
+CSR->CSR5 malloc time = 1.53565 ms.
+CSR->CSR5 tile_ptr time = 0.361472 ms.
+CSR->CSR5 tile_desc time = 0.898944 ms.
+CSR->CSR5 transpose time = 5.35594 ms.
+CSR->CSR5 time = 8.33888 ms.
+CSR5-based SpMV time = 3.03946 ms. Bandwidth = 244.245 GB/s. GFlops = 24.2256 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------ins2.mtx--------------
+ ( 309412, 309412 ) nnz = 2751484
+cpu sequential time = 5.29949 ms. Bandwidth = 11.0846 GB/s. GFlops = 1.0384 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 8. 
+CSR->CSR5 malloc time = 1.54186 ms.
+CSR->CSR5 tile_ptr time = 0.120928 ms.
+CSR->CSR5 tile_desc time = 0.112672 ms.
+CSR->CSR5 transpose time = 0.312128 ms.
+CSR->CSR5 time = 2.24739 ms.
+CSR5-based SpMV time = 0.336173 ms. Bandwidth = 174.739 GB/s. GFlops = 16.3695 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------kkt_power.mtx--------------
+ ( 2063494, 2063494 ) nnz = 14612663
+cpu sequential time = 35.4421 ms. Bandwidth = 8.9446 GB/s. GFlops = 0.824594 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 7. 
+CSR->CSR5 malloc time = 1.55878 ms.
+CSR->CSR5 tile_ptr time = 0.72144 ms.
+CSR->CSR5 tile_desc time = 0.579392 ms.
+CSR->CSR5 transpose time = 2.03882 ms.
+CSR->CSR5 time = 5.07046 ms.
+CSR5-based SpMV time = 1.9051 ms. Bandwidth = 166.403 GB/s. GFlops = 15.3406 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------ldoor.mtx--------------
+ ( 952203, 952203 ) nnz = 46522475
+cpu sequential time = 62.9875 ms. Bandwidth = 14.9534 GB/s. GFlops = 1.4772 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 32. 
+CSR->CSR5 malloc time = 1.57258 ms.
+CSR->CSR5 tile_ptr time = 0.485472 ms.
+CSR->CSR5 tile_desc time = 1.10106 ms.
+CSR->CSR5 transpose time = 6.76739 ms.
+CSR->CSR5 time = 10.1023 ms.
+CSR5-based SpMV time = 3.48237 ms. Bandwidth = 270.469 GB/s. GFlops = 26.7188 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------m_t1.mtx--------------
+ ( 97578, 97578 ) nnz = 9753570
+cpu sequential time = 12.8251 ms. Bandwidth = 15.3015 GB/s. GFlops = 1.52102 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 32. 
+CSR->CSR5 malloc time = 1.51728 ms.
+CSR->CSR5 tile_ptr time = 0.10992 ms.
+CSR->CSR5 tile_desc time = 0.26496 ms.
+CSR->CSR5 transpose time = 1.44314 ms.
+CSR->CSR5 time = 3.51114 ms.
+CSR5-based SpMV time = 0.749647 ms. Bandwidth = 261.78 GB/s. GFlops = 26.0218 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------nd24k.mtx--------------
+ ( 72000, 72000 ) nnz = 28715634
+cpu sequential time = 36.206 ms. Bandwidth = 15.8862 GB/s. GFlops = 1.58624 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 6. 
+CSR->CSR5 malloc time = 2.05046 ms.
+CSR->CSR5 tile_ptr time = 0.846816 ms.
+CSR->CSR5 tile_desc time = 1.18496 ms.
+CSR->CSR5 transpose time = 2.4376 ms.
+CSR->CSR5 time = 6.69766 ms.
+CSR5-based SpMV time = 2.0646 ms. Bandwidth = 278.591 GB/s. GFlops = 27.8172 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------nlpkkt120.mtx--------------
+ ( 3542400, 3542400 ) nnz = 96845792
+cpu sequential time = 118.703 ms. Bandwidth = 16.6755 GB/s. GFlops = 1.63174 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 27. 
+CSR->CSR5 malloc time = 1.55594 ms.
+CSR->CSR5 tile_ptr time = 1.20419 ms.
+CSR->CSR5 tile_desc time = 2.31488 ms.
+CSR->CSR5 transpose time = 13.8156 ms.
+CSR->CSR5 time = 19.0843 ms.
+CSR5-based SpMV time = 7.44383 ms. Bandwidth = 265.915 GB/s. GFlops = 26.0204 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------offshore.mtx--------------
+ ( 259789, 259789 ) nnz = 4242673
+cpu sequential time = 9.58342 ms. Bandwidth = 9.17949 GB/s. GFlops = 0.885419 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 16. 
+CSR->CSR5 malloc time = 1.54093 ms.
+CSR->CSR5 tile_ptr time = 0.113248 ms.
+CSR->CSR5 tile_desc time = 0.148992 ms.
+CSR->CSR5 transpose time = 0.55216 ms.
+CSR->CSR5 time = 2.5248 ms.
+CSR5-based SpMV time = 0.408909 ms. Bandwidth = 215.136 GB/s. GFlops = 20.7512 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------ohne2.mtx--------------
+ ( 181343, 181343 ) nnz = 11063545
+cpu sequential time = 16.9533 ms. Bandwidth = 13.1801 GB/s. GFlops = 1.30518 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 32. 
+CSR->CSR5 malloc time = 1.54589 ms.
+CSR->CSR5 tile_ptr time = 0.121472 ms.
+CSR->CSR5 tile_desc time = 0.297344 ms.
+CSR->CSR5 transpose time = 1.62992 ms.
+CSR->CSR5 time = 3.77181 ms.
+CSR5-based SpMV time = 0.94022 ms. Bandwidth = 237.654 GB/s. GFlops = 23.5339 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------parabolic_fem.mtx--------------
+ ( 525825, 525825 ) nnz = 3674625
+cpu sequential time = 6.68752 ms. Bandwidth = 11.933 GB/s. GFlops = 1.09895 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 6. 
+CSR->CSR5 malloc time = 1.03507 ms.
+CSR->CSR5 tile_ptr time = 0.228864 ms.
+CSR->CSR5 tile_desc time = 0.173056 ms.
+CSR->CSR5 transpose time = 0.569408 ms.
+CSR->CSR5 time = 2.1815 ms.
+CSR5-based SpMV time = 0.599915 ms. Bandwidth = 133.023 GB/s. GFlops = 12.2505 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------pattern1.mtx--------------
+ ( 19242, 19242 ) nnz = 9323432
+cpu sequential time = 18.6578 ms. Bandwidth = 10.0065 GB/s. GFlops = 0.999414 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 6. 
+CSR->CSR5 malloc time = 1.06045 ms.
+CSR->CSR5 tile_ptr time = 0.257664 ms.
+CSR->CSR5 tile_desc time = 0.359648 ms.
+CSR->CSR5 transpose time = 0.579904 ms.
+CSR->CSR5 time = 2.43693 ms.
+CSR5-based SpMV time = 0.935502 ms. Bandwidth = 199.571 GB/s. GFlops = 19.9325 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------pkustk08.mtx--------------
+ ( 22209, 22209 ) nnz = 3226671
+cpu sequential time = 4.2375 ms. Bandwidth = 15.292 GB/s. GFlops = 1.52291 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 32. 
+CSR->CSR5 malloc time = 1.53917 ms.
+CSR->CSR5 tile_ptr time = 0.061472 ms.
+CSR->CSR5 tile_desc time = 0.115008 ms.
+CSR->CSR5 transpose time = 0.499776 ms.
+CSR->CSR5 time = 2.37091 ms.
+CSR5-based SpMV time = 0.307041 ms. Bandwidth = 211.047 GB/s. GFlops = 21.0179 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------poisson3Db.mtx--------------
+ ( 85623, 85623 ) nnz = 2374949
+cpu sequential time = 10.2163 ms. Bandwidth = 4.74991 GB/s. GFlops = 0.464934 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 27. 
+CSR->CSR5 malloc time = 1.55005 ms.
+CSR->CSR5 tile_ptr time = 0.064608 ms.
+CSR->CSR5 tile_desc time = 0.0944 ms.
+CSR->CSR5 transpose time = 0.372896 ms.
+CSR->CSR5 time = 2.22221 ms.
+CSR5-based SpMV time = 0.247702 ms. Bandwidth = 195.907 GB/s. GFlops = 19.1759 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------pre2.mtx--------------
+ ( 659033, 659033 ) nnz = 5959282
+cpu sequential time = 9.68733 ms. Bandwidth = 13.1196 GB/s. GFlops = 1.23033 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 9. 
+CSR->CSR5 malloc time = 1.06179 ms.
+CSR->CSR5 tile_ptr time = 0.241344 ms.
+CSR->CSR5 tile_desc time = 0.232992 ms.
+CSR->CSR5 transpose time = 0.802656 ms.
+CSR->CSR5 time = 2.51293 ms.
+CSR5-based SpMV time = 0.522814 ms. Bandwidth = 243.096 GB/s. GFlops = 22.7969 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------rajat30.mtx--------------
+ ( 643994, 643994 ) nnz = 6175377
+cpu sequential time = 10.6627 ms. Bandwidth = 12.3079 GB/s. GFlops = 1.15831 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 9. 
+CSR->CSR5 malloc time = 1.06339 ms.
+CSR->CSR5 tile_ptr time = 0.238752 ms.
+CSR->CSR5 tile_desc time = 0.208864 ms.
+CSR->CSR5 transpose time = 0.744896 ms.
+CSR->CSR5 time = 2.4329 ms.
+CSR5-based SpMV time = 0.571984 ms. Bandwidth = 229.439 GB/s. GFlops = 21.5928 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------SiO2.mtx--------------
+ ( 155331, 155331 ) nnz = 11283503
+cpu sequential time = 15.6965 ms. Bandwidth = 14.4958 GB/s. GFlops = 1.43771 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 32. 
+CSR->CSR5 malloc time = 1.50198 ms.
+CSR->CSR5 tile_ptr time = 0.113952 ms.
+CSR->CSR5 tile_desc time = 0.26384 ms.
+CSR->CSR5 transpose time = 1.22835 ms.
+CSR->CSR5 time = 3.28598 ms.
+CSR5-based SpMV time = 0.941735 ms. Bandwidth = 241.612 GB/s. GFlops = 23.9632 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------thermal2.mtx--------------
+ ( 1228045, 1228045 ) nnz = 8580313
+cpu sequential time = 27.9757 ms. Bandwidth = 6.66088 GB/s. GFlops = 0.613412 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 6. 
+CSR->CSR5 malloc time = 1.54646 ms.
+CSR->CSR5 tile_ptr time = 0.500864 ms.
+CSR->CSR5 tile_desc time = 0.354528 ms.
+CSR->CSR5 transpose time = 1.2775 ms.
+CSR->CSR5 time = 3.85971 ms.
+CSR5-based SpMV time = 0.860561 ms. Bandwidth = 216.536 GB/s. GFlops = 19.9412 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------torso3.mtx--------------
+ ( 259156, 259156 ) nnz = 4429042
+cpu sequential time = 6.51885 ms. Bandwidth = 14.0655 GB/s. GFlops = 1.35884 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 17. 
+CSR->CSR5 malloc time = 1.05917 ms.
+CSR->CSR5 tile_ptr time = 0.11248 ms.
+CSR->CSR5 tile_desc time = 0.15408 ms.
+CSR->CSR5 transpose time = 0.608576 ms.
+CSR->CSR5 time = 2.10813 ms.
+CSR5-based SpMV time = 0.388394 ms. Bandwidth = 236.077 GB/s. GFlops = 22.807 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------TSOPF_RS_b2383.mtx--------------
+ ( 38120, 38120 ) nnz = 16171169
+cpu sequential time = 20.1927 ms. Bandwidth = 16.0395 GB/s. GFlops = 1.60168 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 6. 
+CSR->CSR5 malloc time = 1.07654 ms.
+CSR->CSR5 tile_ptr time = 0.401984 ms.
+CSR->CSR5 tile_desc time = 0.496448 ms.
+CSR->CSR5 transpose time = 0.88752 ms.
+CSR->CSR5 time = 3.03885 ms.
+CSR5-based SpMV time = 1.01051 ms. Bandwidth = 320.513 GB/s. GFlops = 32.0061 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------webbase-1M.mtx--------------
+ ( 1000005, 1000005 ) nnz = 3105536
+cpu sequential time = 9.28832 ms. Bandwidth = 7.97892 GB/s. GFlops = 0.668697 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 4. 
+CSR->CSR5 malloc time = 1.06288 ms.
+CSR->CSR5 tile_ptr time = 0.289056 ms.
+CSR->CSR5 tile_desc time = 0.214368 ms.
+CSR->CSR5 transpose time = 0.481728 ms.
+CSR->CSR5 time = 2.22666 ms.
+CSR5-based SpMV time = 0.374339 ms. Bandwidth = 197.978 GB/s. GFlops = 16.5921 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------web-Google.mtx--------------
+ ( 916428, 916428 ) nnz = 5105039
+cpu sequential time = 28.0172 ms. Bandwidth = 4.03672 GB/s. GFlops = 0.364421 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 5. 
+CSR->CSR5 malloc time = 1.5735 ms.
+CSR->CSR5 tile_ptr time = 0.376544 ms.
+CSR->CSR5 tile_desc time = 1.50848 ms.
+CSR->CSR5 transpose time = 0.866336 ms.
+CSR->CSR5 time = 4.52474 ms.
+CSR5-based SpMV time = 2.52394 ms. Bandwidth = 44.8101 GB/s. GFlops = 4.04529 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------wikipedia-20051105.mtx--------------
+ ( 1634989, 1634989 ) nnz = 19753078
+cpu sequential time = 92.342 ms. Bandwidth = 4.49071 GB/s. GFlops = 0.427824 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 12. 
+CSR->CSR5 malloc time = 2.03734 ms.
+CSR->CSR5 tile_ptr time = 0.56096 ms.
+CSR->CSR5 tile_desc time = 3.19846 ms.
+CSR->CSR5 transpose time = 2.50045 ms.
+CSR->CSR5 time = 8.49818 ms.
+CSR5-based SpMV time = 6.92382 ms. Bandwidth = 59.892 GB/s. GFlops = 5.70584 GFlops.
+Check... PASS!
+------------------------------------------------------
+------------------------------------------------------
+PRECISION = 64-bit Double Precision
+------------------------------------------------------
+--------------xenon2.mtx--------------
+ ( 157464, 157464 ) nnz = 3866688
+cpu sequential time = 5.85702 ms. Bandwidth = 13.5262 GB/s. GFlops = 1.32036 GFlops.
+
+Device [0] Tesla K40m,  @ 875.5MHz. 
+omega = 32, sigma = 24. 
+CSR->CSR5 malloc time = 1.21152 ms.
+CSR->CSR5 tile_ptr time = 0.08176 ms.
+CSR->CSR5 tile_desc time = 0.131104 ms.
+CSR->CSR5 transpose time = 0.55504 ms.
+CSR->CSR5 time = 2.30224 ms.
+CSR5-based SpMV time = 0.345147 ms. Bandwidth = 229.535 GB/s. GFlops = 22.406 GFlops.
+Check... PASS!
+------------------------------------------------------

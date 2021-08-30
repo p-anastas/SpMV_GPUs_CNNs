@@ -1,0 +1,9 @@
+/var/spool/torque/mom_priv/jobs/374838.localhost.SC: line 62: cd: /home/users/panastas/Mine: No such file or directory
+/var/spool/torque/mom_priv/jobs/374838.localhost.SC: line 62: cd: /home/users/panastas/Mine: No such file or directory
+/var/spool/torque/mom_priv/jobs/374838.localhost.SC: line 60: 29417 Floating point exception$bhSPARSE "$dir1${filename}" >> $tempie
+terminate called after throwing an instance of 'viennacl::backend::cuda::cuda_exception'
+  what():  /home/users/panastas/Mine/ViennaCL-1.7.1/viennacl/linalg/cuda/sparse_matrix_operations.hpp(394): : getLastCudaError() CUDA error 77: an illegal memory access was encountered @ compressed_matrix_vec_mul_adaptive_kernel
+
+/var/spool/torque/mom_priv/jobs/374838.localhost.SC: line 60: 29452 Aborted                 $vienna "${dir1}${filename}" >> $vtempie
+/var/spool/torque/mom_priv/jobs/374838.localhost.SC: line 62: cd: /home/users/panastas/Mine: No such file or directory
+/var/spool/torque/mom_priv/jobs/374838.localhost.SC: line 62: cd: /home/users/panastas/Mine: No such file or directory

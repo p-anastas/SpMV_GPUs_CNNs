@@ -1,0 +1,373 @@
+successfully loaded ../Solverstates/DDVT_dataset_binary/Density_Lenet__iter_2543.caffemodel
+Files=1632
+0 implementations were closer than 0.0%
+Average stats for 1632 arrays:	
+Predicted: cuSPARSE-csr= 0/1632
+Actual: cuSPARSE-csr= 500/1632
+Predicted: cuSPARSE-hyb= 0/1632
+Actual: cuSPARSE-hyb= 330/1632
+Predicted: bhSPARSE(CSR5)= 0/1632
+Actual: bhSPARSE(CSR5)= 277/1632
+Predicted: lightSpMV-warp= 0/1632
+Actual: lightSpMV-warp= 363/1632
+Predicted: merge-SpMV= 0/1632
+Actual: merge-SpMV= 1/1632
+Predicted: cuSPARSE-BSR(4)= 1632/1632
+Actual: cuSPARSE-BSR(4)= 161/1632
+Acc = 0.1 Acc_top2 = 0.1
+Augumented_block_arrays/ & 1632 & 0.1 & 0.1
+Files=7830
+0 implementations were closer than 0.0%
+Average stats for 7830 arrays:	
+Predicted: cuSPARSE-csr= 0/7830
+Actual: cuSPARSE-csr= 320/7830
+Predicted: cuSPARSE-hyb= 0/7830
+Actual: cuSPARSE-hyb= 146/7830
+Predicted: bhSPARSE(CSR5)= 0/7830
+Actual: bhSPARSE(CSR5)= 4215/7830
+Predicted: lightSpMV-warp= 0/7830
+Actual: lightSpMV-warp= 474/7830
+Predicted: merge-SpMV= 0/7830
+Actual: merge-SpMV= 1489/7830
+Predicted: cuSPARSE-BSR(4)= 7830/7830
+Actual: cuSPARSE-BSR(4)= 1186/7830
+Acc = 0.15 Acc_top2 = 0.34
+Div_small/ & 7830 & 0.15 & 0.34
+Files=550
+0 implementations were closer than 0.0%
+Average stats for 495 arrays:	
+Predicted: cuSPARSE-csr= 0/495
+Actual: cuSPARSE-csr= 0/495
+Predicted: cuSPARSE-hyb= 0/495
+Actual: cuSPARSE-hyb= 326/495
+Predicted: bhSPARSE(CSR5)= 0/495
+Actual: bhSPARSE(CSR5)= 114/495
+Predicted: lightSpMV-warp= 0/495
+Actual: lightSpMV-warp= 0/495
+Predicted: merge-SpMV= 0/495
+Actual: merge-SpMV= 55/495
+Predicted: cuSPARSE-BSR(4)= 495/495
+Actual: cuSPARSE-BSR(4)= 0/495
+Acc = 0.0 Acc_top2 = 0.11
+Powerlaw_cluster/ & 495 & 0.0 & 0.11
+Files=1500
+0 implementations were closer than 0.0%
+Average stats for 1350 arrays:	
+Predicted: cuSPARSE-csr= 0/1350
+Actual: cuSPARSE-csr= 0/1350
+Predicted: cuSPARSE-hyb= 0/1350
+Actual: cuSPARSE-hyb= 0/1350
+Predicted: bhSPARSE(CSR5)= 0/1350
+Actual: bhSPARSE(CSR5)= 345/1350
+Predicted: lightSpMV-warp= 0/1350
+Actual: lightSpMV-warp= 0/1350
+Predicted: merge-SpMV= 0/1350
+Actual: merge-SpMV= 1005/1350
+Predicted: cuSPARSE-BSR(4)= 1350/1350
+Actual: cuSPARSE-BSR(4)= 0/1350
+Acc = 0.0 Acc_top2 = 0.74
+Powerlaw_seq/ & 1350 & 0.0 & 0.74
+Files=6655
+0 implementations were closer than 0.0%
+Average stats for 6655 arrays:	
+Predicted: cuSPARSE-csr= 0/6655
+Actual: cuSPARSE-csr= 698/6655
+Predicted: cuSPARSE-hyb= 0/6655
+Actual: cuSPARSE-hyb= 838/6655
+Predicted: bhSPARSE(CSR5)= 0/6655
+Actual: bhSPARSE(CSR5)= 3260/6655
+Predicted: lightSpMV-warp= 0/6655
+Actual: lightSpMV-warp= 1223/6655
+Predicted: merge-SpMV= 0/6655
+Actual: merge-SpMV= 280/6655
+Predicted: cuSPARSE-BSR(4)= 6655/6655
+Actual: cuSPARSE-BSR(4)= 356/6655
+Acc = 0.05 Acc_top2 = 0.1
+Augumented_small/ & 6655 & 0.05 & 0.1
+Files=416
+0 implementations were closer than 0.0%
+Average stats for 416 arrays:	
+Predicted: cuSPARSE-csr= 0/416
+Actual: cuSPARSE-csr= 35/416
+Predicted: cuSPARSE-hyb= 0/416
+Actual: cuSPARSE-hyb= 32/416
+Predicted: bhSPARSE(CSR5)= 0/416
+Actual: bhSPARSE(CSR5)= 200/416
+Predicted: lightSpMV-warp= 0/416
+Actual: lightSpMV-warp= 109/416
+Predicted: merge-SpMV= 0/416
+Actual: merge-SpMV= 0/416
+Predicted: cuSPARSE-BSR(4)= 416/416
+Actual: cuSPARSE-BSR(4)= 40/416
+Acc = 0.1 Acc_top2 = 0.1
+Validate_set/ & 416 & 0.1 & 0.1
+Files=208
+0 implementations were closer than 0.0%
+Average stats for 208 arrays:	
+Predicted: cuSPARSE-csr= 0/208
+Actual: cuSPARSE-csr= 18/208
+Predicted: cuSPARSE-hyb= 0/208
+Actual: cuSPARSE-hyb= 70/208
+Predicted: bhSPARSE(CSR5)= 0/208
+Actual: bhSPARSE(CSR5)= 74/208
+Predicted: lightSpMV-warp= 0/208
+Actual: lightSpMV-warp= 15/208
+Predicted: merge-SpMV= 0/208
+Actual: merge-SpMV= 24/208
+Predicted: cuSPARSE-BSR(4)= 208/208
+Actual: cuSPARSE-BSR(4)= 7/208
+Acc = 0.03 Acc_top2 = 0.15
+Training_suite/ & 208 & 0.03 & 0.15
+successfully loaded ../Solverstates/DDVT_dataset_Density/Lenet_iter_10000.caffemodel
+Files=1632
+0 implementations were closer than 0.0%
+Average stats for 1632 arrays:	
+Predicted: cuSPARSE-csr= 469/1632
+Actual: cuSPARSE-csr= 500/1632
+Predicted: cuSPARSE-hyb= 332/1632
+Actual: cuSPARSE-hyb= 330/1632
+Predicted: bhSPARSE(CSR5)= 292/1632
+Actual: bhSPARSE(CSR5)= 277/1632
+Predicted: lightSpMV-warp= 368/1632
+Actual: lightSpMV-warp= 363/1632
+Predicted: merge-SpMV= 1/1632
+Actual: merge-SpMV= 1/1632
+Predicted: cuSPARSE-BSR(4)= 170/1632
+Actual: cuSPARSE-BSR(4)= 161/1632
+Acc = 0.92 Acc_top2 = 0.98
+Augumented_block_arrays/ & 1632 & 0.1 & 0.1 & 0.92 & 0.98
+Files=7830
+0 implementations were closer than 0.0%
+Average stats for 7810 arrays:	
+Predicted: cuSPARSE-csr= 313/7810
+Actual: cuSPARSE-csr= 320/7810
+Predicted: cuSPARSE-hyb= 146/7810
+Actual: cuSPARSE-hyb= 146/7810
+Predicted: bhSPARSE(CSR5)= 4250/7810
+Actual: bhSPARSE(CSR5)= 4195/7810
+Predicted: lightSpMV-warp= 462/7810
+Actual: lightSpMV-warp= 474/7810
+Predicted: merge-SpMV= 1445/7810
+Actual: merge-SpMV= 1489/7810
+Predicted: cuSPARSE-BSR(4)= 1194/7810
+Actual: cuSPARSE-BSR(4)= 1186/7810
+Acc = 0.93 Acc_top2 = 0.98
+Div_small/ & 7830 & 0.15 & 0.34 & 0.93 & 0.98
+Files=550
+0 implementations were closer than 0.0%
+Average stats for 495 arrays:	
+Predicted: cuSPARSE-csr= 0/495
+Actual: cuSPARSE-csr= 0/495
+Predicted: cuSPARSE-hyb= 333/495
+Actual: cuSPARSE-hyb= 326/495
+Predicted: bhSPARSE(CSR5)= 114/495
+Actual: bhSPARSE(CSR5)= 114/495
+Predicted: lightSpMV-warp= 0/495
+Actual: lightSpMV-warp= 0/495
+Predicted: merge-SpMV= 48/495
+Actual: merge-SpMV= 55/495
+Predicted: cuSPARSE-BSR(4)= 0/495
+Actual: cuSPARSE-BSR(4)= 0/495
+Acc = 0.83 Acc_top2 = 0.97
+Powerlaw_cluster/ & 495 & 0.0 & 0.11 & 0.83 & 0.97
+Files=1500
+0 implementations were closer than 0.0%
+Average stats for 1350 arrays:	
+Predicted: cuSPARSE-csr= 0/1350
+Actual: cuSPARSE-csr= 0/1350
+Predicted: cuSPARSE-hyb= 0/1350
+Actual: cuSPARSE-hyb= 0/1350
+Predicted: bhSPARSE(CSR5)= 334/1350
+Actual: bhSPARSE(CSR5)= 345/1350
+Predicted: lightSpMV-warp= 0/1350
+Actual: lightSpMV-warp= 0/1350
+Predicted: merge-SpMV= 1016/1350
+Actual: merge-SpMV= 1005/1350
+Predicted: cuSPARSE-BSR(4)= 0/1350
+Actual: cuSPARSE-BSR(4)= 0/1350
+Acc = 0.83 Acc_top2 = 1.0
+Powerlaw_seq/ & 1350 & 0.0 & 0.74 & 0.83 & 1.0
+Files=6655
+0 implementations were closer than 0.0%
+Average stats for 6655 arrays:	
+Predicted: cuSPARSE-csr= 1001/6655
+Actual: cuSPARSE-csr= 698/6655
+Predicted: cuSPARSE-hyb= 1263/6655
+Actual: cuSPARSE-hyb= 838/6655
+Predicted: bhSPARSE(CSR5)= 2263/6655
+Actual: bhSPARSE(CSR5)= 3260/6655
+Predicted: lightSpMV-warp= 1273/6655
+Actual: lightSpMV-warp= 1223/6655
+Predicted: merge-SpMV= 282/6655
+Actual: merge-SpMV= 280/6655
+Predicted: cuSPARSE-BSR(4)= 573/6655
+Actual: cuSPARSE-BSR(4)= 356/6655
+Acc = 0.37 Acc_top2 = 0.59
+Augumented_small/ & 6655 & 0.05 & 0.1 & 0.37 & 0.59
+Files=416
+0 implementations were closer than 0.0%
+Average stats for 416 arrays:	
+Predicted: cuSPARSE-csr= 28/416
+Actual: cuSPARSE-csr= 35/416
+Predicted: cuSPARSE-hyb= 11/416
+Actual: cuSPARSE-hyb= 32/416
+Predicted: bhSPARSE(CSR5)= 166/416
+Actual: bhSPARSE(CSR5)= 200/416
+Predicted: lightSpMV-warp= 29/416
+Actual: lightSpMV-warp= 109/416
+Predicted: merge-SpMV= 60/416
+Actual: merge-SpMV= 0/416
+Predicted: cuSPARSE-BSR(4)= 122/416
+Actual: cuSPARSE-BSR(4)= 40/416
+Acc = 0.48 Acc_top2 = 0.65
+Validate_set/ & 416 & 0.1 & 0.1 & 0.48 & 0.65
+Files=208
+0 implementations were closer than 0.0%
+Average stats for 208 arrays:	
+Predicted: cuSPARSE-csr= 26/208
+Actual: cuSPARSE-csr= 18/208
+Predicted: cuSPARSE-hyb= 12/208
+Actual: cuSPARSE-hyb= 70/208
+Predicted: bhSPARSE(CSR5)= 63/208
+Actual: bhSPARSE(CSR5)= 74/208
+Predicted: lightSpMV-warp= 6/208
+Actual: lightSpMV-warp= 15/208
+Predicted: merge-SpMV= 19/208
+Actual: merge-SpMV= 24/208
+Predicted: cuSPARSE-BSR(4)= 82/208
+Actual: cuSPARSE-BSR(4)= 7/208
+Acc = 0.26 Acc_top2 = 0.44
+Training_suite/ & 208 & 0.03 & 0.15 & 0.26 & 0.44
+successfully loaded ../Solverstates/Small_dataset_Density/Density_Lenet__iter_10000.caffemodel
+Files=1632
+0 implementations were closer than 0.0%
+Average stats for 1632 arrays:	
+Predicted: cuSPARSE-csr= 493/1632
+Actual: cuSPARSE-csr= 500/1632
+Predicted: cuSPARSE-hyb= 332/1632
+Actual: cuSPARSE-hyb= 330/1632
+Predicted: bhSPARSE(CSR5)= 292/1632
+Actual: bhSPARSE(CSR5)= 277/1632
+Predicted: lightSpMV-warp= 351/1632
+Actual: lightSpMV-warp= 363/1632
+Predicted: merge-SpMV= 1/1632
+Actual: merge-SpMV= 1/1632
+Predicted: cuSPARSE-BSR(4)= 163/1632
+Actual: cuSPARSE-BSR(4)= 161/1632
+Acc = 0.92 Acc_top2 = 0.99
+Augumented_block_arrays/ & 1632 & 0.1 & 0.1 & 0.92 & 0.98 & 0.92 & 0.99
+Files=7830
+0 implementations were closer than 0.0%
+Average stats for 7810 arrays:	
+Predicted: cuSPARSE-csr= 521/7810
+Actual: cuSPARSE-csr= 320/7810
+Predicted: cuSPARSE-hyb= 2949/7810
+Actual: cuSPARSE-hyb= 146/7810
+Predicted: bhSPARSE(CSR5)= 2992/7810
+Actual: bhSPARSE(CSR5)= 4195/7810
+Predicted: lightSpMV-warp= 953/7810
+Actual: lightSpMV-warp= 474/7810
+Predicted: merge-SpMV= 195/7810
+Actual: merge-SpMV= 1489/7810
+Predicted: cuSPARSE-BSR(4)= 200/7810
+Actual: cuSPARSE-BSR(4)= 1186/7810
+Acc = 0.27 Acc_top2 = 0.52
+Div_small/ & 7830 & 0.15 & 0.34 & 0.93 & 0.98 & 0.27 & 0.52
+Files=550
+0 implementations were closer than 0.0%
+Average stats for 495 arrays:	
+Predicted: cuSPARSE-csr= 0/495
+Actual: cuSPARSE-csr= 0/495
+Predicted: cuSPARSE-hyb= 325/495
+Actual: cuSPARSE-hyb= 326/495
+Predicted: bhSPARSE(CSR5)= 131/495
+Actual: bhSPARSE(CSR5)= 114/495
+Predicted: lightSpMV-warp= 0/495
+Actual: lightSpMV-warp= 0/495
+Predicted: merge-SpMV= 39/495
+Actual: merge-SpMV= 55/495
+Predicted: cuSPARSE-BSR(4)= 0/495
+Actual: cuSPARSE-BSR(4)= 0/495
+Acc = 0.85 Acc_top2 = 0.98
+Powerlaw_cluster/ & 495 & 0.0 & 0.11 & 0.83 & 0.97 & 0.85 & 0.98
+Files=1500
+0 implementations were closer than 0.0%
+Average stats for 1350 arrays:	
+Predicted: cuSPARSE-csr= 0/1350
+Actual: cuSPARSE-csr= 0/1350
+Predicted: cuSPARSE-hyb= 0/1350
+Actual: cuSPARSE-hyb= 0/1350
+Predicted: bhSPARSE(CSR5)= 346/1350
+Actual: bhSPARSE(CSR5)= 345/1350
+Predicted: lightSpMV-warp= 1/1350
+Actual: lightSpMV-warp= 0/1350
+Predicted: merge-SpMV= 1003/1350
+Actual: merge-SpMV= 1005/1350
+Predicted: cuSPARSE-BSR(4)= 0/1350
+Actual: cuSPARSE-BSR(4)= 0/1350
+Acc = 0.82 Acc_top2 = 0.99
+Powerlaw_seq/ & 1350 & 0.0 & 0.74 & 0.83 & 1.0 & 0.82 & 0.99
+Files=6655
+0 implementations were closer than 0.0%
+Average stats for 6655 arrays:	
+Predicted: cuSPARSE-csr= 689/6655
+Actual: cuSPARSE-csr= 698/6655
+Predicted: cuSPARSE-hyb= 849/6655
+Actual: cuSPARSE-hyb= 838/6655
+Predicted: bhSPARSE(CSR5)= 3238/6655
+Actual: bhSPARSE(CSR5)= 3260/6655
+Predicted: lightSpMV-warp= 1237/6655
+Actual: lightSpMV-warp= 1223/6655
+Predicted: merge-SpMV= 301/6655
+Actual: merge-SpMV= 280/6655
+Predicted: cuSPARSE-BSR(4)= 341/6655
+Actual: cuSPARSE-BSR(4)= 356/6655
+Acc = 0.95 Acc_top2 = 1.0
+Augumented_small/ & 6655 & 0.05 & 0.1 & 0.37 & 0.59 & 0.95 & 1.0
+Files=416
+0 implementations were closer than 0.0%
+Average stats for 416 arrays:	
+Predicted: cuSPARSE-csr= 19/416
+Actual: cuSPARSE-csr= 35/416
+Predicted: cuSPARSE-hyb= 74/416
+Actual: cuSPARSE-hyb= 32/416
+Predicted: bhSPARSE(CSR5)= 224/416
+Actual: bhSPARSE(CSR5)= 200/416
+Predicted: lightSpMV-warp= 76/416
+Actual: lightSpMV-warp= 109/416
+Predicted: merge-SpMV= 6/416
+Actual: merge-SpMV= 0/416
+Predicted: cuSPARSE-BSR(4)= 17/416
+Actual: cuSPARSE-BSR(4)= 40/416
+Acc = 0.47 Acc_top2 = 0.69
+Validate_set/ & 416 & 0.1 & 0.1 & 0.48 & 0.65 & 0.47 & 0.69
+Files=208
+0 implementations were closer than 0.0%
+Average stats for 208 arrays:	
+Predicted: cuSPARSE-csr= 18/208
+Actual: cuSPARSE-csr= 18/208
+Predicted: cuSPARSE-hyb= 33/208
+Actual: cuSPARSE-hyb= 70/208
+Predicted: bhSPARSE(CSR5)= 123/208
+Actual: bhSPARSE(CSR5)= 74/208
+Predicted: lightSpMV-warp= 17/208
+Actual: lightSpMV-warp= 15/208
+Predicted: merge-SpMV= 6/208
+Actual: merge-SpMV= 24/208
+Predicted: cuSPARSE-BSR(4)= 11/208
+Actual: cuSPARSE-BSR(4)= 7/208
+Acc = 0.42 Acc_top2 = 0.62
+Training_suite/ & 208 & 0.03 & 0.15 & 0.26 & 0.44 & 0.42 & 0.62
+\hline
+  &  Density_Lenet__iter_2543.caffemodel &  Lenet_iter_10000.caffemodel &  Density_Lenet__iter_10000.caffemodel \\
+\hline
+Sub-set & Size & Acc. & Top 2 Acc. & Acc. & Top 2 Acc. & Acc. & Top 2 Acc.  \\
+\hline
+Augumented_block_arrays/ & 1632 & 0.1 & 0.1 & 0.92 & 0.98 & 0.92 & 0.99 \\
+Div_small/ & 7830 & 0.15 & 0.34 & 0.93 & 0.98 & 0.27 & 0.52 \\
+Powerlaw_cluster/ & 495 & 0.0 & 0.11 & 0.83 & 0.97 & 0.85 & 0.98 \\
+Powerlaw_seq/ & 1350 & 0.0 & 0.74 & 0.83 & 1.0 & 0.82 & 0.99 \\
+Augumented_small/ & 6655 & 0.05 & 0.1 & 0.37 & 0.59 & 0.95 & 1.0 \\
+Validate_set/ & 416 & 0.1 & 0.1 & 0.48 & 0.65 & 0.47 & 0.69 \\
+Training_suite/ & 208 & 0.03 & 0.15 & 0.26 & 0.44 & 0.42 & 0.62 \\
+\hline

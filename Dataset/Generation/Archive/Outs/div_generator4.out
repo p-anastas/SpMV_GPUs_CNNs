@@ -1,0 +1,1566 @@
+resized_2_2D_54019_highK.mtx: nnz= 3985656, density= 0.00034146542855678386
+Created resized_2_2D_54019_highK.mtx: nnz= 3985656, divz= 4, density= 0.00034146542855678386
+resized_2_3D_28984_Tetra.mtx: nnz= 2396680, density= 0.000713236267143192
+Created resized_2_3D_28984_Tetra.mtx: nnz= 2396680, divz= 4, density= 0.000713236267143192
+resized_2_3D_51448_3D.mtx: nnz= 4226440, density= 0.00039918822612278264
+Created resized_2_3D_51448_3D.mtx: nnz= 4226440, divz= 4, density= 0.00039918822612278264
+resized_2_ASIC_100k.mtx: nnz= 3816652, density= 9.668837480177709e-05
+Created resized_2_ASIC_100k.mtx: nnz= 3533432, divz= 4, density= 8.951347871186391e-05
+resized_2_ASIC_100ks.mtx: nnz= 2315560, density= 5.883832040841431e-05
+Created resized_2_ASIC_100ks.mtx: nnz= 2288590, divz= 4, density= 5.815301339783591e-05
+resized_2_Andrews.mtx: nnz= 3040616, density= 0.00021115388888888888
+Created resized_2_Andrews.mtx: nnz= 2637052, divz= 4, density= 0.0001831286111111111
+resized_2_Baumann.mtx: nnz= 3042524, density= 6.040920995076934e-05
+Created resized_2_Baumann.mtx: nnz= 3042524, divz= 4, density= 6.040920995076934e-05
+resized_2_Delor64K.mtx: nnz= 2608560, density= 5.643998495812867e-06
+Created resized_2_Delor64K.mtx: nnz= 2608560, divz= 4, density= 5.643998495812867e-06
+resized_2_EternityII_A.mtx: nnz= 3128348, density= 0.0007052201503067065
+Created resized_2_EternityII_A.mtx: nnz= 3128348, divz= 4, density= 0.0007052201503067065
+resized_2_G2_circuit.mtx: nnz= 2906696, density= 3.225274357728848e-05
+Created resized_2_G2_circuit.mtx: nnz= 2893826, divz= 4, density= 3.210993785909858e-05
+resized_2_GL7d24.mtx: nnz= 2375568, density= 0.0002682550499266547
+Created resized_2_GL7d24.mtx: nnz= 2375568, divz= 4, density= 0.0002682550499266547
+resized_2_HFE18_96_in.mtx: nnz= 3733372, density= 0.0960653218209844
+Created resized_2_HFE18_96_in.mtx: nnz= 3733372, divz= 4, density= 0.0960653218209844
+resized_2_HTC_336_4438.mtx: nnz= 3618088, density= 1.765617038690664e-05
+Created resized_2_HTC_336_4438.mtx: nnz= 3498188, divz= 4, density= 1.7071061669432076e-05
+resized_2_HTC_336_9129.mtx: nnz= 3533688, density= 1.7244300697541726e-05
+Created resized_2_HTC_336_9129.mtx: nnz= 3413788, divz= 4, density= 1.6659191980067163e-05
+resized_2_IG5-16.mtx: nnz= 2353304, density= 0.001688804587305889
+Created resized_2_IG5-16.mtx: nnz= 2353304, divz= 4, density= 0.001688804587305889
+resized_2_LeGresley_87936.mtx: nnz= 2373104, density= 7.672260966159854e-05
+Created resized_2_LeGresley_87936.mtx: nnz= 2373104, divz= 4, density= 7.672260966159854e-05
+resized_2_Maragal_6.mtx: nnz= 2150776, density= 0.0024918533051788306
+Created resized_2_Maragal_6.mtx: nnz= 2150776, divz= 4, density= 0.0024918533051788306
+resized_2_NotreDame_www.mtx: nnz= 3719396, density= 8.763943647655219e-06
+Created resized_2_NotreDame_www.mtx: nnz= 3719396, divz= 4, density= 8.763943647655219e-06
+resized_2_Pres_Poisson.mtx: nnz= 2863216, density= 0.003258220734472589
+Created resized_2_Pres_Poisson.mtx: nnz= 2829884, divz= 4, density= 0.003220290304661691
+resized_2_Si10H16.mtx: nnz= 3503692, density= 0.003003604687048846
+Created resized_2_Si10H16.mtx: nnz= 3491686, divz= 4, density= 0.0029933123217745277
+resized_2_Si5H12.mtx: nnz= 2954392, density= 0.0018658493809950868
+Created resized_2_Si5H12.mtx: nnz= 2943268, divz= 4, density= 0.0018588240070724017
+resized_2_TF17.mtx: nnz= 2344872, density= 0.00031612969733436105
+Created resized_2_TF17.mtx: nnz= 2344872, divz= 4, density= 0.00031612969733436105
+resized_2_TSC_OPF_300.mtx: nnz= 3283216, density= 0.008592010415542688
+Created resized_2_TSC_OPF_300.mtx: nnz= 2524028, divz= 4, density= 0.006605253771034674
+resized_2_TSOPF_FS_b162_c1.mtx: nnz= 2434160, density= 0.005219182508638916
+Created resized_2_TSOPF_FS_b162_c1.mtx: nnz= 1204118, divz= 4, density= 0.002581798897335128
+resized_2_TSOPF_FS_b39_c7.mtx: nnz= 2920320, density= 0.000917021584634199
+Created resized_2_TSOPF_FS_b39_c7.mtx: nnz= 1560476, divz= 4, density= 0.000490011428303623
+resized_2_TSOPF_RS_b162_c3.mtx: nnz= 2441196, density= 0.0025820753096011946
+Created resized_2_TSOPF_RS_b162_c3.mtx: nnz= 2441196, divz= 4, density= 0.0025820753096011946
+resized_2_TSOPF_RS_b162_c4.mtx: nnz= 3250996, density= 0.0019579601127127292
+Created resized_2_TSOPF_RS_b162_c4.mtx: nnz= 3250996, divz= 4, density= 0.0019579601127127292
+resized_2_TSOPF_RS_b39_c19.mtx: nnz= 2736824, density= 0.0004713923425075804
+Created resized_2_TSOPF_RS_b39_c19.mtx: nnz= 2736824, divz= 4, density= 0.0004713923425075804
+resized_2_Trec13.mtx: nnz= 2618068, density= 0.07667849792774273
+Created resized_2_Trec13.mtx: nnz= 2618068, divz= 4, density= 0.07667849792774273
+resized_2_Trefethen_20000.mtx: nnz= 2217864, density= 0.001386165
+Created resized_2_Trefethen_20000.mtx: nnz= 2187018, divz= 4, density= 0.00136688625
+resized_2_Trefethen_20000b.mtx: nnz= 2217740, density= 0.0013862261191463494
+Created resized_2_Trefethen_20000b.mtx: nnz= 2186898, divz= 4, density= 0.0013669479413767679
+resized_2_Zd_Jac2_db.mtx: nnz= 2705756, density= 0.0012972587448086392
+Created resized_2_Zd_Jac2_db.mtx: nnz= 2705756, divz= 4, density= 0.0012972587448086392
+resized_2_Zd_Jac3_db.mtx: nnz= 2855628, density= 0.001369113990663018
+Created resized_2_Zd_Jac3_db.mtx: nnz= 2855628, divz= 4, density= 0.001369113990663018
+resized_2_Zd_Jac6_db.mtx: nnz= 2654572, density= 0.001272718878096975
+Created resized_2_Zd_Jac6_db.mtx: nnz= 2654572, divz= 4, density= 0.001272718878096975
+resized_2_apache1.mtx: nnz= 2168736, density= 8.304700519556907e-05
+Created resized_2_apache1.mtx: nnz= 2167828, divz= 4, density= 8.301223532006667e-05
+resized_2_ar2010.mtx: nnz= 3617240, density= 2.6079944845184048e-05
+Created resized_2_ar2010.mtx: nnz= 3604208, divz= 4, density= 2.598598540615804e-05
+resized_2_bas1lp.mtx: nnz= 2351100, density= 0.011056076045262618
+Created resized_2_bas1lp.mtx: nnz= 2351100, divz= 4, density= 0.011056076045262618
+resized_2_bcsstk29.mtx: nnz= 2477952, density= 0.0031642683346621986
+Created resized_2_bcsstk29.mtx: nnz= 2476594, divz= 4, density= 0.003162534210515132
+resized_2_bcsstk33.mtx: nnz= 2367616, density= 0.00775223972597465
+Created resized_2_bcsstk33.mtx: nnz= 2357616, divz= 4, density= 0.007719496917487232
+resized_2_bibd_17_8.mtx: nnz= 2722720, density= 0.20588235294117646
+Created resized_2_bibd_17_8.mtx: nnz= 2722720, divz= 4, density= 0.20588235294117646
+resized_2_blockqp1.mtx: nnz= 2560132, density= 0.00017771585099541224
+Created resized_2_blockqp1.mtx: nnz= 2186674, divz= 4, density= 0.00015179163838409195
+resized_2_brack2.mtx: nnz= 2932472, density= 0.0001868939275901491
+Created resized_2_brack2.mtx: nnz= 2664696, divz= 4, density= 0.0001698278794388352
+resized_2_bundle1.mtx: nnz= 3083604, density= 0.006885653752317809
+Created resized_2_bundle1.mtx: nnz= 2497656, divz= 4, density= 0.005577238325154297
+resized_2_c-58.mtx: nnz= 2210228, density= 0.00039094611954454487
+Created resized_2_c-58.mtx: nnz= 680064, divz= 4, density= 0.00012029002521094718
+resized_2_c-62.mtx: nnz= 2237372, density= 0.0003211889707643295
+Created resized_2_c-62.mtx: nnz= 863156, divz= 4, density= 0.00012391152979882454
+resized_2_c-62ghs.mtx: nnz= 2237372, density= 0.0003211889707643295
+Created resized_2_c-62ghs.mtx: nnz= 863156, divz= 4, density= 0.00012391152979882454
+resized_2_c-64.mtx: nnz= 2871364, density= 0.000275608128167046
+Created resized_2_c-64.mtx: nnz= 1695456, divz= 4, density= 0.00016273849450978251
+resized_2_c-64b.mtx: nnz= 2871364, density= 0.000275608128167046
+Created resized_2_c-64b.mtx: nnz= 1695456, divz= 4, density= 0.00016273849450978251
+resized_2_c-67.mtx: nnz= 2127740, density= 0.0001582621466443005
+Created resized_2_c-67.mtx: nnz= 1116186, divz= 4, density= 8.302235818958856e-05
+resized_2_c-67b.mtx: nnz= 2127740, density= 0.0001582621466443005
+Created resized_2_c-67b.mtx: nnz= 1116186, divz= 4, density= 8.302235818958856e-05
+resized_2_c-68.mtx: nnz= 2264024, density= 0.0001347525499209456
+Created resized_2_c-68.mtx: nnz= 1038780, divz= 4, density= 6.182719520945002e-05
+resized_2_c-69.mtx: nnz= 2495880, density= 0.00013711873170509193
+Created resized_2_c-69.mtx: nnz= 1415690, divz= 4, density= 7.777522047838102e-05
+resized_2_c-70.mtx: nnz= 2635944, density= 0.00013871877363121353
+Created resized_2_c-70.mtx: nnz= 1399110, divz= 4, density= 7.362934241970511e-05
+resized_2_c-71.mtx: nnz= 3438216, density= 0.00014634734250443347
+Created resized_2_c-71.mtx: nnz= 1764754, divz= 4, density= 7.51165889734877e-05
+resized_2_c-72.mtx: nnz= 2830232, density= 0.00010012486498585956
+Created resized_2_c-72.mtx: nnz= 1529544, divz= 4, density= 5.41105416410851e-05
+resized_2_cage11.mtx: nnz= 2238888, density= 0.0003664534514736141
+Created resized_2_cage11.mtx: nnz= 2211536, divz= 4, density= 0.00036197657062709285
+resized_2_cbuckle.mtx: nnz= 2706060, density= 0.0036144460322306018
+Created resized_2_cbuckle.mtx: nnz= 2686524, divz= 4, density= 0.0035883520736023165
+resized_2_cbuckle_G.mtx: nnz= 2059584, density= 0.0027509571912099624
+Created resized_2_cbuckle_G.mtx: nnz= 2047424, divz= 4, density= 0.002734715251359433
+resized_2_ch7-8-b4.mtx: nnz= 2822400, density= 8.503401360544217e-05
+Created resized_2_ch7-8-b4.mtx: nnz= 2822400, divz= 4, density= 8.503401360544217e-05
+resized_2_ch7-8-b5.mtx: nnz= 3386880, density= 4.2517006802721085e-05
+Created resized_2_ch7-8-b5.mtx: nnz= 3386880, divz= 4, density= 4.2517006802721085e-05
+resized_2_co2010.mtx: nnz= 3898296, density= 2.4107647046736762e-05
+Created resized_2_co2010.mtx: nnz= 3886038, divz= 4, density= 2.4031841736545104e-05
+resized_2_cont-300.mtx: nnz= 3952780, density= 3.0198788896074363e-05
+Created resized_2_cont-300.mtx: nnz= 2968396, divz= 4, density= 2.267820727790354e-05
+resized_2_copter2.mtx: nnz= 3039808, density= 0.00024693115245769126
+Created resized_2_copter2.mtx: nnz= 2825466, divz= 4, density= 0.00022951961953189909
+resized_2_crplat2.mtx: nnz= 3843784, density= 0.0029625900349642266
+Created resized_2_crplat2.mtx: nnz= 3756346, divz= 4, density= 0.0028951973439396523
+resized_2_crystk02.mtx: nnz= 3874332, density= 0.004966551717639964
+Created resized_2_crystk02.mtx: nnz= 3857196, divz= 4, density= 0.004944584877876754
+resized_2_crystm03.mtx: nnz= 2335080, density= 0.0009571688131960638
+Created resized_2_crystm03.mtx: nnz= 2328286, divz= 4, density= 0.0009543838957984354
+resized_2_cyl6.mtx: nnz= 2856964, density= 0.003816006368678325
+Created resized_2_cyl6.mtx: nnz= 2835064, divz= 4, density= 0.003786754848717256
+resized_2_dc1.mtx: nnz= 3065584, density= 5.614451099680581e-05
+Created resized_2_dc1.mtx: nnz= 3065584, divz= 4, density= 5.614451099680581e-05
+resized_2_dc2.mtx: nnz= 3065584, density= 5.614451099680581e-05
+Created resized_2_dc2.mtx: nnz= 3065584, divz= 4, density= 5.614451099680581e-05
+resized_2_dc3.mtx: nnz= 3065584, density= 5.614451099680581e-05
+Created resized_2_dc3.mtx: nnz= 3065584, divz= 4, density= 5.614451099680581e-05
+resized_2_delaunay_n17.mtx: nnz= 3145408, density= 4.577171057462692e-05
+Created resized_2_delaunay_n17.mtx: nnz= 2912392, divz= 4, density= 4.238088149577379e-05
+resized_2_e40r0100.mtx: nnz= 2214248, density= 0.0018536533882473878
+Created resized_2_e40r0100.mtx: nnz= 2214248, divz= 4, density= 0.0018536533882473878
+resized_2_ex3sta1.mtx: nnz= 2715992, density= 0.002410910350925759
+Created resized_2_ex3sta1.mtx: nnz= 2646136, divz= 4, density= 0.002348901127969922
+resized_2_fe_ocean.mtx: nnz= 3276744, density= 3.9816229854502686e-05
+Created resized_2_fe_ocean.mtx: nnz= 3274868, divz= 4, density= 3.979343428450789e-05
+resized_2_fe_tooth.mtx: nnz= 3620728, density= 0.00014826326500530865
+Created resized_2_fe_tooth.mtx: nnz= 3225846, divz= 4, density= 0.00013209345202520458
+resized_2_finan512.mtx: nnz= 2387968, density= 0.0001068372935822856
+Created resized_2_finan512.mtx: nnz= 2108372, divz= 4, density= 9.432821476027763e-05
+resized_2_ford2.mtx: nnz= 2178752, density= 5.425590840953687e-05
+Created resized_2_ford2.mtx: nnz= 1985892, divz= 4, density= 4.945325326757336e-05
+resized_2_fp.mtx: nnz= 3394212, density= 0.014894131717053255
+Created resized_2_fp.mtx: nnz= 3394212, divz= 4, density= 0.014894131717053255
+resized_2_g7jac140.mtx: nnz= 2263824, density= 0.0003287727382757991
+Created resized_2_g7jac140.mtx: nnz= 2263824, divz= 4, density= 0.0003287727382757991
+resized_2_g7jac140sc.mtx: nnz= 2263824, density= 0.0003287727382757991
+Created resized_2_g7jac140sc.mtx: nnz= 2263824, divz= 4, density= 0.0003287727382757991
+resized_2_g7jac160.mtx: nnz= 2626464, density= 0.00029188058756450964
+Created resized_2_g7jac160.mtx: nnz= 2626464, divz= 4, density= 0.00029188058756450964
+resized_2_g7jac160sc.mtx: nnz= 2626464, density= 0.00029188058756450964
+Created resized_2_g7jac160sc.mtx: nnz= 2626464, divz= 4, density= 0.00029188058756450964
+resized_2_g7jac180.mtx: nnz= 2989104, density= 0.00026235335887858717
+Created resized_2_g7jac180.mtx: nnz= 2989104, divz= 4, density= 0.00026235335887858717
+resized_2_g7jac180sc.mtx: nnz= 2989104, density= 0.00026235335887858717
+Created resized_2_g7jac180sc.mtx: nnz= 2989104, divz= 4, density= 0.00026235335887858717
+resized_2_g7jac200.mtx: nnz= 3351744, density= 0.00023820726416511173
+Created resized_2_g7jac200.mtx: nnz= 3351744, divz= 4, density= 0.00023820726416511173
+resized_2_g7jac200sc.mtx: nnz= 3351744, density= 0.00023820726416511173
+Created resized_2_g7jac200sc.mtx: nnz= 3351744, divz= 4, density= 0.00023820726416511173
+resized_2_gridgena.mtx: nnz= 2048336, density= 0.00021361065290196758
+Created resized_2_gridgena.mtx: nnz= 2047114, divz= 4, density= 0.00021348321667185387
+resized_2_hcircuit.mtx: nnz= 2052288, density= 4.594365922779169e-05
+Created resized_2_hcircuit.mtx: nnz= 2052288, divz= 4, density= 4.594365922779169e-05
+resized_2_heart2.mtx: nnz= 2731188, density= 0.12480476321994048
+Created resized_2_heart2.mtx: nnz= 2553790, divz= 4, density= 0.1166983584665178
+resized_2_heart3.mtx: nnz= 2731188, density= 0.12480476321994048
+Created resized_2_heart3.mtx: nnz= 2553790, divz= 4, density= 0.1166983584665178
+resized_2_ibm_matrix_2.mtx: nnz= 4226440, density= 0.00039918822612278264
+Created resized_2_ibm_matrix_2.mtx: nnz= 4226440, divz= 4, density= 0.00039918822612278264
+resized_2_id2010.mtx: nnz= 2913056, density= 3.24355838645896e-05
+Created resized_2_id2010.mtx: nnz= 2903312, divz= 4, density= 3.2327088755269157e-05
+resized_2_image_interp.mtx: nnz= 2846732, density= 2.4711215277777776e-05
+Created resized_2_image_interp.mtx: nnz= 2846732, divz= 4, density= 2.4711215277777776e-05
+resized_2_k1_san.mtx: nnz= 2239096, density= 0.00012192106477545787
+Created resized_2_k1_san.mtx: nnz= 2040084, divz= 4, density= 0.00011108465805457881
+resized_2_kneser_10_4_1.mtx: nnz= 3969008, density= 8.57997539425755e-06
+Created resized_2_kneser_10_4_1.mtx: nnz= 3969008, divz= 4, density= 8.57997539425755e-06
+resized_2_ky2010.mtx: nnz= 3151112, density= 3.0139373915192504e-05
+Created resized_2_ky2010.mtx: nnz= 3139710, divz= 4, density= 3.003031744833857e-05
+resized_2_la2010.mtx: nnz= 3922536, density= 2.3460942891476498e-05
+Created resized_2_la2010.mtx: nnz= 3910647, divz= 4, density= 2.3389834009356164e-05
+resized_2_lhr34.mtx: nnz= 3056056, density= 0.0006183028347506603
+Created resized_2_lhr34.mtx: nnz= 3056056, divz= 4, density= 0.0006183028347506603
+resized_2_lhr34c.mtx: nnz= 3056056, density= 0.0006183028347506603
+Created resized_2_lhr34c.mtx: nnz= 3056056, divz= 4, density= 0.0006183028347506603
+resized_2_lp_osa_30.mtx: nnz= 2417952, density= 0.0013313924791680846
+Created resized_2_lp_osa_30.mtx: nnz= 2417952, divz= 4, density= 0.0013313924791680846
+resized_2_m133-b3.mtx: nnz= 3203200, density= 1.998001998001998e-05
+Created resized_2_m133-b3.mtx: nnz= 3203200, divz= 4, density= 1.998001998001998e-05
+resized_2_ma2010.mtx: nnz= 3106440, density= 3.130384932411215e-05
+Created resized_2_ma2010.mtx: nnz= 3051088, divz= 4, density= 3.0746062704126485e-05
+resized_2_md2010.mtx: nnz= 2801512, density= 3.319847646729118e-05
+Created resized_2_md2010.mtx: nnz= 2767388, divz= 4, density= 3.279410025509939e-05
+resized_2_mesh_deform.mtx: nnz= 3415316, density= 0.0003884257711847698
+Created resized_2_mesh_deform.mtx: nnz= 3415316, divz= 4, density= 0.0003884257711847698
+resized_2_mk13-b5.mtx: nnz= 3243240, density= 2.22000222000222e-05
+Created resized_2_mk13-b5.mtx: nnz= 3243240, divz= 4, density= 2.22000222000222e-05
+resized_2_mri1.mtx: nnz= 2359296, density= 6.103515625e-05
+Created resized_2_mri1.mtx: nnz= 2359296, divz= 4, density= 6.103515625e-05
+resized_2_mri2.mtx: nnz= 2276640, density= 6.103515625e-05
+Created resized_2_mri2.mtx: nnz= 2276640, divz= 4, density= 6.103515625e-05
+resized_2_ms2010.mtx: nnz= 3359920, density= 2.8466486130018755e-05
+Created resized_2_ms2010.mtx: nnz= 3346148, divz= 4, density= 2.8349804647429103e-05
+resized_2_mt2010.mtx: nnz= 2554672, density= 3.649507457772273e-05
+Created resized_2_mt2010.mtx: nnz= 2536168, divz= 4, density= 3.6230733456832775e-05
+resized_2_n4c6-b11.mtx: nnz= 3323280, density= 9.063307200797571e-05
+Created resized_2_n4c6-b11.mtx: nnz= 3323280, divz= 4, density= 9.063307200797571e-05
+resized_2_n4c6-b6.mtx: nnz= 2915220, density= 0.00013510122942118774
+Created resized_2_n4c6-b6.mtx: nnz= 2915220, divz= 4, density= 0.00013510122942118774
+resized_2_ncvxqp7.mtx: nnz= 2299848, density= 7.50970775510204e-05
+Created resized_2_ncvxqp7.mtx: nnz= 2109856, divz= 4, density= 6.889325714285714e-05
+resized_2_nd2010.mtx: nnz= 2503784, density= 3.498049151675269e-05
+Created resized_2_nd2010.mtx: nnz= 2486804, divz= 4, density= 3.474326308732169e-05
+resized_2_ne2010.mtx: nnz= 3655416, density= 2.444440551355584e-05
+Created resized_2_ne2010.mtx: nnz= 3639778, divz= 4, density= 2.4339831475082245e-05
+resized_2_nemeth01.mtx: nnz= 2900216, density= 0.008023700933411164
+Created resized_2_nemeth01.mtx: nnz= 2898868, divz= 4, density= 0.008019971573646843
+resized_2_nemeth15.mtx: nnz= 2159208, density= 0.005973637565280948
+Created resized_2_nemeth15.mtx: nnz= 2158442, divz= 4, density= 0.005971518359361461
+resized_2_nemeth16.mtx: nnz= 2348048, density= 0.006496079922769275
+Created resized_2_nemeth16.mtx: nnz= 2347138, divz= 4, density= 0.006493562328269623
+resized_2_nemeth17.mtx: nnz= 2518480, density= 0.006967594940093203
+Created resized_2_nemeth17.mtx: nnz= 2517390, divz= 4, density= 0.006964579359868344
+resized_2_nemeth18.mtx: nnz= 2780936, density= 0.007693702392841329
+Created resized_2_nemeth18.mtx: nnz= 2779560, divz= 4, density= 0.007689895568630866
+resized_2_nemeth19.mtx: nnz= 3273208, density= 0.009055615886833563
+Created resized_2_nemeth19.mtx: nnz= 3271350, divz= 4, density= 0.009050475567514493
+resized_2_nemeth20.mtx: nnz= 3887480, density= 0.010755053039020966
+Created resized_2_nemeth20.mtx: nnz= 3884866, divz= 4, density= 0.01074782117965603
+resized_2_neos1.mtx: nnz= 2398360, density= 3.4140334852131485e-05
+Created resized_2_neos1.mtx: nnz= 2398360, divz= 4, density= 3.4140334852131485e-05
+resized_2_neos2.mtx: nnz= 2740348, density= 3.8528985465202017e-05
+Created resized_2_neos2.mtx: nnz= 2740348, divz= 4, density= 3.8528985465202017e-05
+resized_2_net50.mtx: nnz= 3780800, density= 0.003548815359477124
+Created resized_2_net50.mtx: nnz= 3699156, divz= 4, density= 0.0034721809220011534
+resized_2_nj2010.mtx: nnz= 3319648, density= 2.8856377270976293e-05
+Created resized_2_nj2010.mtx: nnz= 3307828, divz= 4, density= 2.8753630720937572e-05
+resized_2_nm2010.mtx: nnz= 3323880, density= 2.9229665117543907e-05
+Created resized_2_nm2010.mtx: nnz= 3311852, divz= 4, density= 2.9123892823708444e-05
+resized_2_nsct.mtx: nnz= 2790952, density= 0.0008075094740139555
+Created resized_2_nsct.mtx: nnz= 2790952, divz= 4, density= 0.0008075094740139555
+resized_2_nsct_A_1.mtx: nnz= 2714956, density= 0.0007911685061186689
+Created resized_2_nsct_A_1.mtx: nnz= 2714956, divz= 4, density= 0.0007911685061186689
+resized_2_nsct_A_2.mtx: nnz= 2790952, density= 0.0008075094740139555
+Created resized_2_nsct_A_2.mtx: nnz= 2790952, divz= 4, density= 0.0008075094740139555
+resized_2_nw14.mtx: nnz= 3619640, density= 0.10044670483725072
+Created resized_2_nw14.mtx: nnz= 3619640, divz= 4, density= 0.10044670483725072
+resized_2_olesnik0.mtx: nnz= 2976864, density= 9.553040815143145e-05
+Created resized_2_olesnik0.mtx: nnz= 2720607, divz= 4, density= 8.730687634021624e-05
+resized_2_or2010.mtx: nnz= 3918048, density= 2.533669478464367e-05
+Created resized_2_or2010.mtx: nnz= 3901008, divz= 4, density= 2.5226502852556485e-05
+resized_2_patents_main.mtx: nnz= 2243772, density= 9.694353297922595e-06
+Created resized_2_patents_main.mtx: nnz= 2243772, divz= 4, density= 9.694353297922595e-06
+resized_2_pcrystk02.mtx: nnz= 3874332, density= 0.004966551717639964
+Created resized_2_pcrystk02.mtx: nnz= 3857196, divz= 4, density= 0.004944584877876754
+resized_2_pds-50.mtx: nnz= 2363332, density= 2.579030692751234e-05
+Created resized_2_pds-50.mtx: nnz= 2363332, divz= 4, density= 2.579030692751234e-05
+resized_2_pds-60.mtx: nnz= 2878228, density= 2.1510985018615043e-05
+Created resized_2_pds-60.mtx: nnz= 2878228, divz= 4, density= 2.1510985018615043e-05
+resized_2_pds-70.mtx: nnz= 3333860, density= 1.8592204424367924e-05
+Created resized_2_pds-70.mtx: nnz= 3333860, divz= 4, density= 1.8592204424367924e-05
+resized_2_pds-80.mtx: nnz= 3711304, density= 1.6527157302805448e-05
+Created resized_2_pds-80.mtx: nnz= 3711304, divz= 4, density= 1.6527157302805448e-05
+resized_2_pf2177.mtx: nnz= 2900576, density= 0.007662617268654778
+Created resized_2_pf2177.mtx: nnz= 2356018, divz= 4, density= 0.006224027300805597
+resized_2_pfinan512.mtx: nnz= 2387968, density= 0.0001068372935822856
+Created resized_2_pfinan512.mtx: nnz= 2108372, divz= 4, density= 9.432821476027763e-05
+resized_2_pkustk01.mtx: nnz= 3917520, density= 0.002015442564665295
+Created resized_2_pkustk01.mtx: nnz= 3756970, divz= 4, density= 0.0019328445680355361
+resized_2_pkustk02.mtx: nnz= 3240000, density= 0.006944444444444444
+Created resized_2_pkustk02.mtx: nnz= 3073416, divz= 4, density= 0.006587397119341564
+resized_2_preferentialAttachment.mtx: nnz= 3999880, density= 9.9997e-05
+Created resized_2_preferentialAttachment.mtx: nnz= 3580728, divz= 4, density= 8.95182e-05
+resized_2_psmigr_1.mtx: nnz= 2172648, density= 0.05508965880968802
+Created resized_2_psmigr_1.mtx: nnz= 2172648, divz= 4, density= 0.05508965880968802
+resized_2_psmigr_2.mtx: nnz= 2160088, density= 0.0547711874721084
+Created resized_2_psmigr_2.mtx: nnz= 2160088, divz= 4, density= 0.0547711874721084
+resized_2_psmigr_3.mtx: nnz= 2172648, density= 0.05508965880968802
+Created resized_2_psmigr_3.mtx: nnz= 2172648, divz= 4, density= 0.05508965880968802
+resized_2_rail_79841.mtx: nnz= 2215684, density= 8.689522150578316e-05
+Created resized_2_rail_79841.mtx: nnz= 2171602, divz= 4, density= 8.516640315694915e-05
+resized_2_rail_79841_E.mtx: nnz= 2219652, density= 8.705083947248552e-05
+Created resized_2_rail_79841_E.mtx: nnz= 2175570, divz= 4, density= 8.532202112365151e-05
+resized_2_rajat16.mtx: nnz= 2564636, density= 7.211035350954104e-05
+Created resized_2_rajat16.mtx: nnz= 2564636, divz= 4, density= 7.211035350954104e-05
+resized_2_rajat17.mtx: nnz= 2564636, density= 7.211035350954104e-05
+Created resized_2_rajat17.mtx: nnz= 2564636, divz= 4, density= 7.211035350954104e-05
+resized_2_rajat20.mtx: nnz= 2420180, density= 8.00918294426192e-05
+Created resized_2_rajat20.mtx: nnz= 2420180, divz= 4, density= 8.00918294426192e-05
+resized_2_rajat23.mtx: nnz= 2227752, density= 4.573227651192326e-05
+Created resized_2_rajat23.mtx: nnz= 2227752, divz= 4, density= 4.573227651192326e-05
+resized_2_rajat25.mtx: nnz= 2428940, density= 7.987731173248388e-05
+Created resized_2_rajat25.mtx: nnz= 2428940, divz= 4, density= 7.987731173248388e-05
+resized_2_rajat28.mtx: nnz= 2428940, density= 7.987731173248388e-05
+Created resized_2_rajat28.mtx: nnz= 2428940, divz= 4, density= 7.987731173248388e-05
+resized_2_rel8.mtx: nnz= 3287356, density= 0.00019254887899913643
+Created resized_2_rel8.mtx: nnz= 3287356, divz= 4, density= 0.00019254887899913643
+resized_2_rgg_n_2_16_s0.mtx: nnz= 2737016, density= 0.0001593152992427349
+Created resized_2_rgg_n_2_16_s0.mtx: nnz= 2735208, divz= 4, density= 0.00015921005979180336
+resized_2_sc2010.mtx: nnz= 3572640, density= 2.699141589421934e-05
+Created resized_2_sc2010.mtx: nnz= 3556024, divz= 4, density= 2.6865881452882307e-05
+resized_2_scircuit.mtx: nnz= 3835744, density= 3.279499441349471e-05
+Created resized_2_scircuit.mtx: nnz= 3835744, divz= 4, density= 3.279499441349471e-05
+resized_2_sgpf5y6.mtx: nnz= 3327904, density= 1.0817680913877853e-05
+Created resized_2_sgpf5y6.mtx: nnz= 3327904, divz= 4, density= 1.0817680913877853e-05
+resized_2_shar_te2-b2.mtx: nnz= 2402400, density= 0.00017482517482517483
+Created resized_2_shar_te2-b2.mtx: nnz= 2402400, divz= 4, density= 0.00017482517482517483
+resized_2_shar_te2-b3.mtx: nnz= 3203200, density= 1.998001998001998e-05
+Created resized_2_shar_te2-b3.mtx: nnz= 3203200, divz= 4, density= 1.998001998001998e-05
+resized_2_sinc15.mtx: nnz= 2274104, density= 0.004275048669410032
+Created resized_2_sinc15.mtx: nnz= 2274104, divz= 4, density= 0.004275048669410032
+resized_2_sinc18.mtx: nnz= 3895304, density= 0.003608377591655976
+Created resized_2_sinc18.mtx: nnz= 3895304, divz= 4, density= 0.003608377591655976
+resized_2_smallworld.mtx: nnz= 3999984, density= 9.99996e-05
+Created resized_2_smallworld.mtx: nnz= 3910850, divz= 4, density= 9.777125e-05
+resized_2_sme3Da.mtx: nnz= 3499548, density= 0.005595694982212218
+Created resized_2_sme3Da.mtx: nnz= 3499548, divz= 4, density= 0.005595694982212218
+resized_2_soc-Epinions1.mtx: nnz= 2035348, density= 8.835527213023052e-05
+Created resized_2_soc-Epinions1.mtx: nnz= 2035348, divz= 4, density= 8.835527213023052e-05
+resized_2_soc-Slashdot0811.mtx: nnz= 3621872, density= 0.0001513004377123461
+Created resized_2_soc-Slashdot0811.mtx: nnz= 3621872, divz= 4, density= 0.0001513004377123461
+resized_2_soc-Slashdot0902.mtx: nnz= 3793856, density= 0.00014048029772770424
+Created resized_2_soc-Slashdot0902.mtx: nnz= 3793856, divz= 4, density= 0.00014048029772770424
+resized_2_soc-sign-Slashdot081106.mtx: nnz= 2066300, density= 8.632451490077344e-05
+Created resized_2_soc-sign-Slashdot081106.mtx: nnz= 2066300, divz= 4, density= 8.632451490077344e-05
+resized_2_soc-sign-Slashdot090216.mtx: nnz= 2182684, density= 8.140867447881048e-05
+Created resized_2_soc-sign-Slashdot090216.mtx: nnz= 2182684, divz= 4, density= 8.140867447881048e-05
+resized_2_soc-sign-Slashdot090221.mtx: nnz= 2196808, density= 8.13917555860553e-05
+Created resized_2_soc-sign-Slashdot090221.mtx: nnz= 2196808, divz= 4, density= 8.13917555860553e-05
+resized_2_soc-sign-epinions.mtx: nnz= 3365488, density= 4.841419648464106e-05
+Created resized_2_soc-sign-epinions.mtx: nnz= 3365488, divz= 4, density= 4.841419648464106e-05
+resized_2_stat96v1.mtx: nnz= 2355192, density= 0.0004973608699195529
+Created resized_2_stat96v1.mtx: nnz= 2355192, divz= 4, density= 0.0004973608699195529
+resized_2_std1_Jac3_db.mtx: nnz= 2127304, density= 0.0011006143180596368
+Created resized_2_std1_Jac3_db.mtx: nnz= 2127304, divz= 4, density= 0.0011006143180596368
+resized_2_stokes128.mtx: nnz= 2234376, density= 0.00022645290595135965
+Created resized_2_stokes128.mtx: nnz= 1888470, divz= 4, density= 0.00019139550339869571
+resized_2_t3dl.mtx: nnz= 2039464, density= 0.0012299869538870084
+Created resized_2_t3dl.mtx: nnz= 2028114, divz= 4, density= 0.0012231418456004107
+resized_2_t3dl_a.mtx: nnz= 2039464, density= 0.0012299869538870084
+Created resized_2_t3dl_a.mtx: nnz= 2028114, divz= 4, density= 0.0012231418456004107
+resized_2_thermal1.mtx: nnz= 2297832, density= 8.408732369366029e-05
+Created resized_2_thermal1.mtx: nnz= 2239850, divz= 4, density= 8.196551879129763e-05
+resized_2_thermomech_TC.mtx: nnz= 2846232, density= 6.81813414957612e-05
+Created resized_2_thermomech_TC.mtx: nnz= 2793396, divz= 4, density= 6.691565782722327e-05
+resized_2_thermomech_TK.mtx: nnz= 2846232, density= 6.81813414957612e-05
+Created resized_2_thermomech_TK.mtx: nnz= 2793396, divz= 4, density= 6.691565782722327e-05
+resized_2_tomographic1.mtx: nnz= 2589980, density= 0.00014875319113725493
+Created resized_2_tomographic1.mtx: nnz= 2589980, divz= 4, density= 0.00014875319113725493
+resized_2_trans4.mtx: nnz= 3065584, density= 5.614451099680581e-05
+Created resized_2_trans4.mtx: nnz= 3065584, divz= 4, density= 5.614451099680581e-05
+resized_2_trans5.mtx: nnz= 3065584, density= 5.614451099680581e-05
+Created resized_2_trans5.mtx: nnz= 3065584, divz= 4, density= 5.614451099680581e-05
+resized_2_transient.mtx: nnz= 3847160, density= 3.006247049195468e-05
+Created resized_2_transient.mtx: nnz= 3847160, divz= 4, density= 3.006247049195468e-05
+resized_2_tube1.mtx: nnz= 3588224, density= 0.0019409906272146629
+Created resized_2_tube1.mtx: nnz= 3587472, divz= 4, density= 0.0019405838452100652
+resized_2_tube2.mtx: nnz= 3588224, density= 0.0019409906272146629
+Created resized_2_tube2.mtx: nnz= 3485086, divz= 4, density= 0.001885199826163874
+resized_2_ut2010.mtx: nnz= 2288264, density= 4.295259032005559e-05
+Created resized_2_ut2010.mtx: nnz= 2271532, divz= 4, density= 4.263851696958765e-05
+resized_2_vsp_bump2_e18_aa01_model1_crew1.mtx: nnz= 2406408, density= 0.00018887133104358834
+Created resized_2_vsp_bump2_e18_aa01_model1_crew1.mtx: nnz= 2298875, divz= 4, density= 0.00018043140695710335
+resized_2_vsp_mod2_pgp2_slptsk.mtx: nnz= 3114944, density= 7.579189602451269e-05
+Created resized_2_vsp_mod2_pgp2_slptsk.mtx: nnz= 2980473, divz= 4, density= 7.251998742830286e-05
+resized_2_vsp_vibrobox_scagr7-2c_rlfddd.mtx: nnz= 3484688, density= 0.00014569020449579155
+Created resized_2_vsp_vibrobox_scagr7-2c_rlfddd.mtx: nnz= 3074262, divz= 4, density= 0.00012853083531542598
+resized_2_wa2010.mtx: nnz= 3789728, density= 2.4769988932562342e-05
+Created resized_2_wa2010.mtx: nnz= 3765734, divz= 4, density= 2.4613162079962922e-05
+resized_2_wathen120.mtx: nnz= 2263044, density= 0.00042604201908344827
+Created resized_2_wathen120.mtx: nnz= 2260142, divz= 4, density= 0.0004254956868250476
+resized_2_wv2010.mtx: nnz= 2651688, density= 3.625712934337635e-05
+Created resized_2_wv2010.mtx: nnz= 2639914, divz= 4, density= 3.609614078028412e-05
+resized_3_208bit.mtx: nnz= 2697804, density= 0.0005024362600496345
+Created resized_3_208bit.mtx: nnz= 2697804, divz= 4, density= 0.0005024362600496345
+resized_3_2D_27628_bjtcai.mtx: nnz= 3986082, density= 0.0005802362056492377
+Created resized_3_2D_27628_bjtcai.mtx: nnz= 3986082, divz= 4, density= 0.0005802362056492377
+resized_3_Dubcova1.mtx: nnz= 2277081, density= 0.0009725704862780548
+Created resized_3_Dubcova1.mtx: nnz= 2013963, divz= 4, density= 0.0008601894154208876
+resized_3_EAT_RS.mtx: nnz= 2930328, density= 0.0006039301374332254
+Created resized_3_EAT_RS.mtx: nnz= 2930328, divz= 4, density= 0.0006039301374332254
+resized_3_EAT_SR.mtx: nnz= 2930301, density= 0.0006039245728296348
+Created resized_3_EAT_SR.mtx: nnz= 2930301, divz= 4, density= 0.0006039245728296348
+resized_3_EX5.mtx: nnz= 2661120, density= 0.0069024401204332
+Created resized_3_EX5.mtx: nnz= 2412082, divz= 4, density= 0.0062564828232378675
+resized_3_EX6.mtx: nnz= 2661120, density= 0.0069024401204332
+Created resized_3_EX6.mtx: nnz= 2415929, divz= 4, density= 0.006266461210963076
+resized_3_FEM_3D_thermal1.mtx: nnz= 3876660, density= 0.001347349218503671
+Created resized_3_FEM_3D_thermal1.mtx: nnz= 3845794, divz= 4, density= 0.0013366216125288539
+resized_3_FX_March2010.mtx: nnz= 2717091, density= 0.024098206062614674
+Created resized_3_FX_March2010.mtx: nnz= 2717091, divz= 4, density= 0.024098206062614674
+resized_3_Franz11.mtx: nnz= 2967552, density= 0.00023221868365180467
+Created resized_3_Franz11.mtx: nnz= 2967552, divz= 4, density= 0.00023221868365180467
+resized_3_GL7d13.mtx: nnz= 3206088, density= 0.000846831360285345
+Created resized_3_GL7d13.mtx: nnz= 3206088, divz= 4, density= 0.000846831360285345
+resized_3_GT01R.mtx: nnz= 3878181, density= 0.00676674455562465
+Created resized_3_GT01R.mtx: nnz= 3878181, divz= 4, density= 0.00676674455562465
+resized_3_HEP-th-new.mtx: nnz= 3175263, density= 0.0004574940327908307
+Created resized_3_HEP-th-new.mtx: nnz= 3175263, divz= 4, density= 0.0004574940327908307
+resized_3_HEP-th.mtx: nnz= 3081933, density= 0.00046149444433663027
+Created resized_3_HEP-th.mtx: nnz= 3081933, divz= 4, density= 0.00046149444433663027
+resized_3_IG5-15.mtx: nnz= 2911581, density= 0.002373851761873293
+Created resized_3_IG5-15.mtx: nnz= 2911581, divz= 4, density= 0.002373851761873293
+resized_3_Kuu.mtx: nnz= 3061800, density= 0.006744860523342491
+Created resized_3_Kuu.mtx: nnz= 3044482, divz= 4, density= 0.006706710580647591
+resized_3_Na5.mtx: nnz= 2750670, density= 0.008985886956407202
+Created resized_3_Na5.mtx: nnz= 2699092, divz= 4, density= 0.008817391979751489
+resized_3_OPF_10000.mtx: nnz= 4209399, density= 0.00024283193182288705
+Created resized_3_OPF_10000.mtx: nnz= 3485987, divz= 4, density= 0.00020109971934698293
+resized_3_OPF_6000.mtx: nnz= 2721762, density= 0.0003382261348322385
+Created resized_3_OPF_6000.mtx: nnz= 2183796, divz= 4, density= 0.0002713745288317285
+resized_3_Reuters911.mtx: nnz= 2664684, density= 0.0016657606354694876
+Created resized_3_Reuters911.mtx: nnz= 2129489, divz= 4, density= 0.0013311968510582432
+resized_3_TSOPF_RS_b39_c7.mtx: nnz= 2272014, density= 0.0012701455214869965
+Created resized_3_TSOPF_RS_b39_c7.mtx: nnz= 2272014, divz= 4, density= 0.0012701455214869965
+resized_3_a0nsdsil.mtx: nnz= 3195306, density= 5.545187953011277e-05
+Created resized_3_a0nsdsil.mtx: nnz= 2412114, divz= 4, density= 4.186023339889777e-05
+resized_3_a2nnsnsl.mtx: nnz= 3124998, density= 5.4231742633676826e-05
+Created resized_3_a2nnsnsl.mtx: nnz= 2372292, divz= 4, density= 4.116915569095739e-05
+resized_3_a5esindl.mtx: nnz= 2295036, density= 7.08155590364248e-05
+Created resized_3_a5esindl.mtx: nnz= 1711632, divz= 4, density= 5.281406345897574e-05
+resized_3_af23560.mtx: nnz= 4358304, density= 0.0008724176397508366
+Created resized_3_af23560.mtx: nnz= 4354798, divz= 4, density= 0.0008717158309176377
+resized_3_airfoil_2d.mtx: nnz= 2337192, density= 0.0012853436591636546
+Created resized_3_airfoil_2d.mtx: nnz= 2337192, divz= 4, density= 0.0012853436591636546
+resized_3_astro-ph.mtx: nnz= 2182518, density= 0.0008689011471536058
+Created resized_3_astro-ph.mtx: nnz= 2031188, divz= 4, density= 0.0008086538499497545
+resized_3_bayer01.mtx: nnz= 2499966, density= 8.333227770734896e-05
+Created resized_3_bayer01.mtx: nnz= 2499966, divz= 4, density= 8.333227770734896e-05
+resized_3_bcircuit.mtx: nnz= 3380022, density= 7.910671697110005e-05
+Created resized_3_bcircuit.mtx: nnz= 3248902, divz= 4, density= 7.60379580312912e-05
+resized_3_bcsstk16.mtx: nnz= 2613402, density= 0.012173414200441228
+Created resized_3_bcsstk16.mtx: nnz= 2608086, divz= 4, density= 0.012148651890666632
+resized_3_bcsstk17.mtx: nnz= 3857850, density= 0.0035593682023042418
+Created resized_3_bcsstk17.mtx: nnz= 3851250, divz= 4, density= 0.0035532788442070615
+resized_3_bcsstk25.mtx: nnz= 2270169, density= 0.0010582233620331932
+Created resized_3_bcsstk25.mtx: nnz= 2269133, divz= 4, density= 0.0010577404378971193
+resized_3_bcsstk38.mtx: nnz= 3199140, density= 0.005509895180235235
+Created resized_3_bcsstk38.mtx: nnz= 3176682, divz= 4, density= 0.005471215652000233
+resized_3_bcsstm36.mtx: nnz= 2885454, density= 0.0006033293098081007
+Created resized_3_bcsstm36.mtx: nnz= 2848034, divz= 4, density= 0.0005955050357863977
+resized_3_benzene.mtx: nnz= 2184021, density= 0.003592330946543506
+Created resized_3_benzene.mtx: nnz= 2169983, divz= 4, density= 0.003569240902158595
+resized_3_bibd_16_8.mtx: nnz= 3243240, density= 0.23333333333333334
+Created resized_3_bibd_16_8.mtx: nnz= 3243240, divz= 4, density= 0.23333333333333334
+resized_3_bibd_81_3.mtx: nnz= 2303640, density= 0.000925925925925926
+Created resized_3_bibd_81_3.mtx: nnz= 2303640, divz= 4, density= 0.000925925925925926
+resized_3_c-53.mtx: nnz= 3349917, density= 0.0004071660805745545
+Created resized_3_c-53.mtx: nnz= 2114593, divz= 4, density= 0.0002570184705532671
+resized_3_c-54.mtx: nnz= 3525237, density= 0.00038750988925943764
+Created resized_3_c-54.mtx: nnz= 2023031, divz= 4, density= 0.000222380656613558
+resized_3_c-55.mtx: nnz= 3631050, density= 0.00037546704209958525
+Created resized_3_c-55.mtx: nnz= 1794486, divz= 4, density= 0.0001855579930072889
+resized_3_c-56.mtx: nnz= 3428100, density= 0.00029537937172520706
+Created resized_3_c-56.mtx: nnz= 1787318, divz= 4, density= 0.0001540027618544248
+resized_3_c-57.mtx: nnz= 3646773, density= 0.0002830900860615534
+Created resized_3_c-57.mtx: nnz= 2229461, divz= 4, density= 0.00017306761522060103
+resized_3_c-59.mtx: nnz= 4324824, density= 0.0002819710165087066
+Created resized_3_c-59.mtx: nnz= 2008688, divz= 4, density= 0.00013096297033332244
+resized_3_c-60.mtx: nnz= 2687202, density= 0.00015677915551033747
+Created resized_3_c-60.mtx: nnz= 1531266, divz= 4, density= 8.933849794012226e-05
+resized_3_c-61.mtx: nnz= 2790144, density= 0.0001629493423936285
+Created resized_3_c-61.mtx: nnz= 1549584, divz= 4, density= 9.049844516400889e-05
+resized_3_c-63.mtx: nnz= 3912336, density= 0.00022216784847187818
+Created resized_3_c-63.mtx: nnz= 2039860, divz= 4, density= 0.00011583649957054953
+resized_3_c-65.mtx: nnz= 3244752, density= 0.00015604973486425998
+Created resized_3_c-65.mtx: nnz= 1957510, divz= 4, density= 9.414245418267329e-05
+resized_3_c-66.mtx: nnz= 4491063, density= 0.00019969065422283038
+Created resized_3_c-66.mtx: nnz= 2683093, divz= 4, density= 0.00011930106447197393
+resized_3_c-66b.mtx: nnz= 4491063, density= 0.00019969065422283038
+Created resized_3_c-66b.mtx: nnz= 2683093, divz= 4, density= 0.00011930106447197393
+resized_3_ca-AstroPh.mtx: nnz= 3565440, density= 0.0011242154045752026
+Created resized_3_ca-AstroPh.mtx: nnz= 2929228, divz= 4, density= 0.0009236120201470257
+resized_3_ca-HepPh.mtx: nnz= 2133090, density= 0.0016437104333287024
+Created resized_3_ca-HepPh.mtx: nnz= 1753714, divz= 4, density= 0.0013513719528358448
+resized_3_cegb2802.mtx: nnz= 2496258, density= 0.035327320497595016
+Created resized_3_cegb2802.mtx: nnz= 2484194, divz= 4, density= 0.035156589429539156
+resized_3_cegb2919.mtx: nnz= 2893887, density= 0.037737303916960396
+Created resized_3_cegb2919.mtx: nnz= 2864935, divz= 4, density= 0.03735975965797453
+resized_3_ch7-8-b3.mtx: nnz= 2116800, density= 0.0003401360544217687
+Created resized_3_ch7-8-b3.mtx: nnz= 2116800, divz= 4, density= 0.0003401360544217687
+resized_3_ch7-9-b3.mtx: nnz= 3810240, density= 0.00022675736961451248
+Created resized_3_ch7-9-b3.mtx: nnz= 3810240, divz= 4, density= 0.00022675736961451248
+resized_3_ch8-8-b3.mtx: nnz= 4233600, density= 0.00021258503401360543
+Created resized_3_ch8-8-b3.mtx: nnz= 4233600, divz= 4, density= 0.00021258503401360543
+resized_3_chipcool0.mtx: nnz= 2530350, density= 0.0006971466782030742
+Created resized_3_chipcool0.mtx: nnz= 2523000, divz= 4, density= 0.0006951216508018085
+resized_3_chipcool1.mtx: nnz= 2530350, density= 0.0006971466782030742
+Created resized_3_chipcool1.mtx: nnz= 2523000, divz= 4, density= 0.0006951216508018085
+resized_3_circuit_4.mtx: nnz= 2768436, density= 4.7812975870047906e-05
+Created resized_3_circuit_4.mtx: nnz= 2768436, divz= 4, density= 4.7812975870047906e-05
+resized_3_cit-HepPh.mtx: nnz= 3794202, density= 0.00035325018813313786
+Created resized_3_cit-HepPh.mtx: nnz= 3794202, divz= 4, density= 0.00035325018813313786
+resized_3_cit-HepTh.mtx: nnz= 3175263, density= 0.0004574940327908307
+Created resized_3_cit-HepTh.mtx: nnz= 3175263, divz= 4, density= 0.0004574940327908307
+resized_3_ckt11752_dc_1.mtx: nnz= 2997261, density= 0.00013481379159422364
+Created resized_3_ckt11752_dc_1.mtx: nnz= 2997261, divz= 4, density= 0.00013481379159422364
+resized_3_ckt11752_tr_0.mtx: nnz= 2997261, density= 0.00013481379159422364
+Created resized_3_ckt11752_tr_0.mtx: nnz= 2997261, divz= 4, density= 0.00013481379159422364
+resized_3_cond-mat-2003.mtx: nnz= 2160522, density= 0.0002471938514503677
+Created resized_3_cond-mat-2003.mtx: nnz= 1981008, divz= 4, density= 0.00022665494601489366
+resized_3_cond-mat-2005.mtx: nnz= 3162474, density= 0.00021506530141209566
+Created resized_3_cond-mat-2005.mtx: nnz= 2925964, divz= 4, density= 0.00019898134485246078
+resized_3_cont-201.mtx: nnz= 3949155, density= 6.755312915744705e-05
+Created resized_3_cont-201.mtx: nnz= 2930693, divz= 4, density= 5.0131606065050866e-05
+resized_3_crystk01.mtx: nnz= 2843019, density= 0.01329192899408284
+Created resized_3_crystk01.mtx: nnz= 2825653, divz= 4, density= 0.013210737964789247
+resized_3_crystm02.mtx: nnz= 2906145, density= 0.0016557428556814777
+Created resized_3_crystm02.mtx: nnz= 2893877, divz= 4, density= 0.0016487533030770825
+resized_3_ct2010.mtx: nnz= 3027168, density= 7.365179664938298e-05
+Created resized_3_ct2010.mtx: nnz= 3001066, divz= 4, density= 7.301672809813568e-05
+resized_3_cvxbqp1.mtx: nnz= 3149712, density= 0.0001399872
+Created resized_3_cvxbqp1.mtx: nnz= 2963486, divz= 4, density= 0.0001317104888888889
+resized_3_cz40948.mtx: nnz= 3709332, density= 0.00024580335565510986
+Created resized_3_cz40948.mtx: nnz= 3709332, divz= 4, density= 0.00024580335565510986
+resized_3_delaunay_n16.mtx: nnz= 3538350, density= 9.153736755251884e-05
+Created resized_3_delaunay_n16.mtx: nnz= 3261898, divz= 4, density= 8.438553454147445e-05
+resized_3_deltaX.mtx: nnz= 2226816, density= 0.0001642349550747462
+Created resized_3_deltaX.mtx: nnz= 2226816, divz= 4, density= 0.0001642349550747462
+resized_3_dixmaanl.mtx: nnz= 2699982, density= 8.333277777777778e-05
+Created resized_3_dixmaanl.mtx: nnz= 2519980, divz= 4, density= 7.777716049382716e-05
+resized_3_ecl32.mtx: nnz= 3423735, density= 0.00014072390536524945
+Created resized_3_ecl32.mtx: nnz= 3423735, divz= 4, density= 0.00014072390536524945
+resized_3_email-Enron.mtx: nnz= 3308958, density= 0.0002730901120626302
+Created resized_3_email-Enron.mtx: nnz= 3235292, divz= 4, density= 0.0002670104168246714
+resized_3_email-EuAll.mtx: nnz= 3780405, density= 5.9717680112364216e-06
+Created resized_3_email-EuAll.mtx: nnz= 3780405, divz= 4, density= 5.9717680112364216e-06
+resized_3_enron.mtx: nnz= 2485287, density= 5.7593005557589994e-05
+Created resized_3_enron.mtx: nnz= 2485287, divz= 4, density= 5.7593005557589994e-05
+resized_3_epb3.mtx: nnz= 4172625, density= 6.475176317354203e-05
+Created resized_3_epb3.mtx: nnz= 4172625, divz= 4, density= 6.475176317354203e-05
+resized_3_ex19.mtx: nnz= 2338911, density= 0.0018032122878135777
+Created resized_3_ex19.mtx: nnz= 2338911, divz= 4, density= 0.0018032122878135777
+resized_3_ex35.mtx: nnz= 2053872, density= 0.0005870745392032884
+Created resized_3_ex35.mtx: nnz= 2052228, divz= 4, density= 0.0005866046216317697
+resized_3_ex40.mtx: nnz= 4122108, density= 0.007645307106277
+Created resized_3_ex40.mtx: nnz= 4111152, divz= 4, density= 0.007624986924307879
+resized_3_fe_body.mtx: nnz= 2947212, density= 0.00016108911257532943
+Created resized_3_fe_body.mtx: nnz= 2944668, divz= 4, density= 0.00016095006227884867
+resized_3_finance256.mtx: nnz= 2686464, density= 0.0002136745871645712
+Created resized_3_finance256.mtx: nnz= 2361296, divz= 4, density= 0.00018781154259776172
+resized_3_flower_8_4.mtx: nnz= 3377394, density= 5.434692219842027e-05
+Created resized_3_flower_8_4.mtx: nnz= 3377394, divz= 4, density= 5.434692219842027e-05
+resized_3_fome13.mtx: nnz= 2565504, density= 5.998788120891069e-05
+Created resized_3_fome13.mtx: nnz= 2565504, divz= 4, density= 5.998788120891069e-05
+resized_3_fome20.mtx: nnz= 2093823, density= 6.348981616629847e-05
+Created resized_3_fome20.mtx: nnz= 2093823, divz= 4, density= 6.348981616629847e-05
+resized_3_fome21.mtx: nnz= 4187646, density= 3.174490808314924e-05
+Created resized_3_fome21.mtx: nnz= 4187646, divz= 4, density= 3.174490808314924e-05
+resized_3_fxm3_16.mtx: nnz= 3530268, density= 0.00011087861348308159
+Created resized_3_fxm3_16.mtx: nnz= 3530268, divz= 4, density= 0.00011087861348308159
+resized_3_fxm4_6.mtx: nnz= 2388978, density= 0.00025114102544694894
+Created resized_3_fxm4_6.mtx: nnz= 2388978, divz= 4, density= 0.00025114102544694894
+resized_3_g7jac080.mtx: nnz= 2645784, density= 0.0005247051906682666
+Created resized_3_g7jac080.mtx: nnz= 2645784, divz= 4, density= 0.0005247051906682666
+resized_3_g7jac080sc.mtx: nnz= 2645784, density= 0.0005247051906682666
+Created resized_3_g7jac080sc.mtx: nnz= 2645784, divz= 4, density= 0.0005247051906682666
+resized_3_g7jac100.mtx: nnz= 3461724, density= 0.00043870553603464425
+Created resized_3_g7jac100.mtx: nnz= 3461724, divz= 4, density= 0.00043870553603464425
+resized_3_g7jac100sc.mtx: nnz= 3461724, density= 0.00043870553603464425
+Created resized_3_g7jac100sc.mtx: nnz= 3461724, divz= 4, density= 0.00043870553603464425
+resized_3_g7jac120.mtx: nnz= 4277664, density= 0.00037608407959313265
+Created resized_3_g7jac120.mtx: nnz= 4277664, divz= 4, density= 0.00037608407959313265
+resized_3_g7jac120sc.mtx: nnz= 4277664, density= 0.00037608407959313265
+Created resized_3_g7jac120sc.mtx: nnz= 4277664, divz= 4, density= 0.00037608407959313265
+resized_3_garon2.mtx: nnz= 3515463, density= 0.0021321782149168193
+Created resized_3_garon2.mtx: nnz= 3515463, divz= 4, density= 0.0021321782149168193
+resized_3_goodwin.mtx: nnz= 2923056, density= 0.0060613932933201945
+Created resized_3_goodwin.mtx: nnz= 2923056, divz= 4, density= 0.0060613932933201945
+resized_3_graham1.mtx: nnz= 3019536, density= 0.0041099958992407625
+Created resized_3_graham1.mtx: nnz= 3019536, divz= 4, density= 0.0041099958992407625
+resized_3_gyro_m.mtx: nnz= 3063879, density= 0.0011294828118937287
+Created resized_3_gyro_m.mtx: nnz= 3059331, divz= 4, density= 0.001127806215713366
+resized_3_helm3d01.mtx: nnz= 3855996, density= 0.00041255443459734616
+Created resized_3_helm3d01.mtx: nnz= 3327262, divz= 4, density= 0.00035598498887634615
+resized_3_igbt3.mtx: nnz= 2106054, density= 0.0019559203036072165
+Created resized_3_igbt3.mtx: nnz= 2106054, divz= 4, density= 0.0019559203036072165
+resized_3_inlet.mtx: nnz= 2954907, density= 0.0023861914386570818
+Created resized_3_inlet.mtx: nnz= 2954907, divz= 4, density= 0.0023861914386570818
+resized_3_jan99jac120.mtx: nnz= 2341818, density= 0.00015200420774322924
+Created resized_3_jan99jac120.mtx: nnz= 2341818, divz= 4, density= 0.00015200420774322924
+resized_3_jan99jac120sc.mtx: nnz= 2341818, density= 0.00015200420774322924
+Created resized_3_jan99jac120sc.mtx: nnz= 2341818, divz= 4, density= 0.00015200420774322924
+resized_3_k3plates.mtx: nnz= 3410343, density= 0.0030715812496252496
+Created resized_3_k3plates.mtx: nnz= 3408753, divz= 4, density= 0.0030701491900972477
+resized_3_lhr10.mtx: nnz= 2093697, density= 0.0020425828830337453
+Created resized_3_lhr10.mtx: nnz= 2093697, divz= 4, density= 0.0020425828830337453
+resized_3_lhr10c.mtx: nnz= 2093697, density= 0.0020425828830337453
+Created resized_3_lhr10c.mtx: nnz= 2093697, divz= 4, density= 0.0020425828830337453
+resized_3_lhr11.mtx: nnz= 2103669, density= 0.0019444502861076568
+Created resized_3_lhr11.mtx: nnz= 2103669, divz= 4, density= 0.0019444502861076568
+resized_3_lhr11c.mtx: nnz= 2103669, density= 0.0019444502861076568
+Created resized_3_lhr11c.mtx: nnz= 2103669, divz= 4, density= 0.0019444502861076568
+resized_3_lhr14.mtx: nnz= 2770722, density= 0.00151182839315258
+Created resized_3_lhr14.mtx: nnz= 2770722, divz= 4, density= 0.00151182839315258
+resized_3_lhr14c.mtx: nnz= 2770722, density= 0.00151182839315258
+Created resized_3_lhr14c.mtx: nnz= 2770722, divz= 4, density= 0.00151182839315258
+resized_3_lhr17.mtx: nnz= 3437775, density= 0.0012365020813958042
+Created resized_3_lhr17.mtx: nnz= 3437775, divz= 4, density= 0.0012365020813958042
+resized_3_lhr17c.mtx: nnz= 3437775, density= 0.0012365020813958042
+Created resized_3_lhr17c.mtx: nnz= 3437775, divz= 4, density= 0.0012365020813958042
+resized_3_lowThrust_11.mtx: nnz= 2014209, density= 0.0006633431996943632
+Created resized_3_lowThrust_11.mtx: nnz= 1724843, divz= 4, density= 0.0005680457562201462
+resized_3_lowThrust_12.mtx: nnz= 2021337, density= 0.0006592147754747225
+Created resized_3_lowThrust_12.mtx: nnz= 1731445, divz= 4, density= 0.0005646728511484383
+resized_3_lowThrust_13.mtx: nnz= 2024073, density= 0.0006588214872153999
+Created resized_3_lowThrust_13.mtx: nnz= 1733675, divz= 4, density= 0.0005642989861769603
+resized_3_lp_cre_b.mtx: nnz= 2347065, density= 0.00035041490328497607
+Created resized_3_lp_cre_b.mtx: nnz= 2347065, divz= 4, density= 0.00035041490328497607
+resized_3_lp_cre_d.mtx: nnz= 2219526, density= 0.00037362369601369846
+Created resized_3_lp_cre_d.mtx: nnz= 2219526, divz= 4, density= 0.00037362369601369846
+resized_3_lp_ken_18.mtx: nnz= 3223539, density= 2.2023616799327026e-05
+Created resized_3_lp_ken_18.mtx: nnz= 3223539, divz= 4, density= 2.2023616799327026e-05
+resized_3_lp_nug20.mtx: nnz= 2743200, density= 0.0002754820936639118
+Created resized_3_lp_nug20.mtx: nnz= 2743200, divz= 4, density= 0.0002754820936639118
+resized_3_lp_osa_14.mtx: nnz= 2853873, density= 0.00247614822386925
+Created resized_3_lp_osa_14.mtx: nnz= 2853873, divz= 4, density= 0.00247614822386925
+resized_3_lp_pds_20.mtx: nnz= 2093823, density= 6.348981616629847e-05
+Created resized_3_lp_pds_20.mtx: nnz= 2093823, divz= 4, density= 6.348981616629847e-05
+resized_3_lpl1.mtx: nnz= 2952324, density= 0.0003113325125686707
+Created resized_3_lpl1.mtx: nnz= 2129558, divz= 4, density= 0.0002245690658615766
+resized_3_lung2.mtx: nnz= 4433076, density= 4.11104073219064e-05
+Created resized_3_lung2.mtx: nnz= 4433076, divz= 4, density= 4.11104073219064e-05
+resized_3_luxembourg_osm.mtx: nnz= 2153988, density= 1.822380728464481e-05
+Created resized_3_luxembourg_osm.mtx: nnz= 2131980, divz= 4, density= 1.803760868431813e-05
+resized_3_man_5976.mtx: nnz= 2025414, density= 0.006301589669700668
+Created resized_3_man_5976.mtx: nnz= 2009572, divz= 4, density= 0.006252301087935459
+resized_3_mark3jac080.mtx: nnz= 2051595, density= 0.00017008788880060554
+Created resized_3_mark3jac080.mtx: nnz= 2051595, divz= 4, density= 0.00017008788880060554
+resized_3_mark3jac080sc.mtx: nnz= 2051595, density= 0.00017008788880060554
+Created resized_3_mark3jac080sc.mtx: nnz= 2051595, divz= 4, density= 0.00017008788880060554
+resized_3_mark3jac100.mtx: nnz= 2566935, density= 0.00013615372097326034
+Created resized_3_mark3jac100.mtx: nnz= 2566935, divz= 4, density= 0.00013615372097326034
+resized_3_mark3jac100sc.mtx: nnz= 2566935, density= 0.00013615372097326034
+Created resized_3_mark3jac100sc.mtx: nnz= 2566935, divz= 4, density= 0.00013615372097326034
+resized_3_mark3jac120.mtx: nnz= 3082275, density= 0.00011350774323375935
+Created resized_3_mark3jac120.mtx: nnz= 3082275, divz= 4, density= 0.00011350774323375935
+resized_3_mark3jac120sc.mtx: nnz= 3082275, density= 0.00011350774323375935
+Created resized_3_mark3jac120sc.mtx: nnz= 3082275, divz= 4, density= 0.00011350774323375935
+resized_3_mark3jac140.mtx: nnz= 3597615, density= 9.732069135909203e-05
+Created resized_3_mark3jac140.mtx: nnz= 3597615, divz= 4, density= 9.732069135909203e-05
+resized_3_mark3jac140sc.mtx: nnz= 3597615, density= 9.732069135909203e-05
+Created resized_3_mark3jac140sc.mtx: nnz= 3597615, divz= 4, density= 9.732069135909203e-05
+resized_3_me2010.mtx: nnz= 3019284, density= 6.941717214308457e-05
+Created resized_3_me2010.mtx: nnz= 2973240, divz= 4, density= 6.835856213019536e-05
+resized_3_mesh_deform_D.mtx: nnz= 2106207, density= 4.273084269494878e-06
+Created resized_3_mesh_deform_D.mtx: nnz= 2106207, divz= 4, density= 4.273084269494878e-06
+resized_3_mk12-b4.mtx: nnz= 2806650, density= 9.62000962000962e-05
+Created resized_3_mk12-b4.mtx: nnz= 2806650, divz= 4, density= 9.62000962000962e-05
+resized_3_n4c6-b12.mtx: nnz= 2995785, density= 0.0001877663031703618
+Created resized_3_n4c6-b12.mtx: nnz= 2995785, divz= 4, density= 0.0001877663031703618
+resized_3_n4c6-b5.mtx: nnz= 2797902, density= 0.0002991325157044571
+Created resized_3_n4c6-b5.mtx: nnz= 2797902, divz= 4, density= 0.0002991325157044571
+resized_3_ncvxbqp1.mtx: nnz= 3149712, density= 0.0001399872
+Created resized_3_ncvxbqp1.mtx: nnz= 2963486, divz= 4, density= 0.0001317104888888889
+resized_3_ncvxqp3.mtx: nnz= 4499676, density= 8.888248888888889e-05
+Created resized_3_ncvxqp3.mtx: nnz= 4064694, divz= 4, density= 8.029025185185185e-05
+resized_3_ncvxqp5.mtx: nnz= 3824694, density= 0.000108791296
+Created resized_3_ncvxqp5.mtx: nnz= 3434730, divz= 4, density= 9.769898666666666e-05
+resized_3_nemeth02.mtx: nnz= 3553272, density= 0.004369083293269459
+Created resized_3_nemeth02.mtx: nnz= 3552476, divz= 4, density= 0.004368104536140413
+resized_3_nemeth03.mtx: nnz= 3553272, density= 0.004369083293269459
+Created resized_3_nemeth03.mtx: nnz= 3552476, divz= 4, density= 0.004368104536140413
+resized_3_nemeth04.mtx: nnz= 3553272, density= 0.004369083293269459
+Created resized_3_nemeth04.mtx: nnz= 3552476, divz= 4, density= 0.004368104536140413
+resized_3_nemeth05.mtx: nnz= 3553272, density= 0.004369083293269459
+Created resized_3_nemeth05.mtx: nnz= 3552476, divz= 4, density= 0.004368104536140413
+resized_3_nemeth06.mtx: nnz= 3553272, density= 0.004369083293269459
+Created resized_3_nemeth06.mtx: nnz= 3552476, divz= 4, density= 0.004368104536140413
+resized_3_nemeth07.mtx: nnz= 3553308, density= 0.004369127558667255
+Created resized_3_nemeth07.mtx: nnz= 3552494, divz= 4, density= 0.004368126668839311
+resized_3_nemeth08.mtx: nnz= 3553344, density= 0.004369171824065052
+Created resized_3_nemeth08.mtx: nnz= 3552530, divz= 4, density= 0.004368170934237107
+resized_3_nemeth09.mtx: nnz= 3559554, density= 0.004376807605184877
+Created resized_3_nemeth09.mtx: nnz= 3558710, divz= 4, density= 0.004375769827525435
+resized_3_nemeth10.mtx: nnz= 3613032, density= 0.004442563853610965
+Created resized_3_nemeth10.mtx: nnz= 3612124, divz= 4, density= 0.004441447381910997
+resized_3_nemeth11.mtx: nnz= 3674376, density= 0.004517992091455499
+Created resized_3_nemeth11.mtx: nnz= 3673442, divz= 4, density= 0.004516843650301567
+resized_3_nemeth12.mtx: nnz= 4021362, density= 0.004944644128113091
+Created resized_3_nemeth12.mtx: nnz= 4020216, divz= 4, density= 0.004943235012949916
+resized_3_nemeth13.mtx: nnz= 4270248, density= 0.005250672955776345
+Created resized_3_nemeth13.mtx: nnz= 4268912, divz= 4, density= 0.005249030217680356
+resized_3_nemeth14.mtx: nnz= 4465296, density= 0.005490502881035548
+Created resized_3_nemeth14.mtx: nnz= 4463806, divz= 4, density= 0.005488670785404544
+resized_3_net25.mtx: nnz= 3610800, density= 0.004426770708283313
+Created resized_3_net25.mtx: nnz= 3320168, divz= 4, density= 0.00407046151794051
+resized_3_nh2010.mtx: nnz= 2110950, density= 9.834164791526656e-05
+Created resized_3_nh2010.mtx: nnz= 2093717, divz= 4, density= 9.753882377517618e-05
+resized_3_nmos3.mtx: nnz= 3479346, density= 0.0011188961559804116
+Created resized_3_nmos3.mtx: nnz= 3479346, divz= 4, density= 0.0011188961559804116
+resized_3_nv2010.mtx: nnz= 3752982, density= 5.8348545413123815e-05
+Created resized_3_nv2010.mtx: nnz= 3739474, divz= 4, density= 5.813853317447187e-05
+resized_3_onera_dual.mtx: nnz= 3772809, density= 5.7254509499561625e-05
+Created resized_3_onera_dual.mtx: nnz= 3708731, divz= 4, density= 5.6282089623624915e-05
+resized_3_onetone1.mtx: nnz= 3069792, density= 0.0002623537406335929
+Created resized_3_onetone1.mtx: nnz= 3069792, divz= 4, density= 0.0002623537406335929
+resized_3_onetone2.mtx: nnz= 2048652, density= 0.0001750840172417191
+Created resized_3_onetone2.mtx: nnz= 2048652, divz= 4, density= 0.0001750840172417191
+resized_3_pds-30.mtx: nnz= 3065715, density= 4.303351512996464e-05
+Created resized_3_pds-30.mtx: nnz= 3065715, divz= 4, density= 4.303351512996464e-05
+resized_3_pds-40.mtx: nnz= 4201200, density= 3.21031213570273e-05
+Created resized_3_pds-40.mtx: nnz= 4201200, divz= 4, density= 3.21031213570273e-05
+resized_3_poisson3Da.mtx: nnz= 3174858, density= 0.001931585635330921
+Created resized_3_poisson3Da.mtx: nnz= 2659996, divz= 4, density= 0.001618343265631946
+resized_3_pwt.mtx: nnz= 2934963, density= 0.0002445244933416349
+Created resized_3_pwt.mtx: nnz= 2482179, divz= 4, density= 0.00020680109505920378
+resized_3_raefsky1.mtx: nnz= 2648484, density= 0.02799811694215458
+Created resized_3_raefsky1.mtx: nnz= 2648484, divz= 4, density= 0.02799811694215458
+resized_3_raefsky2.mtx: nnz= 2648484, density= 0.02799811694215458
+Created resized_3_raefsky2.mtx: nnz= 2648484, divz= 4, density= 0.02799811694215458
+resized_3_rail507.mtx: nnz= 3688704, density= 0.012727414782378522
+Created resized_3_rail507.mtx: nnz= 3688704, divz= 4, density= 0.012727414782378522
+resized_3_rail516.mtx: nnz= 2838708, density= 0.012780721473048129
+Created resized_3_rail516.mtx: nnz= 2838708, divz= 4, density= 0.012780721473048129
+resized_3_rail582.mtx: nnz= 3620610, density= 0.012321869819624538
+Created resized_3_rail582.mtx: nnz= 3620610, divz= 4, density= 0.012321869819624538
+resized_3_rajat15.mtx: nnz= 3992157, density= 0.00031948913292005723
+Created resized_3_rajat15.mtx: nnz= 3523535, divz= 4, density= 0.00028198568893043885
+resized_3_rajat18.mtx: nnz= 4366287, density= 5.456342846732132e-05
+Created resized_3_rajat18.mtx: nnz= 4366287, divz= 4, density= 5.456342846732132e-05
+resized_3_rajat26.mtx: nnz= 2243718, density= 9.57283524151803e-05
+Created resized_3_rajat26.mtx: nnz= 2243718, divz= 4, density= 9.57283524151803e-05
+resized_3_rat.mtx: nnz= 2420172, density= 0.009114447756143274
+Created resized_3_rat.mtx: nnz= 2420172, divz= 4, density= 0.009114447756143274
+resized_3_rat_A_3.mtx: nnz= 2420172, density= 0.009114447756143274
+Created resized_3_rat_A_3.mtx: nnz= 2420172, divz= 4, density= 0.009114447756143274
+resized_3_rgg_n_2_15_s0.mtx: nnz= 2884320, density= 0.00029847025871276855
+Created resized_3_rgg_n_2_15_s0.mtx: nnz= 2880295, divz= 4, density= 0.0002980537505613433
+resized_3_rlfddd.mtx: nnz= 2381643, density= 0.0010620763641683328
+Created resized_3_rlfddd.mtx: nnz= 2381643, divz= 4, density= 0.0010620763641683328
+resized_3_rlfdual.mtx: nnz= 2538279, density= 0.0004672029434393396
+Created resized_3_rlfdual.mtx: nnz= 2538279, divz= 4, density= 0.0004672029434393396
+resized_3_rlfprim.mtx: nnz= 2885319, density= 8.683772729508518e-05
+Created resized_3_rlfprim.mtx: nnz= 2885319, divz= 4, density= 8.683772729508518e-05
+resized_3_s1rmq4m1.mtx: nnz= 2529999, density= 0.00933020913554033
+Created resized_3_s1rmq4m1.mtx: nnz= 2520943, divz= 4, density= 0.009296812136596277
+resized_3_s2rmq4m1.mtx: nnz= 2529999, density= 0.00933020913554033
+Created resized_3_s2rmq4m1.mtx: nnz= 2520943, divz= 4, density= 0.009296812136596277
+resized_3_s3rmq4m1.mtx: nnz= 2529999, density= 0.00933020913554033
+Created resized_3_s3rmq4m1.mtx: nnz= 2520943, divz= 4, density= 0.009296812136596277
+resized_3_sd2010.mtx: nnz= 3696498, density= 5.260615396785159e-05
+Created resized_3_sd2010.mtx: nnz= 3676812, divz= 4, density= 5.2325995626899926e-05
+resized_3_shallow_water1.mtx: nnz= 2949120, density= 4.8828125e-05
+Created resized_3_shallow_water1.mtx: nnz= 2946814, divz= 4, density= 4.878994491365221e-05
+resized_3_shallow_water2.mtx: nnz= 2949120, density= 4.8828125e-05
+Created resized_3_shallow_water2.mtx: nnz= 2946814, divz= 4, density= 4.878994491365221e-05
+resized_3_shyy161.mtx: nnz= 2967858, density= 5.637737489277148e-05
+Created resized_3_shyy161.mtx: nnz= 2967858, divz= 4, density= 5.637737489277148e-05
+resized_3_sinc12.mtx: nnz= 2654874, density= 0.005244195555555556
+Created resized_3_sinc12.mtx: nnz= 2654874, divz= 4, density= 0.005244195555555556
+resized_3_spmsrtls.mtx: nnz= 2069523, density= 0.0002555818535183435
+Created resized_3_spmsrtls.mtx: nnz= 2069505, divz= 4, density= 0.0002555796305551953
+resized_3_stat96v4.mtx: nnz= 4422024, density= 0.002454959711531741
+Created resized_3_stat96v4.mtx: nnz= 4422024, divz= 4, density= 0.002454959711531741
+resized_3_stat96v5.mtx: nnz= 2105289, density= 0.0013380512480017336
+Created resized_3_stat96v5.mtx: nnz= 2105289, divz= 4, density= 0.0013380512480017336
+resized_3_std1_Jac2_db.mtx: nnz= 4488939, density= 0.0010322069700107236
+Created resized_3_std1_Jac2_db.mtx: nnz= 4488939, divz= 4, density= 0.0010322069700107236
+resized_3_stormg2-125.mtx: nnz= 3899304, density= 3.796379903487037e-05
+Created resized_3_stormg2-125.mtx: nnz= 3899304, divz= 4, density= 3.796379903487037e-05
+resized_3_struct4.mtx: nnz= 2140182, density= 0.012566944114149822
+Created resized_3_struct4.mtx: nnz= 2104726, divz= 4, density= 0.012358749871552091
+resized_3_t0331-4l.mtx: nnz= 3878838, density= 0.013835005373727671
+Created resized_3_t0331-4l.mtx: nnz= 3878838, divz= 4, density= 0.013835005373727671
+resized_3_t520.mtx: nnz= 2577069, density= 0.009252634724906339
+Created resized_3_t520.mtx: nnz= 2569423, divz= 4, density= 0.009225182745503912
+resized_3_tandem_dual.mtx: nnz= 4144437, density= 5.2039124119923765e-05
+Created resized_3_tandem_dual.mtx: nnz= 4118671, divz= 4, density= 5.1715596443649775e-05
+resized_3_tandem_vtx.mtx: nnz= 2280150, density= 0.0007439433672076623
+Created resized_3_tandem_vtx.mtx: nnz= 2005944, divz= 4, density= 0.0006544783166853088
+resized_3_ted_A.mtx: nnz= 3821283, density= 0.003775246791197608
+Created resized_3_ted_A.mtx: nnz= 3821283, divz= 4, density= 0.003775246791197608
+resized_3_ted_A_unscaled.mtx: nnz= 3821283, density= 0.003775246791197608
+Created resized_3_ted_A_unscaled.mtx: nnz= 3821283, divz= 4, density= 0.003775246791197608
+resized_3_us04.mtx: nnz= 2677842, density= 0.06515514359892506
+Created resized_3_us04.mtx: nnz= 2677842, divz= 4, density= 0.06515514359892506
+resized_3_usroads-48.mtx: nnz= 2915100, density= 2.0354665989471852e-05
+Created resized_3_usroads-48.mtx: nnz= 2915098, divz= 4, density= 2.035465202448541e-05
+resized_3_usroads.mtx: nnz= 2977830, density= 1.9832361019731453e-05
+Created resized_3_usroads.mtx: nnz= 2977794, divz= 4, density= 1.9832121259571638e-05
+resized_3_vibrobox.mtx: nnz= 3085452, density= 0.0022557503513103445
+Created resized_3_vibrobox.mtx: nnz= 2739060, divz= 4, density= 0.002002505810254093
+resized_3_viscoplastic2.mtx: nnz= 3431934, density= 0.0003551158372064838
+Created resized_3_viscoplastic2.mtx: nnz= 3431934, divz= 4, density= 0.0003551158372064838
+resized_3_viscoplastic2_C_1.mtx: nnz= 3431934, density= 0.0003551158372064838
+Created resized_3_viscoplastic2_C_1.mtx: nnz= 3431934, divz= 4, density= 0.0003551158372064838
+resized_3_viscoplastic2_C_2.mtx: nnz= 3431934, density= 0.0003551158372064838
+Created resized_3_viscoplastic2_C_2.mtx: nnz= 3431934, divz= 4, density= 0.0003551158372064838
+resized_3_viscoplastic2_C_3.mtx: nnz= 3431934, density= 0.0003551158372064838
+Created resized_3_viscoplastic2_C_3.mtx: nnz= 3431934, divz= 4, density= 0.0003551158372064838
+resized_3_viscoplastic2_C_4.mtx: nnz= 3431934, density= 0.0003551158372064838
+Created resized_3_viscoplastic2_C_4.mtx: nnz= 3431934, divz= 4, density= 0.0003551158372064838
+resized_3_viscoplastic2_C_5.mtx: nnz= 3431934, density= 0.0003551158372064838
+Created resized_3_viscoplastic2_C_5.mtx: nnz= 3431934, divz= 4, density= 0.0003551158372064838
+resized_3_viscoplastic2_C_6.mtx: nnz= 3431934, density= 0.0003551158372064838
+Created resized_3_viscoplastic2_C_6.mtx: nnz= 3431934, divz= 4, density= 0.0003551158372064838
+resized_3_viscoplastic2_C_7.mtx: nnz= 3431934, density= 0.0003551158372064838
+Created resized_3_viscoplastic2_C_7.mtx: nnz= 3431934, divz= 4, density= 0.0003551158372064838
+resized_3_vsp_c-60_data_cti_cs4.mtx: nnz= 4339440, density= 6.545049770599507e-05
+Created resized_3_vsp_c-60_data_cti_cs4.mtx: nnz= 4271898, divz= 4, density= 6.443178157763328e-05
+resized_3_vsp_model1_crew1_cr42_south31.mtx: nnz= 3419568, density= 0.00018679119141387862
+Created resized_3_vsp_model1_crew1_cr42_south31.mtx: nnz= 3169799, divz= 4, density= 0.00017314775777306404
+resized_3_vsp_sctap1-2b_and_seymourl.mtx: nnz= 2534958, density= 0.00017451714850724435
+Created resized_3_vsp_sctap1-2b_and_seymourl.mtx: nnz= 2458613, divz= 4, density= 0.00016926123827015735
+resized_3_vsp_south31_slptsk.mtx: nnz= 3418452, density= 0.00024138282604953574
+Created resized_3_vsp_south31_slptsk.mtx: nnz= 3022115, divz= 4, density= 0.00021339678291422336
+resized_3_wathen100.mtx: nnz= 4244409, density= 0.0005102687577359558
+Created resized_3_wathen100.mtx: nnz= 4237581, divz= 4, density= 0.000509447886072122
+resized_3_wing.mtx: nnz= 2187792, density= 6.317306570916928e-05
+Created resized_3_wing.mtx: nnz= 1796352, divz= 4, density= 5.187013341889799e-05
+resized_3_wy2010.mtx: nnz= 3848274, density= 5.7539838772205316e-05
+Created resized_3_wy2010.mtx: nnz= 3824444, divz= 4, density= 5.718352985087028e-05
+resized_4_192bit.mtx: nnz= 2468848, density= 0.0008237389717082501
+Created resized_4_192bit.mtx: nnz= 2468848, divz= 4, density= 0.0008237389717082501
+resized_4_ABACUS_shell_ud.mtx: nnz= 3495744, density= 0.00039860487636483914
+Created resized_4_ABACUS_shell_ud.mtx: nnz= 3493888, divz= 4, density= 0.00039839324454897014
+resized_4_ABACUS_shell_ud_K.mtx: nnz= 3457312, density= 0.00039422263824658634
+Created resized_4_ABACUS_shell_ud_K.mtx: nnz= 3457312, divz= 4, density= 0.00039422263824658634
+resized_4_ABACUS_shell_ud_M.mtx: nnz= 3303584, density= 0.0003766936857735751
+Created resized_4_ABACUS_shell_ud_M.mtx: nnz= 3303584, divz= 4, density= 0.0003766936857735751
+resized_4_CAG_mat1916.mtx: nnz= 3135760, density= 0.05338654599657428
+Created resized_4_CAG_mat1916.mtx: nnz= 3135760, divz= 4, density= 0.05338654599657428
+resized_4_CurlCurl_0.mtx: nnz= 1813488, density= 0.0009227414654392766
+Created resized_4_CurlCurl_0.mtx: nnz= 1792924, divz= 4, density= 0.0009122780625960853
+resized_4_D6-6.mtx: nnz= 2350080, density= 5.131225215846833e-05
+Created resized_4_D6-6.mtx: nnz= 2350080, divz= 4, density= 5.131225215846833e-05
+resized_4_Franz8.mtx: nnz= 1605888, density= 0.0008361204013377926
+Created resized_4_Franz8.mtx: nnz= 1605888, divz= 4, density= 0.0008361204013377926
+resized_4_IG5-14.mtx: nnz= 2773392, density= 0.003377082840784855
+Created resized_4_IG5-14.mtx: nnz= 2773392, divz= 4, density= 0.003377082840784855
+resized_4_Ill_Stokes.mtx: nnz= 3061888, density= 0.00043827126655394234
+Created resized_4_Ill_Stokes.mtx: nnz= 3061888, divz= 4, density= 0.00043827126655394234
+resized_4_Kemelmacher.mtx: nnz= 1614000, density= 0.0003657737501219971
+Created resized_4_Kemelmacher.mtx: nnz= 1614000, divz= 4, density= 0.0003657737501219971
+resized_4_Muu.mtx: nnz= 2722144, density= 0.0033731043512003275
+Created resized_4_Muu.mtx: nnz= 2707060, divz= 4, density= 0.003354413236390271
+resized_4_OPF_3754.mtx: nnz= 2532368, density= 0.0006643448407792629
+Created resized_4_OPF_3754.mtx: nnz= 2066618, divz= 4, density= 0.0005421593568397479
+resized_4_SiH4.mtx: nnz= 2750448, density= 0.006764723671763391
+Created resized_4_SiH4.mtx: nnz= 2715586, divz= 4, density= 0.006678980623123673
+resized_4_SiNa.mtx: nnz= 3180592, density= 0.006027127059328546
+Created resized_4_SiNa.mtx: nnz= 3143276, divz= 4, density= 0.005956414351333964
+resized_4_TF16.mtx: nnz= 3458768, density= 0.0007247845799095795
+Created resized_4_TF16.mtx: nnz= 3458768, divz= 4, density= 0.0007247845799095795
+resized_4_TSOPF_FS_b9_c6.mtx: nnz= 2367552, density= 0.0007082774956672499
+Created resized_4_TSOPF_FS_b9_c6.mtx: nnz= 1399258, divz= 4, density= 0.0004186024011436136
+resized_4_TSOPF_RS_b162_c1.mtx: nnz= 3286384, density= 0.007112184276691492
+Created resized_4_TSOPF_RS_b162_c1.mtx: nnz= 3286384, divz= 4, density= 0.007112184276691492
+resized_4_Trec12.mtx: nnz= 2419504, density= 0.10067668602274528
+Created resized_4_Trec12.mtx: nnz= 2419504, divz= 4, density= 0.10067668602274528
+resized_4_Wordnet3.mtx: nnz= 2127424, density= 1.9455311844883557e-05
+Created resized_4_Wordnet3.mtx: nnz= 2127424, divz= 4, density= 1.9455311844883557e-05
+resized_4_Zhao1.mtx: nnz= 2663248, density= 0.00014517507777460893
+Created resized_4_Zhao1.mtx: nnz= 2663248, divz= 4, density= 0.00014517507777460893
+resized_4_Zhao2.mtx: nnz= 2663248, density= 0.00014517507777460893
+Created resized_4_Zhao2.mtx: nnz= 2663248, divz= 4, density= 0.00014517507777460893
+resized_4_abtaha2.mtx: nnz= 2195648, density= 0.010929719042471614
+Created resized_4_abtaha2.mtx: nnz= 2195648, divz= 4, density= 0.010929719042471614
+resized_4_aft01.mtx: nnz= 2009072, density= 0.001865169682581592
+Created resized_4_aft01.mtx: nnz= 2002862, divz= 4, density= 0.0018594044816685178
+resized_4_ak2010.mtx: nnz= 3473568, density= 0.00010583098183922451
+Created resized_4_ak2010.mtx: nnz= 3437974, divz= 4, density= 0.00010474652114417396
+resized_4_as-caida.mtx: nnz= 1708192, density= 0.00010842726485909405
+Created resized_4_as-caida.mtx: nnz= 1501976, divz= 4, density= 9.533773110048674e-05
+resized_4_as-caida_G_001.mtx: nnz= 1054560, density= 6.693805873684353e-05
+Created resized_4_as-caida_G_001.mtx: nnz= 1054072, divz= 4, density= 6.690708300036236e-05
+resized_4_as-caida_G_002.mtx: nnz= 1067904, density= 6.77850673999679e-05
+Created resized_4_as-caida_G_002.mtx: nnz= 1067376, divz= 4, density= 6.77515526686932e-05
+resized_4_as-caida_G_003.mtx: nnz= 1066880, density= 6.772006913325332e-05
+Created resized_4_as-caida_G_003.mtx: nnz= 1066080, divz= 4, density= 6.766928923738256e-05
+resized_4_as-caida_G_004.mtx: nnz= 1098720, density= 6.97411089889098e-05
+Created resized_4_as-caida_G_004.mtx: nnz= 1098160, divz= 4, density= 6.970556306180027e-05
+resized_4_as-caida_G_005.mtx: nnz= 1120416, density= 7.111825976492498e-05
+Created resized_4_as-caida_G_005.mtx: nnz= 1119280, divz= 4, density= 7.104615231278849e-05
+resized_4_as-caida_G_006.mtx: nnz= 1137504, density= 7.220291834072453e-05
+Created resized_4_as-caida_G_006.mtx: nnz= 1136096, divz= 4, density= 7.211354572399199e-05
+resized_4_as-caida_G_007.mtx: nnz= 1146528, density= 7.277571556614678e-05
+Created resized_4_as-caida_G_007.mtx: nnz= 1145120, divz= 4, density= 7.268634294941422e-05
+resized_4_as-caida_G_008.mtx: nnz= 1154240, density= 7.326523376234096e-05
+Created resized_4_as-caida_G_008.mtx: nnz= 1152896, divz= 4, density= 7.317992353727806e-05
+resized_4_as-caida_G_009.mtx: nnz= 1189504, density= 7.550361157232432e-05
+Created resized_4_as-caida_G_009.mtx: nnz= 1188664, divz= 4, density= 7.545029268166001e-05
+resized_4_as-caida_G_010.mtx: nnz= 1199904, density= 7.616375021864427e-05
+Created resized_4_as-caida_G_010.mtx: nnz= 1199272, divz= 4, density= 7.612363410090636e-05
+resized_4_as-caida_G_011.mtx: nnz= 1201888, density= 7.628968436040377e-05
+Created resized_4_as-caida_G_011.mtx: nnz= 1201200, divz= 4, density= 7.62460136499549e-05
+resized_4_as-caida_G_012.mtx: nnz= 1224480, density= 7.772370861979419e-05
+Created resized_4_as-caida_G_012.mtx: nnz= 1223705, divz= 4, density= 7.767451559566939e-05
+resized_4_as-caida_G_013.mtx: nnz= 1232032, density= 7.820307083681422e-05
+Created resized_4_as-caida_G_013.mtx: nnz= 1231209, divz= 4, density= 7.815083101893718e-05
+resized_4_as-caida_G_014.mtx: nnz= 1215712, density= 7.71671609610506e-05
+Created resized_4_as-caida_G_014.mtx: nnz= 1214929, divz= 4, density= 7.711746013796709e-05
+resized_4_as-caida_G_015.mtx: nnz= 1233984, density= 7.832697378273889e-05
+Created resized_4_as-caida_G_015.mtx: nnz= 1232873, divz= 4, density= 7.825645320234836e-05
+resized_4_as-caida_G_016.mtx: nnz= 1245760, density= 7.907445384995657e-05
+Created resized_4_as-caida_G_016.mtx: nnz= 1244738, divz= 4, density= 7.900958253298167e-05
+resized_4_as-caida_G_017.mtx: nnz= 1275488, density= 8.096143478051423e-05
+Created resized_4_as-caida_G_017.mtx: nnz= 1273522, divz= 4, density= 8.083664318641181e-05
+resized_4_as-caida_G_018.mtx: nnz= 1286336, density= 8.16500101685218e-05
+Created resized_4_as-caida_G_018.mtx: nnz= 1282570, divz= 4, density= 8.141096380871018e-05
+resized_4_as-caida_G_019.mtx: nnz= 1295520, density= 8.22329633731182e-05
+Created resized_4_as-caida_G_019.mtx: nnz= 1290874, divz= 4, density= 8.193805912784872e-05
+resized_4_as-caida_G_020.mtx: nnz= 1295168, density= 8.221062021893506e-05
+Created resized_4_as-caida_G_020.mtx: nnz= 1290138, divz= 4, density= 8.189134162364762e-05
+resized_4_as-caida_G_021.mtx: nnz= 1310112, density= 8.315918867380097e-05
+Created resized_4_as-caida_G_021.mtx: nnz= 1302722, divz= 4, density= 8.269010938569477e-05
+resized_4_as-caida_G_022.mtx: nnz= 1314208, density= 8.341918174065929e-05
+Created resized_4_as-caida_G_022.mtx: nnz= 1304410, divz= 4, density= 8.279725496598208e-05
+resized_4_as-caida_G_023.mtx: nnz= 1336384, density= 8.482680045419692e-05
+Created resized_4_as-caida_G_023.mtx: nnz= 1323674, divz= 4, density= 8.402003485855013e-05
+resized_4_as-caida_G_024.mtx: nnz= 1338240, density= 8.49446098126171e-05
+Created resized_4_as-caida_G_024.mtx: nnz= 1321522, divz= 4, density= 8.388343693865776e-05
+resized_4_as-caida_G_025.mtx: nnz= 1373600, density= 8.718908121010495e-05
+Created resized_4_as-caida_G_025.mtx: nnz= 1352770, divz= 4, density= 8.586689967136988e-05
+resized_4_as-caida_G_026.mtx: nnz= 1367488, density= 8.68011228056523e-05
+Created resized_4_as-caida_G_026.mtx: nnz= 1345930, divz= 4, density= 8.543273156167484e-05
+resized_4_as-caida_G_027.mtx: nnz= 1371904, density= 8.708142783085892e-05
+Created resized_4_as-caida_G_027.mtx: nnz= 1349458, divz= 4, density= 8.565667090246491e-05
+resized_4_as-caida_G_028.mtx: nnz= 1359392, density= 8.628723025944015e-05
+Created resized_4_as-caida_G_028.mtx: nnz= 1335866, divz= 4, density= 8.47939204716206e-05
+resized_4_as-caida_G_029.mtx: nnz= 1385056, density= 8.791624931897431e-05
+Created resized_4_as-caida_G_029.mtx: nnz= 1359978, divz= 4, density= 8.632442653316549e-05
+resized_4_as-caida_G_030.mtx: nnz= 1389600, density= 8.820467912752026e-05
+Created resized_4_as-caida_G_030.mtx: nnz= 1363329, divz= 4, density= 8.653713082199415e-05
+resized_4_as-caida_G_031.mtx: nnz= 1395712, density= 8.859263753197291e-05
+Created resized_4_as-caida_G_031.mtx: nnz= 1367441, divz= 4, density= 8.679813948676989e-05
+resized_4_as-caida_G_032.mtx: nnz= 1407008, density= 8.930964966166813e-05
+Created resized_4_as-caida_G_032.mtx: nnz= 1376617, divz= 4, density= 8.738058489240757e-05
+resized_4_as-caida_G_033.mtx: nnz= 1404544, density= 8.915324758238617e-05
+Created resized_4_as-caida_G_033.mtx: nnz= 1373001, divz= 4, density= 8.715105976307171e-05
+resized_4_as-caida_G_034.mtx: nnz= 1415840, density= 8.987025971208138e-05
+Created resized_4_as-caida_G_034.mtx: nnz= 1382448, divz= 4, density= 8.775070685843561e-05
+resized_4_as-caida_G_035.mtx: nnz= 1400960, density= 8.892575364888514e-05
+Created resized_4_as-caida_G_035.mtx: nnz= 1366648, divz= 4, density= 8.674780391498799e-05
+resized_4_as-caida_G_036.mtx: nnz= 1417856, density= 8.999822504967571e-05
+Created resized_4_as-caida_G_036.mtx: nnz= 1381016, divz= 4, density= 8.765981084482695e-05
+resized_4_as-caida_G_037.mtx: nnz= 1418464, density= 9.003681777053749e-05
+Created resized_4_as-caida_G_037.mtx: nnz= 1380712, divz= 4, density= 8.764051448439605e-05
+resized_4_as-caida_G_038.mtx: nnz= 1418304, density= 9.002666179136334e-05
+Created resized_4_as-caida_G_038.mtx: nnz= 1378928, divz= 4, density= 8.752727531660425e-05
+resized_4_as-caida_G_039.mtx: nnz= 1404864, density= 8.917355954073447e-05
+Created resized_4_as-caida_G_039.mtx: nnz= 1364538, divz= 4, density= 8.661387193962885e-05
+resized_4_as-caida_G_040.mtx: nnz= 1434528, density= 9.105647807962247e-05
+Created resized_4_as-caida_G_040.mtx: nnz= 1392098, divz= 4, density= 8.836323935237673e-05
+resized_4_as-caida_G_041.mtx: nnz= 1423104, density= 9.033134116658794e-05
+Created resized_4_as-caida_G_041.mtx: nnz= 1379698, divz= 4, density= 8.757615096637986e-05
+resized_4_as-caida_G_042.mtx: nnz= 1426816, density= 9.056695988342829e-05
+Created resized_4_as-caida_G_042.mtx: nnz= 1381386, divz= 4, density= 8.768329654666718e-05
+resized_4_as-caida_G_043.mtx: nnz= 1434848, density= 9.107679003797077e-05
+Created resized_4_as-caida_G_043.mtx: nnz= 1387282, divz= 4, density= 8.805754437923472e-05
+resized_4_as-caida_G_044.mtx: nnz= 1432960, density= 9.095694948371577e-05
+Created resized_4_as-caida_G_044.mtx: nnz= 1383194, divz= 4, density= 8.77980591113351e-05
+resized_4_as-caida_G_045.mtx: nnz= 1426432, density= 9.054258553341032e-05
+Created resized_4_as-caida_G_045.mtx: nnz= 1375866, divz= 4, density= 8.73329152651589e-05
+resized_4_as-caida_G_046.mtx: nnz= 1442752, density= 9.157849540917394e-05
+Created resized_4_as-caida_G_046.mtx: nnz= 1390450, divz= 4, density= 8.825863276688295e-05
+resized_4_as-caida_G_047.mtx: nnz= 1440032, density= 9.140584376321335e-05
+Created resized_4_as-caida_G_047.mtx: nnz= 1385482, divz= 4, density= 8.79432896135255e-05
+resized_4_as-caida_G_048.mtx: nnz= 1453120, density= 9.223660285965907e-05
+Created resized_4_as-caida_G_048.mtx: nnz= 1396866, divz= 4, density= 8.86658875317665e-05
+resized_4_as-caida_G_049.mtx: nnz= 1452544, density= 9.220004133463212e-05
+Created resized_4_as-caida_G_049.mtx: nnz= 1394642, divz= 4, density= 8.852471942124577e-05
+resized_4_as-caida_G_050.mtx: nnz= 1446272, density= 9.180192695100532e-05
+Created resized_4_as-caida_G_050.mtx: nnz= 1386394, divz= 4, density= 8.800117869481817e-05
+resized_4_as-caida_G_051.mtx: nnz= 1441600, density= 9.150537235912004e-05
+Created resized_4_as-caida_G_051.mtx: nnz= 1379674, divz= 4, density= 8.757462756950374e-05
+resized_4_as-caida_G_052.mtx: nnz= 1457600, density= 9.252097027653536e-05
+Created resized_4_as-caida_G_052.mtx: nnz= 1393682, divz= 4, density= 8.846378354620085e-05
+resized_4_as-caida_G_053.mtx: nnz= 1444736, density= 9.170442955093344e-05
+Created resized_4_as-caida_G_053.mtx: nnz= 1379914, divz= 4, density= 8.758986153826497e-05
+resized_4_as-caida_G_054.mtx: nnz= 1474720, density= 9.360766004816975e-05
+Created resized_4_as-caida_G_054.mtx: nnz= 1406666, divz= 4, density= 8.928794125618337e-05
+resized_4_as-caida_G_055.mtx: nnz= 1463616, density= 9.290283509348351e-05
+Created resized_4_as-caida_G_055.mtx: nnz= 1395034, divz= 4, density= 8.854960157022244e-05
+resized_4_as-caida_G_056.mtx: nnz= 1485216, density= 9.427389228199419e-05
+Created resized_4_as-caida_G_056.mtx: nnz= 1413138, divz= 4, density= 8.969875061377787e-05
+resized_4_as-caida_G_057.mtx: nnz= 1477344, density= 9.377421810662586e-05
+Created resized_4_as-caida_G_057.mtx: nnz= 1404810, divz= 4, density= 8.91701318977632e-05
+resized_4_as-caida_G_058.mtx: nnz= 1474720, density= 9.360766004816975e-05
+Created resized_4_as-caida_G_058.mtx: nnz= 1398874, divz= 4, density= 8.879334507040212e-05
+resized_4_as-caida_G_059.mtx: nnz= 1490496, density= 9.460903959474125e-05
+Created resized_4_as-caida_G_059.mtx: nnz= 1412178, divz= 4, density= 8.963781473873295e-05
+resized_4_as-caida_G_060.mtx: nnz= 1506880, density= 9.564901186217454e-05
+Created resized_4_as-caida_G_060.mtx: nnz= 1426851, divz= 4, density= 9.056918150387263e-05
+resized_4_as-caida_G_061.mtx: nnz= 1510176, density= 9.58582250331621e-05
+Created resized_4_as-caida_G_061.mtx: nnz= 1428227, divz= 4, density= 9.065652292477035e-05
+resized_4_as-caida_G_062.mtx: nnz= 1499648, density= 9.518996160350281e-05
+Created resized_4_as-caida_G_062.mtx: nnz= 1415635, divz= 4, density= 8.98572473637645e-05
+resized_4_as-caida_G_063.mtx: nnz= 1515776, density= 9.621368430425745e-05
+Created resized_4_as-caida_G_063.mtx: nnz= 1428635, divz= 4, density= 9.068242067166444e-05
+resized_4_as-caida_G_064.mtx: nnz= 1496928, density= 9.50173099575422e-05
+Created resized_4_as-caida_G_064.mtx: nnz= 1409601, divz= 4, density= 8.947423999915925e-05
+resized_4_as-caida_G_065.mtx: nnz= 1521088, density= 9.655086281283934e-05
+Created resized_4_as-caida_G_065.mtx: nnz= 1430451, divz= 4, density= 9.079769103529109e-05
+resized_4_as-caida_G_066.mtx: nnz= 1491392, density= 9.466591307811651e-05
+Created resized_4_as-caida_G_066.mtx: nnz= 1399531, divz= 4, density= 8.883504805988599e-05
+resized_4_as-caida_G_067.mtx: nnz= 1511744, density= 9.59577536290688e-05
+Created resized_4_as-caida_G_067.mtx: nnz= 1417513, divz= 4, density= 8.997645316932113e-05
+resized_4_as-caida_G_068.mtx: nnz= 1492960, density= 9.47654416740232e-05
+Created resized_4_as-caida_G_068.mtx: nnz= 1398283, divz= 4, density= 8.875583142232759e-05
+resized_4_as-caida_G_069.mtx: nnz= 1475040, density= 9.362797200651806e-05
+Created resized_4_as-caida_G_069.mtx: nnz= 1378835, divz= 4, density= 8.752137215370928e-05
+resized_4_as-caida_G_070.mtx: nnz= 1258944, density= 7.991130653390679e-05
+Created resized_4_as-caida_G_070.mtx: nnz= 1172075, divz= 4, density= 7.439730806590984e-05
+resized_4_as-caida_G_071.mtx: nnz= 1536192, density= 9.75095872468794e-05
+Created resized_4_as-caida_G_071.mtx: nnz= 1433226, divz= 4, density= 9.09738337990928e-05
+resized_4_as-caida_G_072.mtx: nnz= 1542464, density= 9.79077016305062e-05
+Created resized_4_as-caida_G_072.mtx: nnz= 1438082, divz= 4, density= 9.128206776702836e-05
+resized_4_as-caida_G_073.mtx: nnz= 1528864, density= 9.704444340070319e-05
+Created resized_4_as-caida_G_073.mtx: nnz= 1422242, divz= 4, density= 9.027662582878719e-05
+resized_4_as-caida_G_074.mtx: nnz= 1556736, density= 9.881361497284067e-05
+Created resized_4_as-caida_G_074.mtx: nnz= 1448050, divz= 4, density= 9.19147852695781e-05
+resized_4_as-caida_G_075.mtx: nnz= 1559872, density= 9.901267216465406e-05
+Created resized_4_as-caida_G_075.mtx: nnz= 1447898, divz= 4, density= 9.190513708936264e-05
+resized_4_as-caida_G_076.mtx: nnz= 1570848, density= 9.970937233600097e-05
+Created resized_4_as-caida_G_076.mtx: nnz= 1456402, divz= 4, density= 9.244492738246888e-05
+resized_4_as-caida_G_077.mtx: nnz= 1578624, density= 0.00010020295292386482
+Created resized_4_as-caida_G_077.mtx: nnz= 1463194, divz= 4, density= 9.287604869841169e-05
+resized_4_as-caida_G_078.mtx: nnz= 1580512, density= 0.00010032279347811982
+Created resized_4_as-caida_G_078.mtx: nnz= 1463314, divz= 4, density= 9.288366568279231e-05
+resized_4_as-caida_G_079.mtx: nnz= 1574272, density= 9.992671029032785e-05
+Created resized_4_as-caida_G_079.mtx: nnz= 1457008, divz= 4, density= 9.2483393153591e-05
+resized_4_as-caida_G_080.mtx: nnz= 1569792, density= 9.964234287345156e-05
+Created resized_4_as-caida_G_080.mtx: nnz= 1450472, divz= 4, density= 9.206852140432683e-05
+resized_4_as-caida_G_081.mtx: nnz= 1375808, density= 8.732923372270826e-05
+Created resized_4_as-caida_G_081.mtx: nnz= 1267952, divz= 4, density= 8.048308816141161e-05
+resized_4_as-caida_G_082.mtx: nnz= 1574400, density= 9.993483507366717e-05
+Created resized_4_as-caida_G_082.mtx: nnz= 1451552, divz= 4, density= 9.213707426375236e-05
+resized_4_as-caida_G_083.mtx: nnz= 1575200, density= 9.998561496953794e-05
+Created resized_4_as-caida_G_083.mtx: nnz= 1450560, divz= 4, density= 9.207410719287262e-05
+resized_4_as-caida_G_084.mtx: nnz= 1567552, density= 9.950015916501341e-05
+Created resized_4_as-caida_G_084.mtx: nnz= 1440216, divz= 4, density= 9.141752313926362e-05
+resized_4_as-caida_G_085.mtx: nnz= 1586656, density= 0.0001007127830784073
+Created resized_4_as-caida_G_085.mtx: nnz= 1457288, divz= 4, density= 9.250116611714576e-05
+resized_4_as-caida_G_086.mtx: nnz= 1594560, density= 0.00010121448844961047
+Created resized_4_as-caida_G_086.mtx: nnz= 1462544, divz= 4, density= 9.28347900330167e-05
+resized_4_as-caida_G_087.mtx: nnz= 1594432, density= 0.00010120636366627115
+Created resized_4_as-caida_G_087.mtx: nnz= 1459560, divz= 4, density= 9.264538102141874e-05
+resized_4_as-caida_G_088.mtx: nnz= 1605856, density= 0.00010193150057930568
+Created resized_4_as-caida_G_088.mtx: nnz= 1470536, divz= 4, density= 9.334208119276565e-05
+resized_4_as-caida_G_089.mtx: nnz= 1623616, density= 0.00010305881426763669
+Created resized_4_as-caida_G_089.mtx: nnz= 1484888, divz= 4, density= 9.425307252468718e-05
+resized_4_as-caida_G_090.mtx: nnz= 1614784, density= 0.00010249820421722343
+Created resized_4_as-caida_G_090.mtx: nnz= 1473008, divz= 4, density= 9.349899107100631e-05
+resized_4_as-caida_G_091.mtx: nnz= 1626464, density= 0.00010323959069693661
+Created resized_4_as-caida_G_091.mtx: nnz= 1481896, divz= 4, density= 9.406315571413052e-05
+resized_4_as-caida_G_092.mtx: nnz= 1628192, density= 0.00010334927527201746
+Created resized_4_as-caida_G_092.mtx: nnz= 1482608, divz= 4, density= 9.41083498214555e-05
+resized_4_as-caida_G_093.mtx: nnz= 1598656, density= 0.0001014744815164688
+Created resized_4_as-caida_G_093.mtx: nnz= 1452472, divz= 4, density= 9.219547114400376e-05
+resized_4_as-caida_G_094.mtx: nnz= 1639616, density= 0.000104074412185052
+Created resized_4_as-caida_G_094.mtx: nnz= 1487816, divz= 4, density= 9.443892694357419e-05
+resized_4_as-caida_G_095.mtx: nnz= 1636640, density= 0.00010388551097241275
+Created resized_4_as-caida_G_095.mtx: nnz= 1483608, divz= 4, density= 9.417182469129395e-05
+resized_4_as-caida_G_096.mtx: nnz= 1637696, density= 0.00010395254043496216
+Created resized_4_as-caida_G_096.mtx: nnz= 1481784, divz= 4, density= 9.405604652870862e-05
+resized_4_as-caida_G_097.mtx: nnz= 1635392, density= 0.00010380629433485436
+Created resized_4_as-caida_G_097.mtx: nnz= 1478520, divz= 4, density= 9.384886455355589e-05
+resized_4_as-caida_G_098.mtx: nnz= 1639488, density= 0.00010406628740171267
+Created resized_4_as-caida_G_098.mtx: nnz= 1479992, divz= 4, density= 9.39422995619581e-05
+resized_4_as-caida_G_099.mtx: nnz= 1656160, density= 0.00010512454043165944
+Created resized_4_as-caida_G_099.mtx: nnz= 1492792, divz= 4, density= 9.475477789589034e-05
+resized_4_as-caida_G_100.mtx: nnz= 1646208, density= 0.00010449283852702711
+Created resized_4_as-caida_G_100.mtx: nnz= 1480600, divz= 4, density= 9.398089228281987e-05
+resized_4_as-caida_G_101.mtx: nnz= 1648320, density= 0.00010462689745212593
+Created resized_4_as-caida_G_101.mtx: nnz= 1481992, divz= 4, density= 9.406924930163501e-05
+resized_4_as-caida_G_102.mtx: nnz= 1665536, density= 0.00010571968081126482
+Created resized_4_as-caida_G_102.mtx: nnz= 1497136, divz= 4, density= 9.503051273046861e-05
+resized_4_as-caida_G_103.mtx: nnz= 1674144, density= 0.00010626607249083426
+Created resized_4_as-caida_G_103.mtx: nnz= 1501648, divz= 4, density= 9.531691134317972e-05
+resized_4_as-caida_G_104.mtx: nnz= 1677184, density= 0.00010645903609514317
+Created resized_4_as-caida_G_104.mtx: nnz= 1502640, divz= 4, density= 9.537987841405948e-05
+resized_4_as-caida_G_105.mtx: nnz= 1675616, density= 0.00010635950749923647
+Created resized_4_as-caida_G_105.mtx: nnz= 1499112, divz= 4, density= 9.51559390732694e-05
+resized_4_as-caida_G_106.mtx: nnz= 1681472, density= 0.00010673121633701047
+Created resized_4_as-caida_G_106.mtx: nnz= 1503488, divz= 4, density= 9.543370510368249e-05
+resized_4_as-caida_G_107.mtx: nnz= 1685312, density= 0.00010697495983719015
+Created resized_4_as-caida_G_107.mtx: nnz= 1504328, divz= 4, density= 9.54870239943468e-05
+resized_4_as-caida_G_108.mtx: nnz= 1688384, density= 0.0001071699546373339
+Created resized_4_as-caida_G_108.mtx: nnz= 1504544, divz= 4, density= 9.55007345662319e-05
+resized_4_as-caida_G_109.mtx: nnz= 1676832, density= 0.00010643669294096003
+Created resized_4_as-caida_G_109.mtx: nnz= 1492512, divz= 4, density= 9.473700493233558e-05
+resized_4_as-caida_G_110.mtx: nnz= 1677536, density= 0.0001064813792493263
+Created resized_4_as-caida_G_110.mtx: nnz= 1493992, divz= 4, density= 9.48309477396965e-05
+resized_4_as-caida_G_111.mtx: nnz= 1676256, density= 0.00010640013141593308
+Created resized_4_as-caida_G_111.mtx: nnz= 1489176, divz= 4, density= 9.45252527665545e-05
+resized_4_as-caida_G_112.mtx: nnz= 1675680, density= 0.00010636356989090612
+Created resized_4_as-caida_G_112.mtx: nnz= 1487336, divz= 4, density= 9.440845900605172e-05
+resized_4_as-caida_G_113.mtx: nnz= 1686112, density= 0.00010702573973306091
+Created resized_4_as-caida_G_113.mtx: nnz= 1496144, divz= 4, density= 9.496754565958886e-05
+resized_4_as-caida_G_115.mtx: nnz= 1700992, density= 0.00010797024579625715
+Created resized_4_as-caida_G_115.mtx: nnz= 1505080, divz= 4, density= 9.553475709646531e-05
+resized_4_as-caida_G_116.mtx: nnz= 1705248, density= 0.00010824039484228964
+Created resized_4_as-caida_G_116.mtx: nnz= 1507456, divz= 4, density= 9.568557338720149e-05
+resized_4_as-caida_G_117.mtx: nnz= 1701568, density= 0.0001080068073212841
+Created resized_4_as-caida_G_117.mtx: nnz= 1503760, divz= 4, density= 9.545097026827855e-05
+resized_4_as-caida_G_118.mtx: nnz= 1715232, density= 0.00010887412794275679
+Created resized_4_as-caida_G_118.mtx: nnz= 1515416, divz= 4, density= 9.619083335111561e-05
+resized_4_as-caida_G_119.mtx: nnz= 1703392, density= 0.00010812258548386945
+Created resized_4_as-caida_G_119.mtx: nnz= 1500496, divz= 4, density= 9.524378829312583e-05
+resized_4_as-caida_G_120.mtx: nnz= 1704160, density= 0.0001081713341839054
+Created resized_4_as-caida_G_120.mtx: nnz= 1500168, divz= 4, density= 9.522296853581881e-05
+resized_4_as-caida_G_121.mtx: nnz= 1708192, density= 0.00010842726485909405
+Created resized_4_as-caida_G_121.mtx: nnz= 1501976, divz= 4, density= 9.533773110048674e-05
+resized_4_as-caida_G_122.mtx: nnz= 1691552, density= 0.00010737104302498212
+Created resized_4_as-caida_G_122.mtx: nnz= 1484948, divz= 4, density= 9.42568810168775e-05
+resized_4_aug3dcqp.mtx: nnz= 2049840, density= 0.00010141257678335722
+Created resized_4_aug3dcqp.mtx: nnz= 1260656, divz= 4, density= 6.236895240477304e-05
+resized_4_barth5.mtx: nnz= 1717792, density= 0.00044082618946248277
+Created resized_4_barth5.mtx: nnz= 1672244, divz= 4, density= 0.00042913749183341173
+resized_4_bauru5727.mtx: nnz= 2320304, density= 8.900071063341254e-05
+Created resized_4_bauru5727.mtx: nnz= 2320304, divz= 4, density= 8.900071063341254e-05
+resized_4_baxter.mtx: nnz= 1785216, density= 0.00013230184423868957
+Created resized_4_baxter.mtx: nnz= 1785216, divz= 4, density= 0.00013230184423868957
+resized_4_bcsstk15.mtx: nnz= 1885056, density= 0.007558750073139261
+Created resized_4_bcsstk15.mtx: nnz= 1877608, divz= 4, density= 0.00752888487521159
+resized_4_bcsstk18.mtx: nnz= 2385440, density= 0.0010443788948628972
+Created resized_4_bcsstk18.mtx: nnz= 2384746, divz= 4, density= 0.0010440750519856775
+resized_4_bcsstk24.mtx: nnz= 2558560, density= 0.012603402122535554
+Created resized_4_bcsstk24.mtx: nnz= 2241650, divz= 4, density= 0.01104231144393011
+resized_4_bcsstk28.mtx: nnz= 3504384, density= 0.011261974177426073
+Created resized_4_bcsstk28.mtx: nnz= 3499506, divz= 4, density= 0.011246297838863436
+resized_4_bfly.mtx: nnz= 3145728, density= 8.138020833333333e-05
+Created resized_4_bfly.mtx: nnz= 3096588, divz= 4, density= 8.01089530189832e-05
+resized_4_bfly_G_09.mtx: nnz= 1441792, density= 0.0001775568181818182
+Created resized_4_bfly_G_09.mtx: nnz= 1417228, divz= 4, density= 0.00017453175930937459
+resized_4_bfly_G_10.mtx: nnz= 3145728, density= 8.138020833333333e-05
+Created resized_4_bfly_G_10.mtx: nnz= 3096588, divz= 4, density= 8.01089530189832e-05
+resized_4_bibd_15_7.mtx: nnz= 2162160, density= 0.2
+Created resized_4_bibd_15_7.mtx: nnz= 2162160, divz= 4, density= 0.2
+resized_4_bloweya.mtx: nnz= 2400144, density= 0.0001666322284433977
+Created resized_4_bloweya.mtx: nnz= 2026762, divz= 4, density= 0.00014070983598667313
+resized_4_bloweybl.mtx: nnz= 1920000, density= 0.0001333066706661334
+Created resized_4_bloweybl.mtx: nnz= 1579994, divz= 4, density= 0.00010969986448565978
+resized_4_bodyy4.mtx: nnz= 1951008, density= 0.0003960799126060707
+Created resized_4_bodyy4.mtx: nnz= 1924936, divz= 4, density= 0.0003907869586656125
+resized_4_bodyy5.mtx: nnz= 2068496, density= 0.0003741300981802332
+Created resized_4_bodyy5.mtx: nnz= 2042312, divz= 4, density= 0.00036939418257258817
+resized_4_bodyy6.mtx: nnz= 2155968, density= 0.00035928780192262007
+Created resized_4_bodyy6.mtx: nnz= 2129598, divz= 4, density= 0.00035489329359193083
+resized_4_brainpc2.mtx: nnz= 2870320, density= 0.00023538127119188349
+Created resized_4_brainpc2.mtx: nnz= 2376158, divz= 4, density= 0.00019485739938151966
+resized_4_bratu3d.mtx: nnz= 2780736, density= 0.00022500914764801044
+Created resized_4_bratu3d.mtx: nnz= 1934764, divz= 4, density= 0.0001565555300970877
+resized_4_c-39.mtx: nnz= 2188976, density= 0.0015917243318817656
+Created resized_4_c-39.mtx: nnz= 1240054, divz= 4, density= 0.0009017111766631115
+resized_4_c-41.mtx: nnz= 1627920, density= 0.0010661366102363303
+Created resized_4_c-41.mtx: nnz= 929368, divz= 4, density= 0.0006086498410131443
+resized_4_c-42.mtx: nnz= 1764560, density= 0.0010058659996415055
+Created resized_4_c-42.mtx: nnz= 959852, divz= 4, density= 0.0005471519764065254
+resized_4_c-43.mtx: nnz= 1978800, density= 0.000999267769221058
+Created resized_4_c-43.mtx: nnz= 1122096, divz= 4, density= 0.0005666436056053529
+resized_4_c-45.mtx: nnz= 2791232, density= 0.001000307135781883
+Created resized_4_c-45.mtx: nnz= 1646896, divz= 4, density= 0.0005902059809756551
+resized_4_c-46.mtx: nnz= 2086352, density= 0.0005863238550058072
+Created resized_4_c-46.mtx: nnz= 1261864, divz= 4, density= 0.0003546194338122464
+resized_4_c-47.mtx: nnz= 3382416, density= 0.000898020947484166
+Created resized_4_c-47.mtx: nnz= 1062964, divz= 4, density= 0.0002822136420894293
+resized_4_c-48.mtx: nnz= 2657280, density= 0.0004930101737137733
+Created resized_4_c-48.mtx: nnz= 1288676, divz= 4, density= 0.000239090490509382
+resized_4_c-49.mtx: nnz= 2512672, density= 0.0003516694267796853
+Created resized_4_c-49.mtx: nnz= 1387996, divz= 4, density= 0.00019426162972823198
+resized_4_c-50.mtx: nnz= 3098000, density= 0.0003858572090465113
+Created resized_4_c-50.mtx: nnz= 1970668, divz= 4, density= 0.0002454475320972467
+resized_4_c-51.mtx: nnz= 3248800, density= 0.00037737818696761705
+Created resized_4_c-51.mtx: nnz= 1707312, divz= 4, density= 0.0001983200896171067
+resized_4_c-52.mtx: nnz= 3243456, density= 0.0003534675333106481
+Created resized_4_c-52.mtx: nnz= 1779508, divz= 4, density= 0.00019392842180272055
+resized_4_ca-CondMat.mtx: nnz= 2990976, density= 0.0003493244869340045
+Created resized_4_ca-CondMat.mtx: nnz= 2470624, divz= 4, density= 0.0002885511154910096
+resized_4_cage10.mtx: nnz= 2410320, density= 0.0011597746856765782
+Created resized_4_cage10.mtx: nnz= 2353090, divz= 4, density= 0.0011322373025650949
+resized_4_cari.mtx: nnz= 2444800, density= 0.31833333333333336
+Created resized_4_cari.mtx: nnz= 2444800, divz= 4, density= 0.31833333333333336
+resized_4_case9.mtx: nnz= 2367552, density= 0.0007082774956672499
+Created resized_4_case9.mtx: nnz= 1399258, divz= 4, density= 0.0004186024011436136
+resized_4_case9_A_01.mtx: nnz= 2367552, density= 0.0007082774956672499
+Created resized_4_case9_A_01.mtx: nnz= 1399258, divz= 4, density= 0.0004186024011436136
+resized_4_case9_A_02.mtx: nnz= 2367552, density= 0.0007082774956672499
+Created resized_4_case9_A_02.mtx: nnz= 1399258, divz= 4, density= 0.0004186024011436136
+resized_4_case9_A_03.mtx: nnz= 2367552, density= 0.0007082774956672499
+Created resized_4_case9_A_03.mtx: nnz= 1399258, divz= 4, density= 0.0004186024011436136
+resized_4_case9_A_04.mtx: nnz= 2367552, density= 0.0007082774956672499
+Created resized_4_case9_A_04.mtx: nnz= 1399258, divz= 4, density= 0.0004186024011436136
+resized_4_case9_A_05.mtx: nnz= 2367552, density= 0.0007082774956672499
+Created resized_4_case9_A_05.mtx: nnz= 1399258, divz= 4, density= 0.0004186024011436136
+resized_4_case9_A_06.mtx: nnz= 2367552, density= 0.0007082774956672499
+Created resized_4_case9_A_06.mtx: nnz= 1399258, divz= 4, density= 0.0004186024011436136
+resized_4_case9_A_07.mtx: nnz= 2367552, density= 0.0007082774956672499
+Created resized_4_case9_A_07.mtx: nnz= 1399258, divz= 4, density= 0.0004186024011436136
+resized_4_case9_A_08.mtx: nnz= 2367552, density= 0.0007082774956672499
+Created resized_4_case9_A_08.mtx: nnz= 1399258, divz= 4, density= 0.0004186024011436136
+resized_4_case9_A_09.mtx: nnz= 2367552, density= 0.0007082774956672499
+Created resized_4_case9_A_09.mtx: nnz= 1399258, divz= 4, density= 0.0004186024011436136
+resized_4_case9_A_10.mtx: nnz= 2367552, density= 0.0007082774956672499
+Created resized_4_case9_A_10.mtx: nnz= 1399258, divz= 4, density= 0.0004186024011436136
+resized_4_case9_A_11.mtx: nnz= 2367552, density= 0.0007082774956672499
+Created resized_4_case9_A_11.mtx: nnz= 1399258, divz= 4, density= 0.0004186024011436136
+resized_4_case9_A_12.mtx: nnz= 2367552, density= 0.0007082774956672499
+Created resized_4_case9_A_12.mtx: nnz= 1399258, divz= 4, density= 0.0004186024011436136
+resized_4_cat_ears_4_4.mtx: nnz= 2126208, density= 0.00015718931759907157
+Created resized_4_cat_ears_4_4.mtx: nnz= 2126208, divz= 4, density= 0.00015718931759907157
+resized_4_cavity16.mtx: nnz= 2210992, density= 0.006639824899706148
+Created resized_4_cavity16.mtx: nnz= 2210992, divz= 4, density= 0.006639824899706148
+resized_4_cavity17.mtx: nnz= 2210992, density= 0.006639824899706148
+Created resized_4_cavity17.mtx: nnz= 2200594, divz= 4, density= 0.006608598690245804
+resized_4_cavity18.mtx: nnz= 2210992, density= 0.006639824899706148
+Created resized_4_cavity18.mtx: nnz= 2210992, divz= 4, density= 0.006639824899706148
+resized_4_cavity19.mtx: nnz= 2210992, density= 0.006639824899706148
+Created resized_4_cavity19.mtx: nnz= 2200594, divz= 4, density= 0.006608598690245804
+resized_4_cavity20.mtx: nnz= 2210992, density= 0.006639824899706148
+Created resized_4_cavity20.mtx: nnz= 2210992, divz= 4, density= 0.006639824899706148
+resized_4_cavity21.mtx: nnz= 2210992, density= 0.006639824899706148
+Created resized_4_cavity21.mtx: nnz= 2200594, divz= 4, density= 0.006608598690245804
+resized_4_cavity22.mtx: nnz= 2210992, density= 0.006639824899706148
+Created resized_4_cavity22.mtx: nnz= 2210992, divz= 4, density= 0.006639824899706148
+resized_4_cavity23.mtx: nnz= 2210992, density= 0.006639824899706148
+Created resized_4_cavity23.mtx: nnz= 2200594, divz= 4, density= 0.006608598690245804
+resized_4_cavity24.mtx: nnz= 2210992, density= 0.006639824899706148
+Created resized_4_cavity24.mtx: nnz= 2210992, divz= 4, density= 0.006639824899706148
+resized_4_cavity25.mtx: nnz= 2210992, density= 0.006639824899706148
+Created resized_4_cavity25.mtx: nnz= 2200594, divz= 4, density= 0.006608598690245804
+resized_4_cavity26.mtx: nnz= 2210992, density= 0.006639824899706148
+Created resized_4_cavity26.mtx: nnz= 2210992, divz= 4, density= 0.006639824899706148
+resized_4_cca.mtx: nnz= 2228224, density= 5.764431423611111e-05
+Created resized_4_cca.mtx: nnz= 2203666, divz= 4, density= 5.700899701979425e-05
+resized_4_cca_G_09.mtx: nnz= 1015808, density= 0.0001250968491735537
+Created resized_4_cca_G_09.mtx: nnz= 1003538, divz= 4, density= 0.00012358579753844206
+resized_4_cca_G_10.mtx: nnz= 2228224, density= 5.764431423611111e-05
+Created resized_4_cca_G_10.mtx: nnz= 2203666, divz= 4, density= 5.700899701979425e-05
+resized_4_ccc.mtx: nnz= 2359296, density= 6.103515625e-05
+Created resized_4_ccc.mtx: nnz= 2224128, divz= 4, density= 5.7538350423177086e-05
+resized_4_ccc_G_09.mtx: nnz= 1081344, density= 0.00013316761363636363
+Created resized_4_ccc_G_09.mtx: nnz= 1013760, divz= 4, density= 0.0001248446377840909
+resized_4_ccc_G_10.mtx: nnz= 2359296, density= 6.103515625e-05
+Created resized_4_ccc_G_10.mtx: nnz= 2224128, divz= 4, density= 5.7538350423177086e-05
+resized_4_ch7-7-b5.mtx: nnz= 3386880, density= 0.00011337868480725624
+Created resized_4_ch7-7-b5.mtx: nnz= 3386880, divz= 4, density= 0.00011337868480725624
+resized_4_chem_master1.mtx: nnz= 3219216, density= 0.00012326673850863995
+Created resized_4_chem_master1.mtx: nnz= 3218004, divz= 4, density= 0.0001232203299150344
+resized_4_cis-n4c6-b4.mtx: nnz= 1604640, density= 0.0008375209380234506
+Created resized_4_cis-n4c6-b4.mtx: nnz= 1604640, divz= 4, density= 0.0008375209380234506
+resized_4_co9.mtx: nnz= 1754416, density= 0.00044334417204595455
+Created resized_4_co9.mtx: nnz= 1754416, divz= 4, density= 0.00044334417204595455
+resized_4_coater2.mtx: nnz= 3316928, density= 0.002277819530697186
+Created resized_4_coater2.mtx: nnz= 3316928, divz= 4, density= 0.002277819530697186
+resized_4_copter1.mtx: nnz= 3377024, density= 0.0007116181144801042
+Created resized_4_copter1.mtx: nnz= 3352296, divz= 4, density= 0.0007064073452540449
+resized_4_crystm01.mtx: nnz= 1685424, density= 0.004432410256410256
+Created resized_4_crystm01.mtx: nnz= 1675700, divz= 4, density= 0.0044068376068376065
+resized_4_cvxqp3.mtx: nnz= 1959392, density= 0.00039987591836734696
+Created resized_4_cvxqp3.mtx: nnz= 1779424, divz= 4, density= 0.0003631477551020408
+resized_4_cz10228.mtx: nnz= 1646016, density= 0.0009834054958751189
+Created resized_4_cz10228.mtx: nnz= 1646016, divz= 4, density= 0.0009834054958751189
+resized_4_cz20468.mtx: nnz= 3297216, density= 0.0004918997472052162
+Created resized_4_cz20468.mtx: nnz= 3297216, divz= 4, density= 0.0004918997472052162
+resized_4_de2010.mtx: nnz= 1856896, density= 0.0001995689928120616
+Created resized_4_de2010.mtx: nnz= 1747822, divz= 4, density= 0.0001878463178092705
+resized_4_delaunay_n15.mtx: nnz= 3144768, density= 0.00018304958939552307
+Created resized_4_delaunay_n15.mtx: nnz= 2889428, divz= 4, density= 0.0001681868452578783
+resized_4_dictionary28.mtx: nnz= 2849216, density= 6.423557952001139e-05
+Created resized_4_dictionary28.mtx: nnz= 2799050, divz= 4, density= 6.310458696549784e-05
+resized_4_e18.mtx: nnz= 2503456, density= 0.00016465504731807387
+Created resized_4_e18.mtx: nnz= 2503456, divz= 4, density= 0.00016465504731807387
+resized_4_epb2.mtx: nnz= 2800432, density= 0.0002750042491815062
+Created resized_4_epb2.mtx: nnz= 2800432, divz= 4, density= 0.0002750042491815062
+resized_4_f855_mat9.mtx: nnz= 2739424, density= 0.02776285970394758
+Created resized_4_f855_mat9.mtx: nnz= 2739424, divz= 4, density= 0.02776285970394758
+resized_4_f855_mat9_I.mtx: nnz= 2739424, density= 0.02776285970394758
+Created resized_4_f855_mat9_I.mtx: nnz= 2739424, divz= 4, density= 0.02776285970394758
+resized_4_flower_7_4.mtx: nnz= 3235488, density= 0.00010803092203798964
+Created resized_4_flower_7_4.mtx: nnz= 3235488, divz= 4, density= 0.00010803092203798964
+resized_4_foldoc.mtx: nnz= 1923808, density= 0.0006740450488437401
+Created resized_4_foldoc.mtx: nnz= 1923808, divz= 4, density= 0.0006740450488437401
+resized_4_fome12.mtx: nnz= 2280448, density= 0.00011997576241782138
+Created resized_4_fome12.mtx: nnz= 2280448, divz= 4, density= 0.00011997576241782138
+resized_4_ford1.mtx: nnz= 1625216, density= 0.00028960650010464794
+Created resized_4_ford1.mtx: nnz= 1490196, divz= 4, density= 0.00026554651691218024
+resized_4_g3rmt3m3.mtx: nnz= 3323120, density= 0.007237402878562481
+Created resized_4_g3rmt3m3.mtx: nnz= 3279710, divz= 4, density= 0.00714286050303635
+resized_4_g7jac040.mtx: nnz= 1834736, density= 0.000824946890055761
+Created resized_4_g7jac040.mtx: nnz= 1834736, divz= 4, density= 0.000824946890055761
+resized_4_g7jac040sc.mtx: nnz= 1834736, density= 0.000824946890055761
+Created resized_4_g7jac040sc.mtx: nnz= 1834736, divz= 4, density= 0.000824946890055761
+resized_4_g7jac050sc.mtx: nnz= 2527840, density= 0.0007251984782720456
+Created resized_4_g7jac050sc.mtx: nnz= 2527840, divz= 4, density= 0.0007251984782720456
+resized_4_g7jac060.mtx: nnz= 3253056, density= 0.0006467762823247375
+Created resized_4_g7jac060.mtx: nnz= 3253056, divz= 4, density= 0.0006467762823247375
+resized_4_g7jac060sc.mtx: nnz= 3253056, density= 0.0006467762823247375
+Created resized_4_g7jac060sc.mtx: nnz= 3253056, divz= 4, density= 0.0006467762823247375
+resized_4_gen4.mtx: nnz= 1713648, density= 0.016212924381466255
+Created resized_4_gen4.mtx: nnz= 1713648, divz= 4, density= 0.016212924381466255
+resized_4_graphics.mtx: nnz= 1887264, density= 0.00033830059936458545
+Created resized_4_graphics.mtx: nnz= 1887264, divz= 4, density= 0.00033830059936458545
+resized_4_hangGlider_4.mtx: nnz= 2392512, density= 0.0006175315298325252
+Created resized_4_hangGlider_4.mtx: nnz= 1881694, divz= 4, density= 0.00048568424087180493
+resized_4_hangGlider_5.mtx: nnz= 2483936, density= 0.0006055967057904701
+Created resized_4_hangGlider_5.mtx: nnz= 1952758, divz= 4, density= 0.0004760927060946767
+resized_4_hi2010.mtx: nnz= 1986016, density= 0.00019834763378556367
+Created resized_4_hi2010.mtx: nnz= 1934479, divz= 4, density= 0.00019320052419409685
+resized_4_hvdc1.mtx: nnz= 2559696, density= 0.00025923598838565215
+Created resized_4_hvdc1.mtx: nnz= 2559696, divz= 4, density= 0.00025923598838565215
+resized_4_inlet_E.mtx: nnz= 1525056, density= 0.0006927392329110005
+Created resized_4_inlet_E.mtx: nnz= 1525056, divz= 4, density= 0.0006927392329110005
+resized_4_internet.mtx: nnz= 3315424, density= 1.3336060604301289e-05
+Created resized_4_internet.mtx: nnz= 3315424, divz= 4, density= 1.3336060604301289e-05
+resized_4_jan99jac060.mtx: nnz= 2034912, density= 0.0002992961337732053
+Created resized_4_jan99jac060.mtx: nnz= 2034912, divz= 4, density= 0.0002992961337732053
+resized_4_jan99jac060sc.mtx: nnz= 2034912, density= 0.0002992961337732053
+Created resized_4_jan99jac060sc.mtx: nnz= 2034912, divz= 4, density= 0.0002992961337732053
+resized_4_jan99jac080.mtx: nnz= 2744352, density= 0.00022624615952545718
+Created resized_4_jan99jac080.mtx: nnz= 2744352, divz= 4, density= 0.00022624615952545718
+resized_4_jan99jac080sc.mtx: nnz= 2744352, density= 0.00022624615952545718
+Created resized_4_jan99jac080sc.mtx: nnz= 2744352, divz= 4, density= 0.00022624615952545718
+resized_4_jan99jac100.mtx: nnz= 3453792, density= 0.000181843129858524
+Created resized_4_jan99jac100.mtx: nnz= 3453792, divz= 4, density= 0.000181843129858524
+resized_4_jan99jac100sc.mtx: nnz= 3453792, density= 0.000181843129858524
+Created resized_4_jan99jac100sc.mtx: nnz= 3453792, divz= 4, density= 0.000181843129858524
+resized_4_jnlbrng1.mtx: nnz= 3187200, density= 0.0001245
+Created resized_4_jnlbrng1.mtx: nnz= 3185994, divz= 4, density= 0.000124452890625
+resized_4_juba40k.mtx: nnz= 2319120, density= 8.908324906849986e-05
+Created resized_4_juba40k.mtx: nnz= 2319120, divz= 4, density= 8.908324906849986e-05
+resized_4_kl02.mtx: nnz= 3400576, density= 0.08156802061997315
+Created resized_4_kl02.mtx: nnz= 3400576, divz= 4, density= 0.08156802061997315
+resized_4_lhr07.mtx: nnz= 2504128, density= 0.0029073646357957728
+Created resized_4_lhr07.mtx: nnz= 2504128, divz= 4, density= 0.0029073646357957728
+resized_4_lhr07c.mtx: nnz= 2504128, density= 0.0029073646357957728
+Created resized_4_lhr07c.mtx: nnz= 2504128, divz= 4, density= 0.0029073646357957728
+resized_4_lock3491.mtx: nnz= 2567104, density= 0.013165088506427421
+Created resized_4_lock3491.mtx: nnz= 2536826, divz= 4, density= 0.013009811373207416
+resized_4_lowThrust_10.mtx: nnz= 3552080, density= 0.00066582670420805
+Created resized_4_lowThrust_10.mtx: nnz= 3017182, divz= 4, density= 0.0005655616841557208
+resized_4_lowThrust_4.mtx: nnz= 2575152, density= 0.0008750551112859236
+Created resized_4_lowThrust_4.mtx: nnz= 2192976, divz= 4, density= 0.0007451889666036644
+resized_4_lowThrust_5.mtx: nnz= 3173904, density= 0.0007501116154467339
+Created resized_4_lowThrust_5.mtx: nnz= 2695354, divz= 4, density= 0.0006370124437099597
+resized_4_lowThrust_6.mtx: nnz= 3317584, density= 0.0007235868147001333
+Created resized_4_lowThrust_6.mtx: nnz= 2816068, divz= 4, density= 0.0006142028880350806
+resized_4_lowThrust_7.mtx: nnz= 3384976, density= 0.0007005449800931065
+Created resized_4_lowThrust_7.mtx: nnz= 2875266, divz= 4, density= 0.0005950568520226985
+resized_4_lowThrust_8.mtx: nnz= 3463120, density= 0.0006907213577356025
+Created resized_4_lowThrust_8.mtx: nnz= 2940494, divz= 4, density= 0.000586483289084234
+resized_4_lowThrust_9.mtx: nnz= 3513424, density= 0.0006744425226033105
+Created resized_4_lowThrust_9.mtx: nnz= 2983764, divz= 4, density= 0.0005727681370119132
+resized_4_lp_fit2d.mtx: nnz= 2064672, density= 0.4904675028506271
+Created resized_4_lp_fit2d.mtx: nnz= 2064672, divz= 4, density= 0.4904675028506271
+resized_4_lp_maros_r7.mtx: nnz= 2317568, density= 0.00490952120644176
+Created resized_4_lp_maros_r7.mtx: nnz= 2317568, divz= 4, density= 0.00490952120644176
+resized_4_lp_osa_07.mtx: nnz= 2316992, density= 0.005167260864318332
+Created resized_4_lp_osa_07.mtx: nnz= 2316992, divz= 4, density= 0.005167260864318332
+resized_4_lp_pds_10.mtx: nnz= 1721680, density= 0.00013015043132896757
+Created resized_4_lp_pds_10.mtx: nnz= 1721680, divz= 4, density= 0.00013015043132896757
+resized_4_lpl3.mtx: nnz= 1608400, density= 0.00027559820863275414
+Created resized_4_lpl3.mtx: nnz= 1608400, divz= 4, density= 0.00027559820863275414
+resized_4_mario001.mtx: nnz= 3298496, density= 0.00013956123614325205
+Created resized_4_mario001.mtx: nnz= 2959477, divz= 4, density= 0.00012521715001549894
+resized_4_mark3jac040.mtx: nnz= 1814960, density= 0.0003391307384528704
+Created resized_4_mark3jac040.mtx: nnz= 1814960, divz= 4, density= 0.0003391307384528704
+resized_4_mark3jac040sc.mtx: nnz= 1814960, density= 0.0003391307384528704
+Created resized_4_mark3jac040sc.mtx: nnz= 1814960, divz= 4, density= 0.0003391307384528704
+resized_4_mark3jac060.mtx: nnz= 2731120, density= 0.000226551919169227
+Created resized_4_mark3jac060.mtx: nnz= 2731120, divz= 4, density= 0.000226551919169227
+resized_4_mark3jac060sc.mtx: nnz= 2731120, density= 0.000226551919169227
+Created resized_4_mark3jac060sc.mtx: nnz= 2731120, divz= 4, density= 0.000226551919169227
+resized_4_mhd4800a.mtx: nnz= 1636032, density= 0.004438020833333334
+Created resized_4_mhd4800a.mtx: nnz= 1636032, divz= 4, density= 0.004438020833333334
+resized_4_minsurfo.mtx: nnz= 3257952, density= 0.00012228597437563112
+Created resized_4_minsurfo.mtx: nnz= 3256788, divz= 4, density= 0.00012224228408363997
+resized_4_mk12-b3.mtx: nnz= 3326400, density= 0.0002886002886002886
+Created resized_4_mk12-b3.mtx: nnz= 3326400, divz= 4, density= 0.0002886002886002886
+resized_4_mod2.mtx: nnz= 3196960, density= 8.652380889649278e-05
+Created resized_4_mod2.mtx: nnz= 3196960, divz= 4, density= 8.652380889649278e-05
+resized_4_model10.mtx: nnz= 2405952, density= 0.0020319552021793533
+Created resized_4_model10.mtx: nnz= 2405952, divz= 4, density= 0.0020319552021793533
+resized_4_mult_dcop_01.mtx: nnz= 3092416, density= 0.00030466673935334053
+Created resized_4_mult_dcop_01.mtx: nnz= 3092416, divz= 4, density= 0.00030466673935334053
+resized_4_mult_dcop_02.mtx: nnz= 3092416, density= 0.00030466673935334053
+Created resized_4_mult_dcop_02.mtx: nnz= 3092416, divz= 4, density= 0.00030466673935334053
+resized_4_mult_dcop_03.mtx: nnz= 3091456, density= 0.00030457215955884354
+Created resized_4_mult_dcop_03.mtx: nnz= 3091456, divz= 4, density= 0.00030457215955884354
+resized_4_n4c6-b4.mtx: nnz= 1604640, density= 0.0008375209380234506
+Created resized_4_n4c6-b4.mtx: nnz= 1604640, divz= 4, density= 0.0008375209380234506
+resized_4_nasa2910.mtx: nnz= 2788736, density= 0.0205826572666832
+Created resized_4_nasa2910.mtx: nnz= 2785774, divz= 4, density= 0.020560795810158124
+resized_4_nasa4704.mtx: nnz= 1676096, density= 0.004734174707297885
+Created resized_4_nasa4704.mtx: nnz= 1675186, divz= 4, density= 0.0047316043897363365
+resized_4_nemsemm2.mtx: nnz= 2912192, density= 0.0005363390637423295
+Created resized_4_nemsemm2.mtx: nnz= 2912192, divz= 4, density= 0.0005363390637423295
+resized_4_nemswrld.mtx: nnz= 3076528, density= 0.0009435354745254795
+Created resized_4_nemswrld.mtx: nnz= 3076528, divz= 4, density= 0.0009435354745254795
+resized_4_nsir.mtx: nnz= 2479024, density= 0.0034597092552687723
+Created resized_4_nsir.mtx: nnz= 2479024, divz= 4, density= 0.0034597092552687723
+resized_4_nsir_A_1.mtx: nnz= 2291984, density= 0.0032469162523447942
+Created resized_4_nsir_A_1.mtx: nnz= 2291984, divz= 4, density= 0.0032469162523447942
+resized_4_nsir_A_2.mtx: nnz= 2479024, density= 0.0034597092552687723
+Created resized_4_nsir_A_2.mtx: nnz= 2479024, divz= 4, density= 0.0034597092552687723
+resized_4_nug08-3rd.mtx: nnz= 2374656, density= 0.0002519799824233368
+Created resized_4_nug08-3rd.mtx: nnz= 2374656, divz= 4, density= 0.0002519799824233368
+resized_4_obstclae.mtx: nnz= 3161728, density= 0.000123505
+Created resized_4_obstclae.mtx: nnz= 3160552, divz= 4, density= 0.0001234590625
+resized_4_p010.mtx: nnz= 1888000, density= 0.0006126111720549626
+Created resized_4_p010.mtx: nnz= 1888000, divz= 4, density= 0.0006126111720549626
+resized_4_p2p-Gnutella31.mtx: nnz= 2366272, density= 3.7756374969070905e-05
+Created resized_4_p2p-Gnutella31.mtx: nnz= 2366272, divz= 4, density= 3.7756374969070905e-05
+resized_4_pds10.mtx: nnz= 2394528, density= 0.0005458636572075734
+Created resized_4_pds10.mtx: nnz= 1943290, divz= 4, density= 0.00044299811337136395
+resized_4_piston.mtx: nnz= 1600240, density= 0.024390184423106233
+Created resized_4_piston.mtx: nnz= 1594640, divz= 4, density= 0.024304831580551745
+resized_4_piston_E.mtx: nnz= 1542400, density= 0.023508611492150586
+Created resized_4_piston_E.mtx: nnz= 1536800, divz= 4, density= 0.023423258649596098
+resized_4_pltexpa.mtx: nnz= 2288944, density= 7.559781868721556e-05
+Created resized_4_pltexpa.mtx: nnz= 2288944, divz= 4, density= 7.559781868721556e-05
+resized_4_pltexpa_A_4.mtx: nnz= 2412816, density= 7.171519251549451e-05
+Created resized_4_pltexpa_A_4.mtx: nnz= 2412816, divz= 4, density= 7.171519251549451e-05
+resized_4_pltexpa_A_5.mtx: nnz= 2288944, density= 7.559781868721556e-05
+Created resized_4_pltexpa_A_5.mtx: nnz= 2288944, divz= 4, density= 7.559781868721556e-05
+resized_4_psse0.mtx: nnz= 1638912, density= 0.0003475921304424983
+Created resized_4_psse0.mtx: nnz= 1638912, divz= 4, density= 0.0003475921304424983
+resized_4_psse2.mtx: nnz= 1844192, density= 0.00036501219384318023
+Created resized_4_psse2.mtx: nnz= 1844192, divz= 4, density= 0.00036501219384318023
+resized_4_r05.mtx: nnz= 1666320, density= 0.0020708435488585456
+Created resized_4_r05.mtx: nnz= 1666320, divz= 4, density= 0.0020708435488585456
+resized_4_raefsky5.mtx: nnz= 2698528, density= 0.004227880497713618
+Created resized_4_raefsky5.mtx: nnz= 2698528, divz= 4, density= 0.004227880497713618
+resized_4_raefsky6.mtx: nnz= 2205520, density= 0.011910291729352413
+Created resized_4_raefsky6.mtx: nnz= 2205520, divz= 4, density= 0.011910291729352413
+resized_4_rail_20209.mtx: nnz= 2227728, density= 0.00034092004180540184
+Created resized_4_rail_20209.mtx: nnz= 2138614, divz= 4, density= 0.00032728249332307074
+resized_4_rail_20209_E.mtx: nnz= 2231568, density= 0.0003415076956664355
+Created resized_4_rail_20209_E.mtx: nnz= 2142454, divz= 4, density= 0.00032787014718410433
+resized_4_rajat09.mtx: nnz= 1689168, density= 0.0001761404394804154
+Created resized_4_rajat09.mtx: nnz= 1686184, divz= 4, density= 0.00017582927855893833
+resized_4_rajat10.mtx: nnz= 2084848, density= 0.0001428509089938927
+Created resized_4_rajat10.mtx: nnz= 2081560, divz= 4, density= 0.00014262561976955985
+resized_4_rajat22.mtx: nnz= 3156224, density= 0.00012391498061666586
+Created resized_4_rajat22.mtx: nnz= 3156224, divz= 4, density= 0.00012391498061666586
+resized_4_rat_A_1.mtx: nnz= 1412272, density= 0.0029917479587498264
+Created resized_4_rat_A_1.mtx: nnz= 1412272, divz= 4, density= 0.0029917479587498264
+resized_4_rat_A_2.mtx: nnz= 2198608, density= 0.004657517104418298
+Created resized_4_rat_A_2.mtx: nnz= 2198608, divz= 4, density= 0.004657517104418298
+resized_4_ri2010.mtx: nnz= 2012000, density= 0.00019831796057928155
+Created resized_4_ri2010.mtx: nnz= 1955470, divz= 4, density= 0.00019274593557354257
+resized_4_route.mtx: nnz= 3308512, density= 0.00023005455172813344
+Created resized_4_route.mtx: nnz= 3308512, divz= 4, density= 0.00023005455172813344
+resized_4_s1rmt3m1.mtx: nnz= 3512336, density= 0.007286007447744659
+Created resized_4_s1rmt3m1.mtx: nnz= 3501014, divz= 4, density= 0.007262521034052072
+resized_4_s2rmt3m1.mtx: nnz= 3512336, density= 0.007286007447744659
+Created resized_4_s2rmt3m1.mtx: nnz= 3501014, divz= 4, density= 0.007262521034052072
+resized_4_s3rmt3m1.mtx: nnz= 3512336, density= 0.007286007447744659
+Created resized_4_s3rmt3m1.mtx: nnz= 3501014, divz= 4, density= 0.007262521034052072
+resized_4_s3rmt3m3.mtx: nnz= 3323120, density= 0.007237402878562481
+Created resized_4_s3rmt3m3.mtx: nnz= 3279710, divz= 4, density= 0.00714286050303635
+resized_4_sc205-2r.mtx: nnz= 1971824, density= 5.6066120005156326e-05
+Created resized_4_sc205-2r.mtx: nnz= 1971824, divz= 4, density= 5.6066120005156326e-05
+resized_4_sc205-2r_A_11.mtx: nnz= 986224, density= 0.00011208503200873316
+Created resized_4_sc205-2r_A_11.mtx: nnz= 986224, divz= 4, density= 0.00011208503200873316
+resized_4_sc205-2r_A_12.mtx: nnz= 1971824, density= 5.6066120005156326e-05
+Created resized_4_sc205-2r_A_12.mtx: nnz= 1971824, divz= 4, density= 5.6066120005156326e-05
+resized_4_scagr7-2r.mtx: nnz= 1922256, density= 7.835631227852766e-05
+Created resized_4_scagr7-2r.mtx: nnz= 1922256, divz= 4, density= 7.835631227852766e-05
+resized_4_scagr7-2r_A_10.mtx: nnz= 961488, density= 0.00015662259171458437
+Created resized_4_scagr7-2r_A_10.mtx: nnz= 961488, divz= 4, density= 0.00015662259171458437
+resized_4_scagr7-2r_A_11.mtx: nnz= 1922256, density= 7.835631227852766e-05
+Created resized_4_scagr7-2r_A_11.mtx: nnz= 1922256, divz= 4, density= 7.835631227852766e-05
+resized_4_scfxm1-2b.mtx: nnz= 1776832, density= 0.0001765300514737417
+Created resized_4_scfxm1-2b.mtx: nnz= 1776832, divz= 4, density= 0.0001765300514737417
+resized_4_scfxm1-2b_A_3.mtx: nnz= 1776832, density= 0.0001765300514737417
+Created resized_4_scfxm1-2b_A_3.mtx: nnz= 1776832, divz= 4, density= 0.0001765300514737417
+resized_4_scfxm1-2r.mtx: nnz= 3542208, density= 8.839555268170589e-05
+Created resized_4_scfxm1-2r.mtx: nnz= 3542208, divz= 4, density= 8.839555268170589e-05
+resized_4_scfxm1-2r_A_6.mtx: nnz= 894144, density= 0.0003520189081850481
+Created resized_4_scfxm1-2r_A_6.mtx: nnz= 894144, divz= 4, density= 0.0003520189081850481
+resized_4_scfxm1-2r_A_7.mtx: nnz= 1335488, density= 0.00023514172650054694
+Created resized_4_scfxm1-2r_A_7.mtx: nnz= 1335488, divz= 4, density= 0.00023514172650054694
+resized_4_scfxm1-2r_A_8.mtx: nnz= 1776832, density= 0.0001765300514737417
+Created resized_4_scfxm1-2r_A_8.mtx: nnz= 1776832, divz= 4, density= 0.0001765300514737417
+resized_4_scfxm1-2r_A_9.mtx: nnz= 3542208, density= 8.839555268170589e-05
+Created resized_4_scfxm1-2r_A_9.mtx: nnz= 3542208, divz= 4, density= 8.839555268170589e-05
+resized_4_scsd8-2b.mtx: nnz= 1804320, density= 0.0006121541670941486
+Created resized_4_scsd8-2b.mtx: nnz= 1804320, divz= 4, density= 0.0006121541670941486
+resized_4_scsd8-2b_A_3.mtx: nnz= 1804320, density= 0.0006121541670941486
+Created resized_4_scsd8-2b_A_3.mtx: nnz= 1804320, divz= 4, density= 0.0006121541670941486
+resized_4_scsd8-2c.mtx: nnz= 1804320, density= 0.0006121541670941486
+Created resized_4_scsd8-2c.mtx: nnz= 1804320, divz= 4, density= 0.0006121541670941486
+resized_4_scsd8-2c_A_3.mtx: nnz= 1804320, density= 0.0006121541670941486
+Created resized_4_scsd8-2c_A_3.mtx: nnz= 1804320, divz= 4, density= 0.0006121541670941486
+resized_4_scsd8-2r.mtx: nnz= 3043360, density= 0.0003631642506312559
+Created resized_4_scsd8-2r.mtx: nnz= 3043360, divz= 4, density= 0.0003631642506312559
+resized_4_scsd8-2r_A_10.mtx: nnz= 1522720, density= 0.0007251473038799228
+Created resized_4_scsd8-2r_A_10.mtx: nnz= 1522720, divz= 4, density= 0.0007251473038799228
+resized_4_scsd8-2r_A_11.mtx: nnz= 3043360, density= 0.0003631642506312559
+Created resized_4_scsd8-2r_A_11.mtx: nnz= 3043360, divz= 4, density= 0.0003631642506312559
+resized_4_sctap1-2r.mtx: nnz= 2981856, density= 0.00010191889780984128
+Created resized_4_sctap1-2r.mtx: nnz= 2981856, divz= 4, density= 0.00010191889780984128
+resized_4_sctap1-2r_A_10.mtx: nnz= 1342944, density= 0.0002260981129074724
+Created resized_4_sctap1-2r_A_10.mtx: nnz= 1342944, divz= 4, density= 0.0002260981129074724
+resized_4_sctap1-2r_A_11.mtx: nnz= 2981856, density= 0.00010191889780984128
+Created resized_4_sctap1-2r_A_11.mtx: nnz= 2981856, divz= 4, density= 0.00010191889780984128
+resized_4_shermanACb.mtx: nnz= 2322384, density= 0.00042364414697211285
+Created resized_4_shermanACb.mtx: nnz= 2322384, divz= 4, density= 0.00042364414697211285
+resized_4_shock-9.mtx: nnz= 2281280, density= 0.00010716283547529328
+Created resized_4_shock-9.mtx: nnz= 2280884, divz= 4, density= 0.0001071442334260717
+resized_4_shuttle_eddy.mtx: nnz= 1657584, density= 0.0009525115014805307
+Created resized_4_shuttle_eddy.mtx: nnz= 1463554, divz= 4, density= 0.0008410144029128157
+resized_4_skirt.mtx: nnz= 3144320, density= 0.0012382363451678702
+Created resized_4_skirt.mtx: nnz= 3143572, divz= 4, density= 0.0012379417820234748
+resized_4_south31.mtx: nnz= 1798368, density= 0.0001679551363525973
+Created resized_4_south31.mtx: nnz= 1798368, divz= 4, density= 0.0001679551363525973
+resized_4_stokes64.mtx: nnz= 2240544, density= 0.0008896576714381655
+Created resized_4_stokes64.mtx: nnz= 1866152, divz= 4, density= 0.0007409970270031186
+resized_4_stokes64s.mtx: nnz= 2240544, density= 0.0008896576714381655
+Created resized_4_stokes64s.mtx: nnz= 1866152, divz= 4, density= 0.0007409970270031186
+resized_4_t2dah.mtx: nnz= 2817872, density= 0.0013445274863866372
+Created resized_4_t2dah.mtx: nnz= 2814060, divz= 4, density= 0.0013427086178297595
+resized_4_t2dah_E.mtx: nnz= 2817872, density= 0.0013445274863866372
+Created resized_4_t2dah_E.mtx: nnz= 2814060, divz= 4, density= 0.0013427086178297595
+resized_4_t2dah_a.mtx: nnz= 2817872, density= 0.0013445274863866372
+Created resized_4_t2dah_a.mtx: nnz= 2814060, divz= 4, density= 0.0013427086178297595
+resized_4_t2dah_e.mtx: nnz= 2817872, density= 0.0013445274863866372
+Created resized_4_t2dah_e.mtx: nnz= 2814060, divz= 4, density= 0.0013427086178297595
+resized_4_t60k.mtx: nnz= 2862080, density= 4.9680608442477586e-05
+Created resized_4_t60k.mtx: nnz= 2857668, divz= 4, density= 4.960402398486347e-05
+resized_4_ted_B.mtx: nnz= 2313264, density= 0.0012855348982059249
+Created resized_4_ted_B.mtx: nnz= 2311824, divz= 4, density= 0.0012847346565329396
+resized_4_ted_B_unscaled.mtx: nnz= 2313264, density= 0.0012855348982059249
+Created resized_4_ted_B_unscaled.mtx: nnz= 2311824, divz= 4, density= 0.0012847346565329396
+resized_4_torsion1.mtx: nnz= 3161728, density= 0.000123505
+Created resized_4_torsion1.mtx: nnz= 3160552, divz= 4, density= 0.0001234590625
+resized_4_ulevimin.mtx: nnz= 2632608, density= 0.0005319434570919215
+Created resized_4_ulevimin.mtx: nnz= 2632608, divz= 4, density= 0.0005319434570919215
+resized_4_vsp_barth5_1Ksep_50in_5Kout.mtx: nnz= 3257760, density= 0.00019622924056352173
+Created resized_4_vsp_barth5_1Ksep_50in_5Kout.mtx: nnz= 2721733, divz= 4, density= 0.00016394197227747768
+resized_4_vsp_befref_fxm_2_4_air02.mtx: nnz= 3143168, density= 0.0009868590877116477
+Created resized_4_vsp_befref_fxm_2_4_air02.mtx: nnz= 2720184, divz= 4, density= 0.0008540549854948321
+resized_4_vsp_c-30_data_data.mtx: nnz= 1989888, density= 0.0010235499361519907
+Created resized_4_vsp_c-30_data_data.mtx: nnz= 1972180, divz= 4, density= 0.0010144413721175428
+resized_4_vsp_data_and_seymourl.mtx: nnz= 1787712, density= 0.0013296064400875223
+Created resized_4_vsp_data_and_seymourl.mtx: nnz= 1698627, divz= 4, density= 0.0012633496886000361
+resized_4_vsp_p0291_seymourl_iiasa.mtx: nnz= 1723776, density= 0.0009775696509302537
+Created resized_4_vsp_p0291_seymourl_iiasa.mtx: nnz= 1671853, divz= 4, density= 0.0009481236272095083
+resized_4_vt2010.mtx: nnz= 2489568, density= 0.00014658915806621921
+Created resized_4_vt2010.mtx: nnz= 2434546, divz= 4, density= 0.00014334938769034697
+resized_4_wang3.mtx: nnz= 2834688, density= 0.00026079733468091574
+Created resized_4_wang3.mtx: nnz= 2829318, divz= 4, density= 0.0002603032832413088
+resized_4_wang4.mtx: nnz= 2835136, density= 0.0002607585091189486
+Created resized_4_wang4.mtx: nnz= 2829670, divz= 4, density= 0.0002602557797927913
+resized_4_wiki-Vote.mtx: nnz= 1659024, density= 0.0015062272690078557
+Created resized_4_wiki-Vote.mtx: nnz= 1659024, divz= 4, density= 0.0015062272690078557
+resized_4_wing_nodal.mtx: nnz= 2415616, density= 0.0012621515083574108
+Created resized_4_wing_nodal.mtx: nnz= 2093238, divz= 4, density= 0.0010937100512047652
+resized_4_world.mtx: nnz= 3182128, density= 8.583737547772335e-05
+Created resized_4_world.mtx: nnz= 3182128, divz= 4, density= 8.583737547772335e-05

@@ -1,0 +1,9 @@
+-----333SP.mtx Benchmark Started at 17:54:54-----
+ViennaCl
+Matrix:/local/panastas/Full_suite/333SP.mtxReading matrix...
+GPU CSR align1: t= 7.62107 ms, GFLOPs= 5.83048
+GPU CSR align4: t=9.47143 ms, GFLOPs= 4.69143
+GPU CSR align8: t=9.30992 ms, GFLOPs= 4.77282
+GPU Hybrid: t= 9.14067 ms, GFLOPs= 4.86119
+GPU Sliced Ell: t= 8.57316 ms, GFLOPs= 5.18298
+------End of 333SP.mtx Benchmark at 17:55:09------

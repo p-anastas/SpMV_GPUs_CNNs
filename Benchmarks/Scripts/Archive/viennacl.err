@@ -1,0 +1,6 @@
+/var/spool/torque/mom_priv/jobs/351399.localhost.SC: line 34: 19473 Segmentation fault      $vienna "${dir1}Benched/${filename}" >> $tempie
+/var/spool/torque/mom_priv/jobs/351399.localhost.SC: line 34: 24477 Segmentation fault      $vienna "${dir1}Benched/${filename}" >> $tempie
+/var/spool/torque/mom_priv/jobs/351399.localhost.SC: line 34:  2279 Segmentation fault      $vienna "${dir1}Benched/${filename}" >> $tempie
+/var/spool/torque/mom_priv/jobs/351399.localhost.SC: line 34: 12578 Segmentation fault      $vienna "${dir1}Benched/${filename}" >> $tempie
+/var/spool/torque/mom_priv/jobs/351399.localhost.SC: line 34: 17776 Segmentation fault      $vienna "${dir1}Benched/${filename}" >> $tempie
+/var/spool/torque/mom_priv/jobs/351399.localhost.SC: line 34: 24436 Segmentation fault      $vienna "${dir1}Benched/${filename}" >> $tempie

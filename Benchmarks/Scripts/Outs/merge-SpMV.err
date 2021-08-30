@@ -1,0 +1,46 @@
+Front end time                       1.06 (CPU)       1.00 (elapsed)
+Back end time                        0.03 (CPU)       0.00 (elapsed)
+Total compilation time               1.09 (CPU)       1.00 (elapsed)
+Front end time                       0.04 (CPU)       0.00 (elapsed)
+Back end time                        0.01 (CPU)       0.00 (elapsed)
+Total compilation time               0.05 (CPU)       0.00 (elapsed)
+Front end time                       1.01 (CPU)       1.00 (elapsed)
+Back end time                        0.09 (CPU)       0.00 (elapsed)
+Total compilation time               1.10 (CPU)       1.00 (elapsed)
+ptxas info    : 472 bytes gmem
+ptxas info    : Compiling entry function '_ZN3cub20DeviceSpmv1ColKernelINS_12DispatchSpmvIdiE14PtxSpmvPolicyTEdiEEvNS_10SpmvParamsIT0_T1_EE' for 'sm_35'
+ptxas info    : Function properties for _ZN3cub20DeviceSpmv1ColKernelINS_12DispatchSpmvIdiE14PtxSpmvPolicyTEdiEEvNS_10SpmvParamsIT0_T1_EE
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 13 registers, 408 bytes cmem[0]
+ptxas info    : Compiling entry function '_ZN3cub20DeviceSpmv1ColKernelINS_12DispatchSpmvIfiE14PtxSpmvPolicyTEfiEEvNS_10SpmvParamsIT0_T1_EE' for 'sm_35'
+ptxas info    : Function properties for _ZN3cub20DeviceSpmv1ColKernelINS_12DispatchSpmvIfiE14PtxSpmvPolicyTEfiEEvNS_10SpmvParamsIT0_T1_EE
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 10 registers, 400 bytes cmem[0]
+ptxas info    : Compiling entry function '_ZN3cub16DeviceSpmvKernelINS_12DispatchSpmvIdiE14PtxSpmvPolicyTENS_24ReduceByKeyScanTileStateIdiLb1EEEdi4int2Lb0ELb0EEEvNS_10SpmvParamsIT1_T2_EEPT3_PNS_12KeyValuePairIS9_S8_EEiT0_i' for 'sm_35'
+ptxas info    : Function properties for _ZN3cub16DeviceSpmvKernelINS_12DispatchSpmvIdiE14PtxSpmvPolicyTENS_24ReduceByKeyScanTileStateIdiLb1EEEdi4int2Lb0ELb0EEEvNS_10SpmvParamsIT1_T2_EEPT3_PNS_12KeyValuePairIS9_S8_EEiT0_i
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 32 registers, 3088 bytes smem, 448 bytes cmem[0], 1 textures
+ptxas info    : Compiling entry function '_ZN3cub16DeviceSpmvKernelINS_12DispatchSpmvIfiE14PtxSpmvPolicyTENS_24ReduceByKeyScanTileStateIfiLb1EEEfi4int2Lb0ELb0EEEvNS_10SpmvParamsIT1_T2_EEPT3_PNS_12KeyValuePairIS9_S8_EEiT0_i' for 'sm_35'
+ptxas info    : Function properties for _ZN3cub16DeviceSpmvKernelINS_12DispatchSpmvIfiE14PtxSpmvPolicyTENS_24ReduceByKeyScanTileStateIfiLb1EEEfi4int2Lb0ELb0EEEvNS_10SpmvParamsIT1_T2_EEPT3_PNS_12KeyValuePairIS9_S8_EEiT0_i
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 39 registers, 3632 bytes smem, 440 bytes cmem[0], 4 bytes cmem[2], 1 textures
+ptxas info    : Compiling entry function '_ZN3cub22DeviceSpmvSearchKernelINS_12DispatchSpmvIdiE14PtxSpmvPolicyTEi4int2NS_10SpmvParamsIdiEEEEviPT1_T2_' for 'sm_35'
+ptxas info    : Function properties for _ZN3cub22DeviceSpmvSearchKernelINS_12DispatchSpmvIdiE14PtxSpmvPolicyTEi4int2NS_10SpmvParamsIdiEEEEviPT1_T2_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 11 registers, 424 bytes cmem[0]
+ptxas info    : Compiling entry function '_ZN3cub22DeviceSpmvSearchKernelINS_12DispatchSpmvIfiE14PtxSpmvPolicyTEi4int2NS_10SpmvParamsIfiEEEEviPT1_T2_' for 'sm_35'
+ptxas info    : Function properties for _ZN3cub22DeviceSpmvSearchKernelINS_12DispatchSpmvIfiE14PtxSpmvPolicyTEi4int2NS_10SpmvParamsIfiEEEEviPT1_T2_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 11 registers, 416 bytes cmem[0]
+ptxas info    : Compiling entry function '_ZN3cub24DeviceSegmentFixupKernelINS_12DispatchSpmvIfiE21PtxSegmentFixupPolicyEPNS_12KeyValuePairIifEEPfiNS_24ReduceByKeyScanTileStateIfiLb1EEEEEvT0_T1_T2_iT3_' for 'sm_35'
+ptxas info    : Function properties for _ZN3cub24DeviceSegmentFixupKernelINS_12DispatchSpmvIfiE21PtxSegmentFixupPolicyEPNS_12KeyValuePairIifEEPfiNS_24ReduceByKeyScanTileStateIfiLb1EEEEEvT0_T1_T2_iT3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 12 registers, 352 bytes cmem[0]
+ptxas info    : Compiling entry function '_ZN3cub11EmptyKernelIvEEvv' for 'sm_35'
+ptxas info    : Function properties for _ZN3cub11EmptyKernelIvEEvv
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 2 registers, 320 bytes cmem[0]
+ptxas info    : Compiling entry function '_ZN3cub24DeviceSegmentFixupKernelINS_12DispatchSpmvIdiE21PtxSegmentFixupPolicyEPNS_12KeyValuePairIidEEPdiNS_24ReduceByKeyScanTileStateIdiLb1EEEEEvT0_T1_T2_iT3_' for 'sm_35'
+ptxas info    : Function properties for _ZN3cub24DeviceSegmentFixupKernelINS_12DispatchSpmvIdiE21PtxSegmentFixupPolicyEPNS_12KeyValuePairIidEEPdiNS_24ReduceByKeyScanTileStateIdiLb1EEEEEvT0_T1_T2_iT3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 32 registers, 128 bytes smem, 352 bytes cmem[0]

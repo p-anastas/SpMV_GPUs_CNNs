@@ -1,0 +1,4 @@
+Error with read, executing: mv /local/panastas/training_suite/af_5_k101.mtx /local/panastas/training_suite/Removed/af_5_k101.mtx
+Error with read, executing: mv /local/panastas/training_suite/bmw7st_1.mtx /local/panastas/training_suite/Removed/bmw7st_1.mtx
+Error with read, executing: mv /local/panastas/training_suite/large-dense.mtx /local/panastas/training_suite/Removed/large-dense.mtx
+Error with read, executing: mv /local/panastas/training_suite/small-dense.mtx /local/panastas/training_suite/Removed/small-dense.mtx

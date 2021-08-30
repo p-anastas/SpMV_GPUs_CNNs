@@ -1,0 +1,9 @@
+-----Augumented_9_wy2010.mtx Benchmark Started at 13:24:06-----
+ViennaCl
+Matrix:/local/panastas/Augumented_small_suite/Augumented_9_wy2010.mtxReading matrix...
+GPU CSR align1: t= 0.432749 ms, GFLOPs= 7.90456
+GPU CSR align4: t=0.47209 ms, GFLOPs= 7.24583
+GPU CSR align8: t=0.5829 ms, GFLOPs= 5.8684
+GPU Hybrid: t= 0.62511 ms, GFLOPs= 5.47214
+GPU Sliced Ell: t= 0.822299 ms, GFLOPs= 4.15991
+------End of Augumented_9_wy2010.mtx Benchmark at 13:24:10------

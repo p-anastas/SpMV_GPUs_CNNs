@@ -1,0 +1,6 @@
+-----333SP.mtx Benchmark Started at 17:55:09-----
+merge_SpMV
+/local/panastas/Full_suite/333SP.mtx, 3712815, 3712815, 22217266, 5.98394, 0.70296, 0.11747, 0.26852, Quadro M4000, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 9.41826 ( throughput= 4.717913 gflops, bandwidth= 51.910 GB/s ) 
+------End of 333SP.mtx Benchmark at 17:55:16------

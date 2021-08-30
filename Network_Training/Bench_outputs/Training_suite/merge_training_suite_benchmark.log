@@ -1,0 +1,1248 @@
+-----ASIC_680ks.mtx Benchmark Started at 10:14:14-----
+merge_SpMV
+/local/panastas/training_suite/ASIC_680ks.mtx, 682712, 682712, 2329176, 3.41165, 4.25287, 1.24657, 12.29177, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.40083 ( throughput= 11.621716 gflops, bandwidth= 136.656 GB/s ) 
+------End of ASIC_680ks.mtx Benchmark at 10:14:19------
+-----BenElechi1.mtx Benchmark Started at 10:14:19-----
+merge_SpMV
+/local/panastas/training_suite/BenElechi1.mtx, 245874, 245874, 13150496, 53.48470, 2.99507, 0.05600, -6.09277, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.30656 ( throughput= 20.129990 gflops, bandwidth= 203.558 GB/s ) 
+------End of BenElechi1.mtx Benchmark at 10:14:26------
+-----Chebyshev4.mtx Benchmark Started at 10:14:26-----
+merge_SpMV
+/local/panastas/training_suite/Chebyshev4.mtx, 68121, 68121, 5377761, 78.94425, 1061.43997, 13.44544, 61.20894, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.53236 ( throughput= 20.203472 gflops, bandwidth= 203.570 GB/s ) 
+------End of Chebyshev4.mtx Benchmark at 10:14:30------
+-----CurlCurl_1.mtx Benchmark Started at 10:14:30-----
+merge_SpMV
+/local/panastas/training_suite/CurlCurl_1.mtx, 226451, 226451, 2472071, 10.91658, 1.02420, 0.09382, -0.19658, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.33065 ( throughput= 14.952760 gflops, bandwidth= 157.746 GB/s ) 
+------End of CurlCurl_1.mtx Benchmark at 10:14:34------
+-----CurlCurl_2.mtx Benchmark Started at 10:14:34-----
+merge_SpMV
+/local/panastas/training_suite/CurlCurl_2.mtx, 806529, 806529, 8921789, 11.06196, 0.92161, 0.08331, 0.07491, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.13179 ( throughput= 15.765774 gflops, bandwidth= 166.209 GB/s ) 
+------End of CurlCurl_2.mtx Benchmark at 10:14:39------
+-----CurlCurl_3.mtx Benchmark Started at 10:14:39-----
+merge_SpMV
+/local/panastas/training_suite/CurlCurl_3.mtx, 1219574, 1219574, 13544618, 11.10602, 0.88554, 0.07974, 0.22852, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.70630 ( throughput= 15.875990 gflops, bandwidth= 167.337 GB/s ) 
+------End of CurlCurl_3.mtx Benchmark at 10:14:45------
+-----CurlCurl_4.mtx Benchmark Started at 10:14:45-----
+merge_SpMV
+/local/panastas/training_suite/CurlCurl_4.mtx, 2380515, 2380515, 26515867, 11.13871, 0.85587, 0.07684, 0.39618, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 3.32032 ( throughput= 15.971865 gflops, bandwidth= 168.322 GB/s ) 
+------End of CurlCurl_4.mtx Benchmark at 10:14:55------
+-----Emilia_923.mtx Benchmark Started at 10:14:55-----
+merge_SpMV
+/local/panastas/training_suite/Emilia_923.mtx, 923136, 923136, 41005206, 44.41946, 3.72074, 0.08376, -1.40525, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 4.20568 ( throughput= 19.499918 gflops, bandwidth= 197.633 GB/s ) 
+------End of Emilia_923.mtx Benchmark at 10:15:06------
+-----F1.mtx Benchmark Started at 10:15:06-----
+merge_SpMV
+/local/panastas/training_suite/F1.mtx, 343791, 343791, 26837113, 78.06229, 40.80912, 0.52278, 2.76170, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 2.81474 ( throughput= 19.068990 gflops, bandwidth= 192.156 GB/s ) 
+------End of F1.mtx Benchmark at 10:15:16------
+-----F2.mtx Benchmark Started at 10:15:16-----
+merge_SpMV
+/local/panastas/training_suite/F2.mtx, 71505, 71505, 5294285, 74.04077, 37.54850, 0.50713, 2.61326, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.54755 ( throughput= 19.338098 gflops, bandwidth= 194.948 GB/s ) 
+------End of F2.mtx Benchmark at 10:15:20------
+-----FEM_3D_thermal1.mtx Benchmark Started at 10:15:20-----
+merge_SpMV
+/local/panastas/training_suite/FEM_3D_thermal1.mtx, 17880, 17880, 430740, 24.09060, 4.30878, 0.17886, -0.87518, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.10232 ( throughput= 8.419492 gflops, bandwidth= 86.292 GB/s ) 
+------End of FEM_3D_thermal1.mtx Benchmark at 10:15:23------
+-----FEM_3D_thermal2.mtx Benchmark Started at 10:15:23-----
+merge_SpMV
+/local/panastas/training_suite/FEM_3D_thermal2.mtx, 147900, 147900, 3489300, 23.59229, 4.48098, 0.18993, -0.62898, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.40075 ( throughput= 17.413821 gflops, bandwidth= 178.567 GB/s ) 
+------End of FEM_3D_thermal2.mtx Benchmark at 10:15:27------
+-----Freescale1.mtx Benchmark Started at 10:15:27-----
+merge_SpMV
+/local/panastas/training_suite/Freescale1.mtx, 3428755, 3428755, 18920347, 5.51814, 2.07496, 0.37602, 1.78396, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 3.08705 ( throughput= 12.257878 gflops, bandwidth= 135.907 GB/s ) 
+------End of Freescale1.mtx Benchmark at 10:15:37------
+-----FullChip.mtx Benchmark Started at 10:15:37-----
+merge_SpMV
+/local/panastas/training_suite/FullChip.mtx, 2987012, 2987012, 26621990, 8.91258, 1806.79903, 202.72453, 1224.72428, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 3.83392 ( throughput= 13.887614 gflops, bandwidth= 148.225 GB/s ) 
+------End of FullChip.mtx Benchmark at 10:15:49------
+-----G2_circuit.mtx Benchmark Started at 10:15:49-----
+merge_SpMV
+/local/panastas/training_suite/G2_circuit.mtx, 150102, 150102, 726674, 4.84120, 0.63964, 0.13212, -0.73581, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.13723 ( throughput= 10.590496 gflops, bandwidth= 119.030 GB/s ) 
+------End of G2_circuit.mtx Benchmark at 10:15:52------
+-----G3_circuit.mtx Benchmark Started at 10:15:52-----
+merge_SpMV
+/local/panastas/training_suite/G3_circuit.mtx, 1585478, 1585478, 7660826, 4.83187, 0.64188, 0.13284, -0.75141, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.19666 ( throughput= 12.803670 gflops, bandwidth= 143.936 GB/s ) 
+------End of G3_circuit.mtx Benchmark at 10:15:57------
+-----GL7d17.mtx Benchmark Started at 10:15:57-----
+merge_SpMV
+/local/panastas/training_suite/GL7d17.mtx, 1548650, 955128, 25978098, 16.77467, 1.98010, 0.11804, 0.74890, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 11.99856 ( throughput= 4.330203 gflops, bandwidth= 44.851 GB/s ) 
+------End of GL7d17.mtx Benchmark at 10:16:08------
+-----GL7d18.mtx Benchmark Started at 10:16:08-----
+merge_SpMV
+/local/panastas/training_suite/GL7d18.mtx, 1955309, 1548650, 35590540, 18.20200, 2.15359, 0.11832, 7.05585, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 18.47880 ( throughput= 3.852041 gflops, bandwidth= 39.790 GB/s ) 
+------End of GL7d18.mtx Benchmark at 10:16:23------
+-----GL7d19.mtx Benchmark Started at 10:16:23-----
+merge_SpMV
+/local/panastas/training_suite/GL7d19.mtx, 1911130, 1955309, 37322725, 19.52914, 2.85415, 0.14615, 11.18170, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 20.13608 ( throughput= 3.707050 gflops, bandwidth= 38.209 GB/s ) 
+------End of GL7d19.mtx Benchmark at 10:16:39------
+-----GL7d20.mtx Benchmark Started at 10:16:39-----
+merge_SpMV
+/local/panastas/training_suite/GL7d20.mtx, 1437547, 1911130, 29893084, 20.79451, 4.14027, 0.19910, 10.24969, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 15.94181 ( throughput= 3.750275 gflops, bandwidth= 38.585 GB/s ) 
+------End of GL7d20.mtx Benchmark at 10:16:53------
+-----Ga41As41H72.mtx Benchmark Started at 10:16:53-----
+merge_SpMV
+/local/panastas/training_suite/Ga41As41H72.mtx, 268096, 268096, 18488476, 68.96215, 105.38755, 1.52819, 2.90932, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.79215 ( throughput= 20.632711 gflops, bandwidth= 208.122 GB/s ) 
+------End of Ga41As41H72.mtx Benchmark at 10:17:01------
+-----Ge87H76.mtx Benchmark Started at 10:17:01-----
+merge_SpMV
+/local/panastas/training_suite/Ge87H76.mtx, 112985, 112985, 7892195, 69.85171, 90.15080, 1.29060, 2.39406, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.77131 ( throughput= 20.464383 gflops, bandwidth= 206.402 GB/s ) 
+------End of Ge87H76.mtx Benchmark at 10:17:06------
+-----Ge99H100.mtx Benchmark Started at 10:17:06-----
+merge_SpMV
+/local/panastas/training_suite/Ge99H100.mtx, 112985, 112985, 8451395, 74.80104, 94.54017, 1.26389, 2.14968, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.81957 ( throughput= 20.623948 gflops, bandwidth= 207.894 GB/s ) 
+------End of Ge99H100.mtx Benchmark at 10:17:11------
+-----Geo_1438.mtx Benchmark Started at 10:17:11-----
+merge_SpMV
+/local/panastas/training_suite/Geo_1438.mtx, 1437960, 1437960, 63156690, 43.92103, 4.39861, 0.10015, -1.40519, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 6.50106 ( throughput= 19.429661 gflops, bandwidth= 196.951 GB/s ) 
+------End of Geo_1438.mtx Benchmark at 10:17:28------
+-----Hamrle3.mtx Benchmark Started at 10:17:28-----
+merge_SpMV
+/local/panastas/training_suite/Hamrle3.mtx, 1447360, 1447360, 5514242, 3.80986, 1.55149, 0.40723, -0.24849, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.98644 ( throughput= 11.180084 gflops, bandwidth= 129.408 GB/s ) 
+------End of Hamrle3.mtx Benchmark at 10:17:34------
+-----Hook_1498.mtx Benchmark Started at 10:17:34-----
+merge_SpMV
+/local/panastas/training_suite/Hook_1498.mtx, 1498023, 1498023, 60917445, 40.66523, 13.95377, 0.34314, 0.04458, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 6.31160 ( throughput= 19.303328 gflops, bandwidth= 195.881 GB/s ) 
+------End of Hook_1498.mtx Benchmark at 10:17:52------
+-----RM07R.mtx Benchmark Started at 10:17:52-----
+merge_SpMV
+/local/panastas/training_suite/RM07R.mtx, 381689, 381689, 37464962, 98.15573, 68.68497, 0.69976, -0.24503, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 3.56161 ( throughput= 21.038210 gflops, bandwidth= 211.668 GB/s ) 
+------End of RM07R.mtx Benchmark at 10:18:09------
+-----Serena.mtx Benchmark Started at 10:18:09-----
+merge_SpMV
+/local/panastas/training_suite/Serena.mtx, 1391349, 1391349, 64531701, 46.38067, 9.24594, 0.19935, 0.81878, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 6.57824 ( throughput= 19.619745 gflops, bandwidth= 198.736 GB/s ) 
+------End of Serena.mtx Benchmark at 10:18:27------
+-----Si41Ge41H72.mtx Benchmark Started at 10:18:27-----
+merge_SpMV
+/local/panastas/training_suite/Si41Ge41H72.mtx, 185639, 185639, 15011265, 80.86267, 126.97186, 1.57022, 2.57422, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.44183 ( throughput= 20.822529 gflops, bandwidth= 209.770 GB/s ) 
+------End of Si41Ge41H72.mtx Benchmark at 10:18:34------
+-----SiO2.mtx Benchmark Started at 10:18:34-----
+merge_SpMV
+/local/panastas/training_suite/SiO2.mtx, 155331, 155331, 11283503, 72.64167, 294.16897, 4.04959, 7.80824, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.06046 ( throughput= 21.280401 gflops, bandwidth= 214.562 GB/s ) 
+------End of SiO2.mtx Benchmark at 10:18:39------
+-----Stanford_Berkeley.mtx Benchmark Started at 10:18:39-----
+merge_SpMV
+/local/panastas/training_suite/Stanford_Berkeley.mtx, 683446, 683446, 7583376, 11.09579, 284.83209, 25.67028, 144.06007, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.88355 ( throughput= 17.165685 gflops, bandwidth= 180.939 GB/s ) 
+------End of Stanford_Berkeley.mtx Benchmark at 10:18:44------
+-----StocF-1465.mtx Benchmark Started at 10:18:44-----
+merge_SpMV
+/local/panastas/training_suite/StocF-1465.mtx, 1465137, 1465137, 21005389, 14.33681, 2.57378, 0.17952, 1.27278, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 2.54661 ( throughput= 16.496740 gflops, bandwidth= 171.871 GB/s ) 
+------End of StocF-1465.mtx Benchmark at 10:18:52------
+-----TSOPF_FS_b300_c2.mtx Benchmark Started at 10:18:52-----
+merge_SpMV
+/local/panastas/training_suite/TSOPF_FS_b300_c2.mtx, 56814, 56814, 8767466, 154.31876, 962.14616, 6.23480, 27.96051, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.77622 ( throughput= 22.590176 gflops, bandwidth= 226.780 GB/s ) 
+------End of TSOPF_FS_b300_c2.mtx Benchmark at 10:18:57------
+-----TSOPF_FS_b300_c3.mtx Benchmark Started at 10:18:57-----
+merge_SpMV
+/local/panastas/training_suite/TSOPF_FS_b300_c3.mtx, 84414, 84414, 13135930, 155.61317, 1181.18272, 7.59051, 34.37914, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.15300 ( throughput= 22.785667 gflops, bandwidth= 228.735 GB/s ) 
+------End of TSOPF_FS_b300_c3.mtx Benchmark at 10:19:03------
+-----TSOPF_RS_b2383.mtx Benchmark Started at 10:19:03-----
+merge_SpMV
+/local/panastas/training_suite/TSOPF_RS_b2383.mtx, 38120, 38120, 16171169, 424.21744, 484.23750, 1.14148, 0.28726, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.31753 ( throughput= 24.547711 gflops, bandwidth= 245.824 GB/s ) 
+------End of TSOPF_RS_b2383.mtx Benchmark at 10:19:12------
+-----TSOPF_RS_b678_c2.mtx Benchmark Started at 10:19:12-----
+merge_SpMV
+/local/panastas/training_suite/TSOPF_RS_b678_c2.mtx, 35696, 35696, 8781949, 246.02053, 253.61081, 1.03085, 0.09510, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.75865 ( throughput= 23.151507 gflops, bandwidth= 232.080 GB/s ) 
+------End of TSOPF_RS_b678_c2.mtx Benchmark at 10:19:18------
+-----adaptive.mtx Benchmark Started at 10:19:18-----
+merge_SpMV
+/local/panastas/training_suite/adaptive.mtx, 6815744, 6815744, 27248640, 3.99790, 0.04583, 0.01146, -21.75376, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 5.02921 ( throughput= 10.836154 gflops, bandwidth= 124.624 GB/s ) 
+------End of adaptive.mtx Benchmark at 10:19:27------
+-----af_0_k101.mtx Benchmark Started at 10:19:27-----
+merge_SpMV
+/local/panastas/training_suite/af_0_k101.mtx, 503625, 503625, 17550675, 34.84870, 1.25658, 0.03606, -8.60243, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.80400 ( throughput= 19.457522 gflops, bandwidth= 197.925 GB/s ) 
+------End of af_0_k101.mtx Benchmark at 10:19:34------
+-----af_1_k101.mtx Benchmark Started at 10:19:34-----
+merge_SpMV
+/local/panastas/training_suite/af_1_k101.mtx, 503625, 503625, 17550675, 34.84870, 1.25658, 0.03606, -8.60243, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.80370 ( throughput= 19.460737 gflops, bandwidth= 197.958 GB/s ) 
+------End of af_1_k101.mtx Benchmark at 10:19:41------
+-----af_2_k101.mtx Benchmark Started at 10:19:41-----
+merge_SpMV
+/local/panastas/training_suite/af_2_k101.mtx, 503625, 503625, 17550675, 34.84870, 1.25658, 0.03606, -8.60243, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.80330 ( throughput= 19.465086 gflops, bandwidth= 198.002 GB/s ) 
+------End of af_2_k101.mtx Benchmark at 10:19:49------
+-----af_3_k101.mtx Benchmark Started at 10:19:49-----
+merge_SpMV
+/local/panastas/training_suite/af_3_k101.mtx, 503625, 503625, 17550675, 34.84870, 1.25658, 0.03606, -8.60243, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.80403 ( throughput= 19.457188 gflops, bandwidth= 197.922 GB/s ) 
+------End of af_3_k101.mtx Benchmark at 10:19:56------
+-----af_shell10.mtx Benchmark Started at 10:19:56-----
+merge_SpMV
+/local/panastas/training_suite/af_shell10.mtx, 1508065, 1508065, 52672325, 34.92709, 0.90155, 0.02581, -13.35459, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 5.34963 ( throughput= 19.691946 gflops, bandwidth= 200.302 GB/s ) 
+------End of af_shell10.mtx Benchmark at 10:20:11------
+-----af_shell5.mtx Benchmark Started at 10:20:11-----
+merge_SpMV
+/local/panastas/training_suite/af_shell5.mtx, 504855, 504855, 17588875, 34.83946, 1.27522, 0.03660, -8.07830, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.80799 ( throughput= 19.456827 gflops, bandwidth= 197.919 GB/s ) 
+------End of af_shell5.mtx Benchmark at 10:20:19------
+-----af_shell6.mtx Benchmark Started at 10:20:19-----
+merge_SpMV
+/local/panastas/training_suite/af_shell6.mtx, 504855, 504855, 17588875, 34.83946, 1.27522, 0.03660, -8.07830, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.80755 ( throughput= 19.461549 gflops, bandwidth= 197.967 GB/s ) 
+------End of af_shell6.mtx Benchmark at 10:20:26------
+-----amazon-2008.mtx Benchmark Started at 10:20:26-----
+merge_SpMV
+/local/panastas/training_suite/amazon-2008.mtx, 735323, 735323, 5158388, 7.01513, 3.94388, 0.56220, -0.78846, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.84420 ( throughput= 12.220777 gflops, bandwidth= 132.660 GB/s ) 
+------End of amazon-2008.mtx Benchmark at 10:20:30------
+-----apache2.mtx Benchmark Started at 10:20:30-----
+merge_SpMV
+/local/panastas/training_suite/apache2.mtx, 715176, 715176, 4817870, 6.73662, 0.44810, 0.06652, -1.18766, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.63111 ( throughput= 15.267909 gflops, bandwidth= 166.278 GB/s ) 
+------End of apache2.mtx Benchmark at 10:20:34------
+-----atmosmodd.mtx Benchmark Started at 10:20:34-----
+merge_SpMV
+/local/panastas/training_suite/atmosmodd.mtx, 1270432, 1270432, 8814880, 6.93849, 0.24486, 0.03529, -3.87851, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.22859 ( throughput= 14.349588 gflops, bandwidth= 155.905 GB/s ) 
+------End of atmosmodd.mtx Benchmark at 10:20:40------
+-----atmosmodj.mtx Benchmark Started at 10:20:40-----
+merge_SpMV
+/local/panastas/training_suite/atmosmodj.mtx, 1270432, 1270432, 8814880, 6.93849, 0.24486, 0.03529, -3.87851, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.22755 ( throughput= 14.361739 gflops, bandwidth= 156.037 GB/s ) 
+------End of atmosmodj.mtx Benchmark at 10:20:45------
+-----atmosmodl.mtx Benchmark Started at 10:20:45-----
+merge_SpMV
+/local/panastas/training_suite/atmosmodl.mtx, 1489752, 1489752, 10319760, 6.92717, 0.26431, 0.03816, -3.47731, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.43279 ( throughput= 14.405118 gflops, bandwidth= 156.528 GB/s ) 
+------End of atmosmodl.mtx Benchmark at 10:20:51------
+-----atmosmodm.mtx Benchmark Started at 10:20:51-----
+merge_SpMV
+/local/panastas/training_suite/atmosmodm.mtx, 1489752, 1489752, 10319760, 6.92717, 0.26431, 0.03816, -3.47731, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.43290 ( throughput= 14.404016 gflops, bandwidth= 156.516 GB/s ) 
+------End of atmosmodm.mtx Benchmark at 10:20:56------
+-----barrier2-10.mtx Benchmark Started at 10:20:56-----
+merge_SpMV
+/local/panastas/training_suite/barrier2-10.mtx, 115625, 115625, 3897557, 33.70860, 28.46078, 0.84432, 224.24729, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.44756 ( throughput= 17.416939 gflops, bandwidth= 177.270 GB/s ) 
+------End of barrier2-10.mtx Benchmark at 10:21:00------
+-----barrier2-11.mtx Benchmark Started at 10:21:00-----
+merge_SpMV
+/local/panastas/training_suite/barrier2-11.mtx, 115625, 115625, 3897557, 33.70860, 28.46078, 0.84432, 224.24729, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.44792 ( throughput= 17.402940 gflops, bandwidth= 177.127 GB/s ) 
+------End of barrier2-11.mtx Benchmark at 10:21:04------
+-----barrier2-12.mtx Benchmark Started at 10:21:04-----
+merge_SpMV
+/local/panastas/training_suite/barrier2-12.mtx, 115625, 115625, 3897557, 33.70860, 28.46078, 0.84432, 224.24729, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.44789 ( throughput= 17.404145 gflops, bandwidth= 177.139 GB/s ) 
+------End of barrier2-12.mtx Benchmark at 10:21:08------
+-----bcsstk32.mtx Benchmark Started at 10:21:08-----
+merge_SpMV
+/local/panastas/training_suite/bcsstk32.mtx, 44609, 44609, 2014701, 45.16355, 15.48504, 0.34287, 1.08836, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.22916 ( throughput= 17.583296 gflops, bandwidth= 178.169 GB/s ) 
+------End of bcsstk32.mtx Benchmark at 10:21:11------
+-----bmw3_2.mtx Benchmark Started at 10:21:11-----
+merge_SpMV
+/local/panastas/training_suite/bmw3_2.mtx, 227362, 227362, 11288630, 49.65047, 13.81124, 0.27817, 0.94105, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.13101 ( throughput= 19.962033 gflops, bandwidth= 202.033 GB/s ) 
+------End of bmw3_2.mtx Benchmark at 10:21:17------
+-----bmwcra_1.mtx Benchmark Started at 10:21:17-----
+merge_SpMV
+/local/panastas/training_suite/bmwcra_1.mtx, 148770, 148770, 10644002, 71.54670, 18.50801, 0.25868, 5.39461, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.02171 ( throughput= 20.835673 gflops, bandwidth= 210.104 GB/s ) 
+------End of bmwcra_1.mtx Benchmark at 10:21:22------
+-----bone010.mtx Benchmark Started at 10:21:22-----
+merge_SpMV
+/local/panastas/training_suite/bone010.mtx, 986703, 986703, 71666325, 72.63211, 15.81043, 0.21768, -1.83825, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 6.90772 ( throughput= 20.749638 gflops, bandwidth= 209.210 GB/s ) 
+------End of bone010.mtx Benchmark at 10:21:41------
+-----boneS10.mtx Benchmark Started at 10:21:41-----
+merge_SpMV
+/local/panastas/training_suite/boneS10.mtx, 914898, 914898, 55468422, 60.62798, 20.37398, 0.33605, -0.53700, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 5.44305 ( throughput= 20.381381 gflops, bandwidth= 205.831 GB/s ) 
+------End of boneS10.mtx Benchmark at 10:21:56------
+-----cage12.mtx Benchmark Started at 10:21:56-----
+merge_SpMV
+/local/panastas/training_suite/cage12.mtx, 130228, 130228, 2032536, 15.60752, 4.70918, 0.30172, 0.37149, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.26821 ( throughput= 15.156226 gflops, bandwidth= 157.389 GB/s ) 
+------End of cage12.mtx Benchmark at 10:22:01------
+-----cage13.mtx Benchmark Started at 10:22:01-----
+merge_SpMV
+/local/panastas/training_suite/cage13.mtx, 445315, 445315, 7479343, 16.79562, 5.12839, 0.30534, 0.43676, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.90804 ( throughput= 16.473623 gflops, bandwidth= 170.621 GB/s ) 
+------End of cage13.mtx Benchmark at 10:22:06------
+-----cage14.mtx Benchmark Started at 10:22:06-----
+merge_SpMV
+/local/panastas/training_suite/cage14.mtx, 1505785, 1505785, 27130349, 18.01741, 5.36783, 0.29792, 0.41199, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 3.32506 ( throughput= 16.318704 gflops, bandwidth= 168.621 GB/s ) 
+------End of cage14.mtx Benchmark at 10:22:18------
+-----cage15.mtx Benchmark Started at 10:22:18-----
+merge_SpMV
+/local/panastas/training_suite/cage15.mtx, 5154859, 5154859, 99199551, 19.24389, 5.73672, 0.29811, 0.45659, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 12.09397 ( throughput= 16.404794 gflops, bandwidth= 169.163 GB/s ) 
+------End of cage15.mtx Benchmark at 10:22:55------
+-----caidaRouterLevel.mtx Benchmark Started at 10:22:55-----
+merge_SpMV
+/local/panastas/training_suite/caidaRouterLevel.mtx, 192244, 192244, 1218132, 6.33639, 14.13997, 2.23155, 18.91552, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.24575 ( throughput= 9.913589 gflops, bandwidth= 108.523 GB/s ) 
+------End of caidaRouterLevel.mtx Benchmark at 10:22:58------
+-----channel-500x100x100-b050.mtx Benchmark Started at 10:22:58-----
+merge_SpMV
+/local/panastas/training_suite/channel-500x100x100-b050.mtx, 4802000, 4802000, 85362744, 17.77650, 1.04326, 0.05869, -4.52559, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 9.66488 ( throughput= 17.664524 gflops, bandwidth= 182.607 GB/s ) 
+------End of channel-500x100x100-b050.mtx Benchmark at 10:23:17------
+-----circuit5M.mtx Benchmark Started at 10:23:17-----
+merge_SpMV
+/local/panastas/training_suite/circuit5M.mtx, 5558326, 5558326, 59524291, 10.70903, 1356.61627, 126.67964, 868.02862, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 7.71501 ( throughput= 15.430778 gflops, bandwidth= 162.953 GB/s ) 
+------End of circuit5M.mtx Benchmark at 10:23:44------
+-----circuit5M_dc.mtx Benchmark Started at 10:23:44-----
+merge_SpMV
+/local/panastas/training_suite/circuit5M_dc.mtx, 3523317, 3523317, 19194193, 5.44776, 2.09086, 0.38380, 1.74873, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 3.05824 ( throughput= 12.552442 gflops, bandwidth= 139.349 GB/s ) 
+------End of circuit5M_dc.mtx Benchmark at 10:23:55------
+-----circuit_4.mtx Benchmark Started at 10:23:55-----
+merge_SpMV
+/local/panastas/training_suite/circuit_4.mtx, 80209, 80209, 307604, 3.83503, 30.03123, 7.83077, 173.79447, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.10595 ( throughput= 5.806542 gflops, bandwidth= 67.150 GB/s ) 
+------End of circuit_4.mtx Benchmark at 10:23:58------
+-----citationCiteseer.mtx Benchmark Started at 10:23:58-----
+merge_SpMV
+/local/panastas/training_suite/citationCiteseer.mtx, 268495, 268495, 2313294, 8.61578, 16.28248, 1.88984, 17.70675, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.71249 ( throughput= 6.493547 gflops, bandwidth= 69.458 GB/s ) 
+------End of citationCiteseer.mtx Benchmark at 10:24:02------
+-----cnr-2000.mtx Benchmark Started at 10:24:02-----
+merge_SpMV
+/local/panastas/training_suite/cnr-2000.mtx, 325557, 325557, 3216152, 9.87892, 20.53731, 2.07890, 30.89600, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.40562 ( throughput= 15.857896 gflops, bandwidth= 168.210 GB/s ) 
+------End of cnr-2000.mtx Benchmark at 10:24:05------
+-----coAuthorsCiteseer.mtx Benchmark Started at 10:24:05-----
+merge_SpMV
+/local/panastas/training_suite/coAuthorsCiteseer.mtx, 227320, 227320, 1628268, 7.16289, 10.63372, 1.48456, 15.16587, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.27930 ( throughput= 11.659626 gflops, bandwidth= 126.363 GB/s ) 
+------End of coAuthorsCiteseer.mtx Benchmark at 10:24:08------
+-----coAuthorsDBLP.mtx Benchmark Started at 10:24:08-----
+merge_SpMV
+/local/panastas/training_suite/coAuthorsDBLP.mtx, 299067, 299067, 1955352, 6.53817, 9.81524, 1.50122, 6.23806, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.37257 ( throughput= 10.496574 gflops, bandwidth= 114.598 GB/s ) 
+------End of coAuthorsDBLP.mtx Benchmark at 10:24:11------
+-----coPapersCiteseer.mtx Benchmark Started at 10:24:11-----
+merge_SpMV
+/local/panastas/training_suite/coPapersCiteseer.mtx, 434102, 434102, 32073440, 73.88457, 101.27835, 1.37076, 3.46726, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 3.13162 ( throughput= 20.483603 gflops, bandwidth= 206.499 GB/s ) 
+------End of coPapersCiteseer.mtx Benchmark at 10:24:19------
+-----coPapersDBLP.mtx Benchmark Started at 10:24:19-----
+merge_SpMV
+/local/panastas/training_suite/coPapersDBLP.mtx, 540486, 540486, 30491458, 56.41489, 66.23615, 1.17409, 3.09408, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 3.24510 ( throughput= 18.792302 gflops, bandwidth= 189.922 GB/s ) 
+------End of coPapersDBLP.mtx Benchmark at 10:24:28------
+-----consph.mtx Benchmark Started at 10:24:28-----
+merge_SpMV
+/local/panastas/training_suite/consph.mtx, 83334, 83334, 6010480, 72.12518, 19.08019, 0.26454, -2.54808, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.59262 ( throughput= 20.284419 gflops, bandwidth= 204.532 GB/s ) 
+------End of consph.mtx Benchmark at 10:24:32------
+-----crankseg_1.mtx Benchmark Started at 10:24:32-----
+merge_SpMV
+/local/panastas/training_suite/crankseg_1.mtx, 52804, 52804, 10614210, 201.01148, 88.66418, 0.44109, 2.43013, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.95899 ( throughput= 22.136257 gflops, bandwidth= 222.023 GB/s ) 
+------End of crankseg_1.mtx Benchmark at 10:24:37------
+-----crankseg_2.mtx Benchmark Started at 10:24:37-----
+merge_SpMV
+/local/panastas/training_suite/crankseg_2.mtx, 63838, 63838, 14148858, 221.63692, 95.87570, 0.43258, 2.85133, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.27420 ( throughput= 22.208231 gflops, bandwidth= 222.684 GB/s ) 
+------End of crankseg_2.mtx Benchmark at 10:24:43------
+-----crplat2.mtx Benchmark Started at 10:24:43-----
+merge_SpMV
+/local/panastas/training_suite/crplat2.mtx, 18010, 18010, 960946, 53.35625, 7.51739, 0.14089, -0.42649, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.12680 ( throughput= 15.156813 gflops, bandwidth= 153.273 GB/s ) 
+------End of crplat2.mtx Benchmark at 10:24:46------
+-----dblp-2010.mtx Benchmark Started at 10:24:46-----
+merge_SpMV
+/local/panastas/training_suite/dblp-2010.mtx, 326186, 326186, 1615400, 4.95239, 7.66992, 1.54873, 5.95594, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.27696 ( throughput= 11.665267 gflops, bandwidth= 130.786 GB/s ) 
+------End of dblp-2010.mtx Benchmark at 10:24:50------
+-----debr.mtx Benchmark Started at 10:24:50-----
+merge_SpMV
+/local/panastas/training_suite/debr.mtx, 1048576, 1048576, 4194298, 3.99999, 0.00309, 0.00077, -582.86846, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.74317 ( throughput= 11.287590 gflops, bandwidth= 129.807 GB/s ) 
+------End of debr.mtx Benchmark at 10:24:53------
+-----debr_G_17.mtx Benchmark Started at 10:24:53-----
+merge_SpMV
+/local/panastas/training_suite/debr_G_17.mtx, 524288, 524288, 2097146, 3.99999, 0.00437, 0.00109, -412.14843, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.37792 ( throughput= 11.098369 gflops, bandwidth= 127.631 GB/s ) 
+------End of debr_G_17.mtx Benchmark at 10:24:56------
+-----debr_G_18.mtx Benchmark Started at 10:24:56-----
+merge_SpMV
+/local/panastas/training_suite/debr_G_18.mtx, 1048576, 1048576, 4194298, 3.99999, 0.00309, 0.00077, -582.86846, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.74307 ( throughput= 11.289111 gflops, bandwidth= 129.825 GB/s ) 
+------End of debr_G_18.mtx Benchmark at 10:25:00------
+-----delaunay_n19.mtx Benchmark Started at 10:25:00-----
+merge_SpMV
+/local/panastas/training_suite/delaunay_n19.mtx, 524288, 524288, 3145646, 5.99984, 1.33835, 0.22306, 0.47399, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.49482 ( throughput= 12.714277 gflops, bandwidth= 139.857 GB/s ) 
+------End of delaunay_n19.mtx Benchmark at 10:25:03------
+-----delaunay_n20.mtx Benchmark Started at 10:25:03-----
+merge_SpMV
+/local/panastas/training_suite/delaunay_n20.mtx, 1048576, 1048576, 6291372, 5.99992, 1.33664, 0.22278, 0.46404, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.98966 ( throughput= 12.714193 gflops, bandwidth= 139.856 GB/s ) 
+------End of delaunay_n20.mtx Benchmark at 10:25:07------
+-----delaunay_n21.mtx Benchmark Started at 10:25:07-----
+merge_SpMV
+/local/panastas/training_suite/delaunay_n21.mtx, 2097152, 2097152, 12582816, 5.99995, 1.33635, 0.22273, 0.45136, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.96336 ( throughput= 12.817633 gflops, bandwidth= 140.994 GB/s ) 
+------End of delaunay_n21.mtx Benchmark at 10:25:12------
+-----delaunay_n22.mtx Benchmark Started at 10:25:12-----
+merge_SpMV
+/local/panastas/training_suite/delaunay_n22.mtx, 4194304, 4194304, 25165738, 5.99998, 1.33638, 0.22273, 0.44847, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 3.96123 ( throughput= 12.706017 gflops, bandwidth= 139.766 GB/s ) 
+------End of delaunay_n22.mtx Benchmark at 10:25:20------
+-----dictionary28.mtx Benchmark Started at 10:25:20-----
+merge_SpMV
+/local/panastas/training_suite/dictionary28.mtx, 52652, 52652, 178076, 3.38213, 4.47461, 1.32301, 2.26365, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.07059 ( throughput= 5.045291 gflops, bandwidth= 59.403 GB/s ) 
+------End of dictionary28.mtx Benchmark at 10:25:23------
+-----dielFilterV3real.mtx Benchmark Started at 10:25:23-----
+merge_SpMV
+/local/panastas/training_suite/dielFilterV3real.mtx, 1102824, 1102824, 89306020, 80.97939, 36.55308, 0.45139, 1.51276, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 8.67729 ( throughput= 20.583851 gflops, bandwidth= 207.364 GB/s ) 
+------End of dielFilterV3real.mtx Benchmark at 10:25:50------
+-----ecology2.mtx Benchmark Started at 10:25:50-----
+merge_SpMV
+/local/panastas/training_suite/ecology2.mtx, 999999, 999999, 4995991, 4.99600, 0.06321, 0.01265, -15.75589, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.71607 ( throughput= 13.953942 gflops, bandwidth= 156.298 GB/s ) 
+------End of ecology2.mtx Benchmark at 10:25:55------
+-----enron.mtx Benchmark Started at 10:25:55-----
+merge_SpMV
+/local/panastas/training_suite/enron.mtx, 69244, 69244, 276143, 3.98797, 28.31883, 7.10106, 17.83199, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.09576 ( throughput= 5.767492 gflops, bandwidth= 66.352 GB/s ) 
+------End of enron.mtx Benchmark at 10:25:58------
+-----epb3.mtx Benchmark Started at 10:25:58-----
+merge_SpMV
+/local/panastas/training_suite/epb3.mtx, 84617, 84617, 463625, 5.47910, 0.54951, 0.10029, -0.70682, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.13763 ( throughput= 6.737291 gflops, bandwidth= 74.751 GB/s ) 
+------End of epb3.mtx Benchmark at 10:26:00------
+-----eu-2005.mtx Benchmark Started at 10:26:00-----
+merge_SpMV
+/local/panastas/training_suite/eu-2005.mtx, 862664, 862664, 19235140, 22.29737, 29.33341, 1.31555, 26.37988, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 2.09727 ( throughput= 18.343043 gflops, bandwidth= 188.366 GB/s ) 
+------End of eu-2005.mtx Benchmark at 10:26:08------
+-----ex3sta1.mtx Benchmark Started at 10:26:08-----
+merge_SpMV
+/local/panastas/training_suite/ex3sta1.mtx, 16782, 16782, 678998, 40.45990, 24.19906, 0.59810, 7.01936, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.10215 ( throughput= 13.294389 gflops, bandwidth= 134.915 GB/s ) 
+------End of ex3sta1.mtx Benchmark at 10:26:10------
+-----fcondp2.mtx Benchmark Started at 10:26:10-----
+merge_SpMV
+/local/panastas/training_suite/fcondp2.mtx, 201822, 201822, 11294316, 55.96177, 9.51739, 0.17007, 2.75360, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.11129 ( throughput= 20.326532 gflops, bandwidth= 205.445 GB/s ) 
+------End of fcondp2.mtx Benchmark at 10:26:16------
+-----finance256.mtx Benchmark Started at 10:26:16-----
+merge_SpMV
+/local/panastas/training_suite/finance256.mtx, 37376, 37376, 298496, 7.98630, 6.27780, 0.78607, 5.42974, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.09166 ( throughput= 6.513112 gflops, bandwidth= 70.024 GB/s ) 
+------End of finance256.mtx Benchmark at 10:26:19------
+-----flickr.mtx Benchmark Started at 10:26:19-----
+merge_SpMV
+/local/panastas/training_suite/flickr.mtx, 820878, 820878, 9837214, 11.98377, 87.72738, 7.32052, 36.18604, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.64643 ( throughput= 11.949747 gflops, bandwidth= 125.480 GB/s ) 
+------End of flickr.mtx Benchmark at 10:26:24------
+-----ford2.mtx Benchmark Started at 10:26:24-----
+merge_SpMV
+/local/panastas/training_suite/ford2.mtx, 100196, 100196, 544688, 5.43622, 1.55823, 0.28664, 4.60424, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.15825 ( throughput= 6.883878 gflops, bandwidth= 76.437 GB/s ) 
+------End of ford2.mtx Benchmark at 10:26:26------
+-----fullb.mtx Benchmark Started at 10:26:26-----
+merge_SpMV
+/local/panastas/training_suite/fullb.mtx, 199187, 199187, 11708077, 58.77932, 12.66329, 0.21544, 1.22933, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.16686 ( throughput= 20.067645 gflops, bandwidth= 202.725 GB/s ) 
+------End of fullb.mtx Benchmark at 10:26:31------
+-----fxm4_6.mtx Benchmark Started at 10:26:31-----
+merge_SpMV
+/local/panastas/training_suite/fxm4_6.mtx, 18892, 18892, 497844, 26.35211, 26.09661, 0.99030, 6.04826, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.11516 ( throughput= 8.646056 gflops, bandwidth= 88.429 GB/s ) 
+------End of fxm4_6.mtx Benchmark at 10:26:34------
+-----gearbox.mtx Benchmark Started at 10:26:34-----
+merge_SpMV
+/local/panastas/training_suite/gearbox.mtx, 153746, 153746, 9080404, 59.06107, 15.40950, 0.26091, 0.22848, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.88921 ( throughput= 20.423515 gflops, bandwidth= 206.310 GB/s ) 
+------End of gearbox.mtx Benchmark at 10:26:38------
+-----gsm_106857.mtx Benchmark Started at 10:26:38-----
+merge_SpMV
+/local/panastas/training_suite/gsm_106857.mtx, 589446, 589446, 21758924, 36.91419, 15.63206, 0.42347, 1.06826, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 3.64225 ( throughput= 11.948062 gflops, bandwidth= 121.423 GB/s ) 
+------End of gsm_106857.mtx Benchmark at 10:26:47------
+-----gupta1.mtx Benchmark Started at 10:26:47-----
+merge_SpMV
+/local/panastas/training_suite/gupta1.mtx, 31802, 31802, 2164210, 68.05264, 360.30294, 5.29447, 15.99529, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.24559 ( throughput= 17.624562 gflops, bandwidth= 177.800 GB/s ) 
+------End of gupta1.mtx Benchmark at 10:26:50------
+-----gupta2.mtx Benchmark Started at 10:26:50-----
+merge_SpMV
+/local/panastas/training_suite/gupta2.mtx, 62064, 62064, 4248286, 68.45008, 356.02338, 5.20121, 15.78814, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.44906 ( throughput= 18.920836 gflops, bandwidth= 190.867 GB/s ) 
+------End of gupta2.mtx Benchmark at 10:26:53------
+-----gupta3.mtx Benchmark Started at 10:26:53-----
+merge_SpMV
+/local/panastas/training_suite/gupta3.mtx, 16783, 16783, 9323427, 555.52803, 1233.52026, 2.22045, 6.64856, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.79006 ( throughput= 23.601833 gflops, bandwidth= 236.273 GB/s ) 
+------End of gupta3.mtx Benchmark at 10:26:58------
+-----halfb.mtx Benchmark Started at 10:26:58-----
+merge_SpMV
+/local/panastas/training_suite/halfb.mtx, 224617, 224617, 12387821, 55.15086, 11.99198, 0.21744, 0.85846, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.23749 ( throughput= 20.020880 gflops, bandwidth= 202.387 GB/s ) 
+------End of halfb.mtx Benchmark at 10:27:02------
+-----hollywood-2009.mtx Benchmark Started at 10:27:02-----
+merge_SpMV
+/local/panastas/training_suite/hollywood-2009.mtx, 1139905, 1139905, 113891327, 99.91300, 271.86491, 2.72102, 7.34894, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 13.06018 ( throughput= 17.441003 gflops, bandwidth= 175.457 GB/s ) 
+------End of hollywood-2009.mtx Benchmark at 10:27:27------
+-----hood.mtx Benchmark Started at 10:27:27-----
+merge_SpMV
+/local/panastas/training_suite/hood.mtx, 220542, 220542, 10768436, 48.82714, 12.81815, 0.26252, 0.04903, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.08079 ( throughput= 19.926980 gflops, bandwidth= 201.718 GB/s ) 
+------End of hood.mtx Benchmark at 10:27:33------
+-----hugebubbles-00000.mtx Benchmark Started at 10:27:33-----
+merge_SpMV
+/local/panastas/training_suite/hugebubbles-00000.mtx, 18318143, 18318143, 54940162, 2.99922, 0.02790, 0.00930, -35.79040, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 13.56830 ( throughput= 8.098313 gflops, bandwidth= 97.184 GB/s ) 
+------End of hugebubbles-00000.mtx Benchmark at 10:27:48------
+-----hugebubbles-00010.mtx Benchmark Started at 10:27:48-----
+merge_SpMV
+/local/panastas/training_suite/hugebubbles-00010.mtx, 19458087, 19458087, 58359528, 2.99924, 0.02751, 0.00917, -36.30035, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 21.54162 ( throughput= 5.418304 gflops, bandwidth= 65.022 GB/s ) 
+------End of hugebubbles-00010.mtx Benchmark at 10:28:06------
+-----hugebubbles-00020.mtx Benchmark Started at 10:28:06-----
+merge_SpMV
+/local/panastas/training_suite/hugebubbles-00020.mtx, 21198119, 21198119, 63580358, 2.99934, 0.02569, 0.00857, -38.87493, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 22.96744 ( throughput= 5.536564 gflops, bandwidth= 66.441 GB/s ) 
+------End of hugebubbles-00020.mtx Benchmark at 10:28:26------
+-----hugetrace-00000.mtx Benchmark Started at 10:28:26-----
+merge_SpMV
+/local/panastas/training_suite/hugetrace-00000.mtx, 4588484, 4588484, 13758266, 2.99843, 0.03954, 0.01319, -25.20977, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 3.30208 ( throughput= 8.333089 gflops, bandwidth= 100.006 GB/s ) 
+------End of hugetrace-00000.mtx Benchmark at 10:28:32------
+-----hugetrace-00010.mtx Benchmark Started at 10:28:33-----
+merge_SpMV
+/local/panastas/training_suite/hugetrace-00010.mtx, 12057441, 12057441, 36164358, 2.99934, 0.02569, 0.00857, -38.86906, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 9.80697 ( throughput= 7.375237 gflops, bandwidth= 88.506 GB/s ) 
+------End of hugetrace-00010.mtx Benchmark at 10:28:43------
+-----hugetrace-00020.mtx Benchmark Started at 10:28:43-----
+merge_SpMV
+/local/panastas/training_suite/hugetrace-00020.mtx, 16002413, 16002413, 47997626, 2.99940, 0.02450, 0.00817, -40.76352, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 14.66912 ( throughput= 6.544037 gflops, bandwidth= 78.531 GB/s ) 
+------End of hugetrace-00020.mtx Benchmark at 10:28:58------
+-----hugetric-00000.mtx Benchmark Started at 10:28:58-----
+merge_SpMV
+/local/panastas/training_suite/hugetric-00000.mtx, 5824554, 5824554, 17467046, 2.99886, 0.03368, 0.01123, -29.62052, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 4.05089 ( throughput= 8.623809 gflops, bandwidth= 103.492 GB/s ) 
+------End of hugetric-00000.mtx Benchmark at 10:29:06------
+-----hugetric-00010.mtx Benchmark Started at 10:29:06-----
+merge_SpMV
+/local/panastas/training_suite/hugetric-00010.mtx, 6592765, 6592765, 19771708, 2.99900, 0.03159, 0.01053, -31.58918, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 6.75773 ( throughput= 5.851584 gflops, bandwidth= 70.223 GB/s ) 
+------End of hugetric-00010.mtx Benchmark at 10:29:13------
+-----hugetric-00020.mtx Benchmark Started at 10:29:13-----
+merge_SpMV
+/local/panastas/training_suite/hugetric-00020.mtx, 7122792, 7122792, 21361554, 2.99904, 0.03093, 0.01031, -32.26596, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 7.32920 ( throughput= 5.829164 gflops, bandwidth= 69.954 GB/s ) 
+------End of hugetric-00020.mtx Benchmark at 10:29:21------
+-----human_gene1.mtx Benchmark Started at 10:29:21-----
+merge_SpMV
+/local/panastas/training_suite/human_gene1.mtx, 22283, 22283, 24669643, 1107.10600, 1409.12161, 1.27280, 1.85181, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 2.86777 ( throughput= 17.204756 gflops, bandwidth= 172.141 GB/s ) 
+------End of human_gene1.mtx Benchmark at 10:29:29------
+-----human_gene2.mtx Benchmark Started at 10:29:29-----
+merge_SpMV
+/local/panastas/training_suite/human_gene2.mtx, 14340, 14340, 18068388, 1259.99916, 1375.13529, 1.09138, 1.32126, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.94662 ( throughput= 18.563848 gflops, bandwidth= 185.727 GB/s ) 
+------End of human_gene2.mtx Benchmark at 10:29:36------
+-----in-2004.mtx Benchmark Started at 10:29:36-----
+merge_SpMV
+/local/panastas/training_suite/in-2004.mtx, 1382908, 1382908, 16917053, 12.23296, 37.23001, 3.04342, 23.67409, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.94914 ( throughput= 17.358470 gflops, bandwidth= 182.099 GB/s ) 
+------End of in-2004.mtx Benchmark at 10:29:43------
+-----indochina-2004.mtx Benchmark Started at 10:29:43-----
+merge_SpMV
+/local/panastas/training_suite/indochina-2004.mtx, 7414866, 7414866, 194109311, 26.17840, 215.83003, 8.24459, 30.82360, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 19.29017 ( throughput= 20.125204 gflops, bandwidth= 205.865 GB/s ) 
+------End of indochina-2004.mtx Benchmark at 10:30:33------
+-----inline_1.mtx Benchmark Started at 10:30:33-----
+merge_SpMV
+/local/panastas/training_suite/inline_1.mtx, 503712, 503712, 36816342, 73.09006, 35.63206, 0.48751, 2.45077, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 3.66180 ( throughput= 20.108320 gflops, bandwidth= 202.734 GB/s ) 
+------End of inline_1.mtx Benchmark at 10:30:47------
+-----ins2.mtx Benchmark Started at 10:30:47-----
+merge_SpMV
+/local/panastas/training_suite/ins2.mtx, 309412, 309412, 2751484, 8.89262, 590.35529, 66.38709, 471.55148, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.45935 ( throughput= 11.979924 gflops, bandwidth= 127.882 GB/s ) 
+------End of ins2.mtx Benchmark at 10:30:50------
+-----kim2.mtx Benchmark Started at 10:30:50-----
+merge_SpMV
+/local/panastas/training_suite/kim2.mtx, 456976, 456976, 11330020, 24.79347, 1.89712, 0.07652, -9.14453, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.22090 ( throughput= 18.560096 gflops, bandwidth= 190.092 GB/s ) 
+------End of kim2.mtx Benchmark at 10:30:57------
+-----kkt_power.mtx Benchmark Started at 10:30:57-----
+merge_SpMV
+/local/panastas/training_suite/kkt_power.mtx, 2063494, 2063494, 14612663, 7.08151, 7.40036, 1.04503, 3.75365, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 2.16756 ( throughput= 13.483061 gflops, bandwidth= 146.254 GB/s ) 
+------End of kkt_power.mtx Benchmark at 10:31:04------
+-----language.mtx Benchmark Started at 10:31:04-----
+merge_SpMV
+/local/panastas/training_suite/language.mtx, 399130, 399130, 1216334, 3.04746, 20.71000, 6.79582, 444.34353, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.26200 ( throughput= 9.285057 gflops, bandwidth= 111.131 GB/s ) 
+------End of language.mtx Benchmark at 10:31:07------
+-----largebasis.mtx Benchmark Started at 10:31:07-----
+merge_SpMV
+/local/panastas/training_suite/largebasis.mtx, 440020, 440020, 5560100, 12.63602, 1.15112, 0.09110, 0.00890, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.70701 ( throughput= 15.728516 gflops, bandwidth= 164.754 GB/s ) 
+------End of largebasis.mtx Benchmark at 10:31:12------
+-----ldoor.mtx Benchmark Started at 10:31:12-----
+merge_SpMV
+/local/panastas/training_suite/ldoor.mtx, 952203, 952203, 46522475, 48.85773, 11.94657, 0.24452, 0.02027, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 4.65127 ( throughput= 20.004204 gflops, bandwidth= 202.499 GB/s ) 
+------End of ldoor.mtx Benchmark at 10:31:26------
+-----lp1.mtx Benchmark Started at 10:31:26-----
+merge_SpMV
+/local/panastas/training_suite/lp1.mtx, 534388, 534388, 1643420, 3.07533, 341.49879, 111.04456, 731.00089, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.31351 ( throughput= 10.483974 gflops, bandwidth= 125.294 GB/s ) 
+------End of lp1.mtx Benchmark at 10:31:30------
+-----m_t1.mtx Benchmark Started at 10:31:30-----
+merge_SpMV
+/local/panastas/training_suite/m_t1.mtx, 97578, 97578, 9753570, 99.95665, 28.55769, 0.28570, 1.05880, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.91037 ( throughput= 21.427697 gflops, bandwidth= 215.563 GB/s ) 
+------End of m_t1.mtx Benchmark at 10:31:35------
+-----memchip.mtx Benchmark Started at 10:31:35-----
+merge_SpMV
+/local/panastas/training_suite/memchip.mtx, 2707524, 2707524, 14810202, 5.47002, 2.06160, 0.37689, 1.64771, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 2.27173 ( throughput= 13.038694 gflops, bandwidth= 144.689 GB/s ) 
+------End of memchip.mtx Benchmark at 10:31:44------
+-----mip1.mtx Benchmark Started at 10:31:44-----
+merge_SpMV
+/local/panastas/training_suite/mip1.mtx, 66463, 66463, 10352819, 155.76816, 350.74432, 2.25171, 102.17195, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.90652 ( throughput= 22.840798 gflops, bandwidth= 229.288 GB/s ) 
+------End of mip1.mtx Benchmark at 10:31:48------
+-----mono_500Hz.mtx Benchmark Started at 10:31:48-----
+merge_SpMV
+/local/panastas/training_suite/mono_500Hz.mtx, 169410, 169410, 5036288, 29.72840, 17.90487, 0.60228, 12.66986, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.56800 ( throughput= 17.733443 gflops, bandwidth= 180.914 GB/s ) 
+------End of mono_500Hz.mtx Benchmark at 10:31:53------
+-----mouse_gene.mtx Benchmark Started at 10:31:53-----
+merge_SpMV
+/local/panastas/training_suite/mouse_gene.mtx, 45101, 45101, 28967291, 642.27602, 856.66903, 1.33380, 1.86658, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 3.88871 ( throughput= 14.898151 gflops, bandwidth= 149.121 GB/s ) 
+------End of mouse_gene.mtx Benchmark at 10:32:03------
+-----msdoor.mtx Benchmark Started at 10:32:03-----
+merge_SpMV
+/local/panastas/training_suite/msdoor.mtx, 415863, 415863, 20240935, 48.67212, 11.71002, 0.24059, 0.06068, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 2.04496 ( throughput= 19.795909 gflops, bandwidth= 200.399 GB/s ) 
+------End of msdoor.mtx Benchmark at 10:32:12------
+-----nd12k.mtx Benchmark Started at 10:32:12-----
+merge_SpMV
+/local/panastas/training_suite/nd12k.mtx, 36000, 36000, 14220946, 395.02628, 83.19392, 0.21060, -0.89667, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.24664 ( throughput= 22.814827 gflops, bandwidth= 228.495 GB/s ) 
+------End of nd12k.mtx Benchmark at 10:32:18------
+-----nd24k.mtx Benchmark Started at 10:32:18-----
+merge_SpMV
+/local/panastas/training_suite/nd24k.mtx, 72000, 72000, 28715634, 398.82825, 76.94354, 0.19292, -1.17284, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 2.50348 ( throughput= 22.940587 gflops, bandwidth= 229.751 GB/s ) 
+------End of nd24k.mtx Benchmark at 10:32:27------
+-----net125.mtx Benchmark Started at 10:32:27-----
+merge_SpMV
+/local/panastas/training_suite/net125.mtx, 36720, 36720, 2577200, 70.18519, 66.62591, 0.94929, 1.13804, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.30282 ( throughput= 17.021321 gflops, bandwidth= 171.668 GB/s ) 
+------End of net125.mtx Benchmark at 10:32:31------
+-----net50.mtx Benchmark Started at 10:32:31-----
+merge_SpMV
+/local/panastas/training_suite/net50.mtx, 16320, 16320, 945200, 57.91667, 39.12684, 0.67557, 0.09351, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.13469 ( throughput= 14.035212 gflops, bandwidth= 141.806 GB/s ) 
+------End of net50.mtx Benchmark at 10:32:34------
+-----net75.mtx Benchmark Started at 10:32:34-----
+merge_SpMV
+/local/panastas/training_suite/net75.mtx, 23120, 23120, 1489200, 64.41176, 48.42649, 0.75183, 0.15972, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.18809 ( throughput= 15.834905 gflops, bandwidth= 159.824 GB/s ) 
+------End of net75.mtx Benchmark at 10:32:37------
+-----nlpkkt120.mtx Benchmark Started at 10:32:37-----
+merge_SpMV
+/local/panastas/training_suite/nlpkkt120.mtx, 3542400, 3542400, 96845792, 27.33903, 3.09277, 0.11313, -4.87917, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 10.93029 ( throughput= 17.720626 gflops, bandwidth= 181.095 GB/s ) 
+------End of nlpkkt120.mtx Benchmark at 10:33:00------
+-----nlpkkt160.mtx Benchmark Started at 10:33:00-----
+merge_SpMV
+/local/panastas/training_suite/nlpkkt160.mtx, 8345600, 8345600, 229518112, 27.50169, 2.69740, 0.09808, -5.69530, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 25.91141 ( throughput= 17.715602 gflops, bandwidth= 181.021 GB/s ) 
+------End of nlpkkt160.mtx Benchmark at 10:33:50------
+-----nlpkkt80.mtx Benchmark Started at 10:33:50-----
+merge_SpMV
+/local/panastas/training_suite/nlpkkt80.mtx, 1062400, 1062400, 28704672, 27.01870, 3.73512, 0.13824, -3.89693, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 3.26776 ( throughput= 17.568407 gflops, bandwidth= 179.585 GB/s ) 
+------End of nlpkkt80.mtx Benchmark at 10:34:00------
+-----offshore.mtx Benchmark Started at 10:34:00-----
+merge_SpMV
+/local/panastas/training_suite/offshore.mtx, 259789, 259789, 4242673, 16.33123, 2.81215, 0.17219, 0.30096, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.54036 ( throughput= 15.703163 gflops, bandwidth= 162.801 GB/s ) 
+------End of offshore.mtx Benchmark at 10:34:04------
+-----ohne2.mtx Benchmark Started at 10:34:04-----
+merge_SpMV
+/local/panastas/training_suite/ohne2.mtx, 181343, 181343, 11063545, 61.00894, 21.08519, 0.34561, 33.32818, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.10022 ( throughput= 20.111502 gflops, bandwidth= 203.093 GB/s ) 
+------End of ohne2.mtx Benchmark at 10:34:10------
+-----onetone1.mtx Benchmark Started at 10:34:10-----
+merge_SpMV
+/local/panastas/training_suite/onetone1.mtx, 36057, 36057, 341088, 9.45969, 14.23982, 1.50532, 3.59558, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.09731 ( throughput= 7.010299 gflops, bandwidth= 74.549 GB/s ) 
+------End of onetone1.mtx Benchmark at 10:34:13------
+-----onetone2.mtx Benchmark Started at 10:34:13-----
+merge_SpMV
+/local/panastas/training_suite/onetone2.mtx, 36057, 36057, 227628, 6.31300, 5.03252, 0.79717, 3.25771, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.07848 ( throughput= 5.800899 gflops, bandwidth= 63.522 GB/s ) 
+------End of onetone2.mtx Benchmark at 10:34:16------
+-----opt1.mtx Benchmark Started at 10:34:16-----
+merge_SpMV
+/local/panastas/training_suite/opt1.mtx, 15449, 15449, 1930655, 124.96958, 42.49478, 0.34004, 0.75403, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.20192 ( throughput= 19.123057 gflops, bandwidth= 192.149 GB/s ) 
+------End of opt1.mtx Benchmark at 10:34:19------
+-----packing-500x100x100-b050.mtx Benchmark Started at 10:34:19-----
+merge_SpMV
+/local/panastas/training_suite/packing-500x100x100-b050.mtx, 2145852, 2145852, 34976486, 16.29958, 2.82958, 0.17360, -1.64624, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 4.08179 ( throughput= 17.137826 gflops, bandwidth= 177.687 GB/s ) 
+------End of packing-500x100x100-b050.mtx Benchmark at 10:34:28------
+-----parabolic_fem.mtx Benchmark Started at 10:34:28-----
+merge_SpMV
+/local/panastas/training_suite/parabolic_fem.mtx, 525825, 525825, 3674625, 6.98830, 0.15263, 0.02184, -12.99378, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.57777 ( throughput= 12.719990 gflops, bandwidth= 138.121 GB/s ) 
+------End of parabolic_fem.mtx Benchmark at 10:34:32------
+-----patents.mtx Benchmark Started at 10:34:32-----
+merge_SpMV
+/local/panastas/training_suite/patents.mtx, 3774768, 3774768, 14970767, 3.96601, 5.31561, 1.34029, 1.78300, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 9.32884 ( throughput= 3.209567 gflops, bandwidth= 36.951 GB/s ) 
+------End of patents.mtx Benchmark at 10:34:40------
+-----pattern1.mtx Benchmark Started at 10:34:40-----
+merge_SpMV
+/local/panastas/training_suite/pattern1.mtx, 19242, 19242, 9323432, 484.53550, 379.74260, 0.78373, 0.89996, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.31829 ( throughput= 14.144733 gflops, bandwidth= 141.622 GB/s ) 
+------End of pattern1.mtx Benchmark at 10:34:44------
+-----pct20stif.mtx Benchmark Started at 10:34:44-----
+merge_SpMV
+/local/panastas/training_suite/pct20stif.mtx, 52329, 52329, 2698463, 51.56726, 16.97858, 0.32925, 0.53036, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.29203 ( throughput= 18.480764 gflops, bandwidth= 186.958 GB/s ) 
+------End of pct20stif.mtx Benchmark at 10:34:47------
+-----pfinan512.mtx Benchmark Started at 10:34:47-----
+merge_SpMV
+/local/panastas/training_suite/pfinan512.mtx, 74752, 74752, 596992, 7.98630, 6.27780, 0.78607, 5.42974, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.15930 ( throughput= 7.495221 gflops, bandwidth= 80.583 GB/s ) 
+------End of pfinan512.mtx Benchmark at 10:34:50------
+-----pkustk03.mtx Benchmark Started at 10:34:50-----
+merge_SpMV
+/local/panastas/training_suite/pkustk03.mtx, 63336, 63336, 3130416, 49.42554, 11.80316, 0.23881, -1.65458, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.33403 ( throughput= 18.743367 gflops, bandwidth= 189.709 GB/s ) 
+------End of pkustk03.mtx Benchmark at 10:34:53------
+-----pkustk04.mtx Benchmark Started at 10:34:53-----
+merge_SpMV
+/local/panastas/training_suite/pkustk04.mtx, 55590, 55590, 4218660, 75.88883, 110.88792, 1.46119, 19.27125, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.41767 ( throughput= 20.200981 gflops, bandwidth= 203.607 GB/s ) 
+------End of pkustk04.mtx Benchmark at 10:34:56------
+-----pkustk07.mtx Benchmark Started at 10:34:56-----
+merge_SpMV
+/local/panastas/training_suite/pkustk07.mtx, 16860, 16860, 2418804, 143.46406, 61.13318, 0.42612, 0.41610, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.24404 ( throughput= 19.822973 gflops, bandwidth= 199.059 GB/s ) 
+------End of pkustk07.mtx Benchmark at 10:35:00------
+-----pkustk08.mtx Benchmark Started at 10:35:00-----
+merge_SpMV
+/local/panastas/training_suite/pkustk08.mtx, 22209, 22209, 3226671, 145.28664, 61.53694, 0.42356, 0.38294, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.31474 ( throughput= 20.503650 gflops, bandwidth= 205.883 GB/s ) 
+------End of pkustk08.mtx Benchmark at 10:35:03------
+-----pkustk09.mtx Benchmark Started at 10:35:03-----
+merge_SpMV
+/local/panastas/training_suite/pkustk09.mtx, 33960, 33960, 1583640, 46.63251, 14.45255, 0.30992, -1.17988, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.18763 ( throughput= 16.880397 gflops, bandwidth= 170.976 GB/s ) 
+------End of pkustk09.mtx Benchmark at 10:35:06------
+-----pkustk10.mtx Benchmark Started at 10:35:06-----
+merge_SpMV
+/local/panastas/training_suite/pkustk10.mtx, 80676, 80676, 4308984, 53.41098, 6.56925, 0.12299, 0.51994, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.44448 ( throughput= 19.388817 gflops, bandwidth= 196.066 GB/s ) 
+------End of pkustk10.mtx Benchmark at 10:35:09------
+-----pkustk11.mtx Benchmark Started at 10:35:09-----
+merge_SpMV
+/local/panastas/training_suite/pkustk11.mtx, 87804, 87804, 5217912, 59.42681, 25.03215, 0.42123, 0.34153, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.52979 ( throughput= 19.698042 gflops, bandwidth= 198.969 GB/s ) 
+------End of pkustk11.mtx Benchmark at 10:35:13------
+-----pkustk12.mtx Benchmark Started at 10:35:13-----
+merge_SpMV
+/local/panastas/training_suite/pkustk12.mtx, 94653, 94653, 7512317, 79.36692, 148.39104, 1.86968, 22.06167, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.72349 ( throughput= 20.766933 gflops, bandwidth= 209.239 GB/s ) 
+------End of pkustk12.mtx Benchmark at 10:35:17------
+-----pkustk13.mtx Benchmark Started at 10:35:17-----
+merge_SpMV
+/local/panastas/training_suite/pkustk13.mtx, 94893, 94893, 6616827, 69.72935, 32.72291, 0.46928, 1.83560, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.64469 ( throughput= 20.527127 gflops, bandwidth= 207.038 GB/s ) 
+------End of pkustk13.mtx Benchmark at 10:35:21------
+-----pkustk14.mtx Benchmark Started at 10:35:21-----
+merge_SpMV
+/local/panastas/training_suite/pkustk14.mtx, 151926, 151926, 14836504, 97.65612, 46.50767, 0.47624, 1.45249, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.37914 ( throughput= 21.515597 gflops, bandwidth= 216.478 GB/s ) 
+------End of pkustk14.mtx Benchmark at 10:35:26------
+-----pli.mtx Benchmark Started at 10:35:26-----
+merge_SpMV
+/local/panastas/training_suite/pli.mtx, 22695, 22695, 1350309, 59.49808, 29.20537, 0.49086, 0.27859, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.16038 ( throughput= 16.838682 gflops, bandwidth= 170.085 GB/s ) 
+------End of pli.mtx Benchmark at 10:35:29------
+-----poisson3Db.mtx Benchmark Started at 10:35:29-----
+merge_SpMV
+/local/panastas/training_suite/poisson3Db.mtx, 85623, 85623, 2374949, 27.73728, 14.71205, 0.53041, 2.59102, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.34052 ( throughput= 13.948997 gflops, bandwidth= 142.507 GB/s ) 
+------End of poisson3Db.mtx Benchmark at 10:35:32------
+-----pre2.mtx Benchmark Started at 10:35:32-----
+merge_SpMV
+/local/panastas/training_suite/pre2.mtx, 659033, 659033, 5959282, 9.04246, 22.12166, 2.44642, 25.61826, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.75314 ( throughput= 15.825155 gflops, bandwidth= 168.752 GB/s ) 
+------End of pre2.mtx Benchmark at 10:35:37------
+-----pwt.mtx Benchmark Started at 10:35:37-----
+merge_SpMV
+/local/panastas/training_suite/pwt.mtx, 36519, 36519, 326107, 8.92979, 0.79167, 0.08865, -2.95956, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.09443 ( throughput= 6.906819 gflops, bandwidth= 73.709 GB/s ) 
+------End of pwt.mtx Benchmark at 10:35:40------
+-----pwtk.mtx Benchmark Started at 10:35:40-----
+merge_SpMV
+/local/panastas/training_suite/pwtk.mtx, 217918, 217918, 11634424, 53.38900, 4.74390, 0.08886, -1.72447, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.15467 ( throughput= 20.151976 gflops, bandwidth= 203.784 GB/s ) 
+------End of pwtk.mtx Benchmark at 10:35:45------
+-----rail4284.mtx Benchmark Started at 10:35:45-----
+merge_SpMV
+/local/panastas/training_suite/rail4284.mtx, 4284, 1096894, 11284032, 2633.99440, 4209.25932, 1.59805, 4.05684, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.65132 ( throughput= 13.666677 gflops, bandwidth= 136.698 GB/s ) 
+------End of rail4284.mtx Benchmark at 10:35:51------
+-----rajat29.mtx Benchmark Started at 10:35:51-----
+merge_SpMV
+/local/panastas/training_suite/rajat29.mtx, 643994, 643994, 4866270, 7.55639, 773.92668, 102.42016, 561.92903, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.67618 ( throughput= 14.393439 gflops, bandwidth= 155.363 GB/s ) 
+------End of rajat29.mtx Benchmark at 10:35:56------
+-----rajat30.mtx Benchmark Started at 10:35:56-----
+merge_SpMV
+/local/panastas/training_suite/rajat30.mtx, 643994, 643994, 6175377, 9.58918, 784.57986, 81.81925, 543.37368, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.82192 ( throughput= 15.026721 gflops, bandwidth= 159.670 GB/s ) 
+------End of rajat30.mtx Benchmark at 10:36:01------
+-----rajat31.mtx Benchmark Started at 10:36:01-----
+merge_SpMV
+/local/panastas/training_suite/rajat31.mtx, 4690002, 4690002, 20316253, 4.33182, 1.10616, 0.25536, 305.52334, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 3.16377 ( throughput= 12.843069 gflops, bandwidth= 146.220 GB/s ) 
+------End of rajat31.mtx Benchmark at 10:36:11------
+-----rgg_n_2_18_s0.mtx Benchmark Started at 10:36:11-----
+merge_SpMV
+/local/panastas/training_suite/rgg_n_2_18_s0.mtx, 262144, 262144, 3094566, 11.80483, 3.44855, 0.29213, 0.28408, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.40253 ( throughput= 15.375517 gflops, bandwidth= 161.570 GB/s ) 
+------End of rgg_n_2_18_s0.mtx Benchmark at 10:36:14------
+-----rgg_n_2_19_s0.mtx Benchmark Started at 10:36:14-----
+merge_SpMV
+/local/panastas/training_suite/rgg_n_2_19_s0.mtx, 524288, 524288, 6539532, 12.47317, 3.54345, 0.28409, 0.27927, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.81970 ( throughput= 15.955920 gflops, bandwidth= 167.235 GB/s ) 
+------End of rgg_n_2_19_s0.mtx Benchmark at 10:36:18------
+-----rgg_n_2_22_s0.mtx Benchmark Started at 10:36:18-----
+merge_SpMV
+/local/panastas/training_suite/rgg_n_2_22_s0.mtx, 4194304, 4194304, 60718396, 14.47639, 3.81233, 0.26335, 0.25946, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 7.97515 ( throughput= 15.226899 gflops, bandwidth= 158.580 GB/s ) 
+------End of rgg_n_2_22_s0.mtx Benchmark at 10:36:33------
+-----rma10.mtx Benchmark Started at 10:36:33-----
+merge_SpMV
+/local/panastas/training_suite/rma10.mtx, 46835, 46835, 2374001, 50.68861, 27.78060, 0.54806, 0.91766, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.26057 ( throughput= 18.221595 gflops, bandwidth= 184.373 GB/s ) 
+------End of rma10.mtx Benchmark at 10:36:37------
+-----s3dkq4m2.mtx Benchmark Started at 10:36:37-----
+merge_SpMV
+/local/panastas/training_suite/s3dkq4m2.mtx, 90449, 90449, 4820891, 53.29955, 3.63030, 0.06811, -5.86899, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.49259 ( throughput= 19.573666 gflops, bandwidth= 197.940 GB/s ) 
+------End of s3dkq4m2.mtx Benchmark at 10:36:41------
+-----soc-LiveJournal1.mtx Benchmark Started at 10:36:41-----
+merge_SpMV
+/local/panastas/training_suite/soc-LiveJournal1.mtx, 4847571, 4847571, 68993773, 14.23265, 36.08028, 2.53504, 76.00029, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 22.42416 ( throughput= 6.153521 gflops, bandwidth= 64.129 GB/s ) 
+------End of soc-LiveJournal1.mtx Benchmark at 10:37:03------
+-----spal_004.mtx Benchmark Started at 10:37:03-----
+merge_SpMV
+/local/panastas/training_suite/spal_004.mtx, 10203, 321696, 46168124, 4524.95580, 1491.95710, 0.32972, -1.26441, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 5.97657 ( throughput= 15.449707 gflops, bandwidth= 154.518 GB/s ) 
+------End of spal_004.mtx Benchmark at 10:37:23------
+-----stomach.mtx Benchmark Started at 10:37:23-----
+merge_SpMV
+/local/panastas/training_suite/stomach.mtx, 213360, 213360, 3021648, 14.16220, 5.88636, 0.41564, -0.39488, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.36301 ( throughput= 16.647787 gflops, bandwidth= 173.531 GB/s ) 
+------End of stomach.mtx Benchmark at 10:37:28------
+-----struct3.mtx Benchmark Started at 10:37:28-----
+merge_SpMV
+/local/panastas/training_suite/struct3.mtx, 53570, 53570, 1173694, 21.90954, 4.29755, 0.19615, -0.23606, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.16037 ( throughput= 14.637338 gflops, bandwidth= 150.382 GB/s ) 
+------End of struct3.mtx Benchmark at 10:37:31------
+-----struct4.mtx Benchmark Started at 10:37:31-----
+merge_SpMV
+/local/panastas/training_suite/struct4.mtx, 4350, 4350, 237798, 54.66621, 21.83569, 0.39944, 0.50816, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.06373 ( throughput= 7.462754 gflops, bandwidth= 75.447 GB/s ) 
+------End of struct4.mtx Benchmark at 10:37:34------
+-----tandem_dual.mtx Benchmark Started at 10:37:34-----
+merge_SpMV
+/local/panastas/training_suite/tandem_dual.mtx, 94069, 94069, 460493, 4.89527, 0.31719, 0.06480, -2.91490, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.14044 ( throughput= 6.557839 gflops, bandwidth= 73.616 GB/s ) 
+------End of tandem_dual.mtx Benchmark at 10:37:37------
+-----tandem_vtx.mtx Benchmark Started at 10:37:37-----
+merge_SpMV
+/local/panastas/training_suite/tandem_vtx.mtx, 18454, 18454, 253350, 13.72873, 3.32895, 0.24248, 0.42203, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.07511 ( throughput= 6.746195 gflops, bandwidth= 70.410 GB/s ) 
+------End of tandem_vtx.mtx Benchmark at 10:37:39------
+-----ted_A.mtx Benchmark Started at 10:37:39-----
+merge_SpMV
+/local/panastas/training_suite/ted_A.mtx, 10605, 10605, 424587, 40.03649, 37.19584, 0.92905, 0.56866, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.09759 ( throughput= 8.701490 gflops, bandwidth= 88.319 GB/s ) 
+------End of ted_A.mtx Benchmark at 10:37:42------
+-----thermal2.mtx Benchmark Started at 10:37:42-----
+merge_SpMV
+/local/panastas/training_suite/thermal2.mtx, 1228045, 1228045, 8580313, 6.98697, 0.81140, 0.11613, -0.11408, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.22081 ( throughput= 14.056749 gflops, bandwidth= 152.639 GB/s ) 
+------End of thermal2.mtx Benchmark at 10:37:47------
+-----thermomech_TC.mtx Benchmark Started at 10:37:47-----
+merge_SpMV
+/local/panastas/training_suite/thermomech_TC.mtx, 102158, 102158, 711558, 6.96527, 0.71524, 0.10269, -0.39088, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.13529 ( throughput= 10.518955 gflops, bandwidth= 114.251 GB/s ) 
+------End of thermomech_TC.mtx Benchmark at 10:37:50------
+-----thermomech_TK.mtx Benchmark Started at 10:37:50-----
+merge_SpMV
+/local/panastas/training_suite/thermomech_TK.mtx, 102158, 102158, 711558, 6.96527, 0.71524, 0.10269, -0.39088, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.13538 ( throughput= 10.512101 gflops, bandwidth= 114.176 GB/s ) 
+------End of thermomech_TK.mtx Benchmark at 10:37:53------
+-----thermomech_dK.mtx Benchmark Started at 10:37:53-----
+merge_SpMV
+/local/panastas/training_suite/thermomech_dK.mtx, 204316, 204316, 2846228, 13.93052, 1.43051, 0.10269, -0.39125, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.38519 ( throughput= 14.778252 gflops, bandwidth= 154.148 GB/s ) 
+------End of thermomech_dK.mtx Benchmark at 10:37:57------
+-----thermomech_dM.mtx Benchmark Started at 10:37:57-----
+merge_SpMV
+/local/panastas/training_suite/thermomech_dM.mtx, 204316, 204316, 1423116, 6.96527, 0.71524, 0.10269, -0.39088, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.23757 ( throughput= 11.980613 gflops, bandwidth= 130.126 GB/s ) 
+------End of thermomech_dM.mtx Benchmark at 10:38:00------
+-----torso3.mtx Benchmark Started at 10:38:00-----
+merge_SpMV
+/local/panastas/training_suite/torso3.mtx, 259156, 259156, 4429042, 17.09025, 4.39231, 0.25701, -1.86115, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.50592 ( throughput= 17.508882 gflops, bandwidth= 181.236 GB/s ) 
+------End of torso3.mtx Benchmark at 10:38:05------
+-----trdheim.mtx Benchmark Started at 10:38:05-----
+merge_SpMV
+/local/panastas/training_suite/trdheim.mtx, 22098, 22098, 1935324, 87.57915, 32.37105, 0.36962, 0.79177, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.20800 ( throughput= 18.608783 gflops, bandwidth= 187.363 GB/s ) 
+------End of trdheim.mtx Benchmark at 10:38:08------
+-----troll.mtx Benchmark Started at 10:38:08-----
+merge_SpMV
+/local/panastas/training_suite/troll.mtx, 213453, 213453, 11985111, 56.14871, 12.88793, 0.22953, 5.60863, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 1.18326 ( throughput= 20.257790 gflops, bandwidth= 204.743 GB/s ) 
+------End of troll.mtx Benchmark at 10:38:12------
+-----tsyl201.mtx Benchmark Started at 10:38:12-----
+merge_SpMV
+/local/panastas/training_suite/tsyl201.mtx, 20685, 20685, 2454957, 118.68296, 28.55464, 0.24060, 0.36430, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.25325 ( throughput= 19.387754 gflops, bandwidth= 194.858 GB/s ) 
+------End of tsyl201.mtx Benchmark at 10:38:16------
+-----twotone.mtx Benchmark Started at 10:38:16-----
+merge_SpMV
+/local/panastas/training_suite/twotone.mtx, 120750, 120750, 1224224, 10.13850, 15.03485, 1.48295, 6.32279, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.17830 ( throughput= 13.732263 gflops, bandwidth= 145.449 GB/s ) 
+------End of twotone.mtx Benchmark at 10:38:19------
+-----usroads.mtx Benchmark Started at 10:38:19-----
+merge_SpMV
+/local/panastas/training_suite/usroads.mtx, 129164, 129164, 330870, 2.56163, 0.78401, 0.30606, 0.71780, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.12675 ( throughput= 5.220907 gflops, bandwidth= 64.438 GB/s ) 
+------End of usroads.mtx Benchmark at 10:38:21------
+-----venturiLevel3.mtx Benchmark Started at 10:38:21-----
+merge_SpMV
+/local/panastas/training_suite/venturiLevel3.mtx, 4026819, 4026819, 16108474, 4.00030, 0.11826, 0.02956, 1.46321, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 2.85391 ( throughput= 11.288711 gflops, bandwidth= 129.819 GB/s ) 
+------End of venturiLevel3.mtx Benchmark at 10:38:27------
+-----wave.mtx Benchmark Started at 10:38:27-----
+merge_SpMV
+/local/panastas/training_suite/wave.mtx, 156317, 156317, 2118662, 13.55363, 3.32009, 0.24496, 0.69608, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.28201 ( throughput= 15.025384 gflops, bandwidth= 156.905 GB/s ) 
+------End of wave.mtx Benchmark at 10:38:31------
+-----wb-edu.mtx Benchmark Started at 10:38:31-----
+merge_SpMV
+/local/panastas/training_suite/wb-edu.mtx, 9845725, 9845725, 57156537, 5.80521, 20.29190, 3.49546, 63.56381, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 8.06646 ( throughput= 14.171403 gflops, bandwidth= 156.361 GB/s ) 
+------End of wb-edu.mtx Benchmark at 10:38:48------
+-----web-BerkStan.mtx Benchmark Started at 10:38:48-----
+merge_SpMV
+/local/panastas/training_suite/web-BerkStan.mtx, 685230, 685230, 7600595, 11.09203, 16.35603, 1.47457, 4.43350, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.91042 ( throughput= 16.696890 gflops, bandwidth= 176.001 GB/s ) 
+------End of web-BerkStan.mtx Benchmark at 10:38:54------
+-----web-Google.mtx Benchmark Started at 10:38:54-----
+merge_SpMV
+/local/panastas/training_suite/web-Google.mtx, 916428, 916428, 5105039, 5.57058, 6.55652, 1.17699, 4.99736, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 2.48559 ( throughput= 4.107708 gflops, bandwidth= 45.501 GB/s ) 
+------End of web-Google.mtx Benchmark at 10:38:58------
+-----web-NotreDame.mtx Benchmark Started at 10:38:58-----
+merge_SpMV
+/local/panastas/training_suite/web-NotreDame.mtx, 325729, 325729, 1497134, 4.59626, 21.47670, 4.67265, 43.65559, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.24495 ( throughput= 12.223934 gflops, bandwidth= 138.197 GB/s ) 
+------End of web-NotreDame.mtx Benchmark at 10:39:01------
+-----webbase-1M.mtx Benchmark Started at 10:39:01-----
+merge_SpMV
+/local/panastas/training_suite/webbase-1M.mtx, 1000005, 1000005, 3105536, 3.10552, 25.34521, 8.16134, 121.49432, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.54499 ( throughput= 11.396640 gflops, bandwidth= 135.985 GB/s ) 
+------End of webbase-1M.mtx Benchmark at 10:39:04------
+-----wiki-Talk.mtx Benchmark Started at 10:39:05-----
+merge_SpMV
+/local/panastas/training_suite/wiki-Talk.mtx, 2394385, 2394385, 5021410, 2.09716, 99.91502, 47.64300, 477.72042, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 2.49054 ( throughput= 4.032387 gflops, bandwidth= 51.861 GB/s ) 
+------End of wiki-Talk.mtx Benchmark at 10:39:09------
+-----wikipedia-20051105.mtx Benchmark Started at 10:39:09-----
+merge_SpMV
+/local/panastas/training_suite/wikipedia-20051105.mtx, 1634989, 1634989, 19753078, 12.08147, 31.07498, 2.57212, 19.91539, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 6.31560 ( throughput= 6.255328 gflops, bandwidth= 65.660 GB/s ) 
+------End of wikipedia-20051105.mtx Benchmark at 10:39:17------
+-----wikipedia-20060925.mtx Benchmark Started at 10:39:17-----
+merge_SpMV
+/local/panastas/training_suite/wikipedia-20060925.mtx, 2983494, 2983494, 37269096, 12.49176, 32.87480, 2.63172, 21.84037, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 14.02994 ( throughput= 5.312795 gflops, bandwidth= 55.680 GB/s ) 
+------End of wikipedia-20060925.mtx Benchmark at 10:39:30------
+-----wikipedia-20061104.mtx Benchmark Started at 10:39:30-----
+merge_SpMV
+/local/panastas/training_suite/wikipedia-20061104.mtx, 3148440, 3148440, 39383235, 12.50881, 33.15733, 2.65072, 23.64222, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 15.03333 ( throughput= 5.239456 gflops, bandwidth= 54.908 GB/s ) 
+------End of wikipedia-20061104.mtx Benchmark at 10:39:46------
+-----wikipedia-20070206.mtx Benchmark Started at 10:39:46-----
+merge_SpMV
+/local/panastas/training_suite/wikipedia-20070206.mtx, 3566907, 3566907, 45030389, 12.62449, 32.97537, 2.61202, 20.66509, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 17.52609 ( throughput= 5.138669 gflops, bandwidth= 53.829 GB/s ) 
+------End of wikipedia-20070206.mtx Benchmark at 10:40:02------
+-----xenon2.mtx Benchmark Started at 10:40:02-----
+merge_SpMV
+/local/panastas/training_suite/xenon2.mtx, 157464, 157464, 3866688, 24.55601, 4.06886, 0.16570, -1.66828, Tesla K40c, fp64, 
+Merge-based CsrMV, setup_ms= 0.00000
+avg_ms= 0.43166 ( throughput= 17.915367 gflops, bandwidth= 183.531 GB/s ) 
+------End of xenon2.mtx Benchmark at 10:40:08------

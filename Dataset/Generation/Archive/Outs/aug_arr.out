@@ -1,0 +1,2014 @@
+Baumann.mtx: nnz= 760631, density= 6.040920995076934e-05
+Augumented Baumann.mtx: nnz= 3042524, Out= 1/16 , density= 6.040920995076934e-05
+Augumented Baumann.mtx: nnz= 3042524, Out= 2/16 , density= 6.040920995076934e-05
+Augumented Baumann.mtx: nnz= 3042524, Out= 3/16 , density= 6.040920995076934e-05
+Augumented Baumann.mtx: nnz= 3042524, Out= 4/16 , density= 6.040920995076934e-05
+Augumented Baumann.mtx: nnz= 3042524, Out= 5/16 , density= 6.040920995076934e-05
+Augumented Baumann.mtx: nnz= 3042524, Out= 6/16 , density= 6.040920995076934e-05
+Augumented Baumann.mtx: nnz= 3042524, Out= 7/16 , density= 6.040920995076934e-05
+Augumented Baumann.mtx: nnz= 3042524, Out= 8/16 , density= 6.040920995076934e-05
+Augumented Baumann.mtx: nnz= 3042524, Out= 9/16 , density= 6.040920995076934e-05
+Augumented Baumann.mtx: nnz= 3042524, Out= 10/16 , density= 6.040920995076934e-05
+Augumented Baumann.mtx: nnz= 3042524, Out= 11/16 , density= 6.040920995076934e-05
+Augumented Baumann.mtx: nnz= 3042524, Out= 12/16 , density= 6.040920995076934e-05
+Augumented Baumann.mtx: nnz= 3042524, Out= 13/16 , density= 6.040920995076934e-05
+Augumented Baumann.mtx: nnz= 3042524, Out= 14/16 , density= 6.040920995076934e-05
+Augumented Baumann.mtx: nnz= 3042524, Out= 15/16 , density= 6.040920995076934e-05
+Augumented Baumann.mtx: nnz= 3042524, Out= 16/16 , density= 6.040920995076934e-05
+Executing: mv /local/panastas/Block_suite/Baumann.mtx /local/panastas/Augumented_block_suite/Baumann.mtx
+Dubcova1.mtx: nnz= 253009, density= 0.0009725704862780548
+Augumented Dubcova1.mtx: nnz= 1012036, Out= 1/16 , density= 0.0009725704862780548
+Augumented Dubcova1.mtx: nnz= 1012036, Out= 2/16 , density= 0.0009725704862780548
+Augumented Dubcova1.mtx: nnz= 1012036, Out= 3/16 , density= 0.0009725704862780548
+Augumented Dubcova1.mtx: nnz= 1012036, Out= 4/16 , density= 0.0009725704862780548
+Augumented Dubcova1.mtx: nnz= 1012036, Out= 5/16 , density= 0.0009725704862780548
+Augumented Dubcova1.mtx: nnz= 1012036, Out= 6/16 , density= 0.0009725704862780548
+Augumented Dubcova1.mtx: nnz= 1012036, Out= 7/16 , density= 0.0009725704862780548
+Augumented Dubcova1.mtx: nnz= 1012036, Out= 8/16 , density= 0.0009725704862780548
+Augumented Dubcova1.mtx: nnz= 1012036, Out= 9/16 , density= 0.0009725704862780548
+Augumented Dubcova1.mtx: nnz= 1012036, Out= 10/16 , density= 0.0009725704862780548
+Augumented Dubcova1.mtx: nnz= 1012036, Out= 11/16 , density= 0.0009725704862780548
+Augumented Dubcova1.mtx: nnz= 1012036, Out= 12/16 , density= 0.0009725704862780548
+Augumented Dubcova1.mtx: nnz= 1012036, Out= 13/16 , density= 0.0009725704862780548
+Augumented Dubcova1.mtx: nnz= 1012036, Out= 14/16 , density= 0.0009725704862780548
+Augumented Dubcova1.mtx: nnz= 1012036, Out= 15/16 , density= 0.0009725704862780548
+Augumented Dubcova1.mtx: nnz= 1012036, Out= 16/16 , density= 0.0009725704862780548
+Executing: mv /local/panastas/Block_suite/Dubcova1.mtx /local/panastas/Augumented_block_suite/Dubcova1.mtx
+Dubcova2.mtx: nnz= 1030225, density= 0.0002436527754312104
+Augumented Dubcova2.mtx: nnz= 4120900, Out= 1/16 , density= 0.0002436527754312104
+Augumented Dubcova2.mtx: nnz= 4120900, Out= 2/16 , density= 0.0002436527754312104
+Augumented Dubcova2.mtx: nnz= 4120900, Out= 3/16 , density= 0.0002436527754312104
+Augumented Dubcova2.mtx: nnz= 4120900, Out= 4/16 , density= 0.0002436527754312104
+Augumented Dubcova2.mtx: nnz= 4120900, Out= 5/16 , density= 0.0002436527754312104
+Augumented Dubcova2.mtx: nnz= 4120900, Out= 6/16 , density= 0.0002436527754312104
+Augumented Dubcova2.mtx: nnz= 4120900, Out= 7/16 , density= 0.0002436527754312104
+Augumented Dubcova2.mtx: nnz= 4120900, Out= 8/16 , density= 0.0002436527754312104
+Augumented Dubcova2.mtx: nnz= 4120900, Out= 9/16 , density= 0.0002436527754312104
+Augumented Dubcova2.mtx: nnz= 4120900, Out= 10/16 , density= 0.0002436527754312104
+Augumented Dubcova2.mtx: nnz= 4120900, Out= 11/16 , density= 0.0002436527754312104
+Augumented Dubcova2.mtx: nnz= 4120900, Out= 12/16 , density= 0.0002436527754312104
+Augumented Dubcova2.mtx: nnz= 4120900, Out= 13/16 , density= 0.0002436527754312104
+Augumented Dubcova2.mtx: nnz= 4120900, Out= 14/16 , density= 0.0002436527754312104
+Augumented Dubcova2.mtx: nnz= 4120900, Out= 15/16 , density= 0.0002436527754312104
+Augumented Dubcova2.mtx: nnz= 4120900, Out= 16/16 , density= 0.0002436527754312104
+Executing: mv /local/panastas/Block_suite/Dubcova2.mtx /local/panastas/Augumented_block_suite/Dubcova2.mtx
+Dubcova3.mtx: nnz= 3636649, density= 0.0001690076216526454
+Augumented Dubcova3.mtx: nnz= 14546596, Out= 1/16 , density= 0.0001690076216526454
+Augumented Dubcova3.mtx: nnz= 14546596, Out= 2/16 , density= 0.0001690076216526454
+Augumented Dubcova3.mtx: nnz= 14546596, Out= 3/16 , density= 0.0001690076216526454
+Augumented Dubcova3.mtx: nnz= 14546596, Out= 4/16 , density= 0.0001690076216526454
+Augumented Dubcova3.mtx: nnz= 14546596, Out= 5/16 , density= 0.0001690076216526454
+Augumented Dubcova3.mtx: nnz= 14546596, Out= 6/16 , density= 0.0001690076216526454
+Augumented Dubcova3.mtx: nnz= 14546596, Out= 7/16 , density= 0.0001690076216526454
+Augumented Dubcova3.mtx: nnz= 14546596, Out= 8/16 , density= 0.0001690076216526454
+Augumented Dubcova3.mtx: nnz= 14546596, Out= 9/16 , density= 0.0001690076216526454
+Augumented Dubcova3.mtx: nnz= 14546596, Out= 10/16 , density= 0.0001690076216526454
+Augumented Dubcova3.mtx: nnz= 14546596, Out= 11/16 , density= 0.0001690076216526454
+Augumented Dubcova3.mtx: nnz= 14546596, Out= 12/16 , density= 0.0001690076216526454
+Augumented Dubcova3.mtx: nnz= 14546596, Out= 13/16 , density= 0.0001690076216526454
+Augumented Dubcova3.mtx: nnz= 14546596, Out= 14/16 , density= 0.0001690076216526454
+Augumented Dubcova3.mtx: nnz= 14546596, Out= 15/16 , density= 0.0001690076216526454
+Augumented Dubcova3.mtx: nnz= 14546596, Out= 16/16 , density= 0.0001690076216526454
+Executing: mv /local/panastas/Block_suite/Dubcova3.mtx /local/panastas/Augumented_block_suite/Dubcova3.mtx
+F2.mtx: nnz= 5294285, density= 0.0010354627841405975
+Augumented F2.mtx: nnz= 21177140, Out= 1/16 , density= 0.0010354627841405975
+Augumented F2.mtx: nnz= 21177140, Out= 2/16 , density= 0.0010354627841405975
+Augumented F2.mtx: nnz= 21177140, Out= 3/16 , density= 0.0010354627841405975
+Augumented F2.mtx: nnz= 21177140, Out= 4/16 , density= 0.0010354627841405975
+Augumented F2.mtx: nnz= 21177140, Out= 5/16 , density= 0.0010354627841405975
+Augumented F2.mtx: nnz= 21177140, Out= 6/16 , density= 0.0010354627841405975
+Augumented F2.mtx: nnz= 21177140, Out= 7/16 , density= 0.0010354627841405975
+Augumented F2.mtx: nnz= 21177140, Out= 8/16 , density= 0.0010354627841405975
+Augumented F2.mtx: nnz= 21177140, Out= 9/16 , density= 0.0010354627841405975
+Augumented F2.mtx: nnz= 21177140, Out= 10/16 , density= 0.0010354627841405975
+Augumented F2.mtx: nnz= 21177140, Out= 11/16 , density= 0.0010354627841405975
+Augumented F2.mtx: nnz= 21177140, Out= 12/16 , density= 0.0010354627841405975
+Augumented F2.mtx: nnz= 21177140, Out= 13/16 , density= 0.0010354627841405975
+Augumented F2.mtx: nnz= 21177140, Out= 14/16 , density= 0.0010354627841405975
+Augumented F2.mtx: nnz= 21177140, Out= 15/16 , density= 0.0010354627841405975
+Augumented F2.mtx: nnz= 21177140, Out= 16/16 , density= 0.0010354627841405975
+Executing: mv /local/panastas/Block_suite/F2.mtx /local/panastas/Augumented_block_suite/F2.mtx
+Kuu.mtx: nnz= 340200, density= 0.006744860523342491
+Augumented Kuu.mtx: nnz= 1360800, Out= 1/16 , density= 0.006744860523342491
+Augumented Kuu.mtx: nnz= 1360800, Out= 2/16 , density= 0.006744860523342491
+Augumented Kuu.mtx: nnz= 1360800, Out= 3/16 , density= 0.006744860523342491
+Augumented Kuu.mtx: nnz= 1360800, Out= 4/16 , density= 0.006744860523342491
+Augumented Kuu.mtx: nnz= 1360800, Out= 5/16 , density= 0.006744860523342491
+Augumented Kuu.mtx: nnz= 1360800, Out= 6/16 , density= 0.006744860523342491
+Augumented Kuu.mtx: nnz= 1360800, Out= 7/16 , density= 0.006744860523342491
+Augumented Kuu.mtx: nnz= 1360800, Out= 8/16 , density= 0.006744860523342491
+Augumented Kuu.mtx: nnz= 1360800, Out= 9/16 , density= 0.006744860523342491
+Augumented Kuu.mtx: nnz= 1360800, Out= 10/16 , density= 0.006744860523342491
+Augumented Kuu.mtx: nnz= 1360800, Out= 11/16 , density= 0.006744860523342491
+Augumented Kuu.mtx: nnz= 1360800, Out= 12/16 , density= 0.006744860523342491
+Augumented Kuu.mtx: nnz= 1360800, Out= 13/16 , density= 0.006744860523342491
+Augumented Kuu.mtx: nnz= 1360800, Out= 14/16 , density= 0.006744860523342491
+Augumented Kuu.mtx: nnz= 1360800, Out= 15/16 , density= 0.006744860523342491
+Augumented Kuu.mtx: nnz= 1360800, Out= 16/16 , density= 0.006744860523342491
+Executing: mv /local/panastas/Block_suite/Kuu.mtx /local/panastas/Augumented_block_suite/Kuu.mtx
+Lin.mtx: nnz= 1766400, density= 2.6953125e-05
+Augumented Lin.mtx: nnz= 7065600, Out= 1/16 , density= 2.6953125e-05
+Augumented Lin.mtx: nnz= 7065600, Out= 2/16 , density= 2.6953125e-05
+Augumented Lin.mtx: nnz= 7065600, Out= 3/16 , density= 2.6953125e-05
+Augumented Lin.mtx: nnz= 7065600, Out= 4/16 , density= 2.6953125e-05
+Augumented Lin.mtx: nnz= 7065600, Out= 5/16 , density= 2.6953125e-05
+Augumented Lin.mtx: nnz= 7065600, Out= 6/16 , density= 2.6953125e-05
+Augumented Lin.mtx: nnz= 7065600, Out= 7/16 , density= 2.6953125e-05
+Augumented Lin.mtx: nnz= 7065600, Out= 8/16 , density= 2.6953125e-05
+Augumented Lin.mtx: nnz= 7065600, Out= 9/16 , density= 2.6953125e-05
+Augumented Lin.mtx: nnz= 7065600, Out= 10/16 , density= 2.6953125e-05
+Augumented Lin.mtx: nnz= 7065600, Out= 11/16 , density= 2.6953125e-05
+Augumented Lin.mtx: nnz= 7065600, Out= 12/16 , density= 2.6953125e-05
+Augumented Lin.mtx: nnz= 7065600, Out= 13/16 , density= 2.6953125e-05
+Augumented Lin.mtx: nnz= 7065600, Out= 14/16 , density= 2.6953125e-05
+Augumented Lin.mtx: nnz= 7065600, Out= 15/16 , density= 2.6953125e-05
+Augumented Lin.mtx: nnz= 7065600, Out= 16/16 , density= 2.6953125e-05
+Executing: mv /local/panastas/Block_suite/Lin.mtx /local/panastas/Augumented_block_suite/Lin.mtx
+Muu.mtx: nnz= 170134, density= 0.0033731043512003275
+Augumented Muu.mtx: nnz= 680536, Out= 1/16 , density= 0.0033731043512003275
+Augumented Muu.mtx: nnz= 680536, Out= 2/16 , density= 0.0033731043512003275
+Augumented Muu.mtx: nnz= 680536, Out= 3/16 , density= 0.0033731043512003275
+Augumented Muu.mtx: nnz= 680536, Out= 4/16 , density= 0.0033731043512003275
+Augumented Muu.mtx: nnz= 680536, Out= 5/16 , density= 0.0033731043512003275
+Augumented Muu.mtx: nnz= 680536, Out= 6/16 , density= 0.0033731043512003275
+Augumented Muu.mtx: nnz= 680536, Out= 7/16 , density= 0.0033731043512003275
+Augumented Muu.mtx: nnz= 680536, Out= 8/16 , density= 0.0033731043512003275
+Augumented Muu.mtx: nnz= 680536, Out= 9/16 , density= 0.0033731043512003275
+Augumented Muu.mtx: nnz= 680536, Out= 10/16 , density= 0.0033731043512003275
+Augumented Muu.mtx: nnz= 680536, Out= 11/16 , density= 0.0033731043512003275
+Augumented Muu.mtx: nnz= 680536, Out= 12/16 , density= 0.0033731043512003275
+Augumented Muu.mtx: nnz= 680536, Out= 13/16 , density= 0.0033731043512003275
+Augumented Muu.mtx: nnz= 680536, Out= 14/16 , density= 0.0033731043512003275
+Augumented Muu.mtx: nnz= 680536, Out= 15/16 , density= 0.0033731043512003275
+Augumented Muu.mtx: nnz= 680536, Out= 16/16 , density= 0.0033731043512003275
+Executing: mv /local/panastas/Block_suite/Muu.mtx /local/panastas/Augumented_block_suite/Muu.mtx
+apache1.mtx: nnz= 542184, density= 8.304700519556907e-05
+Augumented apache1.mtx: nnz= 2168736, Out= 1/16 , density= 8.304700519556907e-05
+Augumented apache1.mtx: nnz= 2168736, Out= 2/16 , density= 8.304700519556907e-05
+Augumented apache1.mtx: nnz= 2168736, Out= 3/16 , density= 8.304700519556907e-05
+Augumented apache1.mtx: nnz= 2168736, Out= 4/16 , density= 8.304700519556907e-05
+Augumented apache1.mtx: nnz= 2168736, Out= 5/16 , density= 8.304700519556907e-05
+Augumented apache1.mtx: nnz= 2168736, Out= 6/16 , density= 8.304700519556907e-05
+Augumented apache1.mtx: nnz= 2168736, Out= 7/16 , density= 8.304700519556907e-05
+Augumented apache1.mtx: nnz= 2168736, Out= 8/16 , density= 8.304700519556907e-05
+Augumented apache1.mtx: nnz= 2168736, Out= 9/16 , density= 8.304700519556907e-05
+Augumented apache1.mtx: nnz= 2168736, Out= 10/16 , density= 8.304700519556907e-05
+Augumented apache1.mtx: nnz= 2168736, Out= 11/16 , density= 8.304700519556907e-05
+Augumented apache1.mtx: nnz= 2168736, Out= 12/16 , density= 8.304700519556907e-05
+Augumented apache1.mtx: nnz= 2168736, Out= 13/16 , density= 8.304700519556907e-05
+Augumented apache1.mtx: nnz= 2168736, Out= 14/16 , density= 8.304700519556907e-05
+Augumented apache1.mtx: nnz= 2168736, Out= 15/16 , density= 8.304700519556907e-05
+Augumented apache1.mtx: nnz= 2168736, Out= 16/16 , density= 8.304700519556907e-05
+Executing: mv /local/panastas/Block_suite/apache1.mtx /local/panastas/Augumented_block_suite/apache1.mtx
+apache2.mtx: nnz= 4817870, density= 9.419529563343244e-06
+Augumented apache2.mtx: nnz= 19271480, Out= 1/16 , density= 9.419529563343244e-06
+Augumented apache2.mtx: nnz= 19271480, Out= 2/16 , density= 9.419529563343244e-06
+Augumented apache2.mtx: nnz= 19271480, Out= 3/16 , density= 9.419529563343244e-06
+Augumented apache2.mtx: nnz= 19271480, Out= 4/16 , density= 9.419529563343244e-06
+Augumented apache2.mtx: nnz= 19271480, Out= 5/16 , density= 9.419529563343244e-06
+Augumented apache2.mtx: nnz= 19271480, Out= 6/16 , density= 9.419529563343244e-06
+Augumented apache2.mtx: nnz= 19271480, Out= 7/16 , density= 9.419529563343244e-06
+Augumented apache2.mtx: nnz= 19271480, Out= 8/16 , density= 9.419529563343244e-06
+Augumented apache2.mtx: nnz= 19271480, Out= 9/16 , density= 9.419529563343244e-06
+Augumented apache2.mtx: nnz= 19271480, Out= 10/16 , density= 9.419529563343244e-06
+Augumented apache2.mtx: nnz= 19271480, Out= 11/16 , density= 9.419529563343244e-06
+Augumented apache2.mtx: nnz= 19271480, Out= 12/16 , density= 9.419529563343244e-06
+Augumented apache2.mtx: nnz= 19271480, Out= 13/16 , density= 9.419529563343244e-06
+Augumented apache2.mtx: nnz= 19271480, Out= 14/16 , density= 9.419529563343244e-06
+Augumented apache2.mtx: nnz= 19271480, Out= 15/16 , density= 9.419529563343244e-06
+Augumented apache2.mtx: nnz= 19271480, Out= 16/16 , density= 9.419529563343244e-06
+Executing: mv /local/panastas/Block_suite/apache2.mtx /local/panastas/Augumented_block_suite/apache2.mtx
+aug3dcqp.mtx: nnz= 128115, density= 0.00010141257678335722
+Augumented aug3dcqp.mtx: nnz= 512460, Out= 1/16 , density= 0.00010141257678335722
+Augumented aug3dcqp.mtx: nnz= 512460, Out= 2/16 , density= 0.00010141257678335722
+Augumented aug3dcqp.mtx: nnz= 512460, Out= 3/16 , density= 0.00010141257678335722
+Augumented aug3dcqp.mtx: nnz= 512460, Out= 4/16 , density= 0.00010141257678335722
+Augumented aug3dcqp.mtx: nnz= 512460, Out= 5/16 , density= 0.00010141257678335722
+Augumented aug3dcqp.mtx: nnz= 512460, Out= 6/16 , density= 0.00010141257678335722
+Augumented aug3dcqp.mtx: nnz= 512460, Out= 7/16 , density= 0.00010141257678335722
+Augumented aug3dcqp.mtx: nnz= 512460, Out= 8/16 , density= 0.00010141257678335722
+Augumented aug3dcqp.mtx: nnz= 512460, Out= 9/16 , density= 0.00010141257678335722
+Augumented aug3dcqp.mtx: nnz= 512460, Out= 10/16 , density= 0.00010141257678335722
+Augumented aug3dcqp.mtx: nnz= 512460, Out= 11/16 , density= 0.00010141257678335722
+Augumented aug3dcqp.mtx: nnz= 512460, Out= 12/16 , density= 0.00010141257678335722
+Augumented aug3dcqp.mtx: nnz= 512460, Out= 13/16 , density= 0.00010141257678335722
+Augumented aug3dcqp.mtx: nnz= 512460, Out= 14/16 , density= 0.00010141257678335722
+Augumented aug3dcqp.mtx: nnz= 512460, Out= 15/16 , density= 0.00010141257678335722
+Augumented aug3dcqp.mtx: nnz= 512460, Out= 16/16 , density= 0.00010141257678335722
+Executing: cp /local/panastas/Block_suite/aug3dcqp.mtx /local/panastas/Augumented_block_suite/aug3dcqp.mtx
+av41092.mtx: nnz= 1683902, density= 0.0009972458871730977
+Augumented av41092.mtx: nnz= 6735608, Out= 1/16 , density= 0.0009972458871730977
+Augumented av41092.mtx: nnz= 6735608, Out= 2/16 , density= 0.0009972458871730977
+Augumented av41092.mtx: nnz= 6735608, Out= 3/16 , density= 0.0009972458871730977
+Augumented av41092.mtx: nnz= 6735608, Out= 4/16 , density= 0.0009972458871730977
+Augumented av41092.mtx: nnz= 6735608, Out= 5/16 , density= 0.0009972458871730977
+Augumented av41092.mtx: nnz= 6735608, Out= 6/16 , density= 0.0009972458871730977
+Augumented av41092.mtx: nnz= 6735608, Out= 7/16 , density= 0.0009972458871730977
+Augumented av41092.mtx: nnz= 6735608, Out= 8/16 , density= 0.0009972458871730977
+Augumented av41092.mtx: nnz= 6735608, Out= 9/16 , density= 0.0009972458871730977
+Augumented av41092.mtx: nnz= 6735608, Out= 10/16 , density= 0.0009972458871730977
+Augumented av41092.mtx: nnz= 6735608, Out= 11/16 , density= 0.0009972458871730977
+Augumented av41092.mtx: nnz= 6735608, Out= 12/16 , density= 0.0009972458871730977
+Augumented av41092.mtx: nnz= 6735608, Out= 13/16 , density= 0.0009972458871730977
+Augumented av41092.mtx: nnz= 6735608, Out= 14/16 , density= 0.0009972458871730977
+Augumented av41092.mtx: nnz= 6735608, Out= 15/16 , density= 0.0009972458871730977
+Augumented av41092.mtx: nnz= 6735608, Out= 16/16 , density= 0.0009972458871730977
+Executing: cp /local/panastas/Block_suite/av41092.mtx /local/panastas/Augumented_block_suite/av41092.mtx
+bcsstk15.mtx: nnz= 117816, density= 0.007558750073139261
+Augumented bcsstk15.mtx: nnz= 471264, Out= 1/16 , density= 0.007558750073139261
+Augumented bcsstk15.mtx: nnz= 471264, Out= 2/16 , density= 0.007558750073139261
+Augumented bcsstk15.mtx: nnz= 471264, Out= 3/16 , density= 0.007558750073139261
+Augumented bcsstk15.mtx: nnz= 471264, Out= 4/16 , density= 0.007558750073139261
+Augumented bcsstk15.mtx: nnz= 471264, Out= 5/16 , density= 0.007558750073139261
+Augumented bcsstk15.mtx: nnz= 471264, Out= 6/16 , density= 0.007558750073139261
+Augumented bcsstk15.mtx: nnz= 471264, Out= 7/16 , density= 0.007558750073139261
+Augumented bcsstk15.mtx: nnz= 471264, Out= 8/16 , density= 0.007558750073139261
+Augumented bcsstk15.mtx: nnz= 471264, Out= 9/16 , density= 0.007558750073139261
+Augumented bcsstk15.mtx: nnz= 471264, Out= 10/16 , density= 0.007558750073139261
+Augumented bcsstk15.mtx: nnz= 471264, Out= 11/16 , density= 0.007558750073139261
+Augumented bcsstk15.mtx: nnz= 471264, Out= 12/16 , density= 0.007558750073139261
+Augumented bcsstk15.mtx: nnz= 471264, Out= 13/16 , density= 0.007558750073139261
+Augumented bcsstk15.mtx: nnz= 471264, Out= 14/16 , density= 0.007558750073139261
+Augumented bcsstk15.mtx: nnz= 471264, Out= 15/16 , density= 0.007558750073139261
+Augumented bcsstk15.mtx: nnz= 471264, Out= 16/16 , density= 0.007558750073139261
+Executing: cp /local/panastas/Block_suite/bcsstk15.mtx /local/panastas/Augumented_block_suite/bcsstk15.mtx
+bcsstk16.mtx: nnz= 290378, density= 0.012173414200441228
+Augumented bcsstk16.mtx: nnz= 1161512, Out= 1/16 , density= 0.012173414200441228
+Augumented bcsstk16.mtx: nnz= 1161512, Out= 2/16 , density= 0.012173414200441228
+Augumented bcsstk16.mtx: nnz= 1161512, Out= 3/16 , density= 0.012173414200441228
+Augumented bcsstk16.mtx: nnz= 1161512, Out= 4/16 , density= 0.012173414200441228
+Augumented bcsstk16.mtx: nnz= 1161512, Out= 5/16 , density= 0.012173414200441228
+Augumented bcsstk16.mtx: nnz= 1161512, Out= 6/16 , density= 0.012173414200441228
+Augumented bcsstk16.mtx: nnz= 1161512, Out= 7/16 , density= 0.012173414200441228
+Augumented bcsstk16.mtx: nnz= 1161512, Out= 8/16 , density= 0.012173414200441228
+Augumented bcsstk16.mtx: nnz= 1161512, Out= 9/16 , density= 0.012173414200441228
+Augumented bcsstk16.mtx: nnz= 1161512, Out= 10/16 , density= 0.012173414200441228
+Augumented bcsstk16.mtx: nnz= 1161512, Out= 11/16 , density= 0.012173414200441228
+Augumented bcsstk16.mtx: nnz= 1161512, Out= 12/16 , density= 0.012173414200441228
+Augumented bcsstk16.mtx: nnz= 1161512, Out= 13/16 , density= 0.012173414200441228
+Augumented bcsstk16.mtx: nnz= 1161512, Out= 14/16 , density= 0.012173414200441228
+Augumented bcsstk16.mtx: nnz= 1161512, Out= 15/16 , density= 0.012173414200441228
+Augumented bcsstk16.mtx: nnz= 1161512, Out= 16/16 , density= 0.012173414200441228
+Executing: cp /local/panastas/Block_suite/bcsstk16.mtx /local/panastas/Augumented_block_suite/bcsstk16.mtx
+bcsstk17.mtx: nnz= 428650, density= 0.0035593682023042418
+Augumented bcsstk17.mtx: nnz= 1714600, Out= 1/16 , density= 0.0035593682023042418
+Augumented bcsstk17.mtx: nnz= 1714600, Out= 2/16 , density= 0.0035593682023042418
+Augumented bcsstk17.mtx: nnz= 1714600, Out= 3/16 , density= 0.0035593682023042418
+Augumented bcsstk17.mtx: nnz= 1714600, Out= 4/16 , density= 0.0035593682023042418
+Augumented bcsstk17.mtx: nnz= 1714600, Out= 5/16 , density= 0.0035593682023042418
+Augumented bcsstk17.mtx: nnz= 1714600, Out= 6/16 , density= 0.0035593682023042418
+Augumented bcsstk17.mtx: nnz= 1714600, Out= 7/16 , density= 0.0035593682023042418
+Augumented bcsstk17.mtx: nnz= 1714600, Out= 8/16 , density= 0.0035593682023042418
+Augumented bcsstk17.mtx: nnz= 1714600, Out= 9/16 , density= 0.0035593682023042418
+Augumented bcsstk17.mtx: nnz= 1714600, Out= 10/16 , density= 0.0035593682023042418
+Augumented bcsstk17.mtx: nnz= 1714600, Out= 11/16 , density= 0.0035593682023042418
+Augumented bcsstk17.mtx: nnz= 1714600, Out= 12/16 , density= 0.0035593682023042418
+Augumented bcsstk17.mtx: nnz= 1714600, Out= 13/16 , density= 0.0035593682023042418
+Augumented bcsstk17.mtx: nnz= 1714600, Out= 14/16 , density= 0.0035593682023042418
+Augumented bcsstk17.mtx: nnz= 1714600, Out= 15/16 , density= 0.0035593682023042418
+Augumented bcsstk17.mtx: nnz= 1714600, Out= 16/16 , density= 0.0035593682023042418
+Executing: cp /local/panastas/Block_suite/bcsstk17.mtx /local/panastas/Augumented_block_suite/bcsstk17.mtx
+bcsstk18.mtx: nnz= 149090, density= 0.0010443788948628972
+Augumented bcsstk18.mtx: nnz= 596360, Out= 1/16 , density= 0.0010443788948628972
+Augumented bcsstk18.mtx: nnz= 596360, Out= 2/16 , density= 0.0010443788948628972
+Augumented bcsstk18.mtx: nnz= 596360, Out= 3/16 , density= 0.0010443788948628972
+Augumented bcsstk18.mtx: nnz= 596360, Out= 4/16 , density= 0.0010443788948628972
+Augumented bcsstk18.mtx: nnz= 596360, Out= 5/16 , density= 0.0010443788948628972
+Augumented bcsstk18.mtx: nnz= 596360, Out= 6/16 , density= 0.0010443788948628972
+Augumented bcsstk18.mtx: nnz= 596360, Out= 7/16 , density= 0.0010443788948628972
+Augumented bcsstk18.mtx: nnz= 596360, Out= 8/16 , density= 0.0010443788948628972
+Augumented bcsstk18.mtx: nnz= 596360, Out= 9/16 , density= 0.0010443788948628972
+Augumented bcsstk18.mtx: nnz= 596360, Out= 10/16 , density= 0.0010443788948628972
+Augumented bcsstk18.mtx: nnz= 596360, Out= 11/16 , density= 0.0010443788948628972
+Augumented bcsstk18.mtx: nnz= 596360, Out= 12/16 , density= 0.0010443788948628972
+Augumented bcsstk18.mtx: nnz= 596360, Out= 13/16 , density= 0.0010443788948628972
+Augumented bcsstk18.mtx: nnz= 596360, Out= 14/16 , density= 0.0010443788948628972
+Augumented bcsstk18.mtx: nnz= 596360, Out= 15/16 , density= 0.0010443788948628972
+Augumented bcsstk18.mtx: nnz= 596360, Out= 16/16 , density= 0.0010443788948628972
+Executing: cp /local/panastas/Block_suite/bcsstk18.mtx /local/panastas/Augumented_block_suite/bcsstk18.mtx
+bcsstk24.mtx: nnz= 159910, density= 0.012603402122535554
+Augumented bcsstk24.mtx: nnz= 639640, Out= 1/16 , density= 0.012603402122535554
+Augumented bcsstk24.mtx: nnz= 639640, Out= 2/16 , density= 0.012603402122535554
+Augumented bcsstk24.mtx: nnz= 639640, Out= 3/16 , density= 0.012603402122535554
+Augumented bcsstk24.mtx: nnz= 639640, Out= 4/16 , density= 0.012603402122535554
+Augumented bcsstk24.mtx: nnz= 639640, Out= 5/16 , density= 0.012603402122535554
+Augumented bcsstk24.mtx: nnz= 639640, Out= 6/16 , density= 0.012603402122535554
+Augumented bcsstk24.mtx: nnz= 639640, Out= 7/16 , density= 0.012603402122535554
+Augumented bcsstk24.mtx: nnz= 639640, Out= 8/16 , density= 0.012603402122535554
+Augumented bcsstk24.mtx: nnz= 639640, Out= 9/16 , density= 0.012603402122535554
+Augumented bcsstk24.mtx: nnz= 639640, Out= 10/16 , density= 0.012603402122535554
+Augumented bcsstk24.mtx: nnz= 639640, Out= 11/16 , density= 0.012603402122535554
+Augumented bcsstk24.mtx: nnz= 639640, Out= 12/16 , density= 0.012603402122535554
+Augumented bcsstk24.mtx: nnz= 639640, Out= 13/16 , density= 0.012603402122535554
+Augumented bcsstk24.mtx: nnz= 639640, Out= 14/16 , density= 0.012603402122535554
+Augumented bcsstk24.mtx: nnz= 639640, Out= 15/16 , density= 0.012603402122535554
+Augumented bcsstk24.mtx: nnz= 639640, Out= 16/16 , density= 0.012603402122535554
+Executing: cp /local/panastas/Block_suite/bcsstk24.mtx /local/panastas/Augumented_block_suite/bcsstk24.mtx
+bcsstk25.mtx: nnz= 252241, density= 0.0010582233620331932
+Augumented bcsstk25.mtx: nnz= 1008964, Out= 1/16 , density= 0.0010582233620331932
+Augumented bcsstk25.mtx: nnz= 1008964, Out= 2/16 , density= 0.0010582233620331932
+Augumented bcsstk25.mtx: nnz= 1008964, Out= 3/16 , density= 0.0010582233620331932
+Augumented bcsstk25.mtx: nnz= 1008964, Out= 4/16 , density= 0.0010582233620331932
+Augumented bcsstk25.mtx: nnz= 1008964, Out= 5/16 , density= 0.0010582233620331932
+Augumented bcsstk25.mtx: nnz= 1008964, Out= 6/16 , density= 0.0010582233620331932
+Augumented bcsstk25.mtx: nnz= 1008964, Out= 7/16 , density= 0.0010582233620331932
+Augumented bcsstk25.mtx: nnz= 1008964, Out= 8/16 , density= 0.0010582233620331932
+Augumented bcsstk25.mtx: nnz= 1008964, Out= 9/16 , density= 0.0010582233620331932
+Augumented bcsstk25.mtx: nnz= 1008964, Out= 10/16 , density= 0.0010582233620331932
+Augumented bcsstk25.mtx: nnz= 1008964, Out= 11/16 , density= 0.0010582233620331932
+Augumented bcsstk25.mtx: nnz= 1008964, Out= 12/16 , density= 0.0010582233620331932
+Augumented bcsstk25.mtx: nnz= 1008964, Out= 13/16 , density= 0.0010582233620331932
+Augumented bcsstk25.mtx: nnz= 1008964, Out= 14/16 , density= 0.0010582233620331932
+Augumented bcsstk25.mtx: nnz= 1008964, Out= 15/16 , density= 0.0010582233620331932
+Augumented bcsstk25.mtx: nnz= 1008964, Out= 16/16 , density= 0.0010582233620331932
+Executing: cp /local/panastas/Block_suite/bcsstk25.mtx /local/panastas/Augumented_block_suite/bcsstk25.mtx
+bcsstk28.mtx: nnz= 219024, density= 0.011261974177426073
+Augumented bcsstk28.mtx: nnz= 876096, Out= 1/16 , density= 0.011261974177426073
+Augumented bcsstk28.mtx: nnz= 876096, Out= 2/16 , density= 0.011261974177426073
+Augumented bcsstk28.mtx: nnz= 876096, Out= 3/16 , density= 0.011261974177426073
+Augumented bcsstk28.mtx: nnz= 876096, Out= 4/16 , density= 0.011261974177426073
+Augumented bcsstk28.mtx: nnz= 876096, Out= 5/16 , density= 0.011261974177426073
+Augumented bcsstk28.mtx: nnz= 876096, Out= 6/16 , density= 0.011261974177426073
+Augumented bcsstk28.mtx: nnz= 876096, Out= 7/16 , density= 0.011261974177426073
+Augumented bcsstk28.mtx: nnz= 876096, Out= 8/16 , density= 0.011261974177426073
+Augumented bcsstk28.mtx: nnz= 876096, Out= 9/16 , density= 0.011261974177426073
+Augumented bcsstk28.mtx: nnz= 876096, Out= 10/16 , density= 0.011261974177426073
+Augumented bcsstk28.mtx: nnz= 876096, Out= 11/16 , density= 0.011261974177426073
+Augumented bcsstk28.mtx: nnz= 876096, Out= 12/16 , density= 0.011261974177426073
+Augumented bcsstk28.mtx: nnz= 876096, Out= 13/16 , density= 0.011261974177426073
+Augumented bcsstk28.mtx: nnz= 876096, Out= 14/16 , density= 0.011261974177426073
+Augumented bcsstk28.mtx: nnz= 876096, Out= 15/16 , density= 0.011261974177426073
+Augumented bcsstk28.mtx: nnz= 876096, Out= 16/16 , density= 0.011261974177426073
+Executing: cp /local/panastas/Block_suite/bcsstk28.mtx /local/panastas/Augumented_block_suite/bcsstk28.mtx
+bcsstk29.mtx: nnz= 619488, density= 0.0031642683346621986
+Augumented bcsstk29.mtx: nnz= 2477952, Out= 1/16 , density= 0.0031642683346621986
+Augumented bcsstk29.mtx: nnz= 2477952, Out= 2/16 , density= 0.0031642683346621986
+Augumented bcsstk29.mtx: nnz= 2477952, Out= 3/16 , density= 0.0031642683346621986
+Augumented bcsstk29.mtx: nnz= 2477952, Out= 4/16 , density= 0.0031642683346621986
+Augumented bcsstk29.mtx: nnz= 2477952, Out= 5/16 , density= 0.0031642683346621986
+Augumented bcsstk29.mtx: nnz= 2477952, Out= 6/16 , density= 0.0031642683346621986
+Augumented bcsstk29.mtx: nnz= 2477952, Out= 7/16 , density= 0.0031642683346621986
+Augumented bcsstk29.mtx: nnz= 2477952, Out= 8/16 , density= 0.0031642683346621986
+Augumented bcsstk29.mtx: nnz= 2477952, Out= 9/16 , density= 0.0031642683346621986
+Augumented bcsstk29.mtx: nnz= 2477952, Out= 10/16 , density= 0.0031642683346621986
+Augumented bcsstk29.mtx: nnz= 2477952, Out= 11/16 , density= 0.0031642683346621986
+Augumented bcsstk29.mtx: nnz= 2477952, Out= 12/16 , density= 0.0031642683346621986
+Augumented bcsstk29.mtx: nnz= 2477952, Out= 13/16 , density= 0.0031642683346621986
+Augumented bcsstk29.mtx: nnz= 2477952, Out= 14/16 , density= 0.0031642683346621986
+Augumented bcsstk29.mtx: nnz= 2477952, Out= 15/16 , density= 0.0031642683346621986
+Augumented bcsstk29.mtx: nnz= 2477952, Out= 16/16 , density= 0.0031642683346621986
+Executing: cp /local/panastas/Block_suite/bcsstk29.mtx /local/panastas/Augumented_block_suite/bcsstk29.mtx
+bcsstk30.mtx: nnz= 2043492, density= 0.002442621841251464
+Augumented bcsstk30.mtx: nnz= 8173968, Out= 1/16 , density= 0.002442621841251464
+Augumented bcsstk30.mtx: nnz= 8173968, Out= 2/16 , density= 0.002442621841251464
+Augumented bcsstk30.mtx: nnz= 8173968, Out= 3/16 , density= 0.002442621841251464
+Augumented bcsstk30.mtx: nnz= 8173968, Out= 4/16 , density= 0.002442621841251464
+Augumented bcsstk30.mtx: nnz= 8173968, Out= 5/16 , density= 0.002442621841251464
+Augumented bcsstk30.mtx: nnz= 8173968, Out= 6/16 , density= 0.002442621841251464
+Augumented bcsstk30.mtx: nnz= 8173968, Out= 7/16 , density= 0.002442621841251464
+Augumented bcsstk30.mtx: nnz= 8173968, Out= 8/16 , density= 0.002442621841251464
+Augumented bcsstk30.mtx: nnz= 8173968, Out= 9/16 , density= 0.002442621841251464
+Augumented bcsstk30.mtx: nnz= 8173968, Out= 10/16 , density= 0.002442621841251464
+Augumented bcsstk30.mtx: nnz= 8173968, Out= 11/16 , density= 0.002442621841251464
+Augumented bcsstk30.mtx: nnz= 8173968, Out= 12/16 , density= 0.002442621841251464
+Augumented bcsstk30.mtx: nnz= 8173968, Out= 13/16 , density= 0.002442621841251464
+Augumented bcsstk30.mtx: nnz= 8173968, Out= 14/16 , density= 0.002442621841251464
+Augumented bcsstk30.mtx: nnz= 8173968, Out= 15/16 , density= 0.002442621841251464
+Augumented bcsstk30.mtx: nnz= 8173968, Out= 16/16 , density= 0.002442621841251464
+Executing: cp /local/panastas/Block_suite/bcsstk30.mtx /local/panastas/Augumented_block_suite/bcsstk30.mtx
+bcsstk31.mtx: nnz= 1181416, density= 0.0009328153508950845
+Augumented bcsstk31.mtx: nnz= 4725664, Out= 1/16 , density= 0.0009328153508950845
+Augumented bcsstk31.mtx: nnz= 4725664, Out= 2/16 , density= 0.0009328153508950845
+Augumented bcsstk31.mtx: nnz= 4725664, Out= 3/16 , density= 0.0009328153508950845
+Augumented bcsstk31.mtx: nnz= 4725664, Out= 4/16 , density= 0.0009328153508950845
+Augumented bcsstk31.mtx: nnz= 4725664, Out= 5/16 , density= 0.0009328153508950845
+Augumented bcsstk31.mtx: nnz= 4725664, Out= 6/16 , density= 0.0009328153508950845
+Augumented bcsstk31.mtx: nnz= 4725664, Out= 7/16 , density= 0.0009328153508950845
+Augumented bcsstk31.mtx: nnz= 4725664, Out= 8/16 , density= 0.0009328153508950845
+Augumented bcsstk31.mtx: nnz= 4725664, Out= 9/16 , density= 0.0009328153508950845
+Augumented bcsstk31.mtx: nnz= 4725664, Out= 10/16 , density= 0.0009328153508950845
+Augumented bcsstk31.mtx: nnz= 4725664, Out= 11/16 , density= 0.0009328153508950845
+Augumented bcsstk31.mtx: nnz= 4725664, Out= 12/16 , density= 0.0009328153508950845
+Augumented bcsstk31.mtx: nnz= 4725664, Out= 13/16 , density= 0.0009328153508950845
+Augumented bcsstk31.mtx: nnz= 4725664, Out= 14/16 , density= 0.0009328153508950845
+Augumented bcsstk31.mtx: nnz= 4725664, Out= 15/16 , density= 0.0009328153508950845
+Augumented bcsstk31.mtx: nnz= 4725664, Out= 16/16 , density= 0.0009328153508950845
+Executing: cp /local/panastas/Block_suite/bcsstk31.mtx /local/panastas/Augumented_block_suite/bcsstk31.mtx
+bcsstk32.mtx: nnz= 2014701, density= 0.0010124314474587429
+Augumented bcsstk32.mtx: nnz= 8058804, Out= 1/16 , density= 0.0010124314474587429
+Augumented bcsstk32.mtx: nnz= 8058804, Out= 2/16 , density= 0.0010124314474587429
+Augumented bcsstk32.mtx: nnz= 8058804, Out= 3/16 , density= 0.0010124314474587429
+Augumented bcsstk32.mtx: nnz= 8058804, Out= 4/16 , density= 0.0010124314474587429
+Augumented bcsstk32.mtx: nnz= 8058804, Out= 5/16 , density= 0.0010124314474587429
+Augumented bcsstk32.mtx: nnz= 8058804, Out= 6/16 , density= 0.0010124314474587429
+Augumented bcsstk32.mtx: nnz= 8058804, Out= 7/16 , density= 0.0010124314474587429
+Augumented bcsstk32.mtx: nnz= 8058804, Out= 8/16 , density= 0.0010124314474587429
+Augumented bcsstk32.mtx: nnz= 8058804, Out= 9/16 , density= 0.0010124314474587429
+Augumented bcsstk32.mtx: nnz= 8058804, Out= 10/16 , density= 0.0010124314474587429
+Augumented bcsstk32.mtx: nnz= 8058804, Out= 11/16 , density= 0.0010124314474587429
+Augumented bcsstk32.mtx: nnz= 8058804, Out= 12/16 , density= 0.0010124314474587429
+Augumented bcsstk32.mtx: nnz= 8058804, Out= 13/16 , density= 0.0010124314474587429
+Augumented bcsstk32.mtx: nnz= 8058804, Out= 14/16 , density= 0.0010124314474587429
+Augumented bcsstk32.mtx: nnz= 8058804, Out= 15/16 , density= 0.0010124314474587429
+Augumented bcsstk32.mtx: nnz= 8058804, Out= 16/16 , density= 0.0010124314474587429
+Executing: cp /local/panastas/Block_suite/bcsstk32.mtx /local/panastas/Augumented_block_suite/bcsstk32.mtx
+bcsstk33.mtx: nnz= 591904, density= 0.00775223972597465
+Augumented bcsstk33.mtx: nnz= 2367616, Out= 1/16 , density= 0.00775223972597465
+Augumented bcsstk33.mtx: nnz= 2367616, Out= 2/16 , density= 0.00775223972597465
+Augumented bcsstk33.mtx: nnz= 2367616, Out= 3/16 , density= 0.00775223972597465
+Augumented bcsstk33.mtx: nnz= 2367616, Out= 4/16 , density= 0.00775223972597465
+Augumented bcsstk33.mtx: nnz= 2367616, Out= 5/16 , density= 0.00775223972597465
+Augumented bcsstk33.mtx: nnz= 2367616, Out= 6/16 , density= 0.00775223972597465
+Augumented bcsstk33.mtx: nnz= 2367616, Out= 7/16 , density= 0.00775223972597465
+Augumented bcsstk33.mtx: nnz= 2367616, Out= 8/16 , density= 0.00775223972597465
+Augumented bcsstk33.mtx: nnz= 2367616, Out= 9/16 , density= 0.00775223972597465
+Augumented bcsstk33.mtx: nnz= 2367616, Out= 10/16 , density= 0.00775223972597465
+Augumented bcsstk33.mtx: nnz= 2367616, Out= 11/16 , density= 0.00775223972597465
+Augumented bcsstk33.mtx: nnz= 2367616, Out= 12/16 , density= 0.00775223972597465
+Augumented bcsstk33.mtx: nnz= 2367616, Out= 13/16 , density= 0.00775223972597465
+Augumented bcsstk33.mtx: nnz= 2367616, Out= 14/16 , density= 0.00775223972597465
+Augumented bcsstk33.mtx: nnz= 2367616, Out= 15/16 , density= 0.00775223972597465
+Augumented bcsstk33.mtx: nnz= 2367616, Out= 16/16 , density= 0.00775223972597465
+Executing: cp /local/panastas/Block_suite/bcsstk33.mtx /local/panastas/Augumented_block_suite/bcsstk33.mtx
+bcsstk35.mtx: nnz= 1450163, density= 0.0015861323407194703
+Augumented bcsstk35.mtx: nnz= 5800652, Out= 1/16 , density= 0.0015861323407194703
+Augumented bcsstk35.mtx: nnz= 5800652, Out= 2/16 , density= 0.0015861323407194703
+Augumented bcsstk35.mtx: nnz= 5800652, Out= 3/16 , density= 0.0015861323407194703
+Augumented bcsstk35.mtx: nnz= 5800652, Out= 4/16 , density= 0.0015861323407194703
+Augumented bcsstk35.mtx: nnz= 5800652, Out= 5/16 , density= 0.0015861323407194703
+Augumented bcsstk35.mtx: nnz= 5800652, Out= 6/16 , density= 0.0015861323407194703
+Augumented bcsstk35.mtx: nnz= 5800652, Out= 7/16 , density= 0.0015861323407194703
+Augumented bcsstk35.mtx: nnz= 5800652, Out= 8/16 , density= 0.0015861323407194703
+Augumented bcsstk35.mtx: nnz= 5800652, Out= 9/16 , density= 0.0015861323407194703
+Augumented bcsstk35.mtx: nnz= 5800652, Out= 10/16 , density= 0.0015861323407194703
+Augumented bcsstk35.mtx: nnz= 5800652, Out= 11/16 , density= 0.0015861323407194703
+Augumented bcsstk35.mtx: nnz= 5800652, Out= 12/16 , density= 0.0015861323407194703
+Augumented bcsstk35.mtx: nnz= 5800652, Out= 13/16 , density= 0.0015861323407194703
+Augumented bcsstk35.mtx: nnz= 5800652, Out= 14/16 , density= 0.0015861323407194703
+Augumented bcsstk35.mtx: nnz= 5800652, Out= 15/16 , density= 0.0015861323407194703
+Augumented bcsstk35.mtx: nnz= 5800652, Out= 16/16 , density= 0.0015861323407194703
+Executing: cp /local/panastas/Block_suite/bcsstk35.mtx /local/panastas/Augumented_block_suite/bcsstk35.mtx
+bcsstk36.mtx: nnz= 1143140, density= 0.0021512069868125745
+Augumented bcsstk36.mtx: nnz= 4572560, Out= 1/16 , density= 0.0021512069868125745
+Augumented bcsstk36.mtx: nnz= 4572560, Out= 2/16 , density= 0.0021512069868125745
+Augumented bcsstk36.mtx: nnz= 4572560, Out= 3/16 , density= 0.0021512069868125745
+Augumented bcsstk36.mtx: nnz= 4572560, Out= 4/16 , density= 0.0021512069868125745
+Augumented bcsstk36.mtx: nnz= 4572560, Out= 5/16 , density= 0.0021512069868125745
+Augumented bcsstk36.mtx: nnz= 4572560, Out= 6/16 , density= 0.0021512069868125745
+Augumented bcsstk36.mtx: nnz= 4572560, Out= 7/16 , density= 0.0021512069868125745
+Augumented bcsstk36.mtx: nnz= 4572560, Out= 8/16 , density= 0.0021512069868125745
+Augumented bcsstk36.mtx: nnz= 4572560, Out= 9/16 , density= 0.0021512069868125745
+Augumented bcsstk36.mtx: nnz= 4572560, Out= 10/16 , density= 0.0021512069868125745
+Augumented bcsstk36.mtx: nnz= 4572560, Out= 11/16 , density= 0.0021512069868125745
+Augumented bcsstk36.mtx: nnz= 4572560, Out= 12/16 , density= 0.0021512069868125745
+Augumented bcsstk36.mtx: nnz= 4572560, Out= 13/16 , density= 0.0021512069868125745
+Augumented bcsstk36.mtx: nnz= 4572560, Out= 14/16 , density= 0.0021512069868125745
+Augumented bcsstk36.mtx: nnz= 4572560, Out= 15/16 , density= 0.0021512069868125745
+Augumented bcsstk36.mtx: nnz= 4572560, Out= 16/16 , density= 0.0021512069868125745
+Executing: cp /local/panastas/Block_suite/bcsstk36.mtx /local/panastas/Augumented_block_suite/bcsstk36.mtx
+bcsstk37.mtx: nnz= 1140977, density= 0.0017542615643095832
+Augumented bcsstk37.mtx: nnz= 4563908, Out= 1/16 , density= 0.0017542615643095832
+Augumented bcsstk37.mtx: nnz= 4563908, Out= 2/16 , density= 0.0017542615643095832
+Augumented bcsstk37.mtx: nnz= 4563908, Out= 3/16 , density= 0.0017542615643095832
+Augumented bcsstk37.mtx: nnz= 4563908, Out= 4/16 , density= 0.0017542615643095832
+Augumented bcsstk37.mtx: nnz= 4563908, Out= 5/16 , density= 0.0017542615643095832
+Augumented bcsstk37.mtx: nnz= 4563908, Out= 6/16 , density= 0.0017542615643095832
+Augumented bcsstk37.mtx: nnz= 4563908, Out= 7/16 , density= 0.0017542615643095832
+Augumented bcsstk37.mtx: nnz= 4563908, Out= 8/16 , density= 0.0017542615643095832
+Augumented bcsstk37.mtx: nnz= 4563908, Out= 9/16 , density= 0.0017542615643095832
+Augumented bcsstk37.mtx: nnz= 4563908, Out= 10/16 , density= 0.0017542615643095832
+Augumented bcsstk37.mtx: nnz= 4563908, Out= 11/16 , density= 0.0017542615643095832
+Augumented bcsstk37.mtx: nnz= 4563908, Out= 12/16 , density= 0.0017542615643095832
+Augumented bcsstk37.mtx: nnz= 4563908, Out= 13/16 , density= 0.0017542615643095832
+Augumented bcsstk37.mtx: nnz= 4563908, Out= 14/16 , density= 0.0017542615643095832
+Augumented bcsstk37.mtx: nnz= 4563908, Out= 15/16 , density= 0.0017542615643095832
+Augumented bcsstk37.mtx: nnz= 4563908, Out= 16/16 , density= 0.0017542615643095832
+Executing: cp /local/panastas/Block_suite/bcsstk37.mtx /local/panastas/Augumented_block_suite/bcsstk37.mtx
+bcsstk38.mtx: nnz= 355460, density= 0.005509895180235235
+Augumented bcsstk38.mtx: nnz= 1421840, Out= 1/16 , density= 0.005509895180235235
+Augumented bcsstk38.mtx: nnz= 1421840, Out= 2/16 , density= 0.005509895180235235
+Augumented bcsstk38.mtx: nnz= 1421840, Out= 3/16 , density= 0.005509895180235235
+Augumented bcsstk38.mtx: nnz= 1421840, Out= 4/16 , density= 0.005509895180235235
+Augumented bcsstk38.mtx: nnz= 1421840, Out= 5/16 , density= 0.005509895180235235
+Augumented bcsstk38.mtx: nnz= 1421840, Out= 6/16 , density= 0.005509895180235235
+Augumented bcsstk38.mtx: nnz= 1421840, Out= 7/16 , density= 0.005509895180235235
+Augumented bcsstk38.mtx: nnz= 1421840, Out= 8/16 , density= 0.005509895180235235
+Augumented bcsstk38.mtx: nnz= 1421840, Out= 9/16 , density= 0.005509895180235235
+Augumented bcsstk38.mtx: nnz= 1421840, Out= 10/16 , density= 0.005509895180235235
+Augumented bcsstk38.mtx: nnz= 1421840, Out= 11/16 , density= 0.005509895180235235
+Augumented bcsstk38.mtx: nnz= 1421840, Out= 12/16 , density= 0.005509895180235235
+Augumented bcsstk38.mtx: nnz= 1421840, Out= 13/16 , density= 0.005509895180235235
+Augumented bcsstk38.mtx: nnz= 1421840, Out= 14/16 , density= 0.005509895180235235
+Augumented bcsstk38.mtx: nnz= 1421840, Out= 15/16 , density= 0.005509895180235235
+Augumented bcsstk38.mtx: nnz= 1421840, Out= 16/16 , density= 0.005509895180235235
+Executing: cp /local/panastas/Block_suite/bcsstk38.mtx /local/panastas/Augumented_block_suite/bcsstk38.mtx
+bcsstk39.mtx: nnz= 2089294, density= 0.0009550534440537457
+Augumented bcsstk39.mtx: nnz= 8357176, Out= 1/16 , density= 0.0009550534440537457
+Augumented bcsstk39.mtx: nnz= 8357176, Out= 2/16 , density= 0.0009550534440537457
+Augumented bcsstk39.mtx: nnz= 8357176, Out= 3/16 , density= 0.0009550534440537457
+Augumented bcsstk39.mtx: nnz= 8357176, Out= 4/16 , density= 0.0009550534440537457
+Augumented bcsstk39.mtx: nnz= 8357176, Out= 5/16 , density= 0.0009550534440537457
+Augumented bcsstk39.mtx: nnz= 8357176, Out= 6/16 , density= 0.0009550534440537457
+Augumented bcsstk39.mtx: nnz= 8357176, Out= 7/16 , density= 0.0009550534440537457
+Augumented bcsstk39.mtx: nnz= 8357176, Out= 8/16 , density= 0.0009550534440537457
+Augumented bcsstk39.mtx: nnz= 8357176, Out= 9/16 , density= 0.0009550534440537457
+Augumented bcsstk39.mtx: nnz= 8357176, Out= 10/16 , density= 0.0009550534440537457
+Augumented bcsstk39.mtx: nnz= 8357176, Out= 11/16 , density= 0.0009550534440537457
+Augumented bcsstk39.mtx: nnz= 8357176, Out= 12/16 , density= 0.0009550534440537457
+Augumented bcsstk39.mtx: nnz= 8357176, Out= 13/16 , density= 0.0009550534440537457
+Augumented bcsstk39.mtx: nnz= 8357176, Out= 14/16 , density= 0.0009550534440537457
+Augumented bcsstk39.mtx: nnz= 8357176, Out= 15/16 , density= 0.0009550534440537457
+Augumented bcsstk39.mtx: nnz= 8357176, Out= 16/16 , density= 0.0009550534440537457
+Executing: cp /local/panastas/Block_suite/bcsstk39.mtx /local/panastas/Augumented_block_suite/bcsstk39.mtx
+bcsstm36.mtx: nnz= 320606, density= 0.0006033293098081007
+Augumented bcsstm36.mtx: nnz= 1282424, Out= 1/16 , density= 0.0006033293098081007
+Augumented bcsstm36.mtx: nnz= 1282424, Out= 2/16 , density= 0.0006033293098081007
+Augumented bcsstm36.mtx: nnz= 1282424, Out= 3/16 , density= 0.0006033293098081007
+Augumented bcsstm36.mtx: nnz= 1282424, Out= 4/16 , density= 0.0006033293098081007
+Augumented bcsstm36.mtx: nnz= 1282424, Out= 5/16 , density= 0.0006033293098081007
+Augumented bcsstm36.mtx: nnz= 1282424, Out= 6/16 , density= 0.0006033293098081007
+Augumented bcsstm36.mtx: nnz= 1282424, Out= 7/16 , density= 0.0006033293098081007
+Augumented bcsstm36.mtx: nnz= 1282424, Out= 8/16 , density= 0.0006033293098081007
+Augumented bcsstm36.mtx: nnz= 1282424, Out= 9/16 , density= 0.0006033293098081007
+Augumented bcsstm36.mtx: nnz= 1282424, Out= 10/16 , density= 0.0006033293098081007
+Augumented bcsstm36.mtx: nnz= 1282424, Out= 11/16 , density= 0.0006033293098081007
+Augumented bcsstm36.mtx: nnz= 1282424, Out= 12/16 , density= 0.0006033293098081007
+Augumented bcsstm36.mtx: nnz= 1282424, Out= 13/16 , density= 0.0006033293098081007
+Augumented bcsstm36.mtx: nnz= 1282424, Out= 14/16 , density= 0.0006033293098081007
+Augumented bcsstm36.mtx: nnz= 1282424, Out= 15/16 , density= 0.0006033293098081007
+Augumented bcsstm36.mtx: nnz= 1282424, Out= 16/16 , density= 0.0006033293098081007
+Executing: cp /local/panastas/Block_suite/bcsstm36.mtx /local/panastas/Augumented_block_suite/bcsstm36.mtx
+bmw7st_1.mtx: nnz= 7339667, density= 0.000367369558103727
+Augumented bmw7st_1.mtx: nnz= 29358668, Out= 1/16 , density= 0.000367369558103727
+Augumented bmw7st_1.mtx: nnz= 29358668, Out= 2/16 , density= 0.000367369558103727
+Augumented bmw7st_1.mtx: nnz= 29358668, Out= 3/16 , density= 0.000367369558103727
+Augumented bmw7st_1.mtx: nnz= 29358668, Out= 4/16 , density= 0.000367369558103727
+Augumented bmw7st_1.mtx: nnz= 29358668, Out= 5/16 , density= 0.000367369558103727
+Augumented bmw7st_1.mtx: nnz= 29358668, Out= 6/16 , density= 0.000367369558103727
+Augumented bmw7st_1.mtx: nnz= 29358668, Out= 7/16 , density= 0.000367369558103727
+Augumented bmw7st_1.mtx: nnz= 29358668, Out= 8/16 , density= 0.000367369558103727
+Augumented bmw7st_1.mtx: nnz= 29358668, Out= 9/16 , density= 0.000367369558103727
+Augumented bmw7st_1.mtx: nnz= 29358668, Out= 10/16 , density= 0.000367369558103727
+Augumented bmw7st_1.mtx: nnz= 29358668, Out= 11/16 , density= 0.000367369558103727
+Augumented bmw7st_1.mtx: nnz= 29358668, Out= 12/16 , density= 0.000367369558103727
+Augumented bmw7st_1.mtx: nnz= 29358668, Out= 13/16 , density= 0.000367369558103727
+Augumented bmw7st_1.mtx: nnz= 29358668, Out= 14/16 , density= 0.000367369558103727
+Augumented bmw7st_1.mtx: nnz= 29358668, Out= 15/16 , density= 0.000367369558103727
+Augumented bmw7st_1.mtx: nnz= 29358668, Out= 16/16 , density= 0.000367369558103727
+Executing: cp /local/panastas/Block_suite/bmw7st_1.mtx /local/panastas/Augumented_block_suite/bmw7st_1.mtx
+bodyy4.mtx: nnz= 121938, density= 0.0003960799126060707
+Augumented bodyy4.mtx: nnz= 487752, Out= 1/16 , density= 0.0003960799126060707
+Augumented bodyy4.mtx: nnz= 487752, Out= 2/16 , density= 0.0003960799126060707
+Augumented bodyy4.mtx: nnz= 487752, Out= 3/16 , density= 0.0003960799126060707
+Augumented bodyy4.mtx: nnz= 487752, Out= 4/16 , density= 0.0003960799126060707
+Augumented bodyy4.mtx: nnz= 487752, Out= 5/16 , density= 0.0003960799126060707
+Augumented bodyy4.mtx: nnz= 487752, Out= 6/16 , density= 0.0003960799126060707
+Augumented bodyy4.mtx: nnz= 487752, Out= 7/16 , density= 0.0003960799126060707
+Augumented bodyy4.mtx: nnz= 487752, Out= 8/16 , density= 0.0003960799126060707
+Augumented bodyy4.mtx: nnz= 487752, Out= 9/16 , density= 0.0003960799126060707
+Augumented bodyy4.mtx: nnz= 487752, Out= 10/16 , density= 0.0003960799126060707
+Augumented bodyy4.mtx: nnz= 487752, Out= 11/16 , density= 0.0003960799126060707
+Augumented bodyy4.mtx: nnz= 487752, Out= 12/16 , density= 0.0003960799126060707
+Augumented bodyy4.mtx: nnz= 487752, Out= 13/16 , density= 0.0003960799126060707
+Augumented bodyy4.mtx: nnz= 487752, Out= 14/16 , density= 0.0003960799126060707
+Augumented bodyy4.mtx: nnz= 487752, Out= 15/16 , density= 0.0003960799126060707
+Augumented bodyy4.mtx: nnz= 487752, Out= 16/16 , density= 0.0003960799126060707
+Executing: cp /local/panastas/Block_suite/bodyy4.mtx /local/panastas/Augumented_block_suite/bodyy4.mtx
+bodyy5.mtx: nnz= 129281, density= 0.0003741300981802332
+Augumented bodyy5.mtx: nnz= 517124, Out= 1/16 , density= 0.0003741300981802332
+Augumented bodyy5.mtx: nnz= 517124, Out= 2/16 , density= 0.0003741300981802332
+Augumented bodyy5.mtx: nnz= 517124, Out= 3/16 , density= 0.0003741300981802332
+Augumented bodyy5.mtx: nnz= 517124, Out= 4/16 , density= 0.0003741300981802332
+Augumented bodyy5.mtx: nnz= 517124, Out= 5/16 , density= 0.0003741300981802332
+Augumented bodyy5.mtx: nnz= 517124, Out= 6/16 , density= 0.0003741300981802332
+Augumented bodyy5.mtx: nnz= 517124, Out= 7/16 , density= 0.0003741300981802332
+Augumented bodyy5.mtx: nnz= 517124, Out= 8/16 , density= 0.0003741300981802332
+Augumented bodyy5.mtx: nnz= 517124, Out= 9/16 , density= 0.0003741300981802332
+Augumented bodyy5.mtx: nnz= 517124, Out= 10/16 , density= 0.0003741300981802332
+Augumented bodyy5.mtx: nnz= 517124, Out= 11/16 , density= 0.0003741300981802332
+Augumented bodyy5.mtx: nnz= 517124, Out= 12/16 , density= 0.0003741300981802332
+Augumented bodyy5.mtx: nnz= 517124, Out= 13/16 , density= 0.0003741300981802332
+Augumented bodyy5.mtx: nnz= 517124, Out= 14/16 , density= 0.0003741300981802332
+Augumented bodyy5.mtx: nnz= 517124, Out= 15/16 , density= 0.0003741300981802332
+Augumented bodyy5.mtx: nnz= 517124, Out= 16/16 , density= 0.0003741300981802332
+Executing: cp /local/panastas/Block_suite/bodyy5.mtx /local/panastas/Augumented_block_suite/bodyy5.mtx
+bodyy6.mtx: nnz= 134748, density= 0.00035928780192262007
+Augumented bodyy6.mtx: nnz= 538992, Out= 1/16 , density= 0.00035928780192262007
+Augumented bodyy6.mtx: nnz= 538992, Out= 2/16 , density= 0.00035928780192262007
+Augumented bodyy6.mtx: nnz= 538992, Out= 3/16 , density= 0.00035928780192262007
+Augumented bodyy6.mtx: nnz= 538992, Out= 4/16 , density= 0.00035928780192262007
+Augumented bodyy6.mtx: nnz= 538992, Out= 5/16 , density= 0.00035928780192262007
+Augumented bodyy6.mtx: nnz= 538992, Out= 6/16 , density= 0.00035928780192262007
+Augumented bodyy6.mtx: nnz= 538992, Out= 7/16 , density= 0.00035928780192262007
+Augumented bodyy6.mtx: nnz= 538992, Out= 8/16 , density= 0.00035928780192262007
+Augumented bodyy6.mtx: nnz= 538992, Out= 9/16 , density= 0.00035928780192262007
+Augumented bodyy6.mtx: nnz= 538992, Out= 10/16 , density= 0.00035928780192262007
+Augumented bodyy6.mtx: nnz= 538992, Out= 11/16 , density= 0.00035928780192262007
+Augumented bodyy6.mtx: nnz= 538992, Out= 12/16 , density= 0.00035928780192262007
+Augumented bodyy6.mtx: nnz= 538992, Out= 13/16 , density= 0.00035928780192262007
+Augumented bodyy6.mtx: nnz= 538992, Out= 14/16 , density= 0.00035928780192262007
+Augumented bodyy6.mtx: nnz= 538992, Out= 15/16 , density= 0.00035928780192262007
+Augumented bodyy6.mtx: nnz= 538992, Out= 16/16 , density= 0.00035928780192262007
+Executing: cp /local/panastas/Block_suite/bodyy6.mtx /local/panastas/Augumented_block_suite/bodyy6.mtx
+brack2.mtx: nnz= 733118, density= 0.0001868939275901491
+Augumented brack2.mtx: nnz= 2932472, Out= 1/16 , density= 0.0001868939275901491
+Augumented brack2.mtx: nnz= 2932472, Out= 2/16 , density= 0.0001868939275901491
+Augumented brack2.mtx: nnz= 2932472, Out= 3/16 , density= 0.0001868939275901491
+Augumented brack2.mtx: nnz= 2932472, Out= 4/16 , density= 0.0001868939275901491
+Augumented brack2.mtx: nnz= 2932472, Out= 5/16 , density= 0.0001868939275901491
+Augumented brack2.mtx: nnz= 2932472, Out= 6/16 , density= 0.0001868939275901491
+Augumented brack2.mtx: nnz= 2932472, Out= 7/16 , density= 0.0001868939275901491
+Augumented brack2.mtx: nnz= 2932472, Out= 8/16 , density= 0.0001868939275901491
+Augumented brack2.mtx: nnz= 2932472, Out= 9/16 , density= 0.0001868939275901491
+Augumented brack2.mtx: nnz= 2932472, Out= 10/16 , density= 0.0001868939275901491
+Augumented brack2.mtx: nnz= 2932472, Out= 11/16 , density= 0.0001868939275901491
+Augumented brack2.mtx: nnz= 2932472, Out= 12/16 , density= 0.0001868939275901491
+Augumented brack2.mtx: nnz= 2932472, Out= 13/16 , density= 0.0001868939275901491
+Augumented brack2.mtx: nnz= 2932472, Out= 14/16 , density= 0.0001868939275901491
+Augumented brack2.mtx: nnz= 2932472, Out= 15/16 , density= 0.0001868939275901491
+Augumented brack2.mtx: nnz= 2932472, Out= 16/16 , density= 0.0001868939275901491
+Executing: cp /local/panastas/Block_suite/brack2.mtx /local/panastas/Augumented_block_suite/brack2.mtx
+brack2_coord.mtx is not sparse
+Executing: mv /local/panastas/Block_suite/brack2_coord.mtx /local/panastas/Block_suite/Removed/brack2_coord.mtx
+bratu3d.mtx: nnz= 173796, density= 0.00022500914764801044
+Augumented bratu3d.mtx: nnz= 695184, Out= 1/16 , density= 0.00022500914764801044
+Augumented bratu3d.mtx: nnz= 695184, Out= 2/16 , density= 0.00022500914764801044
+Augumented bratu3d.mtx: nnz= 695184, Out= 3/16 , density= 0.00022500914764801044
+Augumented bratu3d.mtx: nnz= 695184, Out= 4/16 , density= 0.00022500914764801044
+Augumented bratu3d.mtx: nnz= 695184, Out= 5/16 , density= 0.00022500914764801044
+Augumented bratu3d.mtx: nnz= 695184, Out= 6/16 , density= 0.00022500914764801044
+Augumented bratu3d.mtx: nnz= 695184, Out= 7/16 , density= 0.00022500914764801044
+Augumented bratu3d.mtx: nnz= 695184, Out= 8/16 , density= 0.00022500914764801044
+Augumented bratu3d.mtx: nnz= 695184, Out= 9/16 , density= 0.00022500914764801044
+Augumented bratu3d.mtx: nnz= 695184, Out= 10/16 , density= 0.00022500914764801044
+Augumented bratu3d.mtx: nnz= 695184, Out= 11/16 , density= 0.00022500914764801044
+Augumented bratu3d.mtx: nnz= 695184, Out= 12/16 , density= 0.00022500914764801044
+Augumented bratu3d.mtx: nnz= 695184, Out= 13/16 , density= 0.00022500914764801044
+Augumented bratu3d.mtx: nnz= 695184, Out= 14/16 , density= 0.00022500914764801044
+Augumented bratu3d.mtx: nnz= 695184, Out= 15/16 , density= 0.00022500914764801044
+Augumented bratu3d.mtx: nnz= 695184, Out= 16/16 , density= 0.00022500914764801044
+Executing: cp /local/panastas/Block_suite/bratu3d.mtx /local/panastas/Augumented_block_suite/bratu3d.mtx
+cant.mtx: nnz= 4007383, density= 0.0010275005372830897
+Augumented cant.mtx: nnz= 16029532, Out= 1/16 , density= 0.0010275005372830897
+Augumented cant.mtx: nnz= 16029532, Out= 2/16 , density= 0.0010275005372830897
+Augumented cant.mtx: nnz= 16029532, Out= 3/16 , density= 0.0010275005372830897
+Augumented cant.mtx: nnz= 16029532, Out= 4/16 , density= 0.0010275005372830897
+Augumented cant.mtx: nnz= 16029532, Out= 5/16 , density= 0.0010275005372830897
+Augumented cant.mtx: nnz= 16029532, Out= 6/16 , density= 0.0010275005372830897
+Augumented cant.mtx: nnz= 16029532, Out= 7/16 , density= 0.0010275005372830897
+Augumented cant.mtx: nnz= 16029532, Out= 8/16 , density= 0.0010275005372830897
+Augumented cant.mtx: nnz= 16029532, Out= 9/16 , density= 0.0010275005372830897
+Augumented cant.mtx: nnz= 16029532, Out= 10/16 , density= 0.0010275005372830897
+Augumented cant.mtx: nnz= 16029532, Out= 11/16 , density= 0.0010275005372830897
+Augumented cant.mtx: nnz= 16029532, Out= 12/16 , density= 0.0010275005372830897
+Augumented cant.mtx: nnz= 16029532, Out= 13/16 , density= 0.0010275005372830897
+Augumented cant.mtx: nnz= 16029532, Out= 14/16 , density= 0.0010275005372830897
+Augumented cant.mtx: nnz= 16029532, Out= 15/16 , density= 0.0010275005372830897
+Augumented cant.mtx: nnz= 16029532, Out= 16/16 , density= 0.0010275005372830897
+Executing: cp /local/panastas/Block_suite/cant.mtx /local/panastas/Augumented_block_suite/cant.mtx
+cbuckle.mtx: nnz= 676515, density= 0.0036144460322306018
+Augumented cbuckle.mtx: nnz= 2706060, Out= 1/16 , density= 0.0036144460322306018
+Augumented cbuckle.mtx: nnz= 2706060, Out= 2/16 , density= 0.0036144460322306018
+Augumented cbuckle.mtx: nnz= 2706060, Out= 3/16 , density= 0.0036144460322306018
+Augumented cbuckle.mtx: nnz= 2706060, Out= 4/16 , density= 0.0036144460322306018
+Augumented cbuckle.mtx: nnz= 2706060, Out= 5/16 , density= 0.0036144460322306018
+Augumented cbuckle.mtx: nnz= 2706060, Out= 6/16 , density= 0.0036144460322306018
+Augumented cbuckle.mtx: nnz= 2706060, Out= 7/16 , density= 0.0036144460322306018
+Augumented cbuckle.mtx: nnz= 2706060, Out= 8/16 , density= 0.0036144460322306018
+Augumented cbuckle.mtx: nnz= 2706060, Out= 9/16 , density= 0.0036144460322306018
+Augumented cbuckle.mtx: nnz= 2706060, Out= 10/16 , density= 0.0036144460322306018
+Augumented cbuckle.mtx: nnz= 2706060, Out= 11/16 , density= 0.0036144460322306018
+Augumented cbuckle.mtx: nnz= 2706060, Out= 12/16 , density= 0.0036144460322306018
+Augumented cbuckle.mtx: nnz= 2706060, Out= 13/16 , density= 0.0036144460322306018
+Augumented cbuckle.mtx: nnz= 2706060, Out= 14/16 , density= 0.0036144460322306018
+Augumented cbuckle.mtx: nnz= 2706060, Out= 15/16 , density= 0.0036144460322306018
+Augumented cbuckle.mtx: nnz= 2706060, Out= 16/16 , density= 0.0036144460322306018
+Executing: cp /local/panastas/Block_suite/cbuckle.mtx /local/panastas/Augumented_block_suite/cbuckle.mtx
+cbuckle_G.mtx: nnz= 514896, density= 0.0027509571912099624
+Augumented cbuckle_G.mtx: nnz= 2059584, Out= 1/16 , density= 0.0027509571912099624
+Augumented cbuckle_G.mtx: nnz= 2059584, Out= 2/16 , density= 0.0027509571912099624
+Augumented cbuckle_G.mtx: nnz= 2059584, Out= 3/16 , density= 0.0027509571912099624
+Augumented cbuckle_G.mtx: nnz= 2059584, Out= 4/16 , density= 0.0027509571912099624
+Augumented cbuckle_G.mtx: nnz= 2059584, Out= 5/16 , density= 0.0027509571912099624
+Augumented cbuckle_G.mtx: nnz= 2059584, Out= 6/16 , density= 0.0027509571912099624
+Augumented cbuckle_G.mtx: nnz= 2059584, Out= 7/16 , density= 0.0027509571912099624
+Augumented cbuckle_G.mtx: nnz= 2059584, Out= 8/16 , density= 0.0027509571912099624
+Augumented cbuckle_G.mtx: nnz= 2059584, Out= 9/16 , density= 0.0027509571912099624
+Augumented cbuckle_G.mtx: nnz= 2059584, Out= 10/16 , density= 0.0027509571912099624
+Augumented cbuckle_G.mtx: nnz= 2059584, Out= 11/16 , density= 0.0027509571912099624
+Augumented cbuckle_G.mtx: nnz= 2059584, Out= 12/16 , density= 0.0027509571912099624
+Augumented cbuckle_G.mtx: nnz= 2059584, Out= 13/16 , density= 0.0027509571912099624
+Augumented cbuckle_G.mtx: nnz= 2059584, Out= 14/16 , density= 0.0027509571912099624
+Augumented cbuckle_G.mtx: nnz= 2059584, Out= 15/16 , density= 0.0027509571912099624
+Augumented cbuckle_G.mtx: nnz= 2059584, Out= 16/16 , density= 0.0027509571912099624
+Executing: cp /local/panastas/Block_suite/cbuckle_G.mtx /local/panastas/Augumented_block_suite/cbuckle_G.mtx
+cegb2802.mtx: nnz= 277362, density= 0.035327320497595016
+Augumented cegb2802.mtx: nnz= 1109448, Out= 1/16 , density= 0.035327320497595016
+Augumented cegb2802.mtx: nnz= 1109448, Out= 2/16 , density= 0.035327320497595016
+Augumented cegb2802.mtx: nnz= 1109448, Out= 3/16 , density= 0.035327320497595016
+Augumented cegb2802.mtx: nnz= 1109448, Out= 4/16 , density= 0.035327320497595016
+Augumented cegb2802.mtx: nnz= 1109448, Out= 5/16 , density= 0.035327320497595016
+Augumented cegb2802.mtx: nnz= 1109448, Out= 6/16 , density= 0.035327320497595016
+Augumented cegb2802.mtx: nnz= 1109448, Out= 7/16 , density= 0.035327320497595016
+Augumented cegb2802.mtx: nnz= 1109448, Out= 8/16 , density= 0.035327320497595016
+Augumented cegb2802.mtx: nnz= 1109448, Out= 9/16 , density= 0.035327320497595016
+Augumented cegb2802.mtx: nnz= 1109448, Out= 10/16 , density= 0.035327320497595016
+Augumented cegb2802.mtx: nnz= 1109448, Out= 11/16 , density= 0.035327320497595016
+Augumented cegb2802.mtx: nnz= 1109448, Out= 12/16 , density= 0.035327320497595016
+Augumented cegb2802.mtx: nnz= 1109448, Out= 13/16 , density= 0.035327320497595016
+Augumented cegb2802.mtx: nnz= 1109448, Out= 14/16 , density= 0.035327320497595016
+Augumented cegb2802.mtx: nnz= 1109448, Out= 15/16 , density= 0.035327320497595016
+Augumented cegb2802.mtx: nnz= 1109448, Out= 16/16 , density= 0.035327320497595016
+Executing: cp /local/panastas/Block_suite/cegb2802.mtx /local/panastas/Augumented_block_suite/cegb2802.mtx
+cegb2919.mtx: nnz= 321543, density= 0.037737303916960396
+Augumented cegb2919.mtx: nnz= 1286172, Out= 1/16 , density= 0.037737303916960396
+Augumented cegb2919.mtx: nnz= 1286172, Out= 2/16 , density= 0.037737303916960396
+Augumented cegb2919.mtx: nnz= 1286172, Out= 3/16 , density= 0.037737303916960396
+Augumented cegb2919.mtx: nnz= 1286172, Out= 4/16 , density= 0.037737303916960396
+Augumented cegb2919.mtx: nnz= 1286172, Out= 5/16 , density= 0.037737303916960396
+Augumented cegb2919.mtx: nnz= 1286172, Out= 6/16 , density= 0.037737303916960396
+Augumented cegb2919.mtx: nnz= 1286172, Out= 7/16 , density= 0.037737303916960396
+Augumented cegb2919.mtx: nnz= 1286172, Out= 8/16 , density= 0.037737303916960396
+Augumented cegb2919.mtx: nnz= 1286172, Out= 9/16 , density= 0.037737303916960396
+Augumented cegb2919.mtx: nnz= 1286172, Out= 10/16 , density= 0.037737303916960396
+Augumented cegb2919.mtx: nnz= 1286172, Out= 11/16 , density= 0.037737303916960396
+Augumented cegb2919.mtx: nnz= 1286172, Out= 12/16 , density= 0.037737303916960396
+Augumented cegb2919.mtx: nnz= 1286172, Out= 13/16 , density= 0.037737303916960396
+Augumented cegb2919.mtx: nnz= 1286172, Out= 14/16 , density= 0.037737303916960396
+Augumented cegb2919.mtx: nnz= 1286172, Out= 15/16 , density= 0.037737303916960396
+Augumented cegb2919.mtx: nnz= 1286172, Out= 16/16 , density= 0.037737303916960396
+Executing: cp /local/panastas/Block_suite/cegb2919.mtx /local/panastas/Augumented_block_suite/cegb2919.mtx
+chem_master1.mtx: nnz= 201201, density= 0.00012326673850863995
+Augumented chem_master1.mtx: nnz= 804804, Out= 1/16 , density= 0.00012326673850863995
+Augumented chem_master1.mtx: nnz= 804804, Out= 2/16 , density= 0.00012326673850863995
+Augumented chem_master1.mtx: nnz= 804804, Out= 3/16 , density= 0.00012326673850863995
+Augumented chem_master1.mtx: nnz= 804804, Out= 4/16 , density= 0.00012326673850863995
+Augumented chem_master1.mtx: nnz= 804804, Out= 5/16 , density= 0.00012326673850863995
+Augumented chem_master1.mtx: nnz= 804804, Out= 6/16 , density= 0.00012326673850863995
+Augumented chem_master1.mtx: nnz= 804804, Out= 7/16 , density= 0.00012326673850863995
+Augumented chem_master1.mtx: nnz= 804804, Out= 8/16 , density= 0.00012326673850863995
+Augumented chem_master1.mtx: nnz= 804804, Out= 9/16 , density= 0.00012326673850863995
+Augumented chem_master1.mtx: nnz= 804804, Out= 10/16 , density= 0.00012326673850863995
+Augumented chem_master1.mtx: nnz= 804804, Out= 11/16 , density= 0.00012326673850863995
+Augumented chem_master1.mtx: nnz= 804804, Out= 12/16 , density= 0.00012326673850863995
+Augumented chem_master1.mtx: nnz= 804804, Out= 13/16 , density= 0.00012326673850863995
+Augumented chem_master1.mtx: nnz= 804804, Out= 14/16 , density= 0.00012326673850863995
+Augumented chem_master1.mtx: nnz= 804804, Out= 15/16 , density= 0.00012326673850863995
+Augumented chem_master1.mtx: nnz= 804804, Out= 16/16 , density= 0.00012326673850863995
+Executing: cp /local/panastas/Block_suite/chem_master1.mtx /local/panastas/Augumented_block_suite/chem_master1.mtx
+comsol.mtx: nnz= 97645, density= 0.04339777777777778
+Augumented comsol.mtx: nnz= 390580, Out= 1/16 , density= 0.04339777777777778
+Augumented comsol.mtx: nnz= 390580, Out= 2/16 , density= 0.04339777777777778
+Augumented comsol.mtx: nnz= 390580, Out= 3/16 , density= 0.04339777777777778
+Augumented comsol.mtx: nnz= 390580, Out= 4/16 , density= 0.04339777777777778
+Augumented comsol.mtx: nnz= 390580, Out= 5/16 , density= 0.04339777777777778
+Augumented comsol.mtx: nnz= 390580, Out= 6/16 , density= 0.04339777777777778
+Augumented comsol.mtx: nnz= 390580, Out= 7/16 , density= 0.04339777777777778
+Augumented comsol.mtx: nnz= 390580, Out= 8/16 , density= 0.04339777777777778
+Augumented comsol.mtx: nnz= 390580, Out= 9/16 , density= 0.04339777777777778
+Augumented comsol.mtx: nnz= 390580, Out= 10/16 , density= 0.04339777777777778
+Augumented comsol.mtx: nnz= 390580, Out= 11/16 , density= 0.04339777777777778
+Augumented comsol.mtx: nnz= 390580, Out= 12/16 , density= 0.04339777777777778
+Augumented comsol.mtx: nnz= 390580, Out= 13/16 , density= 0.04339777777777778
+Augumented comsol.mtx: nnz= 390580, Out= 14/16 , density= 0.04339777777777778
+Augumented comsol.mtx: nnz= 390580, Out= 15/16 , density= 0.04339777777777778
+Augumented comsol.mtx: nnz= 390580, Out= 16/16 , density= 0.04339777777777778
+Executing: cp /local/panastas/Block_suite/comsol.mtx /local/panastas/Augumented_block_suite/comsol.mtx
+consph.mtx: nnz= 6010480, density= 0.000865495272020256
+Augumented consph.mtx: nnz= 24041920, Out= 1/16 , density= 0.000865495272020256
+Augumented consph.mtx: nnz= 24041920, Out= 2/16 , density= 0.000865495272020256
+Augumented consph.mtx: nnz= 24041920, Out= 3/16 , density= 0.000865495272020256
+Augumented consph.mtx: nnz= 24041920, Out= 4/16 , density= 0.000865495272020256
+Augumented consph.mtx: nnz= 24041920, Out= 5/16 , density= 0.000865495272020256
+Augumented consph.mtx: nnz= 24041920, Out= 6/16 , density= 0.000865495272020256
+Augumented consph.mtx: nnz= 24041920, Out= 7/16 , density= 0.000865495272020256
+Augumented consph.mtx: nnz= 24041920, Out= 8/16 , density= 0.000865495272020256
+Augumented consph.mtx: nnz= 24041920, Out= 9/16 , density= 0.000865495272020256
+Augumented consph.mtx: nnz= 24041920, Out= 10/16 , density= 0.000865495272020256
+Augumented consph.mtx: nnz= 24041920, Out= 11/16 , density= 0.000865495272020256
+Augumented consph.mtx: nnz= 24041920, Out= 12/16 , density= 0.000865495272020256
+Augumented consph.mtx: nnz= 24041920, Out= 13/16 , density= 0.000865495272020256
+Augumented consph.mtx: nnz= 24041920, Out= 14/16 , density= 0.000865495272020256
+Augumented consph.mtx: nnz= 24041920, Out= 15/16 , density= 0.000865495272020256
+Augumented consph.mtx: nnz= 24041920, Out= 16/16 , density= 0.000865495272020256
+Executing: cp /local/panastas/Block_suite/consph.mtx /local/panastas/Augumented_block_suite/consph.mtx
+cop20k_A.mtx: nnz= 2624331, density= 0.00017867784480832968
+Augumented cop20k_A.mtx: nnz= 10497324, Out= 1/16 , density= 0.00017867784480832968
+Augumented cop20k_A.mtx: nnz= 10497324, Out= 2/16 , density= 0.00017867784480832968
+Augumented cop20k_A.mtx: nnz= 10497324, Out= 3/16 , density= 0.00017867784480832968
+Augumented cop20k_A.mtx: nnz= 10497324, Out= 4/16 , density= 0.00017867784480832968
+Augumented cop20k_A.mtx: nnz= 10497324, Out= 5/16 , density= 0.00017867784480832968
+Augumented cop20k_A.mtx: nnz= 10497324, Out= 6/16 , density= 0.00017867784480832968
+Augumented cop20k_A.mtx: nnz= 10497324, Out= 7/16 , density= 0.00017867784480832968
+Augumented cop20k_A.mtx: nnz= 10497324, Out= 8/16 , density= 0.00017867784480832968
+Augumented cop20k_A.mtx: nnz= 10497324, Out= 9/16 , density= 0.00017867784480832968
+Augumented cop20k_A.mtx: nnz= 10497324, Out= 10/16 , density= 0.00017867784480832968
+Augumented cop20k_A.mtx: nnz= 10497324, Out= 11/16 , density= 0.00017867784480832968
+Augumented cop20k_A.mtx: nnz= 10497324, Out= 12/16 , density= 0.00017867784480832968
+Augumented cop20k_A.mtx: nnz= 10497324, Out= 13/16 , density= 0.00017867784480832968
+Augumented cop20k_A.mtx: nnz= 10497324, Out= 14/16 , density= 0.00017867784480832968
+Augumented cop20k_A.mtx: nnz= 10497324, Out= 15/16 , density= 0.00017867784480832968
+Augumented cop20k_A.mtx: nnz= 10497324, Out= 16/16 , density= 0.00017867784480832968
+Executing: cp /local/panastas/Block_suite/cop20k_A.mtx /local/panastas/Augumented_block_suite/cop20k_A.mtx
+crplat2.mtx: nnz= 960946, density= 0.0029625900349642266
+Augumented crplat2.mtx: nnz= 3843784, Out= 1/16 , density= 0.0029625900349642266
+Augumented crplat2.mtx: nnz= 3843784, Out= 2/16 , density= 0.0029625900349642266
+Augumented crplat2.mtx: nnz= 3843784, Out= 3/16 , density= 0.0029625900349642266
+Augumented crplat2.mtx: nnz= 3843784, Out= 4/16 , density= 0.0029625900349642266
+Augumented crplat2.mtx: nnz= 3843784, Out= 5/16 , density= 0.0029625900349642266
+Augumented crplat2.mtx: nnz= 3843784, Out= 6/16 , density= 0.0029625900349642266
+Augumented crplat2.mtx: nnz= 3843784, Out= 7/16 , density= 0.0029625900349642266
+Augumented crplat2.mtx: nnz= 3843784, Out= 8/16 , density= 0.0029625900349642266
+Augumented crplat2.mtx: nnz= 3843784, Out= 9/16 , density= 0.0029625900349642266
+Augumented crplat2.mtx: nnz= 3843784, Out= 10/16 , density= 0.0029625900349642266
+Augumented crplat2.mtx: nnz= 3843784, Out= 11/16 , density= 0.0029625900349642266
+Augumented crplat2.mtx: nnz= 3843784, Out= 12/16 , density= 0.0029625900349642266
+Augumented crplat2.mtx: nnz= 3843784, Out= 13/16 , density= 0.0029625900349642266
+Augumented crplat2.mtx: nnz= 3843784, Out= 14/16 , density= 0.0029625900349642266
+Augumented crplat2.mtx: nnz= 3843784, Out= 15/16 , density= 0.0029625900349642266
+Augumented crplat2.mtx: nnz= 3843784, Out= 16/16 , density= 0.0029625900349642266
+Executing: cp /local/panastas/Block_suite/crplat2.mtx /local/panastas/Augumented_block_suite/crplat2.mtx
+ct20stif.mtx: nnz= 2698463, density= 0.0009854431990181545
+Augumented ct20stif.mtx: nnz= 10793852, Out= 1/16 , density= 0.0009854431990181545
+Augumented ct20stif.mtx: nnz= 10793852, Out= 2/16 , density= 0.0009854431990181545
+Augumented ct20stif.mtx: nnz= 10793852, Out= 3/16 , density= 0.0009854431990181545
+Augumented ct20stif.mtx: nnz= 10793852, Out= 4/16 , density= 0.0009854431990181545
+Augumented ct20stif.mtx: nnz= 10793852, Out= 5/16 , density= 0.0009854431990181545
+Augumented ct20stif.mtx: nnz= 10793852, Out= 6/16 , density= 0.0009854431990181545
+Augumented ct20stif.mtx: nnz= 10793852, Out= 7/16 , density= 0.0009854431990181545
+Augumented ct20stif.mtx: nnz= 10793852, Out= 8/16 , density= 0.0009854431990181545
+Augumented ct20stif.mtx: nnz= 10793852, Out= 9/16 , density= 0.0009854431990181545
+Augumented ct20stif.mtx: nnz= 10793852, Out= 10/16 , density= 0.0009854431990181545
+Augumented ct20stif.mtx: nnz= 10793852, Out= 11/16 , density= 0.0009854431990181545
+Augumented ct20stif.mtx: nnz= 10793852, Out= 12/16 , density= 0.0009854431990181545
+Augumented ct20stif.mtx: nnz= 10793852, Out= 13/16 , density= 0.0009854431990181545
+Augumented ct20stif.mtx: nnz= 10793852, Out= 14/16 , density= 0.0009854431990181545
+Augumented ct20stif.mtx: nnz= 10793852, Out= 15/16 , density= 0.0009854431990181545
+Augumented ct20stif.mtx: nnz= 10793852, Out= 16/16 , density= 0.0009854431990181545
+Executing: cp /local/panastas/Block_suite/ct20stif.mtx /local/panastas/Augumented_block_suite/ct20stif.mtx
+cyl6.mtx: nnz= 714241, density= 0.003816006368678325
+Augumented cyl6.mtx: nnz= 2856964, Out= 1/16 , density= 0.003816006368678325
+Augumented cyl6.mtx: nnz= 2856964, Out= 2/16 , density= 0.003816006368678325
+Augumented cyl6.mtx: nnz= 2856964, Out= 3/16 , density= 0.003816006368678325
+Augumented cyl6.mtx: nnz= 2856964, Out= 4/16 , density= 0.003816006368678325
+Augumented cyl6.mtx: nnz= 2856964, Out= 5/16 , density= 0.003816006368678325
+Augumented cyl6.mtx: nnz= 2856964, Out= 6/16 , density= 0.003816006368678325
+Augumented cyl6.mtx: nnz= 2856964, Out= 7/16 , density= 0.003816006368678325
+Augumented cyl6.mtx: nnz= 2856964, Out= 8/16 , density= 0.003816006368678325
+Augumented cyl6.mtx: nnz= 2856964, Out= 9/16 , density= 0.003816006368678325
+Augumented cyl6.mtx: nnz= 2856964, Out= 10/16 , density= 0.003816006368678325
+Augumented cyl6.mtx: nnz= 2856964, Out= 11/16 , density= 0.003816006368678325
+Augumented cyl6.mtx: nnz= 2856964, Out= 12/16 , density= 0.003816006368678325
+Augumented cyl6.mtx: nnz= 2856964, Out= 13/16 , density= 0.003816006368678325
+Augumented cyl6.mtx: nnz= 2856964, Out= 14/16 , density= 0.003816006368678325
+Augumented cyl6.mtx: nnz= 2856964, Out= 15/16 , density= 0.003816006368678325
+Augumented cyl6.mtx: nnz= 2856964, Out= 16/16 , density= 0.003816006368678325
+Executing: cp /local/panastas/Block_suite/cyl6.mtx /local/panastas/Augumented_block_suite/cyl6.mtx
+cz10228.mtx: nnz= 102876, density= 0.0009834054958751189
+Augumented cz10228.mtx: nnz= 411504, Out= 1/16 , density= 0.0009834054958751189
+Augumented cz10228.mtx: nnz= 411504, Out= 2/16 , density= 0.0009834054958751189
+Augumented cz10228.mtx: nnz= 411504, Out= 3/16 , density= 0.0009834054958751189
+Augumented cz10228.mtx: nnz= 411504, Out= 4/16 , density= 0.0009834054958751189
+Augumented cz10228.mtx: nnz= 411504, Out= 5/16 , density= 0.0009834054958751189
+Augumented cz10228.mtx: nnz= 411504, Out= 6/16 , density= 0.0009834054958751189
+Augumented cz10228.mtx: nnz= 411504, Out= 7/16 , density= 0.0009834054958751189
+Augumented cz10228.mtx: nnz= 411504, Out= 8/16 , density= 0.0009834054958751189
+Augumented cz10228.mtx: nnz= 411504, Out= 9/16 , density= 0.0009834054958751189
+Augumented cz10228.mtx: nnz= 411504, Out= 10/16 , density= 0.0009834054958751189
+Augumented cz10228.mtx: nnz= 411504, Out= 11/16 , density= 0.0009834054958751189
+Augumented cz10228.mtx: nnz= 411504, Out= 12/16 , density= 0.0009834054958751189
+Augumented cz10228.mtx: nnz= 411504, Out= 13/16 , density= 0.0009834054958751189
+Augumented cz10228.mtx: nnz= 411504, Out= 14/16 , density= 0.0009834054958751189
+Augumented cz10228.mtx: nnz= 411504, Out= 15/16 , density= 0.0009834054958751189
+Augumented cz10228.mtx: nnz= 411504, Out= 16/16 , density= 0.0009834054958751189
+Executing: cp /local/panastas/Block_suite/cz10228.mtx /local/panastas/Augumented_block_suite/cz10228.mtx
+cz20468.mtx: nnz= 206076, density= 0.0004918997472052162
+Augumented cz20468.mtx: nnz= 824304, Out= 1/16 , density= 0.0004918997472052162
+Augumented cz20468.mtx: nnz= 824304, Out= 2/16 , density= 0.0004918997472052162
+Augumented cz20468.mtx: nnz= 824304, Out= 3/16 , density= 0.0004918997472052162
+Augumented cz20468.mtx: nnz= 824304, Out= 4/16 , density= 0.0004918997472052162
+Augumented cz20468.mtx: nnz= 824304, Out= 5/16 , density= 0.0004918997472052162
+Augumented cz20468.mtx: nnz= 824304, Out= 6/16 , density= 0.0004918997472052162
+Augumented cz20468.mtx: nnz= 824304, Out= 7/16 , density= 0.0004918997472052162
+Augumented cz20468.mtx: nnz= 824304, Out= 8/16 , density= 0.0004918997472052162
+Augumented cz20468.mtx: nnz= 824304, Out= 9/16 , density= 0.0004918997472052162
+Augumented cz20468.mtx: nnz= 824304, Out= 10/16 , density= 0.0004918997472052162
+Augumented cz20468.mtx: nnz= 824304, Out= 11/16 , density= 0.0004918997472052162
+Augumented cz20468.mtx: nnz= 824304, Out= 12/16 , density= 0.0004918997472052162
+Augumented cz20468.mtx: nnz= 824304, Out= 13/16 , density= 0.0004918997472052162
+Augumented cz20468.mtx: nnz= 824304, Out= 14/16 , density= 0.0004918997472052162
+Augumented cz20468.mtx: nnz= 824304, Out= 15/16 , density= 0.0004918997472052162
+Augumented cz20468.mtx: nnz= 824304, Out= 16/16 , density= 0.0004918997472052162
+Executing: cp /local/panastas/Block_suite/cz20468.mtx /local/panastas/Augumented_block_suite/cz20468.mtx
+cz40948.mtx: nnz= 412148, density= 0.00024580335565510986
+Augumented cz40948.mtx: nnz= 1648592, Out= 1/16 , density= 0.00024580335565510986
+Augumented cz40948.mtx: nnz= 1648592, Out= 2/16 , density= 0.00024580335565510986
+Augumented cz40948.mtx: nnz= 1648592, Out= 3/16 , density= 0.00024580335565510986
+Augumented cz40948.mtx: nnz= 1648592, Out= 4/16 , density= 0.00024580335565510986
+Augumented cz40948.mtx: nnz= 1648592, Out= 5/16 , density= 0.00024580335565510986
+Augumented cz40948.mtx: nnz= 1648592, Out= 6/16 , density= 0.00024580335565510986
+Augumented cz40948.mtx: nnz= 1648592, Out= 7/16 , density= 0.00024580335565510986
+Augumented cz40948.mtx: nnz= 1648592, Out= 8/16 , density= 0.00024580335565510986
+Augumented cz40948.mtx: nnz= 1648592, Out= 9/16 , density= 0.00024580335565510986
+Augumented cz40948.mtx: nnz= 1648592, Out= 10/16 , density= 0.00024580335565510986
+Augumented cz40948.mtx: nnz= 1648592, Out= 11/16 , density= 0.00024580335565510986
+Augumented cz40948.mtx: nnz= 1648592, Out= 12/16 , density= 0.00024580335565510986
+Augumented cz40948.mtx: nnz= 1648592, Out= 13/16 , density= 0.00024580335565510986
+Augumented cz40948.mtx: nnz= 1648592, Out= 14/16 , density= 0.00024580335565510986
+Augumented cz40948.mtx: nnz= 1648592, Out= 15/16 , density= 0.00024580335565510986
+Augumented cz40948.mtx: nnz= 1648592, Out= 16/16 , density= 0.00024580335565510986
+Executing: cp /local/panastas/Block_suite/cz40948.mtx /local/panastas/Augumented_block_suite/cz40948.mtx
+cz5108.mtx: nnz= 51412, density= 0.001970437761271186
+Augumented cz5108.mtx: nnz= 205648, Out= 1/16 , density= 0.001970437761271186
+Augumented cz5108.mtx: nnz= 205648, Out= 2/16 , density= 0.001970437761271186
+Augumented cz5108.mtx: nnz= 205648, Out= 3/16 , density= 0.001970437761271186
+Augumented cz5108.mtx: nnz= 205648, Out= 4/16 , density= 0.001970437761271186
+Augumented cz5108.mtx: nnz= 205648, Out= 5/16 , density= 0.001970437761271186
+Augumented cz5108.mtx: nnz= 205648, Out= 6/16 , density= 0.001970437761271186
+Augumented cz5108.mtx: nnz= 205648, Out= 7/16 , density= 0.001970437761271186
+Augumented cz5108.mtx: nnz= 205648, Out= 8/16 , density= 0.001970437761271186
+Augumented cz5108.mtx: nnz= 205648, Out= 9/16 , density= 0.001970437761271186
+Augumented cz5108.mtx: nnz= 205648, Out= 10/16 , density= 0.001970437761271186
+Augumented cz5108.mtx: nnz= 205648, Out= 11/16 , density= 0.001970437761271186
+Augumented cz5108.mtx: nnz= 205648, Out= 12/16 , density= 0.001970437761271186
+Augumented cz5108.mtx: nnz= 205648, Out= 13/16 , density= 0.001970437761271186
+Augumented cz5108.mtx: nnz= 205648, Out= 14/16 , density= 0.001970437761271186
+Augumented cz5108.mtx: nnz= 205648, Out= 15/16 , density= 0.001970437761271186
+Augumented cz5108.mtx: nnz= 205648, Out= 16/16 , density= 0.001970437761271186
+Executing: cp /local/panastas/Block_suite/cz5108.mtx /local/panastas/Augumented_block_suite/cz5108.mtx
+d_pretok.mtx: nnz= 1641672, density= 4.916620442847859e-05
+Augumented d_pretok.mtx: nnz= 6566688, Out= 1/16 , density= 4.916620442847859e-05
+Augumented d_pretok.mtx: nnz= 6566688, Out= 2/16 , density= 4.916620442847859e-05
+Augumented d_pretok.mtx: nnz= 6566688, Out= 3/16 , density= 4.916620442847859e-05
+Augumented d_pretok.mtx: nnz= 6566688, Out= 4/16 , density= 4.916620442847859e-05
+Augumented d_pretok.mtx: nnz= 6566688, Out= 5/16 , density= 4.916620442847859e-05
+Augumented d_pretok.mtx: nnz= 6566688, Out= 6/16 , density= 4.916620442847859e-05
+Augumented d_pretok.mtx: nnz= 6566688, Out= 7/16 , density= 4.916620442847859e-05
+Augumented d_pretok.mtx: nnz= 6566688, Out= 8/16 , density= 4.916620442847859e-05
+Augumented d_pretok.mtx: nnz= 6566688, Out= 9/16 , density= 4.916620442847859e-05
+Augumented d_pretok.mtx: nnz= 6566688, Out= 10/16 , density= 4.916620442847859e-05
+Augumented d_pretok.mtx: nnz= 6566688, Out= 11/16 , density= 4.916620442847859e-05
+Augumented d_pretok.mtx: nnz= 6566688, Out= 12/16 , density= 4.916620442847859e-05
+Augumented d_pretok.mtx: nnz= 6566688, Out= 13/16 , density= 4.916620442847859e-05
+Augumented d_pretok.mtx: nnz= 6566688, Out= 14/16 , density= 4.916620442847859e-05
+Augumented d_pretok.mtx: nnz= 6566688, Out= 15/16 , density= 4.916620442847859e-05
+Augumented d_pretok.mtx: nnz= 6566688, Out= 16/16 , density= 4.916620442847859e-05
+Executing: cp /local/panastas/Block_suite/d_pretok.mtx /local/panastas/Augumented_block_suite/d_pretok.mtx
+darcy003.mtx: nnz= 2101242, density= 1.3823802655215408e-05
+Augumented darcy003.mtx: nnz= 8404968, Out= 1/16 , density= 1.3823802655215408e-05
+Augumented darcy003.mtx: nnz= 8404968, Out= 2/16 , density= 1.3823802655215408e-05
+Augumented darcy003.mtx: nnz= 8404968, Out= 3/16 , density= 1.3823802655215408e-05
+Augumented darcy003.mtx: nnz= 8404968, Out= 4/16 , density= 1.3823802655215408e-05
+Augumented darcy003.mtx: nnz= 8404968, Out= 5/16 , density= 1.3823802655215408e-05
+Augumented darcy003.mtx: nnz= 8404968, Out= 6/16 , density= 1.3823802655215408e-05
+Augumented darcy003.mtx: nnz= 8404968, Out= 7/16 , density= 1.3823802655215408e-05
+Augumented darcy003.mtx: nnz= 8404968, Out= 8/16 , density= 1.3823802655215408e-05
+Augumented darcy003.mtx: nnz= 8404968, Out= 9/16 , density= 1.3823802655215408e-05
+Augumented darcy003.mtx: nnz= 8404968, Out= 10/16 , density= 1.3823802655215408e-05
+Augumented darcy003.mtx: nnz= 8404968, Out= 11/16 , density= 1.3823802655215408e-05
+Augumented darcy003.mtx: nnz= 8404968, Out= 12/16 , density= 1.3823802655215408e-05
+Augumented darcy003.mtx: nnz= 8404968, Out= 13/16 , density= 1.3823802655215408e-05
+Augumented darcy003.mtx: nnz= 8404968, Out= 14/16 , density= 1.3823802655215408e-05
+Augumented darcy003.mtx: nnz= 8404968, Out= 15/16 , density= 1.3823802655215408e-05
+Augumented darcy003.mtx: nnz= 8404968, Out= 16/16 , density= 1.3823802655215408e-05
+Executing: cp /local/panastas/Block_suite/darcy003.mtx /local/panastas/Augumented_block_suite/darcy003.mtx
+dawson5.mtx: nnz= 1010777, density= 0.000380554693216995
+Augumented dawson5.mtx: nnz= 4043108, Out= 1/16 , density= 0.000380554693216995
+Augumented dawson5.mtx: nnz= 4043108, Out= 2/16 , density= 0.000380554693216995
+Augumented dawson5.mtx: nnz= 4043108, Out= 3/16 , density= 0.000380554693216995
+Augumented dawson5.mtx: nnz= 4043108, Out= 4/16 , density= 0.000380554693216995
+Augumented dawson5.mtx: nnz= 4043108, Out= 5/16 , density= 0.000380554693216995
+Augumented dawson5.mtx: nnz= 4043108, Out= 6/16 , density= 0.000380554693216995
+Augumented dawson5.mtx: nnz= 4043108, Out= 7/16 , density= 0.000380554693216995
+Augumented dawson5.mtx: nnz= 4043108, Out= 8/16 , density= 0.000380554693216995
+Augumented dawson5.mtx: nnz= 4043108, Out= 9/16 , density= 0.000380554693216995
+Augumented dawson5.mtx: nnz= 4043108, Out= 10/16 , density= 0.000380554693216995
+Augumented dawson5.mtx: nnz= 4043108, Out= 11/16 , density= 0.000380554693216995
+Augumented dawson5.mtx: nnz= 4043108, Out= 12/16 , density= 0.000380554693216995
+Augumented dawson5.mtx: nnz= 4043108, Out= 13/16 , density= 0.000380554693216995
+Augumented dawson5.mtx: nnz= 4043108, Out= 14/16 , density= 0.000380554693216995
+Augumented dawson5.mtx: nnz= 4043108, Out= 15/16 , density= 0.000380554693216995
+Augumented dawson5.mtx: nnz= 4043108, Out= 16/16 , density= 0.000380554693216995
+Executing: cp /local/panastas/Block_suite/dawson5.mtx /local/panastas/Augumented_block_suite/dawson5.mtx
+ecology1.mtx: nnz= 4996000, density= 4.996e-06
+Augumented ecology1.mtx: nnz= 19984000, Out= 1/16 , density= 4.996e-06
+Augumented ecology1.mtx: nnz= 19984000, Out= 2/16 , density= 4.996e-06
+Augumented ecology1.mtx: nnz= 19984000, Out= 3/16 , density= 4.996e-06
+Augumented ecology1.mtx: nnz= 19984000, Out= 4/16 , density= 4.996e-06
+Augumented ecology1.mtx: nnz= 19984000, Out= 5/16 , density= 4.996e-06
+Augumented ecology1.mtx: nnz= 19984000, Out= 6/16 , density= 4.996e-06
+Augumented ecology1.mtx: nnz= 19984000, Out= 7/16 , density= 4.996e-06
+Augumented ecology1.mtx: nnz= 19984000, Out= 8/16 , density= 4.996e-06
+Augumented ecology1.mtx: nnz= 19984000, Out= 9/16 , density= 4.996e-06
+Augumented ecology1.mtx: nnz= 19984000, Out= 10/16 , density= 4.996e-06
+Augumented ecology1.mtx: nnz= 19984000, Out= 11/16 , density= 4.996e-06
+Augumented ecology1.mtx: nnz= 19984000, Out= 12/16 , density= 4.996e-06
+Augumented ecology1.mtx: nnz= 19984000, Out= 13/16 , density= 4.996e-06
+Augumented ecology1.mtx: nnz= 19984000, Out= 14/16 , density= 4.996e-06
+Augumented ecology1.mtx: nnz= 19984000, Out= 15/16 , density= 4.996e-06
+Augumented ecology1.mtx: nnz= 19984000, Out= 16/16 , density= 4.996e-06
+Executing: cp /local/panastas/Block_suite/ecology1.mtx /local/panastas/Augumented_block_suite/ecology1.mtx
+ecology2.mtx: nnz= 4995991, density= 4.996000991996988e-06
+Augumented ecology2.mtx: nnz= 19983964, Out= 1/16 , density= 4.996000991996988e-06
+Augumented ecology2.mtx: nnz= 19983964, Out= 2/16 , density= 4.996000991996988e-06
+Augumented ecology2.mtx: nnz= 19983964, Out= 3/16 , density= 4.996000991996988e-06
+Augumented ecology2.mtx: nnz= 19983964, Out= 4/16 , density= 4.996000991996988e-06
+Augumented ecology2.mtx: nnz= 19983964, Out= 5/16 , density= 4.996000991996988e-06
+Augumented ecology2.mtx: nnz= 19983964, Out= 6/16 , density= 4.996000991996988e-06
+Augumented ecology2.mtx: nnz= 19983964, Out= 7/16 , density= 4.996000991996988e-06
+Augumented ecology2.mtx: nnz= 19983964, Out= 8/16 , density= 4.996000991996988e-06
+Augumented ecology2.mtx: nnz= 19983964, Out= 9/16 , density= 4.996000991996988e-06
+Augumented ecology2.mtx: nnz= 19983964, Out= 10/16 , density= 4.996000991996988e-06
+Augumented ecology2.mtx: nnz= 19983964, Out= 11/16 , density= 4.996000991996988e-06
+Augumented ecology2.mtx: nnz= 19983964, Out= 12/16 , density= 4.996000991996988e-06
+Augumented ecology2.mtx: nnz= 19983964, Out= 13/16 , density= 4.996000991996988e-06
+Augumented ecology2.mtx: nnz= 19983964, Out= 14/16 , density= 4.996000991996988e-06
+Augumented ecology2.mtx: nnz= 19983964, Out= 15/16 , density= 4.996000991996988e-06
+Augumented ecology2.mtx: nnz= 19983964, Out= 16/16 , density= 4.996000991996988e-06
+Executing: cp /local/panastas/Block_suite/ecology2.mtx /local/panastas/Augumented_block_suite/ecology2.mtx
+engine.mtx: nnz= 4706073, density= 0.00022831014450940977
+Augumented engine.mtx: nnz= 18824292, Out= 1/16 , density= 0.00022831014450940977
+Augumented engine.mtx: nnz= 18824292, Out= 2/16 , density= 0.00022831014450940977
+Augumented engine.mtx: nnz= 18824292, Out= 3/16 , density= 0.00022831014450940977
+Augumented engine.mtx: nnz= 18824292, Out= 4/16 , density= 0.00022831014450940977
+Augumented engine.mtx: nnz= 18824292, Out= 5/16 , density= 0.00022831014450940977
+Augumented engine.mtx: nnz= 18824292, Out= 6/16 , density= 0.00022831014450940977
+Augumented engine.mtx: nnz= 18824292, Out= 7/16 , density= 0.00022831014450940977
+Augumented engine.mtx: nnz= 18824292, Out= 8/16 , density= 0.00022831014450940977
+Augumented engine.mtx: nnz= 18824292, Out= 9/16 , density= 0.00022831014450940977
+Augumented engine.mtx: nnz= 18824292, Out= 10/16 , density= 0.00022831014450940977
+Augumented engine.mtx: nnz= 18824292, Out= 11/16 , density= 0.00022831014450940977
+Augumented engine.mtx: nnz= 18824292, Out= 12/16 , density= 0.00022831014450940977
+Augumented engine.mtx: nnz= 18824292, Out= 13/16 , density= 0.00022831014450940977
+Augumented engine.mtx: nnz= 18824292, Out= 14/16 , density= 0.00022831014450940977
+Augumented engine.mtx: nnz= 18824292, Out= 15/16 , density= 0.00022831014450940977
+Augumented engine.mtx: nnz= 18824292, Out= 16/16 , density= 0.00022831014450940977
+Executing: cp /local/panastas/Block_suite/engine.mtx /local/panastas/Augumented_block_suite/engine.mtx
+engine_b.mtx is not sparse
+Executing: mv /local/panastas/Block_suite/engine_b.mtx /local/panastas/Block_suite/Removed/engine_b.mtx
+engine_coord.mtx is not sparse
+Executing: mv /local/panastas/Block_suite/engine_coord.mtx /local/panastas/Block_suite/Removed/engine_coord.mtx
+ford2.mtx: nnz= 544688, density= 5.425590840953687e-05
+Augumented ford2.mtx: nnz= 2178752, Out= 1/16 , density= 5.425590840953687e-05
+Augumented ford2.mtx: nnz= 2178752, Out= 2/16 , density= 5.425590840953687e-05
+Augumented ford2.mtx: nnz= 2178752, Out= 3/16 , density= 5.425590840953687e-05
+Augumented ford2.mtx: nnz= 2178752, Out= 4/16 , density= 5.425590840953687e-05
+Augumented ford2.mtx: nnz= 2178752, Out= 5/16 , density= 5.425590840953687e-05
+Augumented ford2.mtx: nnz= 2178752, Out= 6/16 , density= 5.425590840953687e-05
+Augumented ford2.mtx: nnz= 2178752, Out= 7/16 , density= 5.425590840953687e-05
+Augumented ford2.mtx: nnz= 2178752, Out= 8/16 , density= 5.425590840953687e-05
+Augumented ford2.mtx: nnz= 2178752, Out= 9/16 , density= 5.425590840953687e-05
+Augumented ford2.mtx: nnz= 2178752, Out= 10/16 , density= 5.425590840953687e-05
+Augumented ford2.mtx: nnz= 2178752, Out= 11/16 , density= 5.425590840953687e-05
+Augumented ford2.mtx: nnz= 2178752, Out= 12/16 , density= 5.425590840953687e-05
+Augumented ford2.mtx: nnz= 2178752, Out= 13/16 , density= 5.425590840953687e-05
+Augumented ford2.mtx: nnz= 2178752, Out= 14/16 , density= 5.425590840953687e-05
+Augumented ford2.mtx: nnz= 2178752, Out= 15/16 , density= 5.425590840953687e-05
+Augumented ford2.mtx: nnz= 2178752, Out= 16/16 , density= 5.425590840953687e-05
+Executing: cp /local/panastas/Block_suite/ford2.mtx /local/panastas/Augumented_block_suite/ford2.mtx
+gearbox.mtx: nnz= 9080404, density= 0.00038414706567760164
+Augumented gearbox.mtx: nnz= 36321616, Out= 1/16 , density= 0.00038414706567760164
+Augumented gearbox.mtx: nnz= 36321616, Out= 2/16 , density= 0.00038414706567760164
+Augumented gearbox.mtx: nnz= 36321616, Out= 3/16 , density= 0.00038414706567760164
+Augumented gearbox.mtx: nnz= 36321616, Out= 4/16 , density= 0.00038414706567760164
+Augumented gearbox.mtx: nnz= 36321616, Out= 5/16 , density= 0.00038414706567760164
+Augumented gearbox.mtx: nnz= 36321616, Out= 6/16 , density= 0.00038414706567760164
+Augumented gearbox.mtx: nnz= 36321616, Out= 7/16 , density= 0.00038414706567760164
+Augumented gearbox.mtx: nnz= 36321616, Out= 8/16 , density= 0.00038414706567760164
+Augumented gearbox.mtx: nnz= 36321616, Out= 9/16 , density= 0.00038414706567760164
+Augumented gearbox.mtx: nnz= 36321616, Out= 10/16 , density= 0.00038414706567760164
+Augumented gearbox.mtx: nnz= 36321616, Out= 11/16 , density= 0.00038414706567760164
+Augumented gearbox.mtx: nnz= 36321616, Out= 12/16 , density= 0.00038414706567760164
+Augumented gearbox.mtx: nnz= 36321616, Out= 13/16 , density= 0.00038414706567760164
+Augumented gearbox.mtx: nnz= 36321616, Out= 14/16 , density= 0.00038414706567760164
+Augumented gearbox.mtx: nnz= 36321616, Out= 15/16 , density= 0.00038414706567760164
+Augumented gearbox.mtx: nnz= 36321616, Out= 16/16 , density= 0.00038414706567760164
+Executing: cp /local/panastas/Block_suite/gearbox.mtx /local/panastas/Augumented_block_suite/gearbox.mtx
+heart1.mtx: nnz= 1387773, density= 0.10968587481956765
+Augumented heart1.mtx: nnz= 5551092, Out= 1/16 , density= 0.10968587481956765
+Augumented heart1.mtx: nnz= 5551092, Out= 2/16 , density= 0.10968587481956765
+Augumented heart1.mtx: nnz= 5551092, Out= 3/16 , density= 0.10968587481956765
+Augumented heart1.mtx: nnz= 5551092, Out= 4/16 , density= 0.10968587481956765
+Augumented heart1.mtx: nnz= 5551092, Out= 5/16 , density= 0.10968587481956765
+Augumented heart1.mtx: nnz= 5551092, Out= 6/16 , density= 0.10968587481956765
+Augumented heart1.mtx: nnz= 5551092, Out= 7/16 , density= 0.10968587481956765
+Augumented heart1.mtx: nnz= 5551092, Out= 8/16 , density= 0.10968587481956765
+Augumented heart1.mtx: nnz= 5551092, Out= 9/16 , density= 0.10968587481956765
+Augumented heart1.mtx: nnz= 5551092, Out= 10/16 , density= 0.10968587481956765
+Augumented heart1.mtx: nnz= 5551092, Out= 11/16 , density= 0.10968587481956765
+Augumented heart1.mtx: nnz= 5551092, Out= 12/16 , density= 0.10968587481956765
+Augumented heart1.mtx: nnz= 5551092, Out= 13/16 , density= 0.10968587481956765
+Augumented heart1.mtx: nnz= 5551092, Out= 14/16 , density= 0.10968587481956765
+Augumented heart1.mtx: nnz= 5551092, Out= 15/16 , density= 0.10968587481956765
+Augumented heart1.mtx: nnz= 5551092, Out= 16/16 , density= 0.10968587481956765
+Executing: cp /local/panastas/Block_suite/heart1.mtx /local/panastas/Augumented_block_suite/heart1.mtx
+heart2.mtx: nnz= 682797, density= 0.12480476321994048
+Augumented heart2.mtx: nnz= 2731188, Out= 1/16 , density= 0.12480476321994048
+Augumented heart2.mtx: nnz= 2731188, Out= 2/16 , density= 0.12480476321994048
+Augumented heart2.mtx: nnz= 2731188, Out= 3/16 , density= 0.12480476321994048
+Augumented heart2.mtx: nnz= 2731188, Out= 4/16 , density= 0.12480476321994048
+Augumented heart2.mtx: nnz= 2731188, Out= 5/16 , density= 0.12480476321994048
+Augumented heart2.mtx: nnz= 2731188, Out= 6/16 , density= 0.12480476321994048
+Augumented heart2.mtx: nnz= 2731188, Out= 7/16 , density= 0.12480476321994048
+Augumented heart2.mtx: nnz= 2731188, Out= 8/16 , density= 0.12480476321994048
+Augumented heart2.mtx: nnz= 2731188, Out= 9/16 , density= 0.12480476321994048
+Augumented heart2.mtx: nnz= 2731188, Out= 10/16 , density= 0.12480476321994048
+Augumented heart2.mtx: nnz= 2731188, Out= 11/16 , density= 0.12480476321994048
+Augumented heart2.mtx: nnz= 2731188, Out= 12/16 , density= 0.12480476321994048
+Augumented heart2.mtx: nnz= 2731188, Out= 13/16 , density= 0.12480476321994048
+Augumented heart2.mtx: nnz= 2731188, Out= 14/16 , density= 0.12480476321994048
+Augumented heart2.mtx: nnz= 2731188, Out= 15/16 , density= 0.12480476321994048
+Augumented heart2.mtx: nnz= 2731188, Out= 16/16 , density= 0.12480476321994048
+Executing: cp /local/panastas/Block_suite/heart2.mtx /local/panastas/Augumented_block_suite/heart2.mtx
+heart3.mtx: nnz= 682797, density= 0.12480476321994048
+Augumented heart3.mtx: nnz= 2731188, Out= 1/16 , density= 0.12480476321994048
+Augumented heart3.mtx: nnz= 2731188, Out= 2/16 , density= 0.12480476321994048
+Augumented heart3.mtx: nnz= 2731188, Out= 3/16 , density= 0.12480476321994048
+Augumented heart3.mtx: nnz= 2731188, Out= 4/16 , density= 0.12480476321994048
+Augumented heart3.mtx: nnz= 2731188, Out= 5/16 , density= 0.12480476321994048
+Augumented heart3.mtx: nnz= 2731188, Out= 6/16 , density= 0.12480476321994048
+Augumented heart3.mtx: nnz= 2731188, Out= 7/16 , density= 0.12480476321994048
+Augumented heart3.mtx: nnz= 2731188, Out= 8/16 , density= 0.12480476321994048
+Augumented heart3.mtx: nnz= 2731188, Out= 9/16 , density= 0.12480476321994048
+Augumented heart3.mtx: nnz= 2731188, Out= 10/16 , density= 0.12480476321994048
+Augumented heart3.mtx: nnz= 2731188, Out= 11/16 , density= 0.12480476321994048
+Augumented heart3.mtx: nnz= 2731188, Out= 12/16 , density= 0.12480476321994048
+Augumented heart3.mtx: nnz= 2731188, Out= 13/16 , density= 0.12480476321994048
+Augumented heart3.mtx: nnz= 2731188, Out= 14/16 , density= 0.12480476321994048
+Augumented heart3.mtx: nnz= 2731188, Out= 15/16 , density= 0.12480476321994048
+Augumented heart3.mtx: nnz= 2731188, Out= 16/16 , density= 0.12480476321994048
+Executing: cp /local/panastas/Block_suite/heart3.mtx /local/panastas/Augumented_block_suite/heart3.mtx
+helm2d03.mtx: nnz= 2741935, density= 1.7820330332848923e-05
+Augumented helm2d03.mtx: nnz= 10967740, Out= 1/16 , density= 1.7820330332848923e-05
+Augumented helm2d03.mtx: nnz= 10967740, Out= 2/16 , density= 1.7820330332848923e-05
+Augumented helm2d03.mtx: nnz= 10967740, Out= 3/16 , density= 1.7820330332848923e-05
+Augumented helm2d03.mtx: nnz= 10967740, Out= 4/16 , density= 1.7820330332848923e-05
+Augumented helm2d03.mtx: nnz= 10967740, Out= 5/16 , density= 1.7820330332848923e-05
+Augumented helm2d03.mtx: nnz= 10967740, Out= 6/16 , density= 1.7820330332848923e-05
+Augumented helm2d03.mtx: nnz= 10967740, Out= 7/16 , density= 1.7820330332848923e-05
+Augumented helm2d03.mtx: nnz= 10967740, Out= 8/16 , density= 1.7820330332848923e-05
+Augumented helm2d03.mtx: nnz= 10967740, Out= 9/16 , density= 1.7820330332848923e-05
+Augumented helm2d03.mtx: nnz= 10967740, Out= 10/16 , density= 1.7820330332848923e-05
+Augumented helm2d03.mtx: nnz= 10967740, Out= 11/16 , density= 1.7820330332848923e-05
+Augumented helm2d03.mtx: nnz= 10967740, Out= 12/16 , density= 1.7820330332848923e-05
+Augumented helm2d03.mtx: nnz= 10967740, Out= 13/16 , density= 1.7820330332848923e-05
+Augumented helm2d03.mtx: nnz= 10967740, Out= 14/16 , density= 1.7820330332848923e-05
+Augumented helm2d03.mtx: nnz= 10967740, Out= 15/16 , density= 1.7820330332848923e-05
+Augumented helm2d03.mtx: nnz= 10967740, Out= 16/16 , density= 1.7820330332848923e-05
+Executing: cp /local/panastas/Block_suite/helm2d03.mtx /local/panastas/Augumented_block_suite/helm2d03.mtx
+helm3d01.mtx: nnz= 428444, density= 0.00041255443459734616
+Augumented helm3d01.mtx: nnz= 1713776, Out= 1/16 , density= 0.00041255443459734616
+Augumented helm3d01.mtx: nnz= 1713776, Out= 2/16 , density= 0.00041255443459734616
+Augumented helm3d01.mtx: nnz= 1713776, Out= 3/16 , density= 0.00041255443459734616
+Augumented helm3d01.mtx: nnz= 1713776, Out= 4/16 , density= 0.00041255443459734616
+Augumented helm3d01.mtx: nnz= 1713776, Out= 5/16 , density= 0.00041255443459734616
+Augumented helm3d01.mtx: nnz= 1713776, Out= 6/16 , density= 0.00041255443459734616
+Augumented helm3d01.mtx: nnz= 1713776, Out= 7/16 , density= 0.00041255443459734616
+Augumented helm3d01.mtx: nnz= 1713776, Out= 8/16 , density= 0.00041255443459734616
+Augumented helm3d01.mtx: nnz= 1713776, Out= 9/16 , density= 0.00041255443459734616
+Augumented helm3d01.mtx: nnz= 1713776, Out= 10/16 , density= 0.00041255443459734616
+Augumented helm3d01.mtx: nnz= 1713776, Out= 11/16 , density= 0.00041255443459734616
+Augumented helm3d01.mtx: nnz= 1713776, Out= 12/16 , density= 0.00041255443459734616
+Augumented helm3d01.mtx: nnz= 1713776, Out= 13/16 , density= 0.00041255443459734616
+Augumented helm3d01.mtx: nnz= 1713776, Out= 14/16 , density= 0.00041255443459734616
+Augumented helm3d01.mtx: nnz= 1713776, Out= 15/16 , density= 0.00041255443459734616
+Augumented helm3d01.mtx: nnz= 1713776, Out= 16/16 , density= 0.00041255443459734616
+Executing: cp /local/panastas/Block_suite/helm3d01.mtx /local/panastas/Augumented_block_suite/helm3d01.mtx
+Found oversized file: hood.mtx
+Executing: mv /local/panastas/Block_suite/hood.mtx /local/panastas/Block_suite/Oversized_500M/hood.mtx
+k1_san.mtx: nnz= 559774, density= 0.00012192106477545787
+Augumented k1_san.mtx: nnz= 2239096, Out= 1/16 , density= 0.00012192106477545787
+Augumented k1_san.mtx: nnz= 2239096, Out= 2/16 , density= 0.00012192106477545787
+Augumented k1_san.mtx: nnz= 2239096, Out= 3/16 , density= 0.00012192106477545787
+Augumented k1_san.mtx: nnz= 2239096, Out= 4/16 , density= 0.00012192106477545787
+Augumented k1_san.mtx: nnz= 2239096, Out= 5/16 , density= 0.00012192106477545787
+Augumented k1_san.mtx: nnz= 2239096, Out= 6/16 , density= 0.00012192106477545787
+Augumented k1_san.mtx: nnz= 2239096, Out= 7/16 , density= 0.00012192106477545787
+Augumented k1_san.mtx: nnz= 2239096, Out= 8/16 , density= 0.00012192106477545787
+Augumented k1_san.mtx: nnz= 2239096, Out= 9/16 , density= 0.00012192106477545787
+Augumented k1_san.mtx: nnz= 2239096, Out= 10/16 , density= 0.00012192106477545787
+Augumented k1_san.mtx: nnz= 2239096, Out= 11/16 , density= 0.00012192106477545787
+Augumented k1_san.mtx: nnz= 2239096, Out= 12/16 , density= 0.00012192106477545787
+Augumented k1_san.mtx: nnz= 2239096, Out= 13/16 , density= 0.00012192106477545787
+Augumented k1_san.mtx: nnz= 2239096, Out= 14/16 , density= 0.00012192106477545787
+Augumented k1_san.mtx: nnz= 2239096, Out= 15/16 , density= 0.00012192106477545787
+Augumented k1_san.mtx: nnz= 2239096, Out= 16/16 , density= 0.00012192106477545787
+Executing: cp /local/panastas/Block_suite/k1_san.mtx /local/panastas/Augumented_block_suite/k1_san.mtx
+kim1.mtx: nnz= 933195, density= 0.0006323692276791975
+Augumented kim1.mtx: nnz= 3732780, Out= 1/16 , density= 0.0006323692276791975
+Augumented kim1.mtx: nnz= 3732780, Out= 2/16 , density= 0.0006323692276791975
+Augumented kim1.mtx: nnz= 3732780, Out= 3/16 , density= 0.0006323692276791975
+Augumented kim1.mtx: nnz= 3732780, Out= 4/16 , density= 0.0006323692276791975
+Augumented kim1.mtx: nnz= 3732780, Out= 5/16 , density= 0.0006323692276791975
+Augumented kim1.mtx: nnz= 3732780, Out= 6/16 , density= 0.0006323692276791975
+Augumented kim1.mtx: nnz= 3732780, Out= 7/16 , density= 0.0006323692276791975
+Augumented kim1.mtx: nnz= 3732780, Out= 8/16 , density= 0.0006323692276791975
+Augumented kim1.mtx: nnz= 3732780, Out= 9/16 , density= 0.0006323692276791975
+Augumented kim1.mtx: nnz= 3732780, Out= 10/16 , density= 0.0006323692276791975
+Augumented kim1.mtx: nnz= 3732780, Out= 11/16 , density= 0.0006323692276791975
+Augumented kim1.mtx: nnz= 3732780, Out= 12/16 , density= 0.0006323692276791975
+Augumented kim1.mtx: nnz= 3732780, Out= 13/16 , density= 0.0006323692276791975
+Augumented kim1.mtx: nnz= 3732780, Out= 14/16 , density= 0.0006323692276791975
+Augumented kim1.mtx: nnz= 3732780, Out= 15/16 , density= 0.0006323692276791975
+Augumented kim1.mtx: nnz= 3732780, Out= 16/16 , density= 0.0006323692276791975
+Executing: cp /local/panastas/Block_suite/kim1.mtx /local/panastas/Augumented_block_suite/kim1.mtx
+Found oversized file: m_t1.mtx
+Executing: mv /local/panastas/Block_suite/m_t1.mtx /local/panastas/Block_suite/Oversized_500M/m_t1.mtx
+man_5976.mtx: nnz= 225046, density= 0.006301589669700668
+Augumented man_5976.mtx: nnz= 900184, Out= 1/16 , density= 0.006301589669700668
+Augumented man_5976.mtx: nnz= 900184, Out= 2/16 , density= 0.006301589669700668
+Augumented man_5976.mtx: nnz= 900184, Out= 3/16 , density= 0.006301589669700668
+Augumented man_5976.mtx: nnz= 900184, Out= 4/16 , density= 0.006301589669700668
+Augumented man_5976.mtx: nnz= 900184, Out= 5/16 , density= 0.006301589669700668
+Augumented man_5976.mtx: nnz= 900184, Out= 6/16 , density= 0.006301589669700668
+Augumented man_5976.mtx: nnz= 900184, Out= 7/16 , density= 0.006301589669700668
+Augumented man_5976.mtx: nnz= 900184, Out= 8/16 , density= 0.006301589669700668
+Augumented man_5976.mtx: nnz= 900184, Out= 9/16 , density= 0.006301589669700668
+Augumented man_5976.mtx: nnz= 900184, Out= 10/16 , density= 0.006301589669700668
+Augumented man_5976.mtx: nnz= 900184, Out= 11/16 , density= 0.006301589669700668
+Augumented man_5976.mtx: nnz= 900184, Out= 12/16 , density= 0.006301589669700668
+Augumented man_5976.mtx: nnz= 900184, Out= 13/16 , density= 0.006301589669700668
+Augumented man_5976.mtx: nnz= 900184, Out= 14/16 , density= 0.006301589669700668
+Augumented man_5976.mtx: nnz= 900184, Out= 15/16 , density= 0.006301589669700668
+Augumented man_5976.mtx: nnz= 900184, Out= 16/16 , density= 0.006301589669700668
+Executing: cp /local/panastas/Block_suite/man_5976.mtx /local/panastas/Augumented_block_suite/man_5976.mtx
+mario001.mtx: nnz= 206156, density= 0.00013956123614325205
+Augumented mario001.mtx: nnz= 824624, Out= 1/16 , density= 0.00013956123614325205
+Augumented mario001.mtx: nnz= 824624, Out= 2/16 , density= 0.00013956123614325205
+Augumented mario001.mtx: nnz= 824624, Out= 3/16 , density= 0.00013956123614325205
+Augumented mario001.mtx: nnz= 824624, Out= 4/16 , density= 0.00013956123614325205
+Augumented mario001.mtx: nnz= 824624, Out= 5/16 , density= 0.00013956123614325205
+Augumented mario001.mtx: nnz= 824624, Out= 6/16 , density= 0.00013956123614325205
+Augumented mario001.mtx: nnz= 824624, Out= 7/16 , density= 0.00013956123614325205
+Augumented mario001.mtx: nnz= 824624, Out= 8/16 , density= 0.00013956123614325205
+Augumented mario001.mtx: nnz= 824624, Out= 9/16 , density= 0.00013956123614325205
+Augumented mario001.mtx: nnz= 824624, Out= 10/16 , density= 0.00013956123614325205
+Augumented mario001.mtx: nnz= 824624, Out= 11/16 , density= 0.00013956123614325205
+Augumented mario001.mtx: nnz= 824624, Out= 12/16 , density= 0.00013956123614325205
+Augumented mario001.mtx: nnz= 824624, Out= 13/16 , density= 0.00013956123614325205
+Augumented mario001.mtx: nnz= 824624, Out= 14/16 , density= 0.00013956123614325205
+Augumented mario001.mtx: nnz= 824624, Out= 15/16 , density= 0.00013956123614325205
+Augumented mario001.mtx: nnz= 824624, Out= 16/16 , density= 0.00013956123614325205
+Executing: cp /local/panastas/Block_suite/mario001.mtx /local/panastas/Augumented_block_suite/mario001.mtx
+mario002.mtx: nnz= 2101242, density= 1.3823802655215408e-05
+Augumented mario002.mtx: nnz= 8404968, Out= 1/16 , density= 1.3823802655215408e-05
+Augumented mario002.mtx: nnz= 8404968, Out= 2/16 , density= 1.3823802655215408e-05
+Augumented mario002.mtx: nnz= 8404968, Out= 3/16 , density= 1.3823802655215408e-05
+Augumented mario002.mtx: nnz= 8404968, Out= 4/16 , density= 1.3823802655215408e-05
+Augumented mario002.mtx: nnz= 8404968, Out= 5/16 , density= 1.3823802655215408e-05
+Augumented mario002.mtx: nnz= 8404968, Out= 6/16 , density= 1.3823802655215408e-05
+Augumented mario002.mtx: nnz= 8404968, Out= 7/16 , density= 1.3823802655215408e-05
+Augumented mario002.mtx: nnz= 8404968, Out= 8/16 , density= 1.3823802655215408e-05
+Augumented mario002.mtx: nnz= 8404968, Out= 9/16 , density= 1.3823802655215408e-05
+Augumented mario002.mtx: nnz= 8404968, Out= 10/16 , density= 1.3823802655215408e-05
+Augumented mario002.mtx: nnz= 8404968, Out= 11/16 , density= 1.3823802655215408e-05
+Augumented mario002.mtx: nnz= 8404968, Out= 12/16 , density= 1.3823802655215408e-05
+Augumented mario002.mtx: nnz= 8404968, Out= 13/16 , density= 1.3823802655215408e-05
+Augumented mario002.mtx: nnz= 8404968, Out= 14/16 , density= 1.3823802655215408e-05
+Augumented mario002.mtx: nnz= 8404968, Out= 15/16 , density= 1.3823802655215408e-05
+Augumented mario002.mtx: nnz= 8404968, Out= 16/16 , density= 1.3823802655215408e-05
+Executing: cp /local/panastas/Block_suite/mario002.mtx /local/panastas/Augumented_block_suite/mario002.mtx
+mc2depi.mtx: nnz= 2100225, density= 7.595972132902821e-06
+Augumented mc2depi.mtx: nnz= 8400900, Out= 1/16 , density= 7.595972132902821e-06
+Augumented mc2depi.mtx: nnz= 8400900, Out= 2/16 , density= 7.595972132902821e-06
+Augumented mc2depi.mtx: nnz= 8400900, Out= 3/16 , density= 7.595972132902821e-06
+Augumented mc2depi.mtx: nnz= 8400900, Out= 4/16 , density= 7.595972132902821e-06
+Augumented mc2depi.mtx: nnz= 8400900, Out= 5/16 , density= 7.595972132902821e-06
+Augumented mc2depi.mtx: nnz= 8400900, Out= 6/16 , density= 7.595972132902821e-06
+Augumented mc2depi.mtx: nnz= 8400900, Out= 7/16 , density= 7.595972132902821e-06
+Augumented mc2depi.mtx: nnz= 8400900, Out= 8/16 , density= 7.595972132902821e-06
+Augumented mc2depi.mtx: nnz= 8400900, Out= 9/16 , density= 7.595972132902821e-06
+Augumented mc2depi.mtx: nnz= 8400900, Out= 10/16 , density= 7.595972132902821e-06
+Augumented mc2depi.mtx: nnz= 8400900, Out= 11/16 , density= 7.595972132902821e-06
+Augumented mc2depi.mtx: nnz= 8400900, Out= 12/16 , density= 7.595972132902821e-06
+Augumented mc2depi.mtx: nnz= 8400900, Out= 13/16 , density= 7.595972132902821e-06
+Augumented mc2depi.mtx: nnz= 8400900, Out= 14/16 , density= 7.595972132902821e-06
+Augumented mc2depi.mtx: nnz= 8400900, Out= 15/16 , density= 7.595972132902821e-06
+Augumented mc2depi.mtx: nnz= 8400900, Out= 16/16 , density= 7.595972132902821e-06
+Executing: cp /local/panastas/Block_suite/mc2depi.mtx /local/panastas/Augumented_block_suite/mc2depi.mtx
+msc04515.mtx: nnz= 97707, density= 0.00479303024617094
+Augumented msc04515.mtx: nnz= 390828, Out= 1/16 , density= 0.00479303024617094
+Augumented msc04515.mtx: nnz= 390828, Out= 2/16 , density= 0.00479303024617094
+Augumented msc04515.mtx: nnz= 390828, Out= 3/16 , density= 0.00479303024617094
+Augumented msc04515.mtx: nnz= 390828, Out= 4/16 , density= 0.00479303024617094
+Augumented msc04515.mtx: nnz= 390828, Out= 5/16 , density= 0.00479303024617094
+Augumented msc04515.mtx: nnz= 390828, Out= 6/16 , density= 0.00479303024617094
+Augumented msc04515.mtx: nnz= 390828, Out= 7/16 , density= 0.00479303024617094
+Augumented msc04515.mtx: nnz= 390828, Out= 8/16 , density= 0.00479303024617094
+Augumented msc04515.mtx: nnz= 390828, Out= 9/16 , density= 0.00479303024617094
+Augumented msc04515.mtx: nnz= 390828, Out= 10/16 , density= 0.00479303024617094
+Augumented msc04515.mtx: nnz= 390828, Out= 11/16 , density= 0.00479303024617094
+Augumented msc04515.mtx: nnz= 390828, Out= 12/16 , density= 0.00479303024617094
+Augumented msc04515.mtx: nnz= 390828, Out= 13/16 , density= 0.00479303024617094
+Augumented msc04515.mtx: nnz= 390828, Out= 14/16 , density= 0.00479303024617094
+Augumented msc04515.mtx: nnz= 390828, Out= 15/16 , density= 0.00479303024617094
+Augumented msc04515.mtx: nnz= 390828, Out= 16/16 , density= 0.00479303024617094
+Executing: cp /local/panastas/Block_suite/msc04515.mtx /local/panastas/Augumented_block_suite/msc04515.mtx
+msc10848.mtx: nnz= 1229778, density= 0.010450266514605686
+Augumented msc10848.mtx: nnz= 4919112, Out= 1/16 , density= 0.010450266514605686
+Augumented msc10848.mtx: nnz= 4919112, Out= 2/16 , density= 0.010450266514605686
+Augumented msc10848.mtx: nnz= 4919112, Out= 3/16 , density= 0.010450266514605686
+Augumented msc10848.mtx: nnz= 4919112, Out= 4/16 , density= 0.010450266514605686
+Augumented msc10848.mtx: nnz= 4919112, Out= 5/16 , density= 0.010450266514605686
+Augumented msc10848.mtx: nnz= 4919112, Out= 6/16 , density= 0.010450266514605686
+Augumented msc10848.mtx: nnz= 4919112, Out= 7/16 , density= 0.010450266514605686
+Augumented msc10848.mtx: nnz= 4919112, Out= 8/16 , density= 0.010450266514605686
+Augumented msc10848.mtx: nnz= 4919112, Out= 9/16 , density= 0.010450266514605686
+Augumented msc10848.mtx: nnz= 4919112, Out= 10/16 , density= 0.010450266514605686
+Augumented msc10848.mtx: nnz= 4919112, Out= 11/16 , density= 0.010450266514605686
+Augumented msc10848.mtx: nnz= 4919112, Out= 12/16 , density= 0.010450266514605686
+Augumented msc10848.mtx: nnz= 4919112, Out= 13/16 , density= 0.010450266514605686
+Augumented msc10848.mtx: nnz= 4919112, Out= 14/16 , density= 0.010450266514605686
+Augumented msc10848.mtx: nnz= 4919112, Out= 15/16 , density= 0.010450266514605686
+Augumented msc10848.mtx: nnz= 4919112, Out= 16/16 , density= 0.010450266514605686
+Executing: cp /local/panastas/Block_suite/msc10848.mtx /local/panastas/Augumented_block_suite/msc10848.mtx
+msc23052.mtx: nnz= 1154814, density= 0.0021731755911515447
+Augumented msc23052.mtx: nnz= 4619256, Out= 1/16 , density= 0.0021731755911515447
+Augumented msc23052.mtx: nnz= 4619256, Out= 2/16 , density= 0.0021731755911515447
+Augumented msc23052.mtx: nnz= 4619256, Out= 3/16 , density= 0.0021731755911515447
+Augumented msc23052.mtx: nnz= 4619256, Out= 4/16 , density= 0.0021731755911515447
+Augumented msc23052.mtx: nnz= 4619256, Out= 5/16 , density= 0.0021731755911515447
+Augumented msc23052.mtx: nnz= 4619256, Out= 6/16 , density= 0.0021731755911515447
+Augumented msc23052.mtx: nnz= 4619256, Out= 7/16 , density= 0.0021731755911515447
+Augumented msc23052.mtx: nnz= 4619256, Out= 8/16 , density= 0.0021731755911515447
+Augumented msc23052.mtx: nnz= 4619256, Out= 9/16 , density= 0.0021731755911515447
+Augumented msc23052.mtx: nnz= 4619256, Out= 10/16 , density= 0.0021731755911515447
+Augumented msc23052.mtx: nnz= 4619256, Out= 11/16 , density= 0.0021731755911515447
+Augumented msc23052.mtx: nnz= 4619256, Out= 12/16 , density= 0.0021731755911515447
+Augumented msc23052.mtx: nnz= 4619256, Out= 13/16 , density= 0.0021731755911515447
+Augumented msc23052.mtx: nnz= 4619256, Out= 14/16 , density= 0.0021731755911515447
+Augumented msc23052.mtx: nnz= 4619256, Out= 15/16 , density= 0.0021731755911515447
+Augumented msc23052.mtx: nnz= 4619256, Out= 16/16 , density= 0.0021731755911515447
+Executing: cp /local/panastas/Block_suite/msc23052.mtx /local/panastas/Augumented_block_suite/msc23052.mtx
+nasa2910.mtx: nnz= 174296, density= 0.0205826572666832
+Augumented nasa2910.mtx: nnz= 697184, Out= 1/16 , density= 0.0205826572666832
+Augumented nasa2910.mtx: nnz= 697184, Out= 2/16 , density= 0.0205826572666832
+Augumented nasa2910.mtx: nnz= 697184, Out= 3/16 , density= 0.0205826572666832
+Augumented nasa2910.mtx: nnz= 697184, Out= 4/16 , density= 0.0205826572666832
+Augumented nasa2910.mtx: nnz= 697184, Out= 5/16 , density= 0.0205826572666832
+Augumented nasa2910.mtx: nnz= 697184, Out= 6/16 , density= 0.0205826572666832
+Augumented nasa2910.mtx: nnz= 697184, Out= 7/16 , density= 0.0205826572666832
+Augumented nasa2910.mtx: nnz= 697184, Out= 8/16 , density= 0.0205826572666832
+Augumented nasa2910.mtx: nnz= 697184, Out= 9/16 , density= 0.0205826572666832
+Augumented nasa2910.mtx: nnz= 697184, Out= 10/16 , density= 0.0205826572666832
+Augumented nasa2910.mtx: nnz= 697184, Out= 11/16 , density= 0.0205826572666832
+Augumented nasa2910.mtx: nnz= 697184, Out= 12/16 , density= 0.0205826572666832
+Augumented nasa2910.mtx: nnz= 697184, Out= 13/16 , density= 0.0205826572666832
+Augumented nasa2910.mtx: nnz= 697184, Out= 14/16 , density= 0.0205826572666832
+Augumented nasa2910.mtx: nnz= 697184, Out= 15/16 , density= 0.0205826572666832
+Augumented nasa2910.mtx: nnz= 697184, Out= 16/16 , density= 0.0205826572666832
+Executing: cp /local/panastas/Block_suite/nasa2910.mtx /local/panastas/Augumented_block_suite/nasa2910.mtx
+nasa4704.mtx: nnz= 104756, density= 0.004734174707297885
+Augumented nasa4704.mtx: nnz= 419024, Out= 1/16 , density= 0.004734174707297885
+Augumented nasa4704.mtx: nnz= 419024, Out= 2/16 , density= 0.004734174707297885
+Augumented nasa4704.mtx: nnz= 419024, Out= 3/16 , density= 0.004734174707297885
+Augumented nasa4704.mtx: nnz= 419024, Out= 4/16 , density= 0.004734174707297885
+Augumented nasa4704.mtx: nnz= 419024, Out= 5/16 , density= 0.004734174707297885
+Augumented nasa4704.mtx: nnz= 419024, Out= 6/16 , density= 0.004734174707297885
+Augumented nasa4704.mtx: nnz= 419024, Out= 7/16 , density= 0.004734174707297885
+Augumented nasa4704.mtx: nnz= 419024, Out= 8/16 , density= 0.004734174707297885
+Augumented nasa4704.mtx: nnz= 419024, Out= 9/16 , density= 0.004734174707297885
+Augumented nasa4704.mtx: nnz= 419024, Out= 10/16 , density= 0.004734174707297885
+Augumented nasa4704.mtx: nnz= 419024, Out= 11/16 , density= 0.004734174707297885
+Augumented nasa4704.mtx: nnz= 419024, Out= 12/16 , density= 0.004734174707297885
+Augumented nasa4704.mtx: nnz= 419024, Out= 13/16 , density= 0.004734174707297885
+Augumented nasa4704.mtx: nnz= 419024, Out= 14/16 , density= 0.004734174707297885
+Augumented nasa4704.mtx: nnz= 419024, Out= 15/16 , density= 0.004734174707297885
+Augumented nasa4704.mtx: nnz= 419024, Out= 16/16 , density= 0.004734174707297885
+Executing: cp /local/panastas/Block_suite/nasa4704.mtx /local/panastas/Augumented_block_suite/nasa4704.mtx
+nasasrb.mtx: nnz= 2677324, density= 0.0008892646133550451
+Augumented nasasrb.mtx: nnz= 10709296, Out= 1/16 , density= 0.0008892646133550451
+Augumented nasasrb.mtx: nnz= 10709296, Out= 2/16 , density= 0.0008892646133550451
+Augumented nasasrb.mtx: nnz= 10709296, Out= 3/16 , density= 0.0008892646133550451
+Augumented nasasrb.mtx: nnz= 10709296, Out= 4/16 , density= 0.0008892646133550451
+Augumented nasasrb.mtx: nnz= 10709296, Out= 5/16 , density= 0.0008892646133550451
+Augumented nasasrb.mtx: nnz= 10709296, Out= 6/16 , density= 0.0008892646133550451
+Augumented nasasrb.mtx: nnz= 10709296, Out= 7/16 , density= 0.0008892646133550451
+Augumented nasasrb.mtx: nnz= 10709296, Out= 8/16 , density= 0.0008892646133550451
+Augumented nasasrb.mtx: nnz= 10709296, Out= 9/16 , density= 0.0008892646133550451
+Augumented nasasrb.mtx: nnz= 10709296, Out= 10/16 , density= 0.0008892646133550451
+Augumented nasasrb.mtx: nnz= 10709296, Out= 11/16 , density= 0.0008892646133550451
+Augumented nasasrb.mtx: nnz= 10709296, Out= 12/16 , density= 0.0008892646133550451
+Augumented nasasrb.mtx: nnz= 10709296, Out= 13/16 , density= 0.0008892646133550451
+Augumented nasasrb.mtx: nnz= 10709296, Out= 14/16 , density= 0.0008892646133550451
+Augumented nasasrb.mtx: nnz= 10709296, Out= 15/16 , density= 0.0008892646133550451
+Augumented nasasrb.mtx: nnz= 10709296, Out= 16/16 , density= 0.0008892646133550451
+Executing: cp /local/panastas/Block_suite/nasasrb.mtx /local/panastas/Augumented_block_suite/nasasrb.mtx
+nd3k.mtx: nnz= 3279690, density= 0.04049
+Augumented nd3k.mtx: nnz= 13118760, Out= 1/16 , density= 0.04049
+Augumented nd3k.mtx: nnz= 13118760, Out= 2/16 , density= 0.04049
+Augumented nd3k.mtx: nnz= 13118760, Out= 3/16 , density= 0.04049
+Augumented nd3k.mtx: nnz= 13118760, Out= 4/16 , density= 0.04049
+Augumented nd3k.mtx: nnz= 13118760, Out= 5/16 , density= 0.04049
+Augumented nd3k.mtx: nnz= 13118760, Out= 6/16 , density= 0.04049
+Augumented nd3k.mtx: nnz= 13118760, Out= 7/16 , density= 0.04049
+Augumented nd3k.mtx: nnz= 13118760, Out= 8/16 , density= 0.04049
+Augumented nd3k.mtx: nnz= 13118760, Out= 9/16 , density= 0.04049
+Augumented nd3k.mtx: nnz= 13118760, Out= 10/16 , density= 0.04049
+Augumented nd3k.mtx: nnz= 13118760, Out= 11/16 , density= 0.04049
+Augumented nd3k.mtx: nnz= 13118760, Out= 12/16 , density= 0.04049
+Augumented nd3k.mtx: nnz= 13118760, Out= 13/16 , density= 0.04049
+Augumented nd3k.mtx: nnz= 13118760, Out= 14/16 , density= 0.04049
+Augumented nd3k.mtx: nnz= 13118760, Out= 15/16 , density= 0.04049
+Augumented nd3k.mtx: nnz= 13118760, Out= 16/16 , density= 0.04049
+Executing: cp /local/panastas/Block_suite/nd3k.mtx /local/panastas/Augumented_block_suite/nd3k.mtx
+nd6k.mtx: nnz= 6897316, density= 0.02128801234567901
+Augumented nd6k.mtx: nnz= 27589264, Out= 1/16 , density= 0.02128801234567901
+Augumented nd6k.mtx: nnz= 27589264, Out= 2/16 , density= 0.02128801234567901
+Augumented nd6k.mtx: nnz= 27589264, Out= 3/16 , density= 0.02128801234567901
+Augumented nd6k.mtx: nnz= 27589264, Out= 4/16 , density= 0.02128801234567901
+Augumented nd6k.mtx: nnz= 27589264, Out= 5/16 , density= 0.02128801234567901
+Augumented nd6k.mtx: nnz= 27589264, Out= 6/16 , density= 0.02128801234567901
+Augumented nd6k.mtx: nnz= 27589264, Out= 7/16 , density= 0.02128801234567901
+Augumented nd6k.mtx: nnz= 27589264, Out= 8/16 , density= 0.02128801234567901
+Augumented nd6k.mtx: nnz= 27589264, Out= 9/16 , density= 0.02128801234567901
+Augumented nd6k.mtx: nnz= 27589264, Out= 10/16 , density= 0.02128801234567901
+Augumented nd6k.mtx: nnz= 27589264, Out= 11/16 , density= 0.02128801234567901
+Augumented nd6k.mtx: nnz= 27589264, Out= 12/16 , density= 0.02128801234567901
+Augumented nd6k.mtx: nnz= 27589264, Out= 13/16 , density= 0.02128801234567901
+Augumented nd6k.mtx: nnz= 27589264, Out= 14/16 , density= 0.02128801234567901
+Augumented nd6k.mtx: nnz= 27589264, Out= 15/16 , density= 0.02128801234567901
+Augumented nd6k.mtx: nnz= 27589264, Out= 16/16 , density= 0.02128801234567901
+Executing: cp /local/panastas/Block_suite/nd6k.mtx /local/panastas/Augumented_block_suite/nd6k.mtx
+oilpan.mtx: nnz= 3597188, density= 0.0006613259005966599
+Augumented oilpan.mtx: nnz= 14388752, Out= 1/16 , density= 0.0006613259005966599
+Augumented oilpan.mtx: nnz= 14388752, Out= 2/16 , density= 0.0006613259005966599
+Augumented oilpan.mtx: nnz= 14388752, Out= 3/16 , density= 0.0006613259005966599
+Augumented oilpan.mtx: nnz= 14388752, Out= 4/16 , density= 0.0006613259005966599
+Augumented oilpan.mtx: nnz= 14388752, Out= 5/16 , density= 0.0006613259005966599
+Augumented oilpan.mtx: nnz= 14388752, Out= 6/16 , density= 0.0006613259005966599
+Augumented oilpan.mtx: nnz= 14388752, Out= 7/16 , density= 0.0006613259005966599
+Augumented oilpan.mtx: nnz= 14388752, Out= 8/16 , density= 0.0006613259005966599
+Augumented oilpan.mtx: nnz= 14388752, Out= 9/16 , density= 0.0006613259005966599
+Augumented oilpan.mtx: nnz= 14388752, Out= 10/16 , density= 0.0006613259005966599
+Augumented oilpan.mtx: nnz= 14388752, Out= 11/16 , density= 0.0006613259005966599
+Augumented oilpan.mtx: nnz= 14388752, Out= 12/16 , density= 0.0006613259005966599
+Augumented oilpan.mtx: nnz= 14388752, Out= 13/16 , density= 0.0006613259005966599
+Augumented oilpan.mtx: nnz= 14388752, Out= 14/16 , density= 0.0006613259005966599
+Augumented oilpan.mtx: nnz= 14388752, Out= 15/16 , density= 0.0006613259005966599
+Augumented oilpan.mtx: nnz= 14388752, Out= 16/16 , density= 0.0006613259005966599
+Executing: cp /local/panastas/Block_suite/oilpan.mtx /local/panastas/Augumented_block_suite/oilpan.mtx
+olafu.mtx: nnz= 1015156, density= 0.003894062247457085
+Augumented olafu.mtx: nnz= 4060624, Out= 1/16 , density= 0.003894062247457085
+Augumented olafu.mtx: nnz= 4060624, Out= 2/16 , density= 0.003894062247457085
+Augumented olafu.mtx: nnz= 4060624, Out= 3/16 , density= 0.003894062247457085
+Augumented olafu.mtx: nnz= 4060624, Out= 4/16 , density= 0.003894062247457085
+Augumented olafu.mtx: nnz= 4060624, Out= 5/16 , density= 0.003894062247457085
+Augumented olafu.mtx: nnz= 4060624, Out= 6/16 , density= 0.003894062247457085
+Augumented olafu.mtx: nnz= 4060624, Out= 7/16 , density= 0.003894062247457085
+Augumented olafu.mtx: nnz= 4060624, Out= 8/16 , density= 0.003894062247457085
+Augumented olafu.mtx: nnz= 4060624, Out= 9/16 , density= 0.003894062247457085
+Augumented olafu.mtx: nnz= 4060624, Out= 10/16 , density= 0.003894062247457085
+Augumented olafu.mtx: nnz= 4060624, Out= 11/16 , density= 0.003894062247457085
+Augumented olafu.mtx: nnz= 4060624, Out= 12/16 , density= 0.003894062247457085
+Augumented olafu.mtx: nnz= 4060624, Out= 13/16 , density= 0.003894062247457085
+Augumented olafu.mtx: nnz= 4060624, Out= 14/16 , density= 0.003894062247457085
+Augumented olafu.mtx: nnz= 4060624, Out= 15/16 , density= 0.003894062247457085
+Augumented olafu.mtx: nnz= 4060624, Out= 16/16 , density= 0.003894062247457085
+Executing: cp /local/panastas/Block_suite/olafu.mtx /local/panastas/Augumented_block_suite/olafu.mtx
+olesnik0.mtx: nnz= 744216, density= 9.553040815143145e-05
+Augumented olesnik0.mtx: nnz= 2976864, Out= 1/16 , density= 9.553040815143145e-05
+Augumented olesnik0.mtx: nnz= 2976864, Out= 2/16 , density= 9.553040815143145e-05
+Augumented olesnik0.mtx: nnz= 2976864, Out= 3/16 , density= 9.553040815143145e-05
+Augumented olesnik0.mtx: nnz= 2976864, Out= 4/16 , density= 9.553040815143145e-05
+Augumented olesnik0.mtx: nnz= 2976864, Out= 5/16 , density= 9.553040815143145e-05
+Augumented olesnik0.mtx: nnz= 2976864, Out= 6/16 , density= 9.553040815143145e-05
+Augumented olesnik0.mtx: nnz= 2976864, Out= 7/16 , density= 9.553040815143145e-05
+Augumented olesnik0.mtx: nnz= 2976864, Out= 8/16 , density= 9.553040815143145e-05
+Augumented olesnik0.mtx: nnz= 2976864, Out= 9/16 , density= 9.553040815143145e-05
+Augumented olesnik0.mtx: nnz= 2976864, Out= 10/16 , density= 9.553040815143145e-05
+Augumented olesnik0.mtx: nnz= 2976864, Out= 11/16 , density= 9.553040815143145e-05
+Augumented olesnik0.mtx: nnz= 2976864, Out= 12/16 , density= 9.553040815143145e-05
+Augumented olesnik0.mtx: nnz= 2976864, Out= 13/16 , density= 9.553040815143145e-05
+Augumented olesnik0.mtx: nnz= 2976864, Out= 14/16 , density= 9.553040815143145e-05
+Augumented olesnik0.mtx: nnz= 2976864, Out= 15/16 , density= 9.553040815143145e-05
+Augumented olesnik0.mtx: nnz= 2976864, Out= 16/16 , density= 9.553040815143145e-05
+Executing: cp /local/panastas/Block_suite/olesnik0.mtx /local/panastas/Augumented_block_suite/olesnik0.mtx
+onera_dual.mtx: nnz= 419201, density= 5.7254509499561625e-05
+Augumented onera_dual.mtx: nnz= 1676804, Out= 1/16 , density= 5.7254509499561625e-05
+Augumented onera_dual.mtx: nnz= 1676804, Out= 2/16 , density= 5.7254509499561625e-05
+Augumented onera_dual.mtx: nnz= 1676804, Out= 3/16 , density= 5.7254509499561625e-05
+Augumented onera_dual.mtx: nnz= 1676804, Out= 4/16 , density= 5.7254509499561625e-05
+Augumented onera_dual.mtx: nnz= 1676804, Out= 5/16 , density= 5.7254509499561625e-05
+Augumented onera_dual.mtx: nnz= 1676804, Out= 6/16 , density= 5.7254509499561625e-05
+Augumented onera_dual.mtx: nnz= 1676804, Out= 7/16 , density= 5.7254509499561625e-05
+Augumented onera_dual.mtx: nnz= 1676804, Out= 8/16 , density= 5.7254509499561625e-05
+Augumented onera_dual.mtx: nnz= 1676804, Out= 9/16 , density= 5.7254509499561625e-05
+Augumented onera_dual.mtx: nnz= 1676804, Out= 10/16 , density= 5.7254509499561625e-05
+Augumented onera_dual.mtx: nnz= 1676804, Out= 11/16 , density= 5.7254509499561625e-05
+Augumented onera_dual.mtx: nnz= 1676804, Out= 12/16 , density= 5.7254509499561625e-05
+Augumented onera_dual.mtx: nnz= 1676804, Out= 13/16 , density= 5.7254509499561625e-05
+Augumented onera_dual.mtx: nnz= 1676804, Out= 14/16 , density= 5.7254509499561625e-05
+Augumented onera_dual.mtx: nnz= 1676804, Out= 15/16 , density= 5.7254509499561625e-05
+Augumented onera_dual.mtx: nnz= 1676804, Out= 16/16 , density= 5.7254509499561625e-05
+Executing: cp /local/panastas/Block_suite/onera_dual.mtx /local/panastas/Augumented_block_suite/onera_dual.mtx
+onera_dual_coord.mtx is not sparse
+Executing: mv /local/panastas/Block_suite/onera_dual_coord.mtx /local/panastas/Block_suite/Removed/onera_dual_coord.mtx
+opt1.mtx: nnz= 1930655, density= 0.008089169351991735
+Augumented opt1.mtx: nnz= 7722620, Out= 1/16 , density= 0.008089169351991735
+Augumented opt1.mtx: nnz= 7722620, Out= 2/16 , density= 0.008089169351991735
+Augumented opt1.mtx: nnz= 7722620, Out= 3/16 , density= 0.008089169351991735
+Augumented opt1.mtx: nnz= 7722620, Out= 4/16 , density= 0.008089169351991735
+Augumented opt1.mtx: nnz= 7722620, Out= 5/16 , density= 0.008089169351991735
+Augumented opt1.mtx: nnz= 7722620, Out= 6/16 , density= 0.008089169351991735
+Augumented opt1.mtx: nnz= 7722620, Out= 7/16 , density= 0.008089169351991735
+Augumented opt1.mtx: nnz= 7722620, Out= 8/16 , density= 0.008089169351991735
+Augumented opt1.mtx: nnz= 7722620, Out= 9/16 , density= 0.008089169351991735
+Augumented opt1.mtx: nnz= 7722620, Out= 10/16 , density= 0.008089169351991735
+Augumented opt1.mtx: nnz= 7722620, Out= 11/16 , density= 0.008089169351991735
+Augumented opt1.mtx: nnz= 7722620, Out= 12/16 , density= 0.008089169351991735
+Augumented opt1.mtx: nnz= 7722620, Out= 13/16 , density= 0.008089169351991735
+Augumented opt1.mtx: nnz= 7722620, Out= 14/16 , density= 0.008089169351991735
+Augumented opt1.mtx: nnz= 7722620, Out= 15/16 , density= 0.008089169351991735
+Augumented opt1.mtx: nnz= 7722620, Out= 16/16 , density= 0.008089169351991735
+Executing: cp /local/panastas/Block_suite/opt1.mtx /local/panastas/Augumented_block_suite/opt1.mtx
+pct20stif.mtx: nnz= 2698463, density= 0.0009854431990181545
+Augumented pct20stif.mtx: nnz= 10793852, Out= 1/16 , density= 0.0009854431990181545
+Augumented pct20stif.mtx: nnz= 10793852, Out= 2/16 , density= 0.0009854431990181545
+Augumented pct20stif.mtx: nnz= 10793852, Out= 3/16 , density= 0.0009854431990181545
+Augumented pct20stif.mtx: nnz= 10793852, Out= 4/16 , density= 0.0009854431990181545
+Augumented pct20stif.mtx: nnz= 10793852, Out= 5/16 , density= 0.0009854431990181545
+Augumented pct20stif.mtx: nnz= 10793852, Out= 6/16 , density= 0.0009854431990181545
+Augumented pct20stif.mtx: nnz= 10793852, Out= 7/16 , density= 0.0009854431990181545
+Augumented pct20stif.mtx: nnz= 10793852, Out= 8/16 , density= 0.0009854431990181545
+Augumented pct20stif.mtx: nnz= 10793852, Out= 9/16 , density= 0.0009854431990181545
+Augumented pct20stif.mtx: nnz= 10793852, Out= 10/16 , density= 0.0009854431990181545
+Augumented pct20stif.mtx: nnz= 10793852, Out= 11/16 , density= 0.0009854431990181545
+Augumented pct20stif.mtx: nnz= 10793852, Out= 12/16 , density= 0.0009854431990181545
+Augumented pct20stif.mtx: nnz= 10793852, Out= 13/16 , density= 0.0009854431990181545
+Augumented pct20stif.mtx: nnz= 10793852, Out= 14/16 , density= 0.0009854431990181545
+Augumented pct20stif.mtx: nnz= 10793852, Out= 15/16 , density= 0.0009854431990181545
+Augumented pct20stif.mtx: nnz= 10793852, Out= 16/16 , density= 0.0009854431990181545
+Executing: cp /local/panastas/Block_suite/pct20stif.mtx /local/panastas/Augumented_block_suite/pct20stif.mtx
+pkustk01.mtx: nnz= 979380, density= 0.002015442564665295
+Augumented pkustk01.mtx: nnz= 3917520, Out= 1/16 , density= 0.002015442564665295
+Augumented pkustk01.mtx: nnz= 3917520, Out= 2/16 , density= 0.002015442564665295
+Augumented pkustk01.mtx: nnz= 3917520, Out= 3/16 , density= 0.002015442564665295
+Augumented pkustk01.mtx: nnz= 3917520, Out= 4/16 , density= 0.002015442564665295
+Augumented pkustk01.mtx: nnz= 3917520, Out= 5/16 , density= 0.002015442564665295
+Augumented pkustk01.mtx: nnz= 3917520, Out= 6/16 , density= 0.002015442564665295
+Augumented pkustk01.mtx: nnz= 3917520, Out= 7/16 , density= 0.002015442564665295
+Augumented pkustk01.mtx: nnz= 3917520, Out= 8/16 , density= 0.002015442564665295
+Augumented pkustk01.mtx: nnz= 3917520, Out= 9/16 , density= 0.002015442564665295
+Augumented pkustk01.mtx: nnz= 3917520, Out= 10/16 , density= 0.002015442564665295
+Augumented pkustk01.mtx: nnz= 3917520, Out= 11/16 , density= 0.002015442564665295
+Augumented pkustk01.mtx: nnz= 3917520, Out= 12/16 , density= 0.002015442564665295
+Augumented pkustk01.mtx: nnz= 3917520, Out= 13/16 , density= 0.002015442564665295
+Augumented pkustk01.mtx: nnz= 3917520, Out= 14/16 , density= 0.002015442564665295
+Augumented pkustk01.mtx: nnz= 3917520, Out= 15/16 , density= 0.002015442564665295
+Augumented pkustk01.mtx: nnz= 3917520, Out= 16/16 , density= 0.002015442564665295
+Executing: cp /local/panastas/Block_suite/pkustk01.mtx /local/panastas/Augumented_block_suite/pkustk01.mtx
+pkustk02.mtx: nnz= 810000, density= 0.006944444444444444
+Augumented pkustk02.mtx: nnz= 3240000, Out= 1/16 , density= 0.006944444444444444
+Augumented pkustk02.mtx: nnz= 3240000, Out= 2/16 , density= 0.006944444444444444
+Augumented pkustk02.mtx: nnz= 3240000, Out= 3/16 , density= 0.006944444444444444
+Augumented pkustk02.mtx: nnz= 3240000, Out= 4/16 , density= 0.006944444444444444
+Augumented pkustk02.mtx: nnz= 3240000, Out= 5/16 , density= 0.006944444444444444
+Augumented pkustk02.mtx: nnz= 3240000, Out= 6/16 , density= 0.006944444444444444
+Augumented pkustk02.mtx: nnz= 3240000, Out= 7/16 , density= 0.006944444444444444
+Augumented pkustk02.mtx: nnz= 3240000, Out= 8/16 , density= 0.006944444444444444
+Augumented pkustk02.mtx: nnz= 3240000, Out= 9/16 , density= 0.006944444444444444
+Augumented pkustk02.mtx: nnz= 3240000, Out= 10/16 , density= 0.006944444444444444
+Augumented pkustk02.mtx: nnz= 3240000, Out= 11/16 , density= 0.006944444444444444
+Augumented pkustk02.mtx: nnz= 3240000, Out= 12/16 , density= 0.006944444444444444
+Augumented pkustk02.mtx: nnz= 3240000, Out= 13/16 , density= 0.006944444444444444
+Augumented pkustk02.mtx: nnz= 3240000, Out= 14/16 , density= 0.006944444444444444
+Augumented pkustk02.mtx: nnz= 3240000, Out= 15/16 , density= 0.006944444444444444
+Augumented pkustk02.mtx: nnz= 3240000, Out= 16/16 , density= 0.006944444444444444
+Executing: cp /local/panastas/Block_suite/pkustk02.mtx /local/panastas/Augumented_block_suite/pkustk02.mtx
+pkustk03.mtx: nnz= 3130416, density= 0.0007803704050976399
+Augumented pkustk03.mtx: nnz= 12521664, Out= 1/16 , density= 0.0007803704050976399
+Augumented pkustk03.mtx: nnz= 12521664, Out= 2/16 , density= 0.0007803704050976399
+Augumented pkustk03.mtx: nnz= 12521664, Out= 3/16 , density= 0.0007803704050976399
+Augumented pkustk03.mtx: nnz= 12521664, Out= 4/16 , density= 0.0007803704050976399
+Augumented pkustk03.mtx: nnz= 12521664, Out= 5/16 , density= 0.0007803704050976399
+Augumented pkustk03.mtx: nnz= 12521664, Out= 6/16 , density= 0.0007803704050976399
+Augumented pkustk03.mtx: nnz= 12521664, Out= 7/16 , density= 0.0007803704050976399
+Augumented pkustk03.mtx: nnz= 12521664, Out= 8/16 , density= 0.0007803704050976399
+Augumented pkustk03.mtx: nnz= 12521664, Out= 9/16 , density= 0.0007803704050976399
+Augumented pkustk03.mtx: nnz= 12521664, Out= 10/16 , density= 0.0007803704050976399
+Augumented pkustk03.mtx: nnz= 12521664, Out= 11/16 , density= 0.0007803704050976399
+Augumented pkustk03.mtx: nnz= 12521664, Out= 12/16 , density= 0.0007803704050976399
+Augumented pkustk03.mtx: nnz= 12521664, Out= 13/16 , density= 0.0007803704050976399
+Augumented pkustk03.mtx: nnz= 12521664, Out= 14/16 , density= 0.0007803704050976399
+Augumented pkustk03.mtx: nnz= 12521664, Out= 15/16 , density= 0.0007803704050976399
+Augumented pkustk03.mtx: nnz= 12521664, Out= 16/16 , density= 0.0007803704050976399
+Executing: cp /local/panastas/Block_suite/pkustk03.mtx /local/panastas/Augumented_block_suite/pkustk03.mtx
+pkustk04.mtx: nnz= 4218660, density= 0.0013651525261030013
+Augumented pkustk04.mtx: nnz= 16874640, Out= 1/16 , density= 0.0013651525261030013
+Augumented pkustk04.mtx: nnz= 16874640, Out= 2/16 , density= 0.0013651525261030013
+Augumented pkustk04.mtx: nnz= 16874640, Out= 3/16 , density= 0.0013651525261030013
+Augumented pkustk04.mtx: nnz= 16874640, Out= 4/16 , density= 0.0013651525261030013
+Augumented pkustk04.mtx: nnz= 16874640, Out= 5/16 , density= 0.0013651525261030013
+Augumented pkustk04.mtx: nnz= 16874640, Out= 6/16 , density= 0.0013651525261030013
+Augumented pkustk04.mtx: nnz= 16874640, Out= 7/16 , density= 0.0013651525261030013
+Augumented pkustk04.mtx: nnz= 16874640, Out= 8/16 , density= 0.0013651525261030013
+Augumented pkustk04.mtx: nnz= 16874640, Out= 9/16 , density= 0.0013651525261030013
+Augumented pkustk04.mtx: nnz= 16874640, Out= 10/16 , density= 0.0013651525261030013
+Augumented pkustk04.mtx: nnz= 16874640, Out= 11/16 , density= 0.0013651525261030013
+Augumented pkustk04.mtx: nnz= 16874640, Out= 12/16 , density= 0.0013651525261030013
+Augumented pkustk04.mtx: nnz= 16874640, Out= 13/16 , density= 0.0013651525261030013
+Augumented pkustk04.mtx: nnz= 16874640, Out= 14/16 , density= 0.0013651525261030013
+Augumented pkustk04.mtx: nnz= 16874640, Out= 15/16 , density= 0.0013651525261030013
+Augumented pkustk04.mtx: nnz= 16874640, Out= 16/16 , density= 0.0013651525261030013
+Executing: cp /local/panastas/Block_suite/pkustk04.mtx /local/panastas/Augumented_block_suite/pkustk04.mtx
+pkustk05.mtx: nnz= 2205144, density= 0.0015965850272884829
+Augumented pkustk05.mtx: nnz= 8820576, Out= 1/16 , density= 0.0015965850272884829
+Augumented pkustk05.mtx: nnz= 8820576, Out= 2/16 , density= 0.0015965850272884829
+Augumented pkustk05.mtx: nnz= 8820576, Out= 3/16 , density= 0.0015965850272884829
+Augumented pkustk05.mtx: nnz= 8820576, Out= 4/16 , density= 0.0015965850272884829
+Augumented pkustk05.mtx: nnz= 8820576, Out= 5/16 , density= 0.0015965850272884829
+Augumented pkustk05.mtx: nnz= 8820576, Out= 6/16 , density= 0.0015965850272884829
+Augumented pkustk05.mtx: nnz= 8820576, Out= 7/16 , density= 0.0015965850272884829
+Augumented pkustk05.mtx: nnz= 8820576, Out= 8/16 , density= 0.0015965850272884829
+Augumented pkustk05.mtx: nnz= 8820576, Out= 9/16 , density= 0.0015965850272884829
+Augumented pkustk05.mtx: nnz= 8820576, Out= 10/16 , density= 0.0015965850272884829
+Augumented pkustk05.mtx: nnz= 8820576, Out= 11/16 , density= 0.0015965850272884829
+Augumented pkustk05.mtx: nnz= 8820576, Out= 12/16 , density= 0.0015965850272884829
+Augumented pkustk05.mtx: nnz= 8820576, Out= 13/16 , density= 0.0015965850272884829
+Augumented pkustk05.mtx: nnz= 8820576, Out= 14/16 , density= 0.0015965850272884829
+Augumented pkustk05.mtx: nnz= 8820576, Out= 15/16 , density= 0.0015965850272884829
+Augumented pkustk05.mtx: nnz= 8820576, Out= 16/16 , density= 0.0015965850272884829
+Executing: cp /local/panastas/Block_suite/pkustk05.mtx /local/panastas/Augumented_block_suite/pkustk05.mtx
+pkustk06.mtx: nnz= 2571768, density= 0.0013803474600316006
+Augumented pkustk06.mtx: nnz= 10287072, Out= 1/16 , density= 0.0013803474600316006
+Augumented pkustk06.mtx: nnz= 10287072, Out= 2/16 , density= 0.0013803474600316006
+Augumented pkustk06.mtx: nnz= 10287072, Out= 3/16 , density= 0.0013803474600316006
+Augumented pkustk06.mtx: nnz= 10287072, Out= 4/16 , density= 0.0013803474600316006
+Augumented pkustk06.mtx: nnz= 10287072, Out= 5/16 , density= 0.0013803474600316006
+Augumented pkustk06.mtx: nnz= 10287072, Out= 6/16 , density= 0.0013803474600316006
+Augumented pkustk06.mtx: nnz= 10287072, Out= 7/16 , density= 0.0013803474600316006
+Augumented pkustk06.mtx: nnz= 10287072, Out= 8/16 , density= 0.0013803474600316006
+Augumented pkustk06.mtx: nnz= 10287072, Out= 9/16 , density= 0.0013803474600316006
+Augumented pkustk06.mtx: nnz= 10287072, Out= 10/16 , density= 0.0013803474600316006
+Augumented pkustk06.mtx: nnz= 10287072, Out= 11/16 , density= 0.0013803474600316006
+Augumented pkustk06.mtx: nnz= 10287072, Out= 12/16 , density= 0.0013803474600316006
+Augumented pkustk06.mtx: nnz= 10287072, Out= 13/16 , density= 0.0013803474600316006
+Augumented pkustk06.mtx: nnz= 10287072, Out= 14/16 , density= 0.0013803474600316006
+Augumented pkustk06.mtx: nnz= 10287072, Out= 15/16 , density= 0.0013803474600316006
+Augumented pkustk06.mtx: nnz= 10287072, Out= 16/16 , density= 0.0013803474600316006
+Executing: cp /local/panastas/Block_suite/pkustk06.mtx /local/panastas/Augumented_block_suite/pkustk06.mtx
+pkustk07.mtx: nnz= 2418804, density= 0.008509137422271754
+Augumented pkustk07.mtx: nnz= 9675216, Out= 1/16 , density= 0.008509137422271754
+Augumented pkustk07.mtx: nnz= 9675216, Out= 2/16 , density= 0.008509137422271754
+Augumented pkustk07.mtx: nnz= 9675216, Out= 3/16 , density= 0.008509137422271754
+Augumented pkustk07.mtx: nnz= 9675216, Out= 4/16 , density= 0.008509137422271754
+Augumented pkustk07.mtx: nnz= 9675216, Out= 5/16 , density= 0.008509137422271754
+Augumented pkustk07.mtx: nnz= 9675216, Out= 6/16 , density= 0.008509137422271754
+Augumented pkustk07.mtx: nnz= 9675216, Out= 7/16 , density= 0.008509137422271754
+Augumented pkustk07.mtx: nnz= 9675216, Out= 8/16 , density= 0.008509137422271754
+Augumented pkustk07.mtx: nnz= 9675216, Out= 9/16 , density= 0.008509137422271754
+Augumented pkustk07.mtx: nnz= 9675216, Out= 10/16 , density= 0.008509137422271754
+Augumented pkustk07.mtx: nnz= 9675216, Out= 11/16 , density= 0.008509137422271754
+Augumented pkustk07.mtx: nnz= 9675216, Out= 12/16 , density= 0.008509137422271754
+Augumented pkustk07.mtx: nnz= 9675216, Out= 13/16 , density= 0.008509137422271754
+Augumented pkustk07.mtx: nnz= 9675216, Out= 14/16 , density= 0.008509137422271754
+Augumented pkustk07.mtx: nnz= 9675216, Out= 15/16 , density= 0.008509137422271754
+Augumented pkustk07.mtx: nnz= 9675216, Out= 16/16 , density= 0.008509137422271754
+Executing: cp /local/panastas/Block_suite/pkustk07.mtx /local/panastas/Augumented_block_suite/pkustk07.mtx
+pkustk08.mtx: nnz= 3226671, density= 0.006541791190559139
+Augumented pkustk08.mtx: nnz= 12906684, Out= 1/16 , density= 0.006541791190559139
+Augumented pkustk08.mtx: nnz= 12906684, Out= 2/16 , density= 0.006541791190559139
+Augumented pkustk08.mtx: nnz= 12906684, Out= 3/16 , density= 0.006541791190559139
+Augumented pkustk08.mtx: nnz= 12906684, Out= 4/16 , density= 0.006541791190559139
+Augumented pkustk08.mtx: nnz= 12906684, Out= 5/16 , density= 0.006541791190559139
+Augumented pkustk08.mtx: nnz= 12906684, Out= 6/16 , density= 0.006541791190559139
+Augumented pkustk08.mtx: nnz= 12906684, Out= 7/16 , density= 0.006541791190559139
+Augumented pkustk08.mtx: nnz= 12906684, Out= 8/16 , density= 0.006541791190559139
+Augumented pkustk08.mtx: nnz= 12906684, Out= 9/16 , density= 0.006541791190559139
+Augumented pkustk08.mtx: nnz= 12906684, Out= 10/16 , density= 0.006541791190559139
+Augumented pkustk08.mtx: nnz= 12906684, Out= 11/16 , density= 0.006541791190559139
+Augumented pkustk08.mtx: nnz= 12906684, Out= 12/16 , density= 0.006541791190559139
+Augumented pkustk08.mtx: nnz= 12906684, Out= 13/16 , density= 0.006541791190559139
+Augumented pkustk08.mtx: nnz= 12906684, Out= 14/16 , density= 0.006541791190559139
+Augumented pkustk08.mtx: nnz= 12906684, Out= 15/16 , density= 0.006541791190559139
+Augumented pkustk08.mtx: nnz= 12906684, Out= 16/16 , density= 0.006541791190559139
+Executing: cp /local/panastas/Block_suite/pkustk08.mtx /local/panastas/Augumented_block_suite/pkustk08.mtx
+pkustk09.mtx: nnz= 1583640, density= 0.0013731598596561326
+Augumented pkustk09.mtx: nnz= 6334560, Out= 1/16 , density= 0.0013731598596561326
+Augumented pkustk09.mtx: nnz= 6334560, Out= 2/16 , density= 0.0013731598596561326
+Augumented pkustk09.mtx: nnz= 6334560, Out= 3/16 , density= 0.0013731598596561326
+Augumented pkustk09.mtx: nnz= 6334560, Out= 4/16 , density= 0.0013731598596561326
+Augumented pkustk09.mtx: nnz= 6334560, Out= 5/16 , density= 0.0013731598596561326
+Augumented pkustk09.mtx: nnz= 6334560, Out= 6/16 , density= 0.0013731598596561326
+Augumented pkustk09.mtx: nnz= 6334560, Out= 7/16 , density= 0.0013731598596561326
+Augumented pkustk09.mtx: nnz= 6334560, Out= 8/16 , density= 0.0013731598596561326
+Augumented pkustk09.mtx: nnz= 6334560, Out= 9/16 , density= 0.0013731598596561326
+Augumented pkustk09.mtx: nnz= 6334560, Out= 10/16 , density= 0.0013731598596561326
+Augumented pkustk09.mtx: nnz= 6334560, Out= 11/16 , density= 0.0013731598596561326
+Augumented pkustk09.mtx: nnz= 6334560, Out= 12/16 , density= 0.0013731598596561326
+Augumented pkustk09.mtx: nnz= 6334560, Out= 13/16 , density= 0.0013731598596561326
+Augumented pkustk09.mtx: nnz= 6334560, Out= 14/16 , density= 0.0013731598596561326
+Augumented pkustk09.mtx: nnz= 6334560, Out= 15/16 , density= 0.0013731598596561326
+Augumented pkustk09.mtx: nnz= 6334560, Out= 16/16 , density= 0.0013731598596561326
+Executing: cp /local/panastas/Block_suite/pkustk09.mtx /local/panastas/Augumented_block_suite/pkustk09.mtx
+pkustk10.mtx: nnz= 4308984, density= 0.0006620429525794852
+Augumented pkustk10.mtx: nnz= 17235936, Out= 1/16 , density= 0.0006620429525794852
+Augumented pkustk10.mtx: nnz= 17235936, Out= 2/16 , density= 0.0006620429525794852
+Augumented pkustk10.mtx: nnz= 17235936, Out= 3/16 , density= 0.0006620429525794852
+Augumented pkustk10.mtx: nnz= 17235936, Out= 4/16 , density= 0.0006620429525794852
+Augumented pkustk10.mtx: nnz= 17235936, Out= 5/16 , density= 0.0006620429525794852
+Augumented pkustk10.mtx: nnz= 17235936, Out= 6/16 , density= 0.0006620429525794852
+Augumented pkustk10.mtx: nnz= 17235936, Out= 7/16 , density= 0.0006620429525794852
+Augumented pkustk10.mtx: nnz= 17235936, Out= 8/16 , density= 0.0006620429525794852
+Augumented pkustk10.mtx: nnz= 17235936, Out= 9/16 , density= 0.0006620429525794852
+Augumented pkustk10.mtx: nnz= 17235936, Out= 10/16 , density= 0.0006620429525794852
+Augumented pkustk10.mtx: nnz= 17235936, Out= 11/16 , density= 0.0006620429525794852
+Augumented pkustk10.mtx: nnz= 17235936, Out= 12/16 , density= 0.0006620429525794852
+Augumented pkustk10.mtx: nnz= 17235936, Out= 13/16 , density= 0.0006620429525794852
+Augumented pkustk10.mtx: nnz= 17235936, Out= 14/16 , density= 0.0006620429525794852
+Augumented pkustk10.mtx: nnz= 17235936, Out= 15/16 , density= 0.0006620429525794852
+Augumented pkustk10.mtx: nnz= 17235936, Out= 16/16 , density= 0.0006620429525794852
+Executing: cp /local/panastas/Block_suite/pkustk10.mtx /local/panastas/Augumented_block_suite/pkustk10.mtx
+pkustk11.mtx: nnz= 5217912, density= 0.0006768121528420422
+Augumented pkustk11.mtx: nnz= 20871648, Out= 1/16 , density= 0.0006768121528420422
+Augumented pkustk11.mtx: nnz= 20871648, Out= 2/16 , density= 0.0006768121528420422
+Augumented pkustk11.mtx: nnz= 20871648, Out= 3/16 , density= 0.0006768121528420422
+Augumented pkustk11.mtx: nnz= 20871648, Out= 4/16 , density= 0.0006768121528420422
+Augumented pkustk11.mtx: nnz= 20871648, Out= 5/16 , density= 0.0006768121528420422
+Augumented pkustk11.mtx: nnz= 20871648, Out= 6/16 , density= 0.0006768121528420422
+Augumented pkustk11.mtx: nnz= 20871648, Out= 7/16 , density= 0.0006768121528420422
+Augumented pkustk11.mtx: nnz= 20871648, Out= 8/16 , density= 0.0006768121528420422
+Augumented pkustk11.mtx: nnz= 20871648, Out= 9/16 , density= 0.0006768121528420422
+Augumented pkustk11.mtx: nnz= 20871648, Out= 10/16 , density= 0.0006768121528420422
+Augumented pkustk11.mtx: nnz= 20871648, Out= 11/16 , density= 0.0006768121528420422
+Augumented pkustk11.mtx: nnz= 20871648, Out= 12/16 , density= 0.0006768121528420422
+Augumented pkustk11.mtx: nnz= 20871648, Out= 13/16 , density= 0.0006768121528420422
+Augumented pkustk11.mtx: nnz= 20871648, Out= 14/16 , density= 0.0006768121528420422
+Augumented pkustk11.mtx: nnz= 20871648, Out= 15/16 , density= 0.0006768121528420422
+Augumented pkustk11.mtx: nnz= 20871648, Out= 16/16 , density= 0.0006768121528420422
+Executing: cp /local/panastas/Block_suite/pkustk11.mtx /local/panastas/Augumented_block_suite/pkustk11.mtx
+pkustk12.mtx: nnz= 7512317, density= 0.0008385040005906632
+Augumented pkustk12.mtx: nnz= 30049268, Out= 1/16 , density= 0.0008385040005906632
+Augumented pkustk12.mtx: nnz= 30049268, Out= 2/16 , density= 0.0008385040005906632
+Augumented pkustk12.mtx: nnz= 30049268, Out= 3/16 , density= 0.0008385040005906632
+Augumented pkustk12.mtx: nnz= 30049268, Out= 4/16 , density= 0.0008385040005906632
+Augumented pkustk12.mtx: nnz= 30049268, Out= 5/16 , density= 0.0008385040005906632
+Augumented pkustk12.mtx: nnz= 30049268, Out= 6/16 , density= 0.0008385040005906632
+Augumented pkustk12.mtx: nnz= 30049268, Out= 7/16 , density= 0.0008385040005906632
+Augumented pkustk12.mtx: nnz= 30049268, Out= 8/16 , density= 0.0008385040005906632
+Augumented pkustk12.mtx: nnz= 30049268, Out= 9/16 , density= 0.0008385040005906632
+Augumented pkustk12.mtx: nnz= 30049268, Out= 10/16 , density= 0.0008385040005906632
+Augumented pkustk12.mtx: nnz= 30049268, Out= 11/16 , density= 0.0008385040005906632
+Augumented pkustk12.mtx: nnz= 30049268, Out= 12/16 , density= 0.0008385040005906632
+Augumented pkustk12.mtx: nnz= 30049268, Out= 13/16 , density= 0.0008385040005906632
+Augumented pkustk12.mtx: nnz= 30049268, Out= 14/16 , density= 0.0008385040005906632
+Augumented pkustk12.mtx: nnz= 30049268, Out= 15/16 , density= 0.0008385040005906632
+Augumented pkustk12.mtx: nnz= 30049268, Out= 16/16 , density= 0.0008385040005906632
+Executing: cp /local/panastas/Block_suite/pkustk12.mtx /local/panastas/Augumented_block_suite/pkustk12.mtx
+pkustk13.mtx: nnz= 6616827, density= 0.0007348207748909119
+Augumented pkustk13.mtx: nnz= 26467308, Out= 1/16 , density= 0.0007348207748909119
+Augumented pkustk13.mtx: nnz= 26467308, Out= 2/16 , density= 0.0007348207748909119
+Augumented pkustk13.mtx: nnz= 26467308, Out= 3/16 , density= 0.0007348207748909119
+Augumented pkustk13.mtx: nnz= 26467308, Out= 4/16 , density= 0.0007348207748909119
+Augumented pkustk13.mtx: nnz= 26467308, Out= 5/16 , density= 0.0007348207748909119
+Augumented pkustk13.mtx: nnz= 26467308, Out= 6/16 , density= 0.0007348207748909119
+Augumented pkustk13.mtx: nnz= 26467308, Out= 7/16 , density= 0.0007348207748909119
+Augumented pkustk13.mtx: nnz= 26467308, Out= 8/16 , density= 0.0007348207748909119
+Augumented pkustk13.mtx: nnz= 26467308, Out= 9/16 , density= 0.0007348207748909119
+Augumented pkustk13.mtx: nnz= 26467308, Out= 10/16 , density= 0.0007348207748909119
+Augumented pkustk13.mtx: nnz= 26467308, Out= 11/16 , density= 0.0007348207748909119
+Augumented pkustk13.mtx: nnz= 26467308, Out= 12/16 , density= 0.0007348207748909119
+Augumented pkustk13.mtx: nnz= 26467308, Out= 13/16 , density= 0.0007348207748909119
+Augumented pkustk13.mtx: nnz= 26467308, Out= 14/16 , density= 0.0007348207748909119
+Augumented pkustk13.mtx: nnz= 26467308, Out= 15/16 , density= 0.0007348207748909119
+Augumented pkustk13.mtx: nnz= 26467308, Out= 16/16 , density= 0.0007348207748909119
+Executing: cp /local/panastas/Block_suite/pkustk13.mtx /local/panastas/Augumented_block_suite/pkustk13.mtx
+pwt.mtx: nnz= 326107, density= 0.0002445244933416349
+Augumented pwt.mtx: nnz= 1304428, Out= 1/16 , density= 0.0002445244933416349
+Augumented pwt.mtx: nnz= 1304428, Out= 2/16 , density= 0.0002445244933416349
+Augumented pwt.mtx: nnz= 1304428, Out= 3/16 , density= 0.0002445244933416349
+Augumented pwt.mtx: nnz= 1304428, Out= 4/16 , density= 0.0002445244933416349
+Augumented pwt.mtx: nnz= 1304428, Out= 5/16 , density= 0.0002445244933416349
+Augumented pwt.mtx: nnz= 1304428, Out= 6/16 , density= 0.0002445244933416349
+Augumented pwt.mtx: nnz= 1304428, Out= 7/16 , density= 0.0002445244933416349
+Augumented pwt.mtx: nnz= 1304428, Out= 8/16 , density= 0.0002445244933416349
+Augumented pwt.mtx: nnz= 1304428, Out= 9/16 , density= 0.0002445244933416349
+Augumented pwt.mtx: nnz= 1304428, Out= 10/16 , density= 0.0002445244933416349
+Augumented pwt.mtx: nnz= 1304428, Out= 11/16 , density= 0.0002445244933416349
+Augumented pwt.mtx: nnz= 1304428, Out= 12/16 , density= 0.0002445244933416349
+Augumented pwt.mtx: nnz= 1304428, Out= 13/16 , density= 0.0002445244933416349
+Augumented pwt.mtx: nnz= 1304428, Out= 14/16 , density= 0.0002445244933416349
+Augumented pwt.mtx: nnz= 1304428, Out= 15/16 , density= 0.0002445244933416349
+Augumented pwt.mtx: nnz= 1304428, Out= 16/16 , density= 0.0002445244933416349
+Executing: cp /local/panastas/Block_suite/pwt.mtx /local/panastas/Augumented_block_suite/pwt.mtx
+raefsky4.mtx: nnz= 1328611, density= 0.003396168135167477
+Augumented raefsky4.mtx: nnz= 5314444, Out= 1/16 , density= 0.003396168135167477
+Augumented raefsky4.mtx: nnz= 5314444, Out= 2/16 , density= 0.003396168135167477
+Augumented raefsky4.mtx: nnz= 5314444, Out= 3/16 , density= 0.003396168135167477
+Augumented raefsky4.mtx: nnz= 5314444, Out= 4/16 , density= 0.003396168135167477
+Augumented raefsky4.mtx: nnz= 5314444, Out= 5/16 , density= 0.003396168135167477
+Augumented raefsky4.mtx: nnz= 5314444, Out= 6/16 , density= 0.003396168135167477
+Augumented raefsky4.mtx: nnz= 5314444, Out= 7/16 , density= 0.003396168135167477
+Augumented raefsky4.mtx: nnz= 5314444, Out= 8/16 , density= 0.003396168135167477
+Augumented raefsky4.mtx: nnz= 5314444, Out= 9/16 , density= 0.003396168135167477
+Augumented raefsky4.mtx: nnz= 5314444, Out= 10/16 , density= 0.003396168135167477
+Augumented raefsky4.mtx: nnz= 5314444, Out= 11/16 , density= 0.003396168135167477
+Augumented raefsky4.mtx: nnz= 5314444, Out= 12/16 , density= 0.003396168135167477
+Augumented raefsky4.mtx: nnz= 5314444, Out= 13/16 , density= 0.003396168135167477
+Augumented raefsky4.mtx: nnz= 5314444, Out= 14/16 , density= 0.003396168135167477
+Augumented raefsky4.mtx: nnz= 5314444, Out= 15/16 , density= 0.003396168135167477
+Augumented raefsky4.mtx: nnz= 5314444, Out= 16/16 , density= 0.003396168135167477
+Executing: cp /local/panastas/Block_suite/raefsky4.mtx /local/panastas/Augumented_block_suite/raefsky4.mtx
+raefsky5.mtx: nnz= 168658, density= 0.004227880497713618
+Augumented raefsky5.mtx: nnz= 674632, Out= 1/16 , density= 0.004227880497713618
+Augumented raefsky5.mtx: nnz= 674632, Out= 2/16 , density= 0.004227880497713618
+Augumented raefsky5.mtx: nnz= 674632, Out= 3/16 , density= 0.004227880497713618
+Augumented raefsky5.mtx: nnz= 674632, Out= 4/16 , density= 0.004227880497713618
+Augumented raefsky5.mtx: nnz= 674632, Out= 5/16 , density= 0.004227880497713618
+Augumented raefsky5.mtx: nnz= 674632, Out= 6/16 , density= 0.004227880497713618
+Augumented raefsky5.mtx: nnz= 674632, Out= 7/16 , density= 0.004227880497713618
+Augumented raefsky5.mtx: nnz= 674632, Out= 8/16 , density= 0.004227880497713618
+Augumented raefsky5.mtx: nnz= 674632, Out= 9/16 , density= 0.004227880497713618
+Augumented raefsky5.mtx: nnz= 674632, Out= 10/16 , density= 0.004227880497713618
+Augumented raefsky5.mtx: nnz= 674632, Out= 11/16 , density= 0.004227880497713618
+Augumented raefsky5.mtx: nnz= 674632, Out= 12/16 , density= 0.004227880497713618
+Augumented raefsky5.mtx: nnz= 674632, Out= 13/16 , density= 0.004227880497713618
+Augumented raefsky5.mtx: nnz= 674632, Out= 14/16 , density= 0.004227880497713618
+Augumented raefsky5.mtx: nnz= 674632, Out= 15/16 , density= 0.004227880497713618
+Augumented raefsky5.mtx: nnz= 674632, Out= 16/16 , density= 0.004227880497713618
+Executing: cp /local/panastas/Block_suite/raefsky5.mtx /local/panastas/Augumented_block_suite/raefsky5.mtx
+raefsky6.mtx: nnz= 137845, density= 0.011910291729352413
+Augumented raefsky6.mtx: nnz= 551380, Out= 1/16 , density= 0.011910291729352413
+Augumented raefsky6.mtx: nnz= 551380, Out= 2/16 , density= 0.011910291729352413
+Augumented raefsky6.mtx: nnz= 551380, Out= 3/16 , density= 0.011910291729352413
+Augumented raefsky6.mtx: nnz= 551380, Out= 4/16 , density= 0.011910291729352413
+Augumented raefsky6.mtx: nnz= 551380, Out= 5/16 , density= 0.011910291729352413
+Augumented raefsky6.mtx: nnz= 551380, Out= 6/16 , density= 0.011910291729352413
+Augumented raefsky6.mtx: nnz= 551380, Out= 7/16 , density= 0.011910291729352413
+Augumented raefsky6.mtx: nnz= 551380, Out= 8/16 , density= 0.011910291729352413
+Augumented raefsky6.mtx: nnz= 551380, Out= 9/16 , density= 0.011910291729352413
+Augumented raefsky6.mtx: nnz= 551380, Out= 10/16 , density= 0.011910291729352413
+Augumented raefsky6.mtx: nnz= 551380, Out= 11/16 , density= 0.011910291729352413
+Augumented raefsky6.mtx: nnz= 551380, Out= 12/16 , density= 0.011910291729352413
+Augumented raefsky6.mtx: nnz= 551380, Out= 13/16 , density= 0.011910291729352413
+Augumented raefsky6.mtx: nnz= 551380, Out= 14/16 , density= 0.011910291729352413
+Augumented raefsky6.mtx: nnz= 551380, Out= 15/16 , density= 0.011910291729352413
+Augumented raefsky6.mtx: nnz= 551380, Out= 16/16 , density= 0.011910291729352413
+Executing: cp /local/panastas/Block_suite/raefsky6.mtx /local/panastas/Augumented_block_suite/raefsky6.mtx
+s1rmq4m1.mtx: nnz= 281111, density= 0.00933020913554033
+Augumented s1rmq4m1.mtx: nnz= 1124444, Out= 1/16 , density= 0.00933020913554033
+Augumented s1rmq4m1.mtx: nnz= 1124444, Out= 2/16 , density= 0.00933020913554033
+Augumented s1rmq4m1.mtx: nnz= 1124444, Out= 3/16 , density= 0.00933020913554033
+Augumented s1rmq4m1.mtx: nnz= 1124444, Out= 4/16 , density= 0.00933020913554033
+Augumented s1rmq4m1.mtx: nnz= 1124444, Out= 5/16 , density= 0.00933020913554033
+Augumented s1rmq4m1.mtx: nnz= 1124444, Out= 6/16 , density= 0.00933020913554033
+Augumented s1rmq4m1.mtx: nnz= 1124444, Out= 7/16 , density= 0.00933020913554033
+Augumented s1rmq4m1.mtx: nnz= 1124444, Out= 8/16 , density= 0.00933020913554033
+Augumented s1rmq4m1.mtx: nnz= 1124444, Out= 9/16 , density= 0.00933020913554033
+Augumented s1rmq4m1.mtx: nnz= 1124444, Out= 10/16 , density= 0.00933020913554033
+Augumented s1rmq4m1.mtx: nnz= 1124444, Out= 11/16 , density= 0.00933020913554033
+Augumented s1rmq4m1.mtx: nnz= 1124444, Out= 12/16 , density= 0.00933020913554033
+Augumented s1rmq4m1.mtx: nnz= 1124444, Out= 13/16 , density= 0.00933020913554033
+Augumented s1rmq4m1.mtx: nnz= 1124444, Out= 14/16 , density= 0.00933020913554033
+Augumented s1rmq4m1.mtx: nnz= 1124444, Out= 15/16 , density= 0.00933020913554033
+Augumented s1rmq4m1.mtx: nnz= 1124444, Out= 16/16 , density= 0.00933020913554033
+Executing: cp /local/panastas/Block_suite/s1rmq4m1.mtx /local/panastas/Augumented_block_suite/s1rmq4m1.mtx
+s1rmt3m1.mtx: nnz= 219521, density= 0.007286007447744659
+Augumented s1rmt3m1.mtx: nnz= 878084, Out= 1/16 , density= 0.007286007447744659
+Augumented s1rmt3m1.mtx: nnz= 878084, Out= 2/16 , density= 0.007286007447744659
+Augumented s1rmt3m1.mtx: nnz= 878084, Out= 3/16 , density= 0.007286007447744659
+Augumented s1rmt3m1.mtx: nnz= 878084, Out= 4/16 , density= 0.007286007447744659
+Augumented s1rmt3m1.mtx: nnz= 878084, Out= 5/16 , density= 0.007286007447744659
+Augumented s1rmt3m1.mtx: nnz= 878084, Out= 6/16 , density= 0.007286007447744659
+Augumented s1rmt3m1.mtx: nnz= 878084, Out= 7/16 , density= 0.007286007447744659
+Augumented s1rmt3m1.mtx: nnz= 878084, Out= 8/16 , density= 0.007286007447744659
+Augumented s1rmt3m1.mtx: nnz= 878084, Out= 9/16 , density= 0.007286007447744659
+Augumented s1rmt3m1.mtx: nnz= 878084, Out= 10/16 , density= 0.007286007447744659
+Augumented s1rmt3m1.mtx: nnz= 878084, Out= 11/16 , density= 0.007286007447744659
+Augumented s1rmt3m1.mtx: nnz= 878084, Out= 12/16 , density= 0.007286007447744659
+Augumented s1rmt3m1.mtx: nnz= 878084, Out= 13/16 , density= 0.007286007447744659
+Augumented s1rmt3m1.mtx: nnz= 878084, Out= 14/16 , density= 0.007286007447744659
+Augumented s1rmt3m1.mtx: nnz= 878084, Out= 15/16 , density= 0.007286007447744659
+Augumented s1rmt3m1.mtx: nnz= 878084, Out= 16/16 , density= 0.007286007447744659
+Executing: cp /local/panastas/Block_suite/s1rmt3m1.mtx /local/panastas/Augumented_block_suite/s1rmt3m1.mtx
+s2rmq4m1.mtx: nnz= 281111, density= 0.00933020913554033
+Augumented s2rmq4m1.mtx: nnz= 1124444, Out= 1/16 , density= 0.00933020913554033
+Augumented s2rmq4m1.mtx: nnz= 1124444, Out= 2/16 , density= 0.00933020913554033
+Augumented s2rmq4m1.mtx: nnz= 1124444, Out= 3/16 , density= 0.00933020913554033
+Augumented s2rmq4m1.mtx: nnz= 1124444, Out= 4/16 , density= 0.00933020913554033
+Augumented s2rmq4m1.mtx: nnz= 1124444, Out= 5/16 , density= 0.00933020913554033
+Augumented s2rmq4m1.mtx: nnz= 1124444, Out= 6/16 , density= 0.00933020913554033
+Augumented s2rmq4m1.mtx: nnz= 1124444, Out= 7/16 , density= 0.00933020913554033
+Augumented s2rmq4m1.mtx: nnz= 1124444, Out= 8/16 , density= 0.00933020913554033
+Augumented s2rmq4m1.mtx: nnz= 1124444, Out= 9/16 , density= 0.00933020913554033
+Augumented s2rmq4m1.mtx: nnz= 1124444, Out= 10/16 , density= 0.00933020913554033
+Augumented s2rmq4m1.mtx: nnz= 1124444, Out= 11/16 , density= 0.00933020913554033
+Augumented s2rmq4m1.mtx: nnz= 1124444, Out= 12/16 , density= 0.00933020913554033
+Augumented s2rmq4m1.mtx: nnz= 1124444, Out= 13/16 , density= 0.00933020913554033
+Augumented s2rmq4m1.mtx: nnz= 1124444, Out= 14/16 , density= 0.00933020913554033
+Augumented s2rmq4m1.mtx: nnz= 1124444, Out= 15/16 , density= 0.00933020913554033
+Augumented s2rmq4m1.mtx: nnz= 1124444, Out= 16/16 , density= 0.00933020913554033
+Executing: cp /local/panastas/Block_suite/s2rmq4m1.mtx /local/panastas/Augumented_block_suite/s2rmq4m1.mtx
+s2rmt3m1.mtx: nnz= 219521, density= 0.007286007447744659
+Augumented s2rmt3m1.mtx: nnz= 878084, Out= 1/16 , density= 0.007286007447744659
+Augumented s2rmt3m1.mtx: nnz= 878084, Out= 2/16 , density= 0.007286007447744659
+Augumented s2rmt3m1.mtx: nnz= 878084, Out= 3/16 , density= 0.007286007447744659
+Augumented s2rmt3m1.mtx: nnz= 878084, Out= 4/16 , density= 0.007286007447744659
+Augumented s2rmt3m1.mtx: nnz= 878084, Out= 5/16 , density= 0.007286007447744659
+Augumented s2rmt3m1.mtx: nnz= 878084, Out= 6/16 , density= 0.007286007447744659
+Augumented s2rmt3m1.mtx: nnz= 878084, Out= 7/16 , density= 0.007286007447744659
+Augumented s2rmt3m1.mtx: nnz= 878084, Out= 8/16 , density= 0.007286007447744659
+Augumented s2rmt3m1.mtx: nnz= 878084, Out= 9/16 , density= 0.007286007447744659
+Augumented s2rmt3m1.mtx: nnz= 878084, Out= 10/16 , density= 0.007286007447744659
+Augumented s2rmt3m1.mtx: nnz= 878084, Out= 11/16 , density= 0.007286007447744659
+Augumented s2rmt3m1.mtx: nnz= 878084, Out= 12/16 , density= 0.007286007447744659
+Augumented s2rmt3m1.mtx: nnz= 878084, Out= 13/16 , density= 0.007286007447744659
+Augumented s2rmt3m1.mtx: nnz= 878084, Out= 14/16 , density= 0.007286007447744659
+Augumented s2rmt3m1.mtx: nnz= 878084, Out= 15/16 , density= 0.007286007447744659
+Augumented s2rmt3m1.mtx: nnz= 878084, Out= 16/16 , density= 0.007286007447744659
+Executing: cp /local/panastas/Block_suite/s2rmt3m1.mtx /local/panastas/Augumented_block_suite/s2rmt3m1.mtx
+s3dkq4m2.mtx: nnz= 4820891, density= 0.0005892773830851054
+Augumented s3dkq4m2.mtx: nnz= 19283564, Out= 1/16 , density= 0.0005892773830851054
+Augumented s3dkq4m2.mtx: nnz= 19283564, Out= 2/16 , density= 0.0005892773830851054
+Augumented s3dkq4m2.mtx: nnz= 19283564, Out= 3/16 , density= 0.0005892773830851054
+Augumented s3dkq4m2.mtx: nnz= 19283564, Out= 4/16 , density= 0.0005892773830851054
+Augumented s3dkq4m2.mtx: nnz= 19283564, Out= 5/16 , density= 0.0005892773830851054
+Augumented s3dkq4m2.mtx: nnz= 19283564, Out= 6/16 , density= 0.0005892773830851054
+Augumented s3dkq4m2.mtx: nnz= 19283564, Out= 7/16 , density= 0.0005892773830851054
+Augumented s3dkq4m2.mtx: nnz= 19283564, Out= 8/16 , density= 0.0005892773830851054
+Augumented s3dkq4m2.mtx: nnz= 19283564, Out= 9/16 , density= 0.0005892773830851054
+Augumented s3dkq4m2.mtx: nnz= 19283564, Out= 10/16 , density= 0.0005892773830851054
+Augumented s3dkq4m2.mtx: nnz= 19283564, Out= 11/16 , density= 0.0005892773830851054
+Augumented s3dkq4m2.mtx: nnz= 19283564, Out= 12/16 , density= 0.0005892773830851054
+Augumented s3dkq4m2.mtx: nnz= 19283564, Out= 13/16 , density= 0.0005892773830851054
+Augumented s3dkq4m2.mtx: nnz= 19283564, Out= 14/16 , density= 0.0005892773830851054
+Augumented s3dkq4m2.mtx: nnz= 19283564, Out= 15/16 , density= 0.0005892773830851054
+Augumented s3dkq4m2.mtx: nnz= 19283564, Out= 16/16 , density= 0.0005892773830851054
+Executing: cp /local/panastas/Block_suite/s3dkq4m2.mtx /local/panastas/Augumented_block_suite/s3dkq4m2.mtx
+s3dkq4m2_coord.mtx is not sparse
+Executing: mv /local/panastas/Block_suite/s3dkq4m2_coord.mtx /local/panastas/Block_suite/Removed/s3dkq4m2_coord.mtx
+s3dkt3m2.mtx: nnz= 3753461, density= 0.00045880101325501926
+Augumented s3dkt3m2.mtx: nnz= 15013844, Out= 1/16 , density= 0.00045880101325501926
+Augumented s3dkt3m2.mtx: nnz= 15013844, Out= 2/16 , density= 0.00045880101325501926
+Augumented s3dkt3m2.mtx: nnz= 15013844, Out= 3/16 , density= 0.00045880101325501926
+Augumented s3dkt3m2.mtx: nnz= 15013844, Out= 4/16 , density= 0.00045880101325501926
+Augumented s3dkt3m2.mtx: nnz= 15013844, Out= 5/16 , density= 0.00045880101325501926
+Augumented s3dkt3m2.mtx: nnz= 15013844, Out= 6/16 , density= 0.00045880101325501926
+Augumented s3dkt3m2.mtx: nnz= 15013844, Out= 7/16 , density= 0.00045880101325501926
+Augumented s3dkt3m2.mtx: nnz= 15013844, Out= 8/16 , density= 0.00045880101325501926
+Augumented s3dkt3m2.mtx: nnz= 15013844, Out= 9/16 , density= 0.00045880101325501926
+Augumented s3dkt3m2.mtx: nnz= 15013844, Out= 10/16 , density= 0.00045880101325501926
+Augumented s3dkt3m2.mtx: nnz= 15013844, Out= 11/16 , density= 0.00045880101325501926
+Augumented s3dkt3m2.mtx: nnz= 15013844, Out= 12/16 , density= 0.00045880101325501926
+Augumented s3dkt3m2.mtx: nnz= 15013844, Out= 13/16 , density= 0.00045880101325501926
+Augumented s3dkt3m2.mtx: nnz= 15013844, Out= 14/16 , density= 0.00045880101325501926
+Augumented s3dkt3m2.mtx: nnz= 15013844, Out= 15/16 , density= 0.00045880101325501926
+Augumented s3dkt3m2.mtx: nnz= 15013844, Out= 16/16 , density= 0.00045880101325501926
+Executing: cp /local/panastas/Block_suite/s3dkt3m2.mtx /local/panastas/Augumented_block_suite/s3dkt3m2.mtx
+s3dkt3m2_coord.mtx is not sparse
+Executing: mv /local/panastas/Block_suite/s3dkt3m2_coord.mtx /local/panastas/Block_suite/Removed/s3dkt3m2_coord.mtx
+s3rmq4m1.mtx: nnz= 281111, density= 0.00933020913554033
+Augumented s3rmq4m1.mtx: nnz= 1124444, Out= 1/16 , density= 0.00933020913554033
+Augumented s3rmq4m1.mtx: nnz= 1124444, Out= 2/16 , density= 0.00933020913554033
+Augumented s3rmq4m1.mtx: nnz= 1124444, Out= 3/16 , density= 0.00933020913554033
+Augumented s3rmq4m1.mtx: nnz= 1124444, Out= 4/16 , density= 0.00933020913554033
+Augumented s3rmq4m1.mtx: nnz= 1124444, Out= 5/16 , density= 0.00933020913554033
+Augumented s3rmq4m1.mtx: nnz= 1124444, Out= 6/16 , density= 0.00933020913554033
+Augumented s3rmq4m1.mtx: nnz= 1124444, Out= 7/16 , density= 0.00933020913554033
+Augumented s3rmq4m1.mtx: nnz= 1124444, Out= 8/16 , density= 0.00933020913554033
+Augumented s3rmq4m1.mtx: nnz= 1124444, Out= 9/16 , density= 0.00933020913554033
+Augumented s3rmq4m1.mtx: nnz= 1124444, Out= 10/16 , density= 0.00933020913554033
+Augumented s3rmq4m1.mtx: nnz= 1124444, Out= 11/16 , density= 0.00933020913554033
+Augumented s3rmq4m1.mtx: nnz= 1124444, Out= 12/16 , density= 0.00933020913554033
+Augumented s3rmq4m1.mtx: nnz= 1124444, Out= 13/16 , density= 0.00933020913554033
+Augumented s3rmq4m1.mtx: nnz= 1124444, Out= 14/16 , density= 0.00933020913554033
+Augumented s3rmq4m1.mtx: nnz= 1124444, Out= 15/16 , density= 0.00933020913554033
+Augumented s3rmq4m1.mtx: nnz= 1124444, Out= 16/16 , density= 0.00933020913554033
+Executing: cp /local/panastas/Block_suite/s3rmq4m1.mtx /local/panastas/Augumented_block_suite/s3rmq4m1.mtx
+s3rmt3m1.mtx: nnz= 219521, density= 0.007286007447744659
+Augumented s3rmt3m1.mtx: nnz= 878084, Out= 1/16 , density= 0.007286007447744659
+Augumented s3rmt3m1.mtx: nnz= 878084, Out= 2/16 , density= 0.007286007447744659
+Augumented s3rmt3m1.mtx: nnz= 878084, Out= 3/16 , density= 0.007286007447744659
+Augumented s3rmt3m1.mtx: nnz= 878084, Out= 4/16 , density= 0.007286007447744659
+Augumented s3rmt3m1.mtx: nnz= 878084, Out= 5/16 , density= 0.007286007447744659
+Augumented s3rmt3m1.mtx: nnz= 878084, Out= 6/16 , density= 0.007286007447744659
+Augumented s3rmt3m1.mtx: nnz= 878084, Out= 7/16 , density= 0.007286007447744659
+Augumented s3rmt3m1.mtx: nnz= 878084, Out= 8/16 , density= 0.007286007447744659
+Augumented s3rmt3m1.mtx: nnz= 878084, Out= 9/16 , density= 0.007286007447744659
+Augumented s3rmt3m1.mtx: nnz= 878084, Out= 10/16 , density= 0.007286007447744659
+Augumented s3rmt3m1.mtx: nnz= 878084, Out= 11/16 , density= 0.007286007447744659
+Augumented s3rmt3m1.mtx: nnz= 878084, Out= 12/16 , density= 0.007286007447744659
+Augumented s3rmt3m1.mtx: nnz= 878084, Out= 13/16 , density= 0.007286007447744659
+Augumented s3rmt3m1.mtx: nnz= 878084, Out= 14/16 , density= 0.007286007447744659
+Augumented s3rmt3m1.mtx: nnz= 878084, Out= 15/16 , density= 0.007286007447744659
+Augumented s3rmt3m1.mtx: nnz= 878084, Out= 16/16 , density= 0.007286007447744659
+Executing: cp /local/panastas/Block_suite/s3rmt3m1.mtx /local/panastas/Augumented_block_suite/s3rmt3m1.mtx
+s3rmt3m3.mtx: nnz= 207695, density= 0.007237402878562481
+Augumented s3rmt3m3.mtx: nnz= 830780, Out= 1/16 , density= 0.007237402878562481
+Augumented s3rmt3m3.mtx: nnz= 830780, Out= 2/16 , density= 0.007237402878562481
+Augumented s3rmt3m3.mtx: nnz= 830780, Out= 3/16 , density= 0.007237402878562481
+Augumented s3rmt3m3.mtx: nnz= 830780, Out= 4/16 , density= 0.007237402878562481
+Augumented s3rmt3m3.mtx: nnz= 830780, Out= 5/16 , density= 0.007237402878562481
+Augumented s3rmt3m3.mtx: nnz= 830780, Out= 6/16 , density= 0.007237402878562481
+Augumented s3rmt3m3.mtx: nnz= 830780, Out= 7/16 , density= 0.007237402878562481
+Augumented s3rmt3m3.mtx: nnz= 830780, Out= 8/16 , density= 0.007237402878562481
+Augumented s3rmt3m3.mtx: nnz= 830780, Out= 9/16 , density= 0.007237402878562481
+Augumented s3rmt3m3.mtx: nnz= 830780, Out= 10/16 , density= 0.007237402878562481
+Augumented s3rmt3m3.mtx: nnz= 830780, Out= 11/16 , density= 0.007237402878562481
+Augumented s3rmt3m3.mtx: nnz= 830780, Out= 12/16 , density= 0.007237402878562481
+Augumented s3rmt3m3.mtx: nnz= 830780, Out= 13/16 , density= 0.007237402878562481
+Augumented s3rmt3m3.mtx: nnz= 830780, Out= 14/16 , density= 0.007237402878562481
+Augumented s3rmt3m3.mtx: nnz= 830780, Out= 15/16 , density= 0.007237402878562481
+Augumented s3rmt3m3.mtx: nnz= 830780, Out= 16/16 , density= 0.007237402878562481
+Executing: cp /local/panastas/Block_suite/s3rmt3m3.mtx /local/panastas/Augumented_block_suite/s3rmt3m3.mtx

@@ -1,0 +1,1012 @@
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 735323 Cols: 735323 Elements: 5158388 Mean: 7 Standard deviation: 4
+Average runtime: 0.00153468 seconds (in 100 iterations)
+Total FLOPs: 10316775
+GFLOPS: 6.72243
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 735323 Cols: 735323 Elements: 5158388 Mean: 7 Standard deviation: 4
+Average runtime: 0.000874041 seconds (in 100 iterations)
+Total FLOPs: 10316775
+GFLOPS: 11.8035
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 682862 Cols: 682862 Elements: 3871773 Mean: 6 Standard deviation: 660
+Average runtime: 0.0134066 seconds (in 100 iterations)
+Total FLOPs: 7743545
+GFLOPS: 0.577593
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 682862 Cols: 682862 Elements: 3871773 Mean: 6 Standard deviation: 660
+Average runtime: 0.0127909 seconds (in 100 iterations)
+Total FLOPs: 7743545
+GFLOPS: 0.605397
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 1270432 Cols: 1270432 Elements: 8814880 Mean: 7 Standard deviation: 0
+Average runtime: 0.00270861 seconds (in 100 iterations)
+Total FLOPs: 17629759
+GFLOPS: 6.50878
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 1270432 Cols: 1270432 Elements: 8814880 Mean: 7 Standard deviation: 0
+Average runtime: 0.00121706 seconds (in 100 iterations)
+Total FLOPs: 17629759
+GFLOPS: 14.4855
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 115625 Cols: 115625 Elements: 3897557 Mean: 34 Standard deviation: 28
+Average runtime: 0.000639878 seconds (in 100 iterations)
+Total FLOPs: 7795113
+GFLOPS: 12.1822
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 115625 Cols: 115625 Elements: 3897557 Mean: 34 Standard deviation: 28
+Average runtime: 0.000582539 seconds (in 100 iterations)
+Total FLOPs: 7795113
+GFLOPS: 13.3813
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 148770 Cols: 148770 Elements: 10644002 Mean: 72 Standard deviation: 19
+Average runtime: 0.00108681 seconds (in 100 iterations)
+Total FLOPs: 21288003
+GFLOPS: 19.5876
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 148770 Cols: 148770 Elements: 10644002 Mean: 72 Standard deviation: 19
+Average runtime: 0.00108704 seconds (in 100 iterations)
+Total FLOPs: 21288003
+GFLOPS: 19.5835
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 914898 Cols: 914898 Elements: 55468422 Mean: 61 Standard deviation: 20
+Average runtime: 0.00475735 seconds (in 100 iterations)
+Total FLOPs: 110936843
+GFLOPS: 23.319
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 914898 Cols: 914898 Elements: 55468422 Mean: 61 Standard deviation: 20
+Average runtime: 0.00457851 seconds (in 100 iterations)
+Total FLOPs: 110936843
+GFLOPS: 24.2299
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 445315 Cols: 445315 Elements: 7479343 Mean: 17 Standard deviation: 5
+Average runtime: 0.00128204 seconds (in 100 iterations)
+Total FLOPs: 14958685
+GFLOPS: 11.6679
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 445315 Cols: 445315 Elements: 7479343 Mean: 17 Standard deviation: 5
+Average runtime: 0.000840288 seconds (in 100 iterations)
+Total FLOPs: 14958685
+GFLOPS: 17.8019
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 68121 Cols: 68121 Elements: 5377761 Mean: 79 Standard deviation: 1061
+Average runtime: 0.000746719 seconds (in 100 iterations)
+Total FLOPs: 10755521
+GFLOPS: 14.4037
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 68121 Cols: 68121 Elements: 5377761 Mean: 79 Standard deviation: 1061
+Average runtime: 0.000747048 seconds (in 100 iterations)
+Total FLOPs: 10755521
+GFLOPS: 14.3974
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 5558326 Cols: 5558326 Elements: 59524291 Mean: 11 Standard deviation: 1357
+Average runtime: 0.0523126 seconds (in 100 iterations)
+Total FLOPs: 119048581
+GFLOPS: 2.27571
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 5558326 Cols: 5558326 Elements: 59524291 Mean: 11 Standard deviation: 1357
+Average runtime: 0.0468971 seconds (in 100 iterations)
+Total FLOPs: 119048581
+GFLOPS: 2.53851
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 268495 Cols: 268495 Elements: 2313294 Mean: 9 Standard deviation: 16
+Average runtime: 0.000791912 seconds (in 100 iterations)
+Total FLOPs: 4626587
+GFLOPS: 5.8423
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 268495 Cols: 268495 Elements: 2313294 Mean: 9 Standard deviation: 16
+Average runtime: 0.0007245 seconds (in 100 iterations)
+Total FLOPs: 4626587
+GFLOPS: 6.38591
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 83334 Cols: 83334 Elements: 6010480 Mean: 72 Standard deviation: 19
+Average runtime: 0.00062012 seconds (in 100 iterations)
+Total FLOPs: 12020959
+GFLOPS: 19.3849
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 83334 Cols: 83334 Elements: 6010480 Mean: 72 Standard deviation: 19
+Average runtime: 0.000620168 seconds (in 100 iterations)
+Total FLOPs: 12020959
+GFLOPS: 19.3834
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 63838 Cols: 63838 Elements: 14148858 Mean: 222 Standard deviation: 96
+Average runtime: 0.000984861 seconds (in 100 iterations)
+Total FLOPs: 28297715
+GFLOPS: 28.7327
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 63838 Cols: 63838 Elements: 14148858 Mean: 222 Standard deviation: 96
+Average runtime: 0.00098553 seconds (in 100 iterations)
+Total FLOPs: 28297715
+GFLOPS: 28.7132
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 524288 Cols: 524288 Elements: 3145646 Mean: 6 Standard deviation: 1
+Average runtime: 0.00105214 seconds (in 100 iterations)
+Total FLOPs: 6291291
+GFLOPS: 5.97953
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 524288 Cols: 524288 Elements: 3145646 Mean: 6 Standard deviation: 1
+Average runtime: 0.000466389 seconds (in 100 iterations)
+Total FLOPs: 6291291
+GFLOPS: 13.4894
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 862664 Cols: 862664 Elements: 19235140 Mean: 22 Standard deviation: 29
+Average runtime: 0.00242336 seconds (in 100 iterations)
+Total FLOPs: 38470279
+GFLOPS: 15.8748
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 862664 Cols: 862664 Elements: 19235140 Mean: 22 Standard deviation: 29
+Average runtime: 0.00190441 seconds (in 100 iterations)
+Total FLOPs: 38470279
+GFLOPS: 20.2006
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 343791 Cols: 343791 Elements: 26837113 Mean: 78 Standard deviation: 41
+Average runtime: 0.00281621 seconds (in 100 iterations)
+Total FLOPs: 53674225
+GFLOPS: 19.059
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 343791 Cols: 343791 Elements: 26837113 Mean: 78 Standard deviation: 41
+Average runtime: 0.00281577 seconds (in 100 iterations)
+Total FLOPs: 53674225
+GFLOPS: 19.062
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 147900 Cols: 147900 Elements: 3489300 Mean: 24 Standard deviation: 4
+Average runtime: 0.00046302 seconds (in 100 iterations)
+Total FLOPs: 6978599
+GFLOPS: 15.0719
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 147900 Cols: 147900 Elements: 3489300 Mean: 24 Standard deviation: 4
+Average runtime: 0.000353811 seconds (in 100 iterations)
+Total FLOPs: 6978599
+GFLOPS: 19.7241
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 820878 Cols: 820878 Elements: 9837214 Mean: 12 Standard deviation: 88
+Average runtime: 0.00269021 seconds (in 100 iterations)
+Total FLOPs: 19674427
+GFLOPS: 7.31334
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 820878 Cols: 820878 Elements: 9837214 Mean: 12 Standard deviation: 88
+Average runtime: 0.00202766 seconds (in 100 iterations)
+Total FLOPs: 19674427
+GFLOPS: 9.70303
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 3428755 Cols: 3428755 Elements: 18920347 Mean: 6 Standard deviation: 2
+Average runtime: 0.00681314 seconds (in 100 iterations)
+Total FLOPs: 37840693
+GFLOPS: 5.55408
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 3428755 Cols: 3428755 Elements: 18920347 Mean: 6 Standard deviation: 2
+Average runtime: 0.00306467 seconds (in 100 iterations)
+Total FLOPs: 37840693
+GFLOPS: 12.3474
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 2987012 Cols: 2987012 Elements: 26621990 Mean: 9 Standard deviation: 1807
+Average runtime: 0.0750099 seconds (in 100 iterations)
+Total FLOPs: 53243979
+GFLOPS: 0.709826
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 2987012 Cols: 2987012 Elements: 26621990 Mean: 9 Standard deviation: 1807
+Average runtime: 0.0780928 seconds (in 100 iterations)
+Total FLOPs: 53243979
+GFLOPS: 0.681804
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 1585478 Cols: 1585478 Elements: 7660826 Mean: 5 Standard deviation: 1
+Average runtime: 0.00306944 seconds (in 100 iterations)
+Total FLOPs: 15321651
+GFLOPS: 4.99168
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 1585478 Cols: 1585478 Elements: 7660826 Mean: 5 Standard deviation: 1
+Average runtime: 0.00123234 seconds (in 100 iterations)
+Total FLOPs: 15321651
+GFLOPS: 12.433
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 268096 Cols: 268096 Elements: 18488476 Mean: 69 Standard deviation: 105
+Average runtime: 0.00172483 seconds (in 100 iterations)
+Total FLOPs: 36976951
+GFLOPS: 21.438
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 268096 Cols: 268096 Elements: 18488476 Mean: 69 Standard deviation: 105
+Average runtime: 0.00172449 seconds (in 100 iterations)
+Total FLOPs: 36976951
+GFLOPS: 21.4423
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 1447360 Cols: 1447360 Elements: 5514242 Mean: 4 Standard deviation: 2
+Average runtime: 0.00282167 seconds (in 100 iterations)
+Total FLOPs: 11028483
+GFLOPS: 3.90849
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 1447360 Cols: 1447360 Elements: 5514242 Mean: 4 Standard deviation: 2
+Average runtime: 0.000806951 seconds (in 100 iterations)
+Total FLOPs: 11028483
+GFLOPS: 13.6669
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 22283 Cols: 22283 Elements: 24669643 Mean: 1107 Standard deviation: 1409
+Average runtime: 0.00185765 seconds (in 100 iterations)
+Total FLOPs: 49339285
+GFLOPS: 26.5601
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 22283 Cols: 22283 Elements: 24669643 Mean: 1107 Standard deviation: 1409
+Average runtime: 0.00185765 seconds (in 100 iterations)
+Total FLOPs: 49339285
+GFLOPS: 26.5601
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 503712 Cols: 503712 Elements: 36816342 Mean: 73 Standard deviation: 36
+Average runtime: 0.00368946 seconds (in 100 iterations)
+Total FLOPs: 73632683
+GFLOPS: 19.9576
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 503712 Cols: 503712 Elements: 36816342 Mean: 73 Standard deviation: 36
+Average runtime: 0.00368928 seconds (in 100 iterations)
+Total FLOPs: 73632683
+GFLOPS: 19.9585
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 309412 Cols: 309412 Elements: 2751484 Mean: 9 Standard deviation: 590
+Average runtime: 0.0104848 seconds (in 100 iterations)
+Total FLOPs: 5502967
+GFLOPS: 0.524852
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 309412 Cols: 309412 Elements: 2751484 Mean: 9 Standard deviation: 590
+Average runtime: 0.0101919 seconds (in 100 iterations)
+Total FLOPs: 5502967
+GFLOPS: 0.539937
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 2063494 Cols: 2063494 Elements: 14612663 Mean: 7 Standard deviation: 7
+Average runtime: 0.00472912 seconds (in 100 iterations)
+Total FLOPs: 29225325
+GFLOPS: 6.17986
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 2063494 Cols: 2063494 Elements: 14612663 Mean: 7 Standard deviation: 7
+Average runtime: 0.00227701 seconds (in 100 iterations)
+Total FLOPs: 29225325
+GFLOPS: 12.835
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 952203 Cols: 952203 Elements: 46522475 Mean: 49 Standard deviation: 12
+Average runtime: 0.00423836 seconds (in 100 iterations)
+Total FLOPs: 93044949
+GFLOPS: 21.9531
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 952203 Cols: 952203 Elements: 46522475 Mean: 49 Standard deviation: 12
+Average runtime: 0.00403676 seconds (in 100 iterations)
+Total FLOPs: 93044949
+GFLOPS: 23.0494
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 97578 Cols: 97578 Elements: 9753570 Mean: 100 Standard deviation: 29
+Average runtime: 0.00092084 seconds (in 100 iterations)
+Total FLOPs: 19507139
+GFLOPS: 21.1841
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 97578 Cols: 97578 Elements: 9753570 Mean: 100 Standard deviation: 29
+Average runtime: 0.000921021 seconds (in 100 iterations)
+Total FLOPs: 19507139
+GFLOPS: 21.1799
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 72000 Cols: 72000 Elements: 28715634 Mean: 399 Standard deviation: 77
+Average runtime: 0.00178488 seconds (in 100 iterations)
+Total FLOPs: 57431267
+GFLOPS: 32.1766
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 72000 Cols: 72000 Elements: 28715634 Mean: 399 Standard deviation: 77
+Average runtime: 0.00178527 seconds (in 100 iterations)
+Total FLOPs: 57431267
+GFLOPS: 32.1695
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 3542400 Cols: 3542400 Elements: 96845792 Mean: 27 Standard deviation: 3
+Average runtime: 0.0128903 seconds (in 100 iterations)
+Total FLOPs: 193691583
+GFLOPS: 15.0261
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 3542400 Cols: 3542400 Elements: 96845792 Mean: 27 Standard deviation: 3
+Average runtime: 0.00956666 seconds (in 100 iterations)
+Total FLOPs: 193691583
+GFLOPS: 20.2465
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 259789 Cols: 259789 Elements: 4242673 Mean: 16 Standard deviation: 3
+Average runtime: 0.000737119 seconds (in 100 iterations)
+Total FLOPs: 8485345
+GFLOPS: 11.5115
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 259789 Cols: 259789 Elements: 4242673 Mean: 16 Standard deviation: 3
+Average runtime: 0.000500769 seconds (in 100 iterations)
+Total FLOPs: 8485345
+GFLOPS: 16.9446
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 181343 Cols: 181343 Elements: 11063545 Mean: 61 Standard deviation: 21
+Average runtime: 0.00102202 seconds (in 100 iterations)
+Total FLOPs: 22127089
+GFLOPS: 21.6504
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 181343 Cols: 181343 Elements: 11063545 Mean: 61 Standard deviation: 21
+Average runtime: 0.000999648 seconds (in 100 iterations)
+Total FLOPs: 22127089
+GFLOPS: 22.1349
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 525825 Cols: 525825 Elements: 3674625 Mean: 7 Standard deviation: 0
+Average runtime: 0.00113122 seconds (in 100 iterations)
+Total FLOPs: 7349249
+GFLOPS: 6.49674
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 525825 Cols: 525825 Elements: 3674625 Mean: 7 Standard deviation: 0
+Average runtime: 0.00054217 seconds (in 100 iterations)
+Total FLOPs: 7349249
+GFLOPS: 13.5552
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 19242 Cols: 19242 Elements: 9323432 Mean: 485 Standard deviation: 380
+Average runtime: 0.000823899 seconds (in 100 iterations)
+Total FLOPs: 18646863
+GFLOPS: 22.6325
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 19242 Cols: 19242 Elements: 9323432 Mean: 485 Standard deviation: 380
+Average runtime: 0.00082386 seconds (in 100 iterations)
+Total FLOPs: 18646863
+GFLOPS: 22.6335
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 22209 Cols: 22209 Elements: 3226671 Mean: 145 Standard deviation: 62
+Average runtime: 0.000249629 seconds (in 100 iterations)
+Total FLOPs: 6453341
+GFLOPS: 25.8517
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 22209 Cols: 22209 Elements: 3226671 Mean: 145 Standard deviation: 62
+Average runtime: 0.00024991 seconds (in 100 iterations)
+Total FLOPs: 6453341
+GFLOPS: 25.8227
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 85623 Cols: 85623 Elements: 2374949 Mean: 28 Standard deviation: 15
+Average runtime: 0.000375049 seconds (in 100 iterations)
+Total FLOPs: 4749897
+GFLOPS: 12.6647
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 85623 Cols: 85623 Elements: 2374949 Mean: 28 Standard deviation: 15
+Average runtime: 0.00031228 seconds (in 100 iterations)
+Total FLOPs: 4749897
+GFLOPS: 15.2104
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 659033 Cols: 659033 Elements: 5959282 Mean: 9 Standard deviation: 22
+Average runtime: 0.0014899 seconds (in 100 iterations)
+Total FLOPs: 11918563
+GFLOPS: 7.99957
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 659033 Cols: 659033 Elements: 5959282 Mean: 9 Standard deviation: 22
+Average runtime: 0.000771809 seconds (in 100 iterations)
+Total FLOPs: 11918563
+GFLOPS: 15.4424
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 643994 Cols: 643994 Elements: 6175377 Mean: 10 Standard deviation: 785
+Average runtime: 0.0140829 seconds (in 100 iterations)
+Total FLOPs: 12350753
+GFLOPS: 0.877005
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 643994 Cols: 643994 Elements: 6175377 Mean: 10 Standard deviation: 785
+Average runtime: 0.0135382 seconds (in 100 iterations)
+Total FLOPs: 12350753
+GFLOPS: 0.912292
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 155331 Cols: 155331 Elements: 11283503 Mean: 73 Standard deviation: 294
+Average runtime: 0.00102073 seconds (in 100 iterations)
+Total FLOPs: 22567005
+GFLOPS: 22.1087
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 155331 Cols: 155331 Elements: 11283503 Mean: 73 Standard deviation: 294
+Average runtime: 0.00102011 seconds (in 100 iterations)
+Total FLOPs: 22567005
+GFLOPS: 22.1221
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 1228045 Cols: 1228045 Elements: 8580313 Mean: 7 Standard deviation: 1
+Average runtime: 0.00256056 seconds (in 100 iterations)
+Total FLOPs: 17160625
+GFLOPS: 6.70191
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 1228045 Cols: 1228045 Elements: 8580313 Mean: 7 Standard deviation: 1
+Average runtime: 0.00105483 seconds (in 100 iterations)
+Total FLOPs: 17160625
+GFLOPS: 16.2686
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 259156 Cols: 259156 Elements: 4429042 Mean: 17 Standard deviation: 4
+Average runtime: 0.000696428 seconds (in 100 iterations)
+Total FLOPs: 8858083
+GFLOPS: 12.7193
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 259156 Cols: 259156 Elements: 4429042 Mean: 17 Standard deviation: 4
+Average runtime: 0.00046323 seconds (in 100 iterations)
+Total FLOPs: 8858083
+GFLOPS: 19.1224
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 38120 Cols: 38120 Elements: 16171169 Mean: 424 Standard deviation: 484
+Average runtime: 0.0010284 seconds (in 100 iterations)
+Total FLOPs: 32342337
+GFLOPS: 31.4492
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 38120 Cols: 38120 Elements: 16171169 Mean: 424 Standard deviation: 484
+Average runtime: 0.00102831 seconds (in 100 iterations)
+Total FLOPs: 32342337
+GFLOPS: 31.4519
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 1000005 Cols: 1000005 Elements: 3105536 Mean: 3 Standard deviation: 25
+Average runtime: 0.00189433 seconds (in 100 iterations)
+Total FLOPs: 6211071
+GFLOPS: 3.27877
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 1000005 Cols: 1000005 Elements: 3105536 Mean: 3 Standard deviation: 25
+Average runtime: 0.000508179 seconds (in 100 iterations)
+Total FLOPs: 6211071
+GFLOPS: 12.2222
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 916428 Cols: 916428 Elements: 5105039 Mean: 6 Standard deviation: 7
+Average runtime: 0.00241314 seconds (in 100 iterations)
+Total FLOPs: 10210077
+GFLOPS: 4.23103
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 916428 Cols: 916428 Elements: 5105039 Mean: 6 Standard deviation: 7
+Average runtime: 0.00233521 seconds (in 100 iterations)
+Total FLOPs: 10210077
+GFLOPS: 4.37223
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 1634989 Cols: 1634989 Elements: 19753078 Mean: 12 Standard deviation: 31
+Average runtime: 0.00699175 seconds (in 100 iterations)
+Total FLOPs: 39506155
+GFLOPS: 5.6504
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 1634989 Cols: 1634989 Elements: 19753078 Mean: 12 Standard deviation: 31
+Average runtime: 0.00664131 seconds (in 100 iterations)
+Total FLOPs: 39506155
+GFLOPS: 5.94855
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 157464 Cols: 157464 Elements: 3866688 Mean: 25 Standard deviation: 4
+Average runtime: 0.000503279 seconds (in 100 iterations)
+Total FLOPs: 7733375
+GFLOPS: 15.366
+Require GPUs with compute capability >= 3.5
+GPU 0: Tesla K40m (capability 3.5)
+GPU 1: Tesla K40m (capability 3.5)
+loading sparse matrix
+Initialize each element of vector X to 1.0
+Initialize each element of vector Y to 0
+Use double-precision floating point
+Rows: 157464 Cols: 157464 Elements: 3866688 Mean: 25 Standard deviation: 4
+Average runtime: 0.00038876 seconds (in 100 iterations)
+Total FLOPs: 7733375
+GFLOPS: 19.8924

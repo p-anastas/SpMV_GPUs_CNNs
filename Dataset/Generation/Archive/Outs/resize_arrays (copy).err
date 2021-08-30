@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/home/users/panastas/Mine/python_pic/resizer.py", line 63, in <module>
+    io.mmwrite(dest+name, B, comment = 'A resized matrix from ' + in_file)
+  File "/usr/local/lib/python3.4/dist-packages/scipy/io/mmio.py", line 102, in mmwrite
+    MMFile().write(target, a, comment, field, precision, symmetry)
+  File "/usr/local/lib/python3.4/dist-packages/scipy/io/mmio.py", line 448, in write
+    self._write(stream, a, comment, field, precision, symmetry)
+  File "/usr/local/lib/python3.4/dist-packages/scipy/io/mmio.py", line 686, in _write
+    symmetry = self._get_symmetry(a)
+  File "/usr/local/lib/python3.4/dist-packages/scipy/io/mmio.py", line 344, in _get_symmetry
+    a = a.todok()
+  File "/usr/local/lib/python3.4/dist-packages/scipy/sparse/coo.py", line 388, in todok
+    dok._update(izip(izip(self.row,self.col),self.data))
+  File "/usr/local/lib/python3.4/dist-packages/scipy/sparse/dok.py", line 124, in _update
+    return dict.update(self, data)
+MemoryError

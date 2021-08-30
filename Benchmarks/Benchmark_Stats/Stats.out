@@ -1,0 +1,10 @@
+Files=46
+cuSPARSE-csr: First = 1 ( 2.17391304348% ) / Second = 4 ( 8.69565217391% )
+cuSP-csr_scalar: First = 0 ( 0.0% ) / Second = 0 ( 0.0% )
+cuSP-csr_vector: First = 0 ( 0.0% ) / Second = 0 ( 0.0% )
+cuSP-DIA: First = 1 ( 2.17391304348% ) / Second = 0 ( 0.0% )
+cuSP-Ell: First = 3 ( 6.52173913043% ) / Second = 5 ( 10.8695652174% )
+cuSP-Hyb: First = 0 ( 0.0% ) / Second = 8 ( 17.3913043478% )
+lightSpMV-vector: First = 4 ( 8.69565217391% ) / Second = 3 ( 6.52173913043% )
+lightSpMV-warp: First = 4 ( 8.69565217391% ) / Second = 23 ( 50.0% )
+bhSPARSE(CSR5): First = 33 ( 71.7391304348% ) / Second = 3 ( 6.52173913043% )
